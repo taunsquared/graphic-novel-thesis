@@ -21,3 +21,15 @@ During the summer youth program, all "youth cadets" conduct a science exploratio
 Youth cadets that excel during the summer program are invited to spend a 1-year apprenticeship with the ISS corps, during which they learn how to maintain the shuttles and present a project exploring the life cycle of resources used to build and maintain space shuttles. Minka and Asoca become apprentices and use outdated or recycled space shuttle cameras and monitors to build interactive exhibits that teach the public about the ISS corps mission and day-to-day activities ([**Surprising Minds**](http://www.danbeekim.org/open-lab-notebook/surprising-minds-brighton/)). 
 
 During that year, Asoca meets Urban Planner and by the end of Asoca's apprenticeship they co-write a short manifesto on the "Social Responsibilities of the Intellectually Privileged, with an especial focus on those who build infrastructure" ([**Philosophy and Ethics**](http://www.danbeekim.org/open-lab-notebook/scientific-philosophy-ethics/)). Also during that year, Minka meets Lead Engineer and they totally get off on the wrong foot. During the second half of the apprenticeship, all apprentices wishing to stay with the ISS corps instead of going to a university for baccalaureate certification are required to take courses on the ISS corps's Theories of Science and Engineering ([**Theoretical Puzzle Pieces**](http://www.danbeekim.org/brainplay/2018-02-02-theoretical-puzzle-pieces/)). Minka takes these courses and through the class discussions realizes that Lead Engineer shares some of her most fundamental values. 
+
+# PLOT SUMMARY
+
+## background
+Asoca and Minka met each other at a summer camp for creative learning. Asoca had been going to this summer camp since she was 8. Minka didn't start coming to this camp until she was 11, at a time when Asoca was 13. Min and Soca, as they were called, became fast friends during the 4 weeks of their first summer together. 
+
+This summer camp however was meant for children year 3 through year 12, so when Soca was 17 and Min was 15, it was Soca's last year at this summer camp. Min could technically come for another year (though she's 2 years younger, because she skipped a grade she's only one year behind Soca in school), she was really sad about coming back without Soca. 
+
+During the year after Soca's last summer camp, they learned about the ISS corps summer youth program. It is for 15-18 year olds, regardless of their school year, as long as they haven't started a baccalaureate program of study yet. Soca and Min both apply and are offered spots in the youth program. They decide to go during the last summer before Soca goes to university. 
+
+## plot vomit
+
