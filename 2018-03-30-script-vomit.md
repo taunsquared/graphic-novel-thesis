@@ -20,7 +20,7 @@ During the summer youth program, all "youth cadets" conduct a science exploratio
 
 Youth cadets that excel during the summer program are invited to spend a 1-year apprenticeship with the ISS corps, during which they learn how to maintain the shuttles and present a project exploring the life cycle of resources used to build and maintain space shuttles. Minka and Asoca become apprentices and use outdated or recycled space shuttle cameras and monitors to build interactive exhibits that teach the public about the ISS corps mission and day-to-day activities ([**Surprising Minds**](http://www.danbeekim.org/open-lab-notebook/surprising-minds-brighton/)). 
 
-During that year, Asoca meets Urban Planner and by the end of Asoca's apprenticeship they co-write a short manifesto on the "Social Responsibilities of the Intellectually Privileged, with an especial focus on those who build infrastructure" ([**Philosophy and Ethics**](http://www.danbeekim.org/open-lab-notebook/scientific-philosophy-ethics/)). Also during that year, Minka meets Lead Engineer and they totally get off on the wrong foot. During the second half of the apprenticeship, all apprentices wishing to stay with the ISS corps instead of going to a university for baccalaureate certification are required to take courses on the ISS corps's Theories of Science and Engineering ([**Theoretical Puzzle Pieces**](http://www.danbeekim.org/brainplay/2018-02-02-theoretical-puzzle-pieces/)). Minka takes these courses and through the class discussions realizes that Lead Engineer shares some of her most fundamental values. 
+During that year, Asoca meets Urban Planner and by the end of Asoca's apprenticeship they co-write a short manifesto on the "Social Responsibilities of the Intellectually Privileged, with an especial focus on those who build infrastructure" ([**Philosophy and Ethics**](http://www.danbeekim.org/open-lab-notebook/scientific-philosophy-ethics/)). Also during that year, Minka meets Lead Engineer and they both get very bad first impressions of each other. During the second half of the apprenticeship, all apprentices wishing to stay with the ISS corps instead of going to a university for baccalaureate certification are required to take courses on the ISS corps's Theories of Science and Engineering ([**Theoretical Puzzle Pieces**](http://www.danbeekim.org/brainplay/2018-02-02-theoretical-puzzle-pieces/)). Minka takes these courses and through the class discussions realizes that Lead Engineer shares some of her most fundamental values. 
 
 # PLOT SUMMARY
 
@@ -29,7 +29,7 @@ Asoca and Minka met each other at a summer camp for creative learning. Asoca had
 
 This summer camp however was meant for children year 3 through year 12, so when Soca was 17 and Min was 15, it was Soca's last year at this summer camp. Min could technically come for another year (though she's 2 years younger, because she skipped a grade she's only one year behind Soca in school), she was really sad about coming back without Soca. 
 
-During the year after Soca's last summer camp, they learned about the ISS corps summer youth program. It is for 15-18 year olds, regardless of their school year, as long as they haven't started a baccalaureate program of study yet. Soca and Min both apply and are offered spots in the youth program. They decide to go during the last summer before Soca goes to university. 
+During the year after Soca's last summer camp, they learned about the ISS corps summer youth program. It is for 15-18 year olds, regardless of their school year, as long as they haven't started a baccalaureate program of study (undergraduate degree) yet. Soca and Min both apply and are offered spots in the youth program. They decide to go during the last summer before Soca goes to university. 
 
 ## plot vomit
 When Min and Soca arrive, they are assigned sleeping quarters based on their ages (Min with the 15 year olds, Soca with the 17 year olds). They learn that during the day, they will spend their time in work teams, in classes, and working on science exploration projects. 
@@ -37,11 +37,21 @@ When Min and Soca arrive, they are assigned sleeping quarters based on their age
 ### work teams
 Everyone in the summer youth program is part of a rotation that eventually has them on a work team with every other teenager in the youth program. The work teams also rotate in such a way that everyone gets exposure to every role and responsibility at the shuttle maintenance station, and everyone gets the chance to go up to the ISS in a shuttle and experience the roles of maintenance and shuttle construction up on the station. 
 
+NEED TO PICK SOMEONE'S BRAINS ABOUT DAILY LIFE ON THE ISS, AS PART OF A NASA CREW, ETC. 
+
+Work teams: 
+- research and development
+- ground conrol
+- flight planning and logistics
+
 ### coursework
-Everyone is required to take the following courses: History of the ISS and the Space Shuttle program, Philosophy of Science, Philosophy of Engineering, Basic electronics and machine shop training. Then everyone must pick one more course from the following offerings: Exo-farming, Exo-architecture, Design and Construction of Space Shuttles. 
+Everyone is required to take the following courses: History of the ISS and the Space Shuttle program, Philosophy of Science and Engineering, Space Swimming, Basic electronics and machine shop training. Then everyone must pick one more course from the following offerings: Exo-farming, Exo-architecture, Design and Construction of Space Shuttles. Soca chooses Exo-architecture, Min chooses Design and Construction of Space Shuttles. 
 
 ### science exploration projects
-In either a group or as a solo project, everyone must work on and present a project that explores the life cycle of the resources necessary to run the ISS and the space shuttles. 
+In either a group or as a solo project, everyone must work on and present a project that explores an aspect of living and working in space. Or, everyone must do a project involving the [Spacelab](https://en.wikipedia.org/wiki/Spacelab). 
 
 ## more plot vomit
 Soca is very easily outgoing and friendly, so she makes new friends quickly and does well in the constantly shifting social structure at the ISS corps summer youth program. Min takes a little more time to warm up to people, so she slowly finds a couple of other friends but often shadows Soca. 
+
+### how do Soca and Min learn about cuttlefish?
+In the year before going to the ISS corps summer youth program, Soca did an internship at her local Science Museum, where she was a presenter for the Current Science & Technology department. She learned about cuttlefish via a story about the military studying cuttlefish in order to mimic their camouflage abilities for soldier's camou. Soca gets very excited about cuttlefish and marine animals, especially about their strategies for movement, communication, and interspecies interactions. 
