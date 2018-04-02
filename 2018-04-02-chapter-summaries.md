@@ -27,6 +27,13 @@ Soca and Min arrive at the summer youth program and during induction week learn 
   - Knows versus Unknowns quadrants
   - levels of integration in biology
   - What can we learn about brains by studying the movements of bodies?
-  - big push to nurture a new field: Field Neuroscience, which would verify our standards for humane experimental technique and the ethological validity of laboratory experiments
+- "Modern Neuroscience" at the ISS Corps: 
+  - Field Neuroscience, which verify our standards for humane experimental technique and the ethological validity of laboratory experiments
+  - Space Neuroscience, which seeks to understand how brains function off-planet and in long-term low gravity environments
+  - Educational Neuroscience, which applies neuroscience research to the development of new pedagogical techniques and didactic strategies
 
+## Chapter 2
+All youth cadets must participate in a science exploration project. One of the projects available was called the "Cuttle Shuttle". Soca had learned about cuttlefish during an internship that past year, and had shared her excitement over them with Min. They both decide to join the Cuttle Shuttle project. This chapter incorporates all of the details of the data collection and analysis pipeline for the Cuttle Shuttle video dataset, and discusses possible interpretations for the Tentacle Shot Pattern (this is where Movement Control Across Different Timescales comes in). 
 
+## Chapter 3
+Soca and Min are invited to stay for a 1-year internship. Soca decides to defer starting university for one year in order to do the internship with Min. 
