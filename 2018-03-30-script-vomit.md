@@ -32,7 +32,7 @@ This summer camp however was meant for children year 3 through year 12, so when 
 During the year after Soca's last summer camp, they learned about the ISS corps summer youth program. It is for 15-18 year olds, regardless of their school year, as long as they haven't started a baccalaureate program of study (undergraduate degree) yet. Soca and Min both apply and are offered spots in the youth program. They decide to go during the last summer before Soca goes to university. 
 
 ## plot vomit
-When Min and Soca arrive, they are assigned sleeping quarters based on their ages (Min with the 15 year olds, Soca with the 17 year olds). They learn that during the day, they will spend their time in work teams, in classes, and working on science exploration projects. 
+When Min and Soca arrive, they are assigned sleeping quarters based on their ages (Min with the 15 year olds, Soca with the 17 year olds). They learn that during the day, they will spend their time in work teams and on science exploration teams. 
 
 ### work teams
 Everyone in the summer youth program is part of a rotation that eventually has them on a work team with every other teenager in the youth program. The work teams also rotate in such a way that everyone gets exposure to every role and responsibility at the shuttle maintenance station, and everyone gets the chance to go up to the ISS in a shuttle and experience the roles of maintenance and shuttle construction up on the station. 
@@ -44,14 +44,15 @@ Work teams:
 - ground conrol
 - flight planning and logistics
 
-### coursework
-Everyone is required to take the following courses: History of the ISS and the Space Shuttle program, Philosophy of Science and Engineering, Space Swimming, Basic electronics and machine shop training. Then everyone must pick one more course from the following offerings: Exo-farming, Exo-architecture, Design and Construction of Space Shuttles. Soca chooses Exo-architecture, Min chooses Design and Construction of Space Shuttles. 
-
-### science exploration projects
-In either a group or as a solo project, everyone must work on and present a project that explores an aspect of living and working in space. Or, everyone must do a project involving the [Spacelab](https://en.wikipedia.org/wiki/Spacelab). 
+### science exploration teams
+With at least one other person, everyone must work on and present a project that explores an aspect of living and working in space. Or, everyone must do a project involving the [Spacelab](https://en.wikipedia.org/wiki/Spacelab). 
 
 ## more plot vomit
 Soca is very easily outgoing and friendly, so she makes new friends quickly and does well in the constantly shifting social structure at the ISS corps summer youth program. Min takes a little more time to warm up to people, so she slowly finds a couple of other friends but often shadows Soca. 
 
 ### how do Soca and Min learn about cuttlefish?
 In the year before going to the ISS corps summer youth program, Soca did an internship at her local Science Museum, where she was a presenter for the Current Science & Technology department. She learned about cuttlefish via a story about the military studying cuttlefish in order to mimic their camouflage abilities for soldier's camou. Soca gets very excited about cuttlefish and marine animals, especially about their strategies for movement, communication, and interspecies interactions. 
+
+## during year long internship
+### coursework
+Everyone is required to take the following courses: History of the ISS and the Space Shuttle program, Philosophy of Science and Engineering, Space Swimming, Basic electronics and machine shop training. Then everyone must pick one more course from the following offerings: Exo-farming, Exo-architecture, Design and Construction of Space Shuttles. Soca chooses Exo-architecture, Min chooses Design and Construction of Space Shuttles. 
