@@ -10,7 +10,7 @@ During that year, Asoca meets Urban Planner and by the end of Asoca's apprentice
 # Chapters
 
 ## Chapter 1
-Soca and Min arrive at the summer youth program and during induction week learn the history and mission of the ISS Corps. This sequence incorporates the theoretical background for my thesis: validation of experimental paradigms across species and environments. Historical points to cover: 
+Soca and Min arrive at the summer youth program and during induction week learn the history and mission of the ISS Corps. This sequence incorporates the theoretical background for my thesis: validation of experimental paradigms across species and environments. "Historical" points to cover: 
 - Early Neuroscience (1960s-2020s)
   - dominant theoretical framework: open causal loop (environmental input -> transform function inside the brain -> motor output)
   - much early excitement and energy with many innovations, progress started to slow towards the end of this era
@@ -28,7 +28,7 @@ Soca and Min arrive at the summer youth program and during induction week learn 
   - levels of integration in biology
   - What can we learn about brains by studying the movements of bodies?
 - "Modern Neuroscience" at the ISS Corps: 
-  - Field Neuroscience, which verify our standards for humane experimental technique and the ethological validity of laboratory experiments
+  - Field Neuroscience, which verify our standards for humane experimental technique, the ethological validity of laboratory experiments, and the generalizability of neural phenomena
   - Space Neuroscience, which seeks to understand how brains function off-planet and in long-term low gravity environments
   - Educational Neuroscience, which applies neuroscience research to the development of new pedagogical techniques and didactic strategies
 
@@ -36,4 +36,10 @@ Soca and Min arrive at the summer youth program and during induction week learn 
 All youth cadets must participate in a science exploration project. One of the projects available was called the "Cuttle Shuttle". Soca had learned about cuttlefish during an internship that past year, and had shared her excitement over them with Min. They both decide to join the Cuttle Shuttle project. This chapter incorporates all of the details of the data collection and analysis pipeline for the Cuttle Shuttle video dataset, and discusses possible interpretations for the Tentacle Shot Pattern (this is where Movement Control Across Different Timescales comes in). 
 
 ## Chapter 3
-Soca and Min are invited to stay for a 1-year internship. Soca decides to defer starting university for one year in order to do the internship with Min. 
+Soca and Min are invited to stay for a 1-year internship. Soca decides to defer starting university for one year in order to do the internship with Min. During the first six months of the internship they are taught an overview of resource life-cycles in an ISS Corps maintenance station, in addition to the following topics: History of the ISS and the Space Shuttle program, Philosophy of Science and Engineering, Space Swimming, and Basic electronics and machine shop training. Everyone must also pick one more course from the following offerings: Exo-farming, Exo-architecture, Design and Construction of Space Shuttles. Soca chooses Exo-architecture, Min chooses Design and Construction of Space Shuttles. Soca meets Urban Planner, who is on the teaching staff for Exo-architecture while coordinating renovations for the ISS. Min meets Lead Engineer, who is on the teaching staff for Design and Construction of Space Shuttles. Min has some provocative views about government funded research that put her at odds with Lead Engineer. 
+
+## Chapter 4
+During the second half of the year long internship, Soca and Min decide to use outdated or recycled space shuttle cameras and monitors to build interactive exhibits that teach the public about the ISS corps mission and day-to-day activities. They install their first exhibit at the science museum in Soca's hometown, where she first learned about cuttlefish. Min also decides that she doesn't want to go to university and instead wants to join the ISS Corps. She is told that she needs to take Theories of Science and Engineering during the second half of her internship if she wishes to go into the ISS Corps without going to university. Min also needs to present a proposal for autodidatic study by the end of her internship, as her "application" for the ISS Corps. 
+
+## Chapter 5
+It's the end of the internship, and Min gives her presentation. Soca writes a manifesto on the "Social Responsibilities of the Intellectually Privileged, with an especial focus on those who build infrastructure" with Urban Planner, and heads off to university. 
