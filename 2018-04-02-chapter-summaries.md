@@ -6,3 +6,27 @@ During the summer youth program, all "youth cadets" conduct a science exploratio
 Youth cadets that excel during the summer program are invited to spend a 1-year apprenticeship with the ISS corps, during which they learn how to maintain the shuttles and present a project exploring the life cycle of resources used to build and maintain space shuttles. Minka and Asoca become apprentices and use outdated or recycled space shuttle cameras and monitors to build interactive exhibits that teach the public about the ISS corps mission and day-to-day activities ([**Surprising Minds**](http://www.danbeekim.org/open-lab-notebook/surprising-minds-brighton/)). 
 
 During that year, Asoca meets Urban Planner and by the end of Asoca's apprenticeship they co-write a short manifesto on the "Social Responsibilities of the Intellectually Privileged, with an especial focus on those who build infrastructure" ([**Philosophy and Ethics**](http://www.danbeekim.org/open-lab-notebook/scientific-philosophy-ethics/)). Also during that year, Minka meets Lead Engineer and they both get very bad first impressions of each other. During the second half of the apprenticeship, all apprentices wishing to stay with the ISS corps instead of going to a university for baccalaureate certification are required to take courses on the ISS corps's Theories of Science and Engineering ([**Theoretical Puzzle Pieces**](http://www.danbeekim.org/brainplay/2018-02-02-theoretical-puzzle-pieces/)). Minka takes these courses and through the class discussions realizes that Lead Engineer shares some of her most fundamental values. 
+
+# Chapters
+
+## Chapter 1
+Soca and Min arrive at the summer youth program and during induction week learn the history and mission of the ISS Corps. This sequence incorporates the theoretical background for my thesis: validation of experimental paradigms across species and environments. Historical points to cover: 
+- Early Neuroscience (1960s-2020s)
+-- dominant theoretical framework: open causal loop (environmental input -> transform function inside the brain -> motor output)
+-- much early excitement and energy with many innovations, progress started to slow towards the end of this era
+-- challenged by lack of diversity in model organisms and low complexity of worlds tested in laboratories
+-- developed modular building blocks for complex laboratory worlds
+-- developed reactive programming structures and more human-friendly visual languages to coordinate and integrate those modular building blocks
+-- increasing popularity of cephalopods for scientific inquiry and their case for convergent evolution of intelligent behaviour
+- A slow but steady coup: perceptual control theory 
+-- as internet and mobile technologies make clear how effectively technology can manipulate minds, perceptual control theory is resurrected multiple times after it's origin with Norbert Wiener and Cybernetics. 
+-- William T Powers, "Behavior: the Control of Perception"
+-- Richard S. Marken, ["You Say You Had a Revolution: Methodological Foundations of Closed-Loop Psychology"](https://www.researchgate.net/publication/232499797_You_Say_You_Had_a_Revolution_Methodological_Foundations_of_Closed-Loop_Psychology): TEST FOR CONTROLLED VARIABLES and Field Neuroscience methodology
+-- Ehud Ahissar, Eldad Assa, ["Perception as a closed-loop convergence process"](https://elifesciences.org/articles/12830)
+- A shift in focus: General Principles of Nervous Systems
+-- Knows versus Unknowns quadrants
+-- levels of integration in biology
+-- What can we learn about brains by studying the movements of bodies?
+-- big push to nurture a new field: Field Neuroscience, which would verify our standards for humane experimental technique and the ethological validity of laboratory experiments
+
+
