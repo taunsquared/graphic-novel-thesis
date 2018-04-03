@@ -1,0 +1,6 @@
+- Zalo, 18: computer geek who loves video games and food
+- Rhee, 16: surgeon's daughter, extremely meticulous and germaphobic
+- Jayne, 17: loves to learn languages (real, other animal species, fantasy, alien) and lives with a "seeing-eye" fox companion 
+- Anja, 16: party girl from a small beach town, grows bio-compatible silicon circuits
+- Marq, 18: 
+- Orge, 18: 
