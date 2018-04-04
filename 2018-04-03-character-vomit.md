@@ -5,7 +5,7 @@
 - Rhee, 16: surgeon's daughter, extremely meticulous and hygienic. Excellent at implementing fine-tuned details or tasks requiring very fine motor control. 
 - 
 
-## SMART SWIMMERS
+## CIRQUE DU COSMIQUE
 - Adi, 18: super charismatic and energetic, "jack of all trades". Enjoys gambling and often wins. 
 - Zalo, 18: computer geek who loves video games and food. Very good at building custom software architectures for interactive art. 
 - Giam, 18: a bit stand-off-ish and not super talkative, but very reliable and loyal once he's decided that he likes you. very focused and serious about his martial arts training, but loves beer and becomes very relaxed when drinking. 
