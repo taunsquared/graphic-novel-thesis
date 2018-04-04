@@ -1,7 +1,7 @@
 Chapters will be organized thus: 
 
 ## How to fit my research projects into the plot
-During the summer youth program, all "youth cadets" conduct a science exploration. Minka and Asoca choose to study cuttlefish hunting behaviour ([**Cuttle Shuttle**](http://www.danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/)) in order to develop new space swimming techniques based on flexible scaling of the timing of movements ([**Movement control**](http://www.danbeekim.org/open-lab-notebook/movement-control-across-timescales/)), especially for rapid stabilization in zero-G environments. 
+During the summer youth program (2 month program), all "youth cadets" conduct a science exploration. Minka and Asoca choose to study cuttlefish hunting behaviour ([**Cuttle Shuttle**](http://www.danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/)) in order to develop new space swimming techniques based on flexible scaling of the timing of movements ([**Movement control**](http://www.danbeekim.org/open-lab-notebook/movement-control-across-timescales/)), especially for rapid stabilization in zero-G environments. 
 
 Youth cadets that excel during the summer program are invited to spend a 1-year apprenticeship with the ISS corps, during which they learn how to maintain the shuttles and present a project exploring the life cycle of resources used to build and maintain space shuttles. Minka and Asoca become apprentices and use outdated or recycled space shuttle cameras and monitors to build interactive exhibits that teach the public about the ISS corps mission and day-to-day activities ([**Surprising Minds**](http://www.danbeekim.org/open-lab-notebook/surprising-minds-brighton/)). 
 
@@ -17,9 +17,14 @@ This summer camp however was meant for children year 3 through year 12, so when 
 This is Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY, she is now 18. Minka, now 16, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to their first year in the ISS Corps Youth Program: Rhee, Marq, and others. 
 
 ## Chapter 2: Week 1: At Home Within History, Finding a Home amongst the History, Home is where the History is
-The bus arrives at the ISS MAINTENANCE STATION and the teens learn their on-site roles as summer youth cadets: participating in work crews to help the ISS MAINTENANCE STATION staff with their duties, and working with their home crews to complete a science exploration project. 
+The bus arrives at the ISS MAINTENANCE STATION and the teens learn their on-site roles as summer youth cadets: participating in work crews to help the ISS MAINTENANCE STATION staff with their duties, working with a science crew to complete a science exploration project, and living with a home crew.  
 
 The youth cadets spend the first week (induction week) choosing their home crew (basically, a residential team that shares kitchen and toilet duties and whose sleeping quarters are interconnected and cooperatively built) via a REX-like process (REX == Residential EXploration, MIT process for students to check out dorms and choose where to live via a lottery). Each home crew displays their engineering and team working prowess by spending this first week hosting fun activities, meals (which are shared together with all home crews together; each home crew takes 2 meals over the course of the week to show off their collective food making prowess), and renovating their home structures to accommodate new youth cadets, based on the number of youth cadets in the crew graduated the previous year from the youth program. New youth cadets are given temporary sleeping structures for the first week, and are expected to wander from home crew to home crew, getting to know them, checking out their aesthetics and personalities, working with them, hanging out with them. New cadets usually find a home crew within the first few days and end up finishing the building of their own sleeping structures. 
+
+The home crews at the ISS MAINTENANCE STATION: 
+- CIRQUE DU COSMIQUE: They are generally preoccupied with circus, bodily morphologies/anatomies/physiologies, and how thought and movement are connected. They like to build aquariums, terrariums, and playgrounds for humans of all sizes. Their home structures are kinetic and encourage active living.
+- CYBERPHILIA: generally preoccupied with technologically-mediated communication, control, and governance. Lovers of robotics, AI, and automated processes. They like to build wired and wireless networks, tinker heavily with electronics, and play lots of video games (historical console/PC games, VR/AR games, simulator room games). 
+- 
 
 To help the cadets plan their science exploration projects, during the first 2 weeks of the summer program everyone gets a refresher course on history and mission of the ISS Corps (it's meant to be taught by different lecturers each year, to give different perspectives on the history and highlight different details based on the lecturer's focus/interests). The mission of the ISS Corps is to ensure mutually benefitial exchange of knowledge and resources between Earth and Space. This mission includes providing a "unique learning experience to the youth of our planetary community", in order to keep the knowledge and wisdom of this endeavor alive for future generations. 
 
@@ -32,8 +37,8 @@ This sequence of in-story lectures incorporates the theoretical background for m
   - developed reactive programming structures and more human-friendly visual languages to coordinate and integrate those modular building blocks
   - increasing popularity of cephalopods for scientific inquiry (due to general growing interest in oceans and their relevance as an environment for understanding space as an environment) and their case for convergent evolution of intelligent behaviour (also relevant to how we think about alient intelligence). 
   
-## Chapter 3: Week 2: NEED TITLE
-Asoca and Minka end up joining the same home crew, SMART SWIMMERS. They are generally preoccupied with Marine Biology, Exo-Biology, and "intelligent movement". They like to build aquariums, terrariums, and playgrounds for humans of all sizes. 
+## Chapter 3: Week 2: CIRQUE DU COSMIQUE
+Asoca and Minka end up joining the same home crew, CIRQUE DU COSMIQUE.  
 
 A continuation of the "History of the ISS Corps": 
 - A alternative theory slowly but surely pushes it's way to dominance: perceptual control theory 
@@ -50,12 +55,12 @@ A continuation of the "History of the ISS Corps":
   - Space Neuroscience, which seeks to understand how brains function off-planet and in long-term low gravity environments
   - Educational Neuroscience, which applies neuroscience research to the development of new pedagogical techniques and didactic strategies
 
-## Chapter 4: The Cuttle Shuttle
+## Chapter 4: Weeks 3, 4, and 5: The Cuttle Shuttle. 
 Many members of Soca and Min's home crew share an appreciation (some might say obsession) with cephalopods. They had done an intensive observation study of freely-swimming cuttlefish in an environment where they can hunt "robotic prey" (Cuttle Shuttle) the previous year, and they now want to analyze the video and figure out how to apply the movement stabilization that cuttlefish achieve during tentacle shots to human space swimming techniques. Soca had learned about cuttlefish during an internship that past year, and had shared her excitement over them with Min. They both decide to join the Cuttle Shuttle project. 
 
 The first challenge that must be solved is to define the tentacle shot pattern in a way that a computer can understand. The next challenge is to teach a computer to reliably track an animal that is evolved to actively camouflage against predators that rely on visual tracking. Once the automated tracking allows the crew to have standardized video clips of every tentacle shot recorded in the video dataset, the next challenge is to decide how to visualize, find, and interpret patterns found within these video clips. The final challenge would be to then translate the movement patterns from cuttlefish in water to human bodies in outer space. 
 
-## Chapter 5: Goodbye...or not!
+## Chapter 5: Week 6: Goodbye...or not! Last week of the last summer. 
 Soca and Min's home crew invite Soca, Min, Rhee, and ANOTHER CADET to stay for a 1-year internship. Soca decides to defer starting university for one year in order to do the internship with Min. During the first six months of the internship they are taught an overview of resource life-cycles in an ISS Corps maintenance station, in addition to the following topics: History of the ISS and the Space Shuttle program, Philosophy of Science and Engineering, Space Swimming, and Basic electronics and machine shop training. Everyone must also pick one more course from the following offerings: Exo-farming, Exo-architecture, Design and Construction of Space Shuttles. Soca chooses Exo-architecture, Min chooses Design and Construction of Space Shuttles. Soca meets Urban Planner, who is on the teaching staff for Exo-architecture while coordinating renovations for the ISS. Min meets Lead Engineer, who is on the teaching staff for Design and Construction of Space Shuttles. Min has some provocative views about government funded research (greatly inspired by her father) that put her at odds with Lead Engineer. 
 
 ## Chapter 6: Surprising Minds
