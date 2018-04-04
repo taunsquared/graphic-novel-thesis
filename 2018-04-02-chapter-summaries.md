@@ -14,7 +14,7 @@ Minka and Asoca meet at the transport hub nearest to the ISS MAINTENANCE STATION
 
 This summer camp however was meant for children year 3 through year 12, so when Soca was 17 and Min was 15, it was Soca's last year at this summer camp. Min could technically come for another year (though she's 2 years younger, because she skipped a grade she's only one year behind Soca in school), she was really sad about coming back without Soca. During the year after Soca's last summer camp, they learned about the ISS corps summer youth program. It is for 16-18 year olds, regardless of their school year, as long as they haven't started a baccalaureate program of study (undergraduate degree) yet. Soca and Min both apply and are offered spots in the youth program. 
 
-This is Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY, she is now 18. Minka, now 16, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to the ISS Corps Youth Program.
+This is Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY, she is now 18. Minka, now 16, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to their first year in the ISS Corps Youth Program: Rhee, Marq, and others. 
 
 ## Chapter 2: Week 1: At Home Within History, Finding a Home amongst the History, Home is where the History is
 The bus arrives at the ISS MAINTENANCE STATION and the teens learn their on-site roles as summer youth cadets: participating in work crews to help the ISS MAINTENANCE STATION staff with their duties, and working with their home crews to complete a science exploration project. 
@@ -33,7 +33,7 @@ This sequence of in-story lectures incorporates the theoretical background for m
   - increasing popularity of cephalopods for scientific inquiry (due to general growing interest in oceans and their relevance as an environment for understanding space as an environment) and their case for convergent evolution of intelligent behaviour (also relevant to how we think about alient intelligence). 
   
 ## Chapter 3: Week 2: NEED TITLE
-Asoca and Minka end up joining the same home crew, AWESOME HOME CREW NAME. They are generally preoccupied with Marine Biology and Exo-Biology. They like to build aquariums, terrariums, and playgrounds for humans of all sizes. 
+Asoca and Minka end up joining the same home crew, SMART SWIMMERS. They are generally preoccupied with Marine Biology, Exo-Biology, and "intelligent movement". They like to build aquariums, terrariums, and playgrounds for humans of all sizes. 
 
 A continuation of the "History of the ISS Corps": 
 - A alternative theory slowly but surely pushes it's way to dominance: perceptual control theory 
