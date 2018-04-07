@@ -2,6 +2,8 @@
 VIRS "ships" are as much mental as physical. VIRS's can be part of many crews simultaneously. Balancing these many social contexts and roles is considered part of the art of a VIRS. 
 
 # BIG ARC
+
+## from the concept summary
 The story needs to be about the architect and the engineer and about when they meet at the ISS corps. From the concept summary, need to flesh out these paragraphs: 
 
 "The First VIRS (Minka) was the Architect’s (Asoca's) best friend. They grew up together, and as teenagers they participated in a summer program for youth with the ISS corps, a government-run volunteer organization that provides support to the International Space Station and any shuttles traveling to and from the station. While working on the maintenance teams for the shuttles, the two friends learned a great deal about the cutting edge of space exploration technology, and saw that humanity was poised on the brink of great societal changes due to the imminent development of faster-than-light transportation and communication. The two friends realized that political power structures and the distribution of wealth would undergo incredible upheaval, and that within their lifetimes humanity would either cooperate to spread to the stars or squander our chance through greed, mismanagement, and short-sightedness.
@@ -14,13 +16,21 @@ The other friend felt that if humans were to become a space-faring species, spac
 - Asoca and Minka knew each other from before the ISS corps summer youth program? How, if they grew up in such different environments? Maybe something like AICL, a summer camp that they went to together for years before deciding to go to ISS corps summer program instead, together. 
 - Asoca: Good with grand ideas and inspiring large groups of people, though very self-deprecating and more introverted than she presents. Very generous with friends and colleagues and often cheerful, but goes through bouts of cynicism when too many take advantage of her generosity and good nature. Enjoys the quiet and wild beauty of rural living but is drawn to cities and the sensation of being part of a super-organism. Mother is an herbalist who studies plants useful for space travel (exo-hydroponics). Father is a farmer specializing in permaculture. Grew up in a small rural community.
 - Minka: Meticulous worker who prefers working alone because not enough people meet her standards for competence, but loves to coordinate ambitious projects with a small group of trusted collaborators. Picky about everything: food, her friends, and how she spends her time. Pessimistic about human systems but convinced that the destructive tendencies in human nature are the result of generations of indoctrination by a corporate oligarchy. Believes in the ideal role of education to free humans from oppressive systems and to empower humans to live in a society of true equals. Mother is a mathematician who worked on the ansible but retired to teach high school. Father is an artist activist who has been protesting the application of the ansible for secret government surveillance and military oppression. Grew up in the affluent part of a large urban area.
+- bees are super important for space farms. how will space crops be pollinated?
+- ISS Maintenance stations should be scattered across rural America. Is this feasible?
 
 ## How to fit my research projects into the plot
-During the summer youth program, all "youth cadets" conduct a science exploration. Minka and Asoca choose to study cuttlefish hunting behaviour ([**Cuttle Shuttle**](http://www.danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/)) in order to develop new space swimming techniques based on flexible scaling of the timing of movements ([**Movement control**](http://www.danbeekim.org/open-lab-notebook/movement-control-across-timescales/)), especially for rapid stabilization in zero-G environments. 
+During the summer youth program, all "youth cadets" conduct a science exploration. Minka and Asoca choose to study cuttlefish hunting behaviour ([**Cuttle Shuttle**](http://www.danbeekim.org/open-lab-notebook/cuttlefish-hunting-behavior/)) in order to develop new space swimming techniques based on flexible scaling of the timing of movements ([**Movement control**](http://www.danbeekim.org/open-lab-notebook/movement-control-across-timescales/) and [**HIVE tracker**](https://hivetracker.github.io)), especially for rapid stabilization in zero-G environments. 
 
 Youth cadets that excel during the summer program are invited to spend a 1-year apprenticeship with the ISS corps, during which they learn how to maintain the shuttles and present a project exploring the life cycle of resources used to build and maintain space shuttles. Minka and Asoca become apprentices and use outdated or recycled space shuttle cameras and monitors to build interactive exhibits that teach the public about the ISS corps mission and day-to-day activities ([**Surprising Minds**](http://www.danbeekim.org/open-lab-notebook/surprising-minds-brighton/)). 
 
 During that year, Asoca meets Urban Planner and by the end of Asoca's apprenticeship they co-write a short manifesto on the "Social Responsibilities of the Intellectually Privileged, with an especial focus on those who build infrastructure" ([**Philosophy and Ethics**](http://www.danbeekim.org/open-lab-notebook/scientific-philosophy-ethics/)). Also during that year, Minka meets Lead Engineer and they both get very bad first impressions of each other. During the second half of the apprenticeship, all apprentices wishing to stay with the ISS corps instead of going to a university for baccalaureate certification are required to take courses on the ISS corps's Theories of Science and Engineering ([**Theoretical Puzzle Pieces**](http://www.danbeekim.org/brainplay/2018-02-02-theoretical-puzzle-pieces/)). Minka takes these courses and through the class discussions realizes that Lead Engineer shares some of her most fundamental values. 
+
+## integrating my research with the VIRS setting
+
+### open causal reactions versus closed loop perceptual control
+
+One of my main focuses in the thesis is about comparing open causal to closed control. What if we imagined a world where open causal "won", and everything is super extremized for the philosophy of humans as open loop causal reactionary machines?
 
 # PLOT SUMMARY
 
