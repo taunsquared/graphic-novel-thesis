@@ -32,6 +32,9 @@ During that year, Asoca meets Urban Planner and by the end of Asoca's apprentice
 
 One of my main focuses in the thesis is about comparing open causal to closed control. What if we imagined a world where open causal "won", and everything is super extremized for the philosophy of humans as open loop causal reactionary machines?
 
+### important historical markers to integrate
+ - "golden spike" to mark the beginning of the Antropocene era (geological): http://www.bbc.co.uk/news/science-environment-43113900
+
 # PLOT SUMMARY
 
 ## background
