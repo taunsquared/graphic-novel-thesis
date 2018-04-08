@@ -3,12 +3,10 @@ please see the [character vomit page](https://github.com/taunsquared/graphic-nov
 
 # Chapters
 
-## Chapter 1: The Last Summer Together, Our Last Summer
-Minka and Asoca meet at the transport hub nearest to the ISS MAINTENANCE STATION, where they will be spending the summer as part of the ISS Corps Youth Program. They are old friends, having spent the last 6 summers together, though they live very far from each other. Asoca and Minka met each other at a summer camp for creative learning. Asoca had been going to this summer camp since she was 8. Minka didn't start coming to this camp until she was 11, at a time when Asoca was 12. Min and Soca, as they were called, became fast friends during the 4 weeks of their first summer together.
+## Chapter 1: Space Cadets
+Minka and Asoca meet at the transport hub nearest to the ISS MAINTENANCE STATION, where they will be spending the summer as part of the ISS Corps Youth Program. This is Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY, she is now 18. Minka, now 17, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to their first year in the ISS Corps Youth Program: Rhee, Marq, and others. 
 
-This summer camp however was meant for children year 3 through year 12, so when Soca was 17 and Min was 16, it was Soca's last year at this summer camp. Min could technically come for another year, she was really sad about coming back without Soca. During the year after Soca's last summer camp, they learned about the ISS corps summer youth program. It is for 16-18 year olds, regardless of their school year, as long as they haven't started a baccalaureate program of study (undergraduate degree) yet. Soca and Min both apply and are offered spots in the youth program. 
-
-This is Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY, she is now 18. Minka, now 17, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to their first year in the ISS Corps Youth Program: Rhee, Marq, and others. 
+This chapter also establishes the world they live in: the political, sociological, geographical, and technological climate. 
 
 ## Chapter 2: Week 1: At Home Within History, Home is where the History is, Home Crews and Histories
 The bus arrives at the ISS MAINTENANCE STATION and the teens learn their on-site roles as summer youth cadets: participating in work crews to help the ISS MAINTENANCE STATION staff with their duties, working with a science crew to complete a science exploration project, and living with a home crew.  
