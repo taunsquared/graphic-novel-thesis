@@ -34,6 +34,72 @@ One of my main focuses in the thesis is about comparing open causal to closed co
 
 ### important historical markers to integrate
  - "golden spike" to mark the beginning of the Antropocene era (geological): http://www.bbc.co.uk/news/science-environment-43113900
+ 
+ 
+### notes from skype with Nuno
+in the 60s there was tons of hype and excitement about space exploration, but people got tired of the hype and funding started to run dry. putting humans into space costs about 50 times more than doing the same thing with satellites. people stopped being excited about going to the moon after 2 or 3 times. 
+
+during cold war, there was clear incentive for politicians to invest in space exploration. about 2% of national gdp was invested into space exploration. so first there's a war, arguably good because there was no casualties (little? not talked about?) and there was a huge jump in the technology. 
+
+JFK's speech about going to the moon. 
+
+once it became clear the russians won't be getting to the moon politicians lost their incentive, people got less impressed with going to the moon, so funding ran dry. after that, specific missions would sometimes get people excited and funding would come back up, but then enthusiasm would die again. the Space Shuttle program was one of these missions that got people really excited, but then it turned out that the space shuttle program was way more expensive than anticipated. also now there's a crazy amount of bureaucracy that you have to go through. for instance, if you're developing a new technology for rockets, whatever you build won't be launched for at least 10 years. also now that there are much fewer missions, each mission has a lot of pressure to succeed as much as possible. for each project you do a risk assessment, which basically puts everything on a table saying here's something that can go wrong, how bad would it be for this to go wrong, then you calculate it, and then you decide, well it's too risky. 
+
+NEW SPACE AGE: commercial space endeavors
+
+in this age, you care less about risk. as a company, the only people you're responsible to is your board members (and your customers, but insurance can take care of any risks in that direction). The people spearheading this endeavor are as crazy as those in the 60s without needing a war. also the technology development in the electronics world was so big in the 90s, so now commercial space endeavors can take advantage of this to develop things more cheaply and more easily. 
+
+Elon Musk: I'm willing to risk much more to get to a specific milestone, and then once we reach that milestone, we'll be making profit. 
+
+He had 4 missions where he needed at least one of them to succeed in order to prove that he could do this. failed 3 and succeeded 1. 
+
+Dragon capsule, carries people. 
+
+We aren't using a system too different from the 60s, more like the individual components are updated to be digital, touch screens, etc instead of crt monitors and buttons. there have been incremental developments but new theoretical frameworks are still coming. 
+
+people want minimum amount of maintenance on the space shuttles -- it should be about the same amount of work done to maintain airplanes. Visually check external components, refill some fluids, then it's ready to fly the next day. so actually people are trying to merge development of airplanes and shuttles to balance risk and cost and to learn from each other. 
+
+but these commercial endeavors probably won't end up really doing research, because at the end of every year they need to show profit to investors, so it's hard to think long-term. they will develop new tech that can be considered profitable. everything that is science and research related should be done by the ISS Corps as a government run initiative. also NASA pays to SpaceX to launch research vessels. 
+
+NASA is currently developing a huge launcher (**S**pace **L**aunch **S**ystem) this will be the one taking you to Mars. also SpaceX is developing the BFR (big fucking rocket). 
+
+THOUGHTS ON GROUP ORGANIZATION AND LEADERSHIP: BENEVOLENT DICTATORSHIP VS. DISTRIBUTED DECISION-MAKING
+
+Apollo teams. Formula 1 crews have 2 heads. check out sectors where you really need efficiency and you really need things to work. Surgeons in the OR. some combination of the two options is the best, where everyone is contributing to the decisions but for each project or goal there is a "captain", someone who calls the shots. this cuts down on bureacracy and unnecessary meetings :P
+
+OTHER THOUGHTS
+
+research for space exploration often comes back to society in different ways. the space exploration provides a need, "I need to do these integrals to get a more awesome rocket" or whatever, to develop more conceptual things. internet, freeze drying, etc. 
+
+What if Elon Musk showed up a little earlier?
+
+investment structures now are completely different than they were in the 80s and 90s. before the end of the 90s the tech was also not quite ready. to have governments provide funding instead of investors, there would need to be a series of well connected points where the public interest in space exploration stays so strong that the people demand that politicians continue funding space exploration. 
+
+also in terms of the technological advance, it takes time for people to accept new tech into the fabric of society, to the point where we are comfortable with it enough to risk sending it into space. 
+
+Al Gore space art, Earth marble. 
+
+What if some super insightful person showed up and pitched the ISS Corps as an educational, world uniting endeavor? what if there's a way that human society got trained for cooperation, not brutal competition? think about how society trusts scientists so much, but the way scientists are trained to communicate and publish is totally fucked up. 
+
+# MOAR RESEARCH MATERIAL
+
+https://www.anime-planet.com/anime/planetes
+
+space debris: it's a problem because everytime you have a collision you exponentially increase the number of particles, then those particles will collide with something else and it takes a while for this debris to fall to earth and incinerate in the atmosphere, in the  meanwhile as it slows down enough to fall it's colliding and creating more debris. space agencies keep a huge catalog of all of the known debris. what would it take to clean the debris? difficult part is getting to the same speed in the same direction as the debris. 
+
+International Space University: Nuno made a proposal for space refuel system to refuel satellites, by taking propellant from the moon and launching it to orbit then from orbit refueling everything. Right now we use propellant to send propellant to satellites with thrusters. 
+
+but how to pay for this? should it be based on how many satellites a country has in orbit? should it be based on who causes accidents?
+
+don't forget that you also need propellant to slow down and de-orbit. 
+
+MARS: http://channel.nationalgeographic.com/mars/
+
+news: China has a space station, they lost control of it two years ago and it just landed back on Earth. all they could do was wait. 
+
+MIR: russian space station that also lost control and crashed to earth. "de-orbited" in 2001. 
+
+you want to launch to the East to use the rotation of the Earth to help you gain speed. this is why the US launches from the east coast, so that if it falls on ascent it falls into the Atlantic Ocean. 
 
 # PLOT SUMMARY
 
