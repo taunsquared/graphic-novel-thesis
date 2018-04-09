@@ -4,7 +4,9 @@ please see the [character vomit page](https://github.com/taunsquared/graphic-nov
 # Chapters
 
 ## Chapter 1: Space Cadets
-Minka and Asoca meet at the transport hub nearest to the ISS MAINTENANCE STATION, where they will be spending the summer as part of the ISS Corps Youth Program. This is Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY, she is now 18. Minka, now 17, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to their first year in the ISS Corps Youth Program: Rhee, Marq, and others. 
+Asoca's final summer before she goes to PRESTIGIOUS UNIVERSITY in GLOBAL POLITICAL HUB CITY. Coming from a small rural farming town, 
+
+Minka and Asoca meet at the transport hub nearest to the ISS MAINTENANCE STATION, where they will be spending the summer as part of the ISS Corps Youth Program.  Minka, now 17, still has one more year of school before she is eligible for university. Min and Soca get on a bus that will take them to the ISS MAINTENANCE STATION. On the bus they meet several other teenagers on their way to their first year in the ISS Corps Youth Program: Rhee, Marq, and others. 
 
 This chapter also establishes the world they live in: the political, sociological, geographical, and technological climate. 
 
