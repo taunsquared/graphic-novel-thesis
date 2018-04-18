@@ -20,3 +20,6 @@ Soca is a non-scholarship student, coming from a small but well-to-do rural town
 
 The main plot will integrate/be a showcase of the struggle between open loop causal reactive machine versus closed loop perceptual control system models of the brain. The Theoretical Puzzle Pieces, Philosophy and Ethics, and other theory stuff will get integrated into the conversations between characters, and as part of what certain characters believe. 
 
+# plot outline
+
+
