@@ -22,4 +22,8 @@ The main plot will integrate/be a showcase of the struggle between open loop cau
 
 # plot outline
 
+Story follows Soca? Her home is idyllic and protected, but then she leaves it to go to the ISS Corps and through her eyes we see the more grim aspects of her reality?
 
+# interesting tidbits
+
+https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles
