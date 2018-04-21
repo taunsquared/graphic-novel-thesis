@@ -24,8 +24,13 @@ The main plot will integrate/be a showcase of the struggle between open loop cau
 
 Story follows both Soca and Min, separately as they prepare to go to the ISS Corps. 
 
-## Soca
-Her home is idyllic and protected, but then she leaves it to go to the ISS Corps and through her eyes we see the more grim aspects of her reality. 
+Soca's home is idyllic and protected, but then she leaves it to go to the ISS Corps and through her eyes we see the more grim aspects of her reality. She hasn't spent much time outside her home village, but she has visited the nearby city and has seen how differently other people live from herself and her village. 
+
+in the sense that she has to go from wanting to build glorified tree houses to becoming benevolent dictator of the human intergalactic empire, there's a turning point in there, and I kind of see it happening when she meets Min at ISS Corps. There they "corrupt" each other, because min realises that you need the benevolent dictator to drastically push society in a new direction, and soca realises that when benevolent dictators die, very careful plans must be made, and lots of robustness built into those plans, to keep that new direction going. and the new direction we want is respectful, healthy, mature anarchy, where we take advantage of our evolutionary power to distribute well: distribute ourselves through many environments, distribute tasks when solving problems together, distribute resources to stay connected between our distributed locations, etc. 
+
+so the idea i had was that soca starts to work in space hydroponics and becomes very influential because she's feeding everyone, and once climate change and wars on earth start really fucking up food supplies and chains, humanity starts relying more and more on space farms. corrupt leaders on Earth try to manipulate people using food as leverage, and soca says, fuck that, here's food with no strings attached. 
+
+soca also needs to develop iron will in order to become a benevolent dictator. I think that comes from her mother. 
 
 # interesting tidbits
 
