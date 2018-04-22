@@ -1,4 +1,4 @@
-# [link to character descriptions](https://github.com/taunsquared/graphic-novel-thesis/blob/master/2018-04-03-character-vomit.md)
+### [link to character descriptions](https://github.com/taunsquared/graphic-novel-thesis/blob/master/2018-04-03-character-vomit.md)
 
 # new context
 
