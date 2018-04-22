@@ -8,7 +8,7 @@ Soca is very happy and energetic, kind to a fault, and well-meaning but naive. S
 #### family life
 Soca's mother is a government funded agricultural researcher. She's a badass and potentially involved in some illuminati shit. She carefully and meticulously teaches Soca as much as she can about the "real world", but has to be careful not to overwhelm Soca and not endanger her either, too much knowledge being dangerous in these times. 
 
-Soca had a very classical education - think European elite. 
+Soca had a very classical education - think European elite: classical piano, figure drawing, tai chi. 
 
 ## Min
 Min's family was part of the well-educated elite of Silicon Valley, which is now been destroyed by the civil war in West America sparked by a massive food shortage after a brutal drought killed over 80% of the nation's farms. Her mother is a mathematician who worked on the ansible but retired to teach high school. Her father is an artist activist/hacker who has been protesting the application of the ansible for secret government surveillance and military oppression. The night they were driven out of their home, Min's mother was wounded by a rioting crowd. Min and her father carried Min's mother north into Canada in search of a hospital that would treat Min's mother without an insurance registration. While Min's mother is recovering in the hospital, she finds an advert about the ISS Corps. She urges Min to apply, who is reluctant to leave her family after the trauma of being driven out of their home. But it's been nearly a year, and Min's father promises to bring her home immediately if her mother's condition worsens.  
