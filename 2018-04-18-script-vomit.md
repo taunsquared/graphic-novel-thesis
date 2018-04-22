@@ -19,6 +19,7 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 # integrating research into the plot
 
 - Cuttle Shuttle dataset: an obscure study from the past which inspired many aspects of current space swimming techniques. 
+  - From Diogo: "Use the cuttlefish movement stabilization data not only for human swimming in space but also for space station habitats/modules connection protocols (like, a mechanical version of the tentacles used to grad and connect modules in a secure and efficient way)."
 - HIVE Tracker: now a well-developed off-the-shelf "tinkering" component, like raspberry pi or arduino, used by students, hackers, etc, to track, document, and analyse movement. 
 - Surprising Minds: field neuroscience is now a well-established field and considered a very important part of space exploration. The ISS Corps curriculum teaches field neuroscience and uses interactive art-science installations to fulfill science communication and public engagement requirements of their funding/it's great PR. 
 
