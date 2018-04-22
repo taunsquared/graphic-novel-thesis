@@ -1,7 +1,7 @@
 # main characters
 
-## Soca
-Grew up in a small rural community in northern Europe, idyllic and affluent -- it is one of the few natural spaces left on planet Earth. Her mother is an herbalist who studies plants useful for space travel (exo-hydroponics). Her father is a farmer specializing in permaculture. Both are agricultural engineers doing government funded research for the military. Soca dreams of becoming an architect who specialises in "living structures", where human-friendly spaces, with all of the modern amenities, are integrated into and nurture living trees. 
+## Asoca
+Most people call Asoca as "Soca". Grew up in a small rural community in northern Europe, idyllic and affluent -- it is one of the few natural spaces left on planet Earth. Her mother is an herbalist who studies plants useful for space travel (exo-hydroponics). Her father is a farmer specializing in permaculture. Both are agricultural engineers doing government funded research for the military. Soca dreams of becoming an architect who specialises in "living structures", where human-friendly spaces, with all of the modern amenities, are integrated into and nurture living trees. 
 
 Soca is very happy and energetic, kind to a fault, and well-meaning but naive. She loves raising, observing, studying, and caring for the many animals that live around her home. She is good with grand ideas and inspiring large groups of people, though very self-deprecating and more introverted than she presents. Very generous with friends and colleagues and often cheerful, but goes through bouts of cynicism when too many take advantage of her generosity and good nature. Enjoys the quiet and wild beauty of rural living but is drawn to cities and the sensation of being part of a super-organism.
 
