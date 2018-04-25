@@ -45,3 +45,5 @@ also ISS Corps is no longer a summer youth program, it's basically a technical i
 # interesting tidbits
 
 https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles
+
+[International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx)
