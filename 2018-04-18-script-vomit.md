@@ -16,7 +16,7 @@ This thesis is the "origin story" of the Benevolent Dictator Asoca and the First
 
 The ISS Corps is now a university level training institute for the career class "Interplanetary Travel and Communications". Anyone over the age of 18 may apply to attend, and several specialization fields are taught, to be noted on a degree as an "ISS Corps certification in Interplanetary Travel and Communications, with specializations in ...". Students are expected to take 6 years to graduate, most commonly with 2 or 3 specializations. 
 
-Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; Min is a climate change refugee and pragmatic to a fault. Asoca believes that good leadership can bring about big changes with the least amount of suffering, while Min believes that only anarchy, which is both the freedom to do what you want in addition to the empowerment and responsibility of truly understanding what you want in order to do it, and systems robust in keeping power well distributed, will keep humans from enslaving each other for their own convenience. They fall in love, and deeply influence each other's model of the world before they part ways upon graduation. 
+Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; Min is a climate change refugee and pragmatic to a fault. Asoca believes that good leadership can bring about big changes with the least amount of suffering, while Min believes that only anarchy -- meaning both the freedom to do exactly what you want in addition to the empowerment and responsibility of truly understanding what you want in order to do it -- and systems robust in keeping power well distributed, will keep humans from enslaving each other for their own convenience. They fall in love, and deeply influence each other's model of the world before they part ways upon graduation. 
 
 # integrating research into the plot
 
@@ -37,10 +37,20 @@ so the idea i had was that soca starts to work in space hydroponics and becomes 
 
 soca also needs to develop iron will in order to become a benevolent dictator. I think that comes from her mother. 
 
-also ISS Corps is no longer a summer youth program, it's basically a technical institute. 
+# ISS Corps
+The ISS Corps is located on a geosynchronous space station, with "satellite" campuses on various launch points on Earth. Based on an entry questionnaire, students are sorted into the following "home crews": 
+
+- CIRQUE DU COSMIQUE: They are generally preoccupied with circus and theatrical storytelling, bodily morphologies/anatomies/physiologies, and how thought and movement are connected. They like to build aquariums, terrariums, and playgrounds for humans of all sizes. Their home structures are kinetic and encourage daily training. They maintain a dance studio and theater. 
+- CYBERPHILIA: generally preoccupied with technologically-mediated communication, control, and governance. They love to tinker with robotics, AI, automated processes, and electronics. They also build wired and wireless networks, and play lots of video games (historical console/PC games, VR/AR games, simulator room games). They maintain the digital tools maker space. 
+- MENDELEEVERS: generally preoccupied with using simple old-fashioned methods and techniques from chemistry, physics, and traditional hand crafts to build both beautiful and practical art and devices. They like to play "what if...in space?", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked, pre-digital tech tools. They maintain the machine shop and workspaces for traditional hand crafts. 
+- INFRADESTRUCTORS: preoccupied with understanding the basic facilities, services, and installations needed for the healthy functioning of a society or organization, and with "un-black-boxing" these facilities, services, and installations (meaning that they want to know how things like plumbing, electricity, sewage systems, etc work, and then they want to modify these systems and document these systems well enough that other people can play/hack with them). They liase with the station management team and maintain the utilities shared by the home crews. 
+
+ISS Corps is quite competitive and has a reputation for about 25% of the first-years dropping out because they can't handle some aspect of life in the ISS Corps -- life in space, the academic challenges, homesickness, etc. 
 
 # plot vomit
 
+## episode one: first day
+Asoca 
 
 # interesting tidbits
 
