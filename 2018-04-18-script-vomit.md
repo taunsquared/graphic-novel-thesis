@@ -20,9 +20,7 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 
 # plot vomit
 
-*script is in italics*
-**descriptions of the imagery are in bold**
-**BOLD NAMES IN ALL CAPS ARE PLACEHOLDERS**
+*script is in italics*, **descriptions of the imagery are in bold**, **BOLD NAMES IN ALL CAPS ARE PLACEHOLDERS**.
 
 *The great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots.*
 
@@ -87,3 +85,5 @@ I think Min should already be at the ISS Corps by the time Soca arrives.
 https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles
 
 [International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx)
+
+https://www.space.com/40421-cotton-research-projects-headed-to-space-target.html
