@@ -89,3 +89,5 @@ https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-crea
 https://www.space.com/40421-cotton-research-projects-headed-to-space-target.html
 
 https://en.wikipedia.org/wiki/Colorado_River_Compact
+
+https://www.timeshighereducation.com/fr/features/subversion-heart-academy
