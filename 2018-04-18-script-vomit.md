@@ -18,6 +18,13 @@ The ISS Corps is a year-round pre-university-level training institute for the ca
 
 Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; Min is a climate change refugee and pragmatic to a fault. Asoca believes that good leadership can bring about big changes with the least amount of suffering, while Min believes that only anarchy -- meaning both the freedom to do exactly what you want in addition to the empowerment and responsibility of truly understanding what you want in order to do it -- and systems robust in keeping power well distributed, will keep humans from enslaving each other for their own convenience. They fall in love, and deeply influence each other's model of the world before they part ways upon graduation. 
 
+# plot vomit
+
+*script is in italics*
+**descriptions of the imagery are in bold**
+
+*the great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots."
+
 # integrating research into the plot
 
 - Cuttle Shuttle dataset: an obscure study from the past which inspired many aspects of current space swimming techniques. 
@@ -64,14 +71,6 @@ so the idea i had was that soca starts to work in space hydroponics and becomes 
 soca also needs to develop iron will in order to become a benevolent dictator. I think that comes from her mother. 
 
 I think Min should already be at the ISS Corps by the time Soca arrives. 
-
-# plot vomit
-
-*script is in italics*
-**descriptions of the imagery are in bold**
-
-*the great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots."
-
 
 
 # interesting tidbits
