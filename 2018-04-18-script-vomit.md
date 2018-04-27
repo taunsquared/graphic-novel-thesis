@@ -28,9 +28,17 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 
 *The **SPACE CONSORTIUM** ran the numbers and found that a civil war affecting one of their legacy technological strongholds, Silicon Valley, would be massively unprofitable. They decided to offer asylum to the families of any young West American refugees willing to become a "scholarship student" at the ISS Corps -- their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications".*
 
-*The scholarship meant that these students could attend the ISS Corps far free, and receive financial support for their university-level training of choice.*
+*The scholarship meant that these students could attend the ISS Corps for free, and receive financial support for their university-level training of choice.*
 
 *It also meant that they committed 5 years of their wage-earning years to the **SPACE CONSORTIUM**.*
+
+*Soon enough, applications from young refugees began pouring into the ISS Corps. The **SPACE CONSORTIUM** was applauded for their great humanitarian effort and dedication to diversity.* 
+
+**We see Min with her family in a hospital room. Her mother is in the hospital bed, hooked up to machines and wearing bandages over her eyes; her father sits nearby, looking tired. Min is holding her offer letter from the ISS Corps and looks determined. **
+
+Min's father: *"Mini, you really don't have to do this. We can figure out something and stay together."*
+
+Min: *"They won't let us stay in Canada once mom's treatment is over."*
 
 # integrating research into the plot
 
