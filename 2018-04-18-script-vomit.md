@@ -67,6 +67,12 @@ I think Min should already be at the ISS Corps by the time Soca arrives.
 
 # plot vomit
 
+*script is in italics*
+**descriptions of the imagery are in bold**
+
+*the great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots."
+
+
 
 # interesting tidbits
 
