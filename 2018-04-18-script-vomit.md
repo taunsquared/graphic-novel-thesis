@@ -22,8 +22,17 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 
 *script is in italics*
 **descriptions of the imagery are in bold**
+**BOLD NAMES IN ALL CAPS ARE PLACEHOLDERS**
 
-*the great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots."
+*The great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots.*
+
+*The lack of sufficient alternatives has plunged the nation into a seemingly endless drought, and the anger, some righteous, all turned into fear. Civil war now rages.*
+
+*The **SPACE CONSORTIUM** ran the numbers and found that a civil war affecting one of their legacy technological strongholds, Silicon Valley, would be massively unprofitable. They decided to offer asylum to the families of any young West American refugees willing to become a "scholarship student" at the ISS Corps -- their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications".*
+
+*The scholarship meant that these students could attend the ISS Corps far free, and receive financial support for their university-level training of choice.*
+
+*It also meant that they committed 5 years of their wage-earning years to the **SPACE CONSORTIUM**.*
 
 # integrating research into the plot
 
@@ -32,7 +41,7 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 - HIVE Tracker: now a well-developed off-the-shelf "tinkering" component, like raspberry pi or arduino, used by students, hackers, etc, to track, document, and analyse movement. 
 - Surprising Minds: field neuroscience is now a well-established field and considered a very important part of space exploration. The ISS Corps curriculum teaches field neuroscience and uses interactive art-science installations to fulfill science communication and public engagement requirements of their funding/it's great PR. 
 
-The main plot will integrate/be a showcase of the struggle between open loop causal reactive machine versus closed loop perceptual control system models of the brain. The Theoretical Puzzle Pieces, Philosophy and Ethics, and other theory stuff will get integrated into the conversations between characters, and as part of what certain characters believe. 
+The main plot will integrate the struggle between open loop causal reactive machine versus closed loop perceptual control system models of the brain. The Theoretical Puzzle Pieces, Philosophy and Ethics, and other theory stuff will get integrated into the conversations between characters, and as part of what certain characters believe. 
 
 # ISS Corps
 The ISS Corps program that Asoca and Min attend is at the Kennedy Memorial Shuttle Launch and Maintenance Station, built just north of the old ruins of the historic Kennedy Space Center. ISS Corps students are referred to as "youth cadets". The youth cadets participate in work crews to help the station staff with their duties, conduct research with a science crew to study an aspect of space travel and communication, and live with a home crew. 
