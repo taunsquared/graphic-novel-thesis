@@ -34,7 +34,7 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 
 *Soon enough, applications from young refugees began pouring into the ISS Corps. The **SPACE CONSORTIUM** was applauded for their great humanitarian effort and dedication to diversity.* 
 
-**We see Min with her family in a hospital room. Her mother is in the hospital bed, hooked up to machines and wearing bandages over her eyes; her father sits nearby, looking tired. Min is holding her offer letter from the ISS Corps and looks determined.**
+**We see Min with her family in a hospital room. Her mother is in the hospital bed, hooked up to machines and wearing bandages over her eyes; her father sits nearby, holding Min's offer letter from the ISS Corps and looking tired. Min ties and unties different knots into a bit of rope in her hands and has a look of grim determination on her face.**
 
 Min's father: *"Mini, you really don't have to do this. We can figure out something and stay together."*
 
