@@ -44,7 +44,13 @@ Corporate shill: *"We cannot allow the unrest in West America to disrupt the con
 
 notes on the above: make this a story told by one character to another. maybe Min to Asoca? Or maybe a teacher?
 
-**The PROTO-VIRS and the SPACE CONSORTIUM have a mutually respectful but skeptical attitude towards each other. The PROTO-VIRS realize that they need to preserve a secret set of knowledge and traditions, teaching their students how to guard against the mild-mannered and accommodating facade of the SPACE CONSORTIUM. Asoca's mother is a student of the PROTO-VIRS, trained in Green Haven Devon and stationed at Green Haven Orkney with her husband, Asoca's father.**
+**The PROTO-VIRS and the SPACE CONSORTIUM have a mutually respectful but skeptical attitude towards each other. The PROTO-VIRS realize that they need to preserve a secret set of knowledge and traditions, teaching their students how to guard against the mild-mannered and accommodating facade of the SPACE CONSORTIUM. Asoca's mother is a student of the PROTO-VIRS, trained in Green Haven Devon and stationed at Green Haven Orkney with her husband, a farmer from Devon. They raise Asoca with the knowledge of the PROTO-VIRS and the hope of a humanity mature enough to live in true freedom, without slavery of any kind.**
+
+note: maybe this whole thing is a story told by a VIRS, several generations later?
+
+**Asoca has been training to join the ISS Corps and study at Space University since birth. She is going through her offer to join the ISS Corps while cuddled up with her mother on a bench swing in a beautiful garden.**
+
+
 
 # integrating research into the plot
 
@@ -105,3 +111,8 @@ https://www.space.com/40421-cotton-research-projects-headed-to-space-target.html
 https://en.wikipedia.org/wiki/Colorado_River_Compact
 
 https://www.timeshighereducation.com/fr/features/subversion-heart-academy
+
+# the paperwork
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vigilante Intergalactic Roustabout Scholars (VIRS)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.danbeekim.org" property="cc:attributionName" rel="cc:attributionURL">Danbee Kim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.danbeekim.org/projects/2018/02/28/VIRS-concept/" rel="dct:source">http://www.danbeekim.org/projects/2018/02/28/VIRS-concept/</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="www.danbeekim.org" rel="cc:morePermissions">www.danbeekim.org</a>.
+
