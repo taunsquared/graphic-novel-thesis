@@ -48,7 +48,7 @@ notes on the above: make this a story told by one character to another. maybe Mi
 
 note: maybe this whole thing is a story told by a VIRS, several generations later?
 
-**Asoca has been training to join the ISS Corps and study at Space University since birth. She is going through her offer to join the ISS Corps while cuddled up with her mother on a bench swing in a beautiful garden.**
+**Asoca has been training to join the ISS Corps and study at Space University since birth. She is going through her offer letter to join the ISS Corps while cuddled up with her mother on a bench swing in a beautiful garden. They reaffirm Asoca's **
 
 
 
