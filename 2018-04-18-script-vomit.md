@@ -44,13 +44,13 @@ Corporate shill: *"We cannot allow the unrest in West America to disrupt the con
 
 notes on the above: make this a story told by one character to another. maybe Min to Asoca? Or maybe a teacher?
 
-**The PROTO-VIRS and the SPACE CONSORTIUM have a mutually respectful but skeptical attitude towards each other. The PROTO-VIRS realize that they need to preserve a secret set of knowledge and traditions, teaching their students how to guard against the mild-mannered and accommodating facade of the SPACE CONSORTIUM. Asoca's mother is a student of the PROTO-VIRS, trained in Green Haven Devon and stationed at Green Haven Orkney with her husband, a farmer from Devon. They raise Asoca with the knowledge of the PROTO-VIRS and the hope of a humanity mature enough to live in true freedom, without slavery of any kind.**
+**The PROTO-VIRS and the SPACE CONSORTIUM have a mutually respectful but skeptical attitude towards each other. The PROTO-VIRS realize that they need to preserve a secret set of knowledge and traditions, teaching their students how to guard against the mild-mannered and accommodating facade of the SPACE CONSORTIUM. Asoca's mother is a student of the PROTO-VIRS, trained in GREEN HAVEN DEVON and stationed at GREEN HAVEN WARD HILL ORKNEY with her husband, a permaculture farmer from Devon. They raise Asoca on an agricultural research station for the SPACE CONSORTIUM but with the history and traditions of the PROTO-VIRS and the hope of a humanity mature enough to live in true freedom, without slavery of any kind. The PROTO-VIRS have realised the lesson of their voluntary slavery: in the face of brutally aggressive urbanization, natural spaces and biological diversity on the planet will always be in danger. Now they search for ways to preserve the biological heritage of the Earth.**
 
 note: maybe this whole thing is a story told by a VIRS, several generations later?
 
-**Asoca has been training to join the ISS Corps and study at Space University since birth. She is going through her offer letter to join the ISS Corps while cuddled up with her mother on a bench swing in a beautiful garden. They reaffirm Asoca's **
+**Asoca has been training to join the ISS Corps and study at Space University since birth. She is going through her offer letter to join the ISS Corps while cuddled up with her mother on a bench swing in a beautiful garden. Asoca is nervous about leaving GREEN HAVEN WARD HILL ORKNEY and going to APPALACHIA, her first trip across an ocean. She will be very far from the familiar faces, sights, smells, and sounds of her home, where she's lived since she was born at the local hospital 16 years ago. But she's also excited -- in the last year, she's been helping her mother research plants useful for space travel, and she has many ideas about how to build better space architecture to facilitate keeping plants alive in space.**
 
-
+**During Asoca's induction week at the ISS Corps, she completely resonates with the CIRQUE DU COSMIQUE's ethos and home structures. Her cheery attitude is endearing to most but annoying to some, especially Min, who is now a 2nd-year cadet on the CIRQUE DU COSMIQUE home crew. In the last year, Min has realised the truth of the SPACE CONSORTIUM's "scholarship" -- she is expected to work part-time on the ISS Corps' service crews (janitorial, cafeteria, grounds keeping, waste & recycling, stores & mail). This only strengthens Min's resolve to be the top student, and she works and trains with furious discipline. She is, by her own admission, "picky" about her collaborators, and not very extroverted; she prefers to watch the first-years from afar, and shows friendliness only in quieter moments. She judges Asoca to be naive and privileged, unaware of life outside her own tiny bubble.**
 
 # integrating research into the plot
 
@@ -67,7 +67,7 @@ The ISS Corps program that Asoca and Min attend is at the Kennedy Memorial Shutt
 During their induction week, first-year students explore and choose a "home crew". Each home crew displays their engineering and team working prowess by spending this first week hosting fun activities, meals (which are shared together with all home crews together; each home crew takes 2 meals over the course of the week to show off their collective food making prowess), and renovating their home structures to accommodate new youth cadets, based on the number of youth cadets in the crew graduated the previous year from the youth program. New youth cadets are given temporary sleeping structures for the first week, and are expected to wander from home crew to home crew, getting to know them, checking out their aesthetics and personalities, working with them, hanging out with them. New cadets usually find a home crew within the first few days and end up finishing the building of their own sleeping structures.
 
 The Kennedy Memorial Shuttle Launch and Maintenance Station "home crews":
-- CIRQUE DU COSMIQUE: They are generally preoccupied with circus and theatrical storytelling, bodily morphologies/anatomies/physiologies, and how thought and movement are connected. They like to build aquariums, terrariums, and playgrounds for humans of all sizes. Their home structures are kinetic and encourage daily training. They maintain a dance studio and theater. 
+- CIRQUE DU COSMIQUE: They are generally preoccupied with circus and theatrical storytelling, bodily morphologies/anatomies/physiologies, and how thought and movement are connected. They like to build aquariums, terrariums, and playgrounds for humans of all sizes. Their home structures are kinetic and encourage daily training. They maintain a space swimming practice facility and a "normal gravity" dance studio/training space. 
 - CYBERPHILIA: generally preoccupied with technologically-mediated communication, control, and governance. They love to tinker with robotics, AI, automated processes, and electronics. They also build wired and wireless networks, and play lots of video games (historical console/PC games, VR/AR games, simulator room games). They maintain the digital tools maker space. 
 - MENDELEEVERS: generally preoccupied with using simple old-fashioned methods and techniques from chemistry, physics, and traditional hand crafts to build both beautiful and practical art and devices. They like to play "what if...in space?", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked, pre-digital tech tools. They maintain the machine shop and workspaces for traditional hand crafts. 
 - INFRADESTRUCTORS: preoccupied with understanding the basic facilities, services, and installations needed for the healthy functioning of a society or organization, and with "un-black-boxing" these facilities, services, and installations (meaning that they want to know how things like plumbing, electricity, sewage systems, etc work, and then they want to modify these systems and document these systems well enough that other people can play/hack with them). They liase with the station management team and maintain the utilities shared by the home crews. 
@@ -84,8 +84,11 @@ ISS Corps is quite competitive -- less than 15% of applicants are accepted into 
 
 # ISS Vocational Training
 
-
 # Space University
+
+# New maps of the world
+
+## West America, New Texas, Appalachia, and New England
 
 # background vomit
 
