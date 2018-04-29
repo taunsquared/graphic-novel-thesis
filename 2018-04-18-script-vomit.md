@@ -44,6 +44,8 @@ Corporate shill: *"We cannot allow the unrest in West America to disrupt the con
 
 notes on the above: make this a story told by one character to another. maybe Min to Asoca? Or maybe a teacher?
 
+**The PROTO-VIRS and the SPACE CONSORTIUM have a mutually respectful but skeptical attitude towards each other. The PROTO-VIRS realize that they need to preserve a secret set of knowledge and traditions, teaching their students how to guard against the mild-mannered and accommodating facade of the SPACE CONSORTIUM. Asoca's mother is a student of the PROTO-VIRS, trained in Green Haven Devon and stationed at Green Haven Orkney with her husband, Asoca's father.**
+
 # integrating research into the plot
 
 - Cuttle Shuttle dataset: an obscure study from the past which inspired many aspects of current space swimming techniques. 
