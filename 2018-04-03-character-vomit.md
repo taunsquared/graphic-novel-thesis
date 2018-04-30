@@ -31,8 +31,8 @@ computer geek who loves video games and food. Very good at building custom softw
 ## Giam
 a bit stand-off-ish and not super talkative, but very reliable and loyal once he's decided that he likes you. very focused and serious about his martial arts training, but loves beer and becomes very relaxed when drinking. 
 
-## Jayne
-loves to learn languages (other human languages, different animal languages, fantasy/alien languages) and lives with a "seeing-eye" fox companion because her parents are veterinarians and they are always taking in abandoned or injured animals. Extremely kind-hearted. 
+## Joerry
+loves to learn languages (other human languages, different animal languages, fantasy/alien languages) and to befriend animals. Extremely kind-hearted. 
 
 ## Oana
 party girl from a farm in a small beach town, grows bio-compatible silicon circuits.
