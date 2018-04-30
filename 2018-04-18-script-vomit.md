@@ -24,11 +24,11 @@ Asoca and Min meet each other in the ISS Corps. Asoca is privileged and naive; M
 
 *The great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of West America, sucked it dry in 2082, ruining that year's crops and sparking riots.*
 
-*The lack of sufficient alternatives has plunged the nation into a seemingly endless drought, and the anger, some righteous, has all turned into fear. The horrors of the GREAT NORTH AMERICAN WAR that birthed West America are still fresh in the minds of grandparents, but that doesn't stop the country from imploding into chaos and violence.*
+*The lack of sufficient alternatives has plunged the nation into a seemingly endless drought, and the anger, some righteous, has all turned into fear. The horrors of the GREAT NORTH AMERICAN WAR OF 2057 that birthed West America are still fresh in the minds of grandparents, but that doesn't stop the country from imploding into chaos and violence.*
 
 *The **SPACE CONSORTIUM** ran the numbers and found that a civil war affecting one of their legacy technological strongholds, Silicon Valley, would be massively unprofitable.*
 
-Corporate shill: *"We cannot allow the unrest in West America to disrupt the construction of the new shuttle launch pad in Old North Carolina. It's only been 5 years since we regained some semblence of economic stability in North America, and we must not lose the precious ground we gained."*
+Corporate shill: *"We cannot allow the unrest in West America to disrupt the construction of the new shuttle launch pad in Old North Carolina. It's only been 10 years since we regained some semblence of economic stability in North America, and we must not lose the precious ground we gained."*
 
 *They decided to offer asylum to the families of any young West American refugees willing to become a "scholarship student" at the ISS Corps -- their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications".*
 
@@ -128,6 +128,8 @@ https://en.wikipedia.org/wiki/Colorado_River_Compact
 https://www.timeshighereducation.com/fr/features/subversion-heart-academy
 
 http://artivistentertainment.com/
+
+https://en.wikipedia.org/wiki/Human_mission_to_Mars
 
 # the paperwork
 
