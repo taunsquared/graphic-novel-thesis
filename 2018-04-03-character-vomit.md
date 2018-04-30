@@ -32,7 +32,7 @@ Min's mother is a Korean mathematician born in Seoul, who worked on the **SPACE 
 They are generally preoccupied with circus and theatrical storytelling, bodily morphologies/anatomies/physiologies, and how thought and movement are connected. They like to build aquariums, terrariums, and playgrounds for humans of all sizes. Their home structures are kinetic and encourage daily training. They maintain a space swimming practice facility and a "normal gravity" dance studio/training space.
 
 ### Joerry
-Raised by veterinarians, she knows how to care for many different animal species and has a knack for animal husbandry. Loves to learn languages (other human languages, different animal languages, fantasy/alien languages) and extremely kind-hearted. 
+Raised by PROTO-VIRS veterinarians, she knows how to care for many different animal species and has a knack for animal husbandry. Loves to learn languages (other human languages, different animal languages, fantasy/alien languages) and extremely kind-hearted. 
 
 ### Giam
 Another scholarship student, he is a bit stand-off-ish and not super talkative, but very reliable and loyal once he's decided that he likes you. Wants to join the Security division of the **SPACE CONSORTIUM** and so is very focused and serious about his martial arts training, but loves beer and becomes very relaxed when drinking. 
@@ -56,7 +56,7 @@ A scholarship student full of mischevious energy and unstoppable cheerfulness. L
 A surgeon's daughter, she is extremely meticulous and hygienic, both physically and emotionally. She also has a very macabre sense of humour and is fascinated by the mental disorders that can afflict those who spend long periods of time in space without going planetside. 
 
 ### Oana
-Party girl from a small beach town who creates her own light- and sound-interactive costumes and outfits using homegrown bio-compatible silicon circuits.
+Party girl from a small beach town who creates her own light- and sound-interactive costumes and outfits using homegrown bio-compatible silicon circuits. Child of PROTO-VIRS. 
 
 ### Clavel
 Loves carpentry and woodwork. Always carries small knives for whittling. The knives are handmade gifts from his uncle Petros, who is a space welder at Space University. Petros visits Clavel often at the ISS Corps. 
@@ -76,5 +76,5 @@ Raised by radical PROTO-VIRS in the suburbs of Paris, is cheerfully extremely di
 One of the engineers coordinating the most recent batch of renovations for the Kennedy Station and a teaching assistant at Space University who specialises in space welding. Petros was once a MENDELEEVER at ISS Corps, and helped set up the MENDELEEVER forge.
 
 ### Adi
-An ISS Corps professor on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
+An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
 
