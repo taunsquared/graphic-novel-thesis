@@ -1,3 +1,7 @@
+# title
+
+How the assumptions we make about our brains affect our society and the way we treat each other.
+
 # abstract
 
 This thesis is the "origin story" of the Benevolent Dictator Asoca and the First Vigilante Intergalactic Roustabout Scholar (VIRS) Min -- what motivates them, where they get their strength from, how their philosophies developed. The story focuses on how Asoca, who wanted to build flying tree houses in space, met Min, who wanted to help her family regain dignity and independence after becoming climate change refugees. They studied together at the International Space Station (ISS) Corps, a year-round pre-university-level training institute for the career class "Interplanetary Travel and Communications". Anyone over the age of 16 may apply to attend, and students who excel are recommended for Space University, which gives them a competitive edge in the application process. The ISS Corps also offers a 4-year vocational certification at the university level, aimed at those students who cannot afford to attend Space University. 
