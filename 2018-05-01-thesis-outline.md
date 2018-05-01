@@ -1,6 +1,6 @@
 # title
 
-How the assumptions we make about our brains affect our society and the way we treat each other.
+[How the assumptions we make about our brains affect our society and the way we treat each other.](http://www.danbeekim.org/open-lab-notebook/)
 
 # abstract
 
