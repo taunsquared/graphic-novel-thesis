@@ -7,7 +7,7 @@ Most people call Asoca as "Soca". Grew up in a small agricultural research villa
 
 Soca is very happy and energetic, kind to a fault, and well-meaning but naive. She loves raising, observing, studying, and caring for the many animals that live around her home. She is good with grand ideas and inspiring large groups of people, though very self-deprecating and more introverted than she presents. Very generous with friends and colleagues and often cheerful, but goes through bouts of cynicism when too many take advantage of her generosity and good nature. Enjoys the quiet and wild beauty of rural living but is drawn to cities and the sensation of being part of a super-organism.
 
-Soca's childhood education was a mix of European elite (classical piano, figure drawing, tea) and Brazilian street (forro, capoeira, pao de queijo). 
+Soca's childhood education was a mix of European elite (voice lessons, figure drawing, tea) and Brazilian street (forro, capoeira, pao de queijo). 
 
 ### Parents
 
@@ -20,7 +20,7 @@ When Min was 6 years old, she traveled with her parents to a Space Shuttle maint
 
 Min is a meticulous worker who prefers working alone because not enough people meet her standards for competence, but she loves to coordinate ambitious projects with a small group of trusted collaborators. She's picky about everything: her food, her friends, and how she spends her time. Small but swift, and sharp as a tack, Min is very resourceful and always tinkering. She's not anti-social, but she's picky and honest, and has found that not everyone appreciates that kind of glaring perspective, so she's a bit shy. She always has something in her hands to play with and calm her nervous energy in social situations. Though pessimistic about human systems, she's convinced that the destructive tendencies in human nature are the result of generations of indoctrination by a corporate oligarchy. Believes in the ideal role of education to free humans from oppressive systems and to empower humans to live in a society of true equals.
 
-Though Min finds satisfaction and comfort in the predictable logic of mathematics, her father kept music a prominent part of her upbringing, and taught her to sing and play violin, guitar, and bass. Because of the demands made on high school teachers, Min was raised more by her father, who made up little impromptu songs for every day tasks like brushing one's teeth, cooking food, or putting on clothes. 
+Though Min finds satisfaction and comfort in the predictable logic of mathematics, her father kept music a prominent part of her upbringing, and taught her to sing and play guitar and bass. Because of the demands made on high school teachers, Min was raised more by her father, who made up little impromptu songs for every day tasks like brushing one's teeth, cooking food, or putting on clothes.  Min's father also introduced her to the theremin, and he and Min's mother built Min a theremin for her birthday the year before they left Silicon Valley. 
 
 ### Parents
 
@@ -78,3 +78,5 @@ One of the engineers coordinating the most recent batch of renovations for the K
 ### Adi
 An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
 
+### PQ
+A security guard at the Kennedy Station and good friend of Min. When Min first came to the ISS Corps and was struggling to juggle her studies with her scholarship work, PQ told Min that whenever she needed extra study time to come work join PQ's security shift at the front reception, where she could easily study in the down times between front desk duties. PQ and Min bond over their love of music, especially music with powerful messages about society, emotions, healthy relationships, and self-awareness. 
