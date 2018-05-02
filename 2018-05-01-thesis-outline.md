@@ -93,3 +93,5 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 [most current script vomit](https://github.com/taunsquared/graphic-novel-thesis/blob/master/2018-04-18-script-vomit.md)
 
 [most current character description vomit](https://github.com/taunsquared/graphic-novel-thesis/blob/master/2018-04-03-character-vomit.md)
+
+[online open lab notebook](http://www.danbeekim.org/open-lab-notebook/)
