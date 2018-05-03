@@ -22,6 +22,14 @@ Corporate shill: *"We cannot allow the unrest in West America to disrupt the con
 
 *Soon enough, applications from young refugees began pouring into the ISS Corps. The **SPACE CONSORTIUM** was applauded for their great humanitarian effort and dedication to diversity.* 
 
+**A gradiose SPACE CONSORTIUM logo becomes a watermark on a publicity brochure being read by Min's mother as she recovers in a hospital bed.**
+
+Min's mother: *"...In addition to conducting collaborative scientific research in crews advised by a world-class teaching staff, youth cadets will learn about the day-to-day operations at a shuttle launch and repair station by participating in station staff work crews."*
+
+**Min's mother looks up from the brochure at Min.**
+
+Min's mother: *"Really, this sounds perfect for you!"*
+
 **Min is with her family in a hospital room where her mother is being treated for injuries sustained while escaping the riots in their hometown of Berkeley, West America. They are now in Vancouver, Canada, because the hospitals in West America won't even let you through the front door without an insurance card. Min's family was part of the well-educated elite of Silicon Valley, which is now been destroyed by the riots in West America sparked by a massive food shortage after a brutal drought killed over 80% of the nation's farms.** 
 
 **While Min's mother is recovering in the hospital, she finds an advert about the ISS Corps. She urges Min to apply, who has been obsessed with space travel ever since she took a ride in a space shuttle as a small child. Min is initially excited to hear about the SPACE CONSORTIUM'S offer to waive tuition to the ISS Corps, but she is reluctant to leave her family after the trauma of being driven out of their home. To make her feel even worse, her parents are activists who protest the use of the ansible for secret government surveillance and military oppression, and while the SPACE CONSORTIUM hasn't done anything like that directly themselves, their members include several economically affluent and morally questionable organizations, so they are criticised for nurturing an environment which condones surveillance and oppression. Min's parents also don't like the conditions of the scholarship, but they also see very few other options for getting Min the certifications she needs in order to work in space travel. Her parents are also in a position with little options, as they lost everything when they fled West America. The whole family has been relying completely on the generosity of Vancouver General Hospital for nearly a year, and they all agree that with this scholarship, they have a chance to regain their dignity and independence.**
