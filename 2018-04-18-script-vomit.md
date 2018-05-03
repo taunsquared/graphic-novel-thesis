@@ -122,7 +122,6 @@ soca also needs to develop iron will in order to become a benevolent dictator. I
 
 I think Min should already be at the ISS Corps by the time Soca arrives. 
 
-
 # interesting tidbits
 
 https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles
@@ -138,6 +137,8 @@ https://www.timeshighereducation.com/fr/features/subversion-heart-academy
 http://artivistentertainment.com/
 
 https://en.wikipedia.org/wiki/Human_mission_to_Mars
+
+https://www.permaculture.org.uk/knowledge-base/basics#
 
 # the paperwork
 
