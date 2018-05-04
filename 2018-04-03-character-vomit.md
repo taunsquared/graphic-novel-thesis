@@ -40,7 +40,7 @@ Another scholarship student, he is a bit stand-off-ish and not super talkative, 
 ## CYBERPHILIA
 Generally preoccupied with technologically-mediated communication, control, and governance. They love to tinker with robotics, AI, automated processes, and electronics. They also build wired and wireless networks, create digital art, love anime and other digital storytelling media, and play lots of video games (historical console/PC games, VR/AR games, simulator room games). They maintain the digital tools database, a film and music recording studio, and a radio station.
 
-### Atehban
+### Tehban
 Another scholarship student, he had almost completed building a robot to help his elderly grandmother around the house when riots hit his town. He's now brought the robot with him and works on it constantly, as his way of dealing with the death of his grandmother, who raised him.  
 
 ### Daru
@@ -72,7 +72,7 @@ Raised by radical PROTO-VIRS in the suburbs of Paris, is cheerfully extremely di
 
 ## Other characters
 
-### Petros
+### Tross
 One of the engineers coordinating the most recent batch of renovations for the Kennedy Station and a teaching assistant at Space University who specialises in space welding. Petros was once a MENDELEEVER at ISS Corps, and helped set up the MENDELEEVER forge.
 
 ### Adi
