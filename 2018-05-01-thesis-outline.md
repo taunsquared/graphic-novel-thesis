@@ -12,6 +12,8 @@ The horrors of our current society and the joys of our personal knowledge-buildi
 
 [Does modern neuroscience really help us understand behaviour?](https://massivesci.com/articles/neuroscience-behavior-vs-technology/)
 
+(Some stuff here about Evolutionary Cognitive Neuroscience theory and Ethology a la Lorenz and Tinbergen)
+
 [How theater, startup culture, and business history helped us become better neuroscientists](https://massivesci.com/articles/neuroscience-can-learn-from-theater/)
 
 Stories help us contextualize information, and can provide the emotional and historical perspective we need to see our reality in new ways. To fully explore how the assumptions we make about our brains affect our society and the ways we treat each other, I'd like to tell you a story about two teenagers in the final decade of the 21st century. Humans have reached Mars but still suffer on Earth from fake news, aggressive urbanization, and severe social stratification. In this world, Asoca, who wants to bring Earth's biodiversity into space, meets Min, a climate change refugee who just wants to help her family regain dignity and independence. Asoca believes that good leadership can bring about big changes with the least amount of suffering, while Min believes that only anarchy -- meaning both the freedom to do exactly what you want in addition to the empowerment and responsibility of truly understanding what you want in order to do it -- and systems robust in keeping power well distributed, will keep humans from enslaving each other for their own convenience. They fall in love, and deeply influence each other's model of the world before they part ways upon graduation. 
