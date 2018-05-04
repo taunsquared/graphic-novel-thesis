@@ -47,7 +47,7 @@ Another scholarship student, he had almost completed building a robot to help hi
 Grew up near a Formula 1 racing track and befriended the race car crews as a child. Has an incredible intuition for electronically-controlled mechanical systems. Loves ice-cream and eats it at least once a day. 
 
 ## MENDELEEVERS 
-generally preoccupied with the manipulation of materials, using both cutting-edge tech and simple old-fashioned methods. They combine techniques from chemistry, physics, and traditional hand crafts to build both beautiful and practical art and devices. They like to play "what if...in space?", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools. They maintain the machine shop, fabrication labs, and workspaces for traditional hand crafts.
+Generally preoccupied with the manipulation of materials, using both cutting-edge tech and simple old-fashioned methods. They combine techniques from chemistry, physics, and traditional hand crafts to build both beautiful and practical art and devices. They like to play "what if...in space?", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools. They maintain the machine shop, fabrication labs, and workspaces for traditional hand crafts.
 
 ### Marq
 A scholarship student full of mischevious energy and unstoppable cheerfulness. Loves to find ways of subverting the no smoking rules and runs homebrew experiments in his sleeping structure.
@@ -59,7 +59,7 @@ A surgeon's daughter, she is extremely meticulous and hygienic, both physically 
 Party girl from a small beach town who creates her own light- and sound-interactive costumes and outfits using homegrown bio-compatible silicon circuits. Child of PROTO-VIRS. 
 
 ### Clavel
-Loves carpentry and woodwork. Always carries small knives for whittling. The knives are handmade gifts from his uncle Petros, who is a space welder at Space University. Petros visits Clavel often at the ISS Corps. 
+Loves carpentry and woodwork. Always carries small knives for whittling. The knives are handmade gifts from his uncle Tross, who is a space welder at Space University. Tross visits Clavel often at the ISS Corps. 
 
 ## INFRADESTRUCTORS
 Preoccupied with understanding the basic facilities, services, and installations needed for the healthy functioning of a society or organization, and with "un-black-boxing" these facilities, services, and installations (meaning that they want to know how things like plumbing, electricity, sewage systems, etc work, and then they want to modify these systems and document these systems well enough that other people can play/hack with them). They liase with the station management team and maintain the utilities shared by the home crews.
@@ -68,12 +68,12 @@ Preoccupied with understanding the basic facilities, services, and installations
 Obsessed with video games, reactive computing systems, and food. A workaholic, he's always experimenting with the latest "instant nutrition" food products to find the perfect balance of delicious taste and super-fast, convenient prep. 
 
 ### Ceddit
-Raised by radical PROTO-VIRS in the suburbs of Paris, is cheerfully extremely distrustful of all authority and was raised without any pharmaceutical mood stabilizers, which is now considered very rare and potentially dangerous. His father was a space shuttle pilot who died when his shuttle collided with some space debris, which raised public awareness of space debris and convinced the **SPACE CONSORTIUM** to create a sector in charge of monitoring, moving, and destroying space debris. 
+Raised by radical PROTO-VIRS in the suburbs of Paris, his biological parents were space shuttle pilots who died when their shuttle collided with some space debris. The accident was one of three major disasters which raised public awareness of space debris and convinced the **SPACE CONSORTIUM** to create a sector in charge of monitoring, moving, and destroying space debris. 
 
 ## Other characters
 
 ### Tross
-One of the engineers coordinating the most recent batch of renovations for the Kennedy Station and a teaching assistant at Space University who specialises in space welding. Petros was once a MENDELEEVER at ISS Corps, and helped set up the MENDELEEVER forge.
+Tross was once a MENDELEEVER at ISS Corps, and is the only youth cadet in the history of the ISS Corps to graduate in one year. His family are PROTO-VIRS that lived so remotely that they managed to escape the EPIDEMIC that wiped out the Lost Generation. He fell in love with forging at an early age, and his parents encouraged him, to the point where by the time he was 17 he was proficient at working metal in any and every environment, including underwater. He spent one year at the ISS Corps learning space welding at a blinding pace, while video blogging the whole process simultaneously. 
 
 ### Adi
 An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
