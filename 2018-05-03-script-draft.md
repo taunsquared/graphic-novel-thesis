@@ -1,23 +1,3 @@
-# working title
-
-[How the assumptions we make about our brains affect our society and the ways we treat each other.](http://www.danbeekim.org/open-lab-notebook/)
-
-# abstract
-
-Once upon a time, a little less than one hundred years in the future, education is still in crisis, cities are overcrowded, and rural communities are dying. But we've made it to Mars, and the allure of technology and materialism continues to fuel steep social stratification. Natural spaces on the planet are dwindling into those few areas which are explicitly protected by government or corporate interests, which are again turning less and less towards preserving the Earth's biological heritage and more towards winning the race to control and exploit the Earth's resources. In these last decades of the 21st century, the economic ratrace births a rather unusual school called the International Space Station (ISS) Corps, where teen-aged youth cadets live, study, and work at maintenance and launch stations for ISS space shuttles. While learning how to design, build, and maintain space shuttles, youth cadets also conduct field neuroscience experiments as part of collaborative, self-directed research teams. 
-
-The horrors of our current society and the joys of our personal knowledge-building experiences are reflected in this science fiction graphic novel, which we use to help us see our familiar reality in new ways. This thesis presents two pressing needs in our society: 1) re-learning how to build trust, and 2) regaining our evolutionary ability to distribute ourselves across various environments, as we find ourselves maladapted to survive without our infrastructures of convenience within increasingly over-crowded cities. This thesis proposes to tackle both objectives with better teaching, and discusses how neuroscience can guide this endeavor. 
-
-# background
-
-[Does modern neuroscience really help us understand behaviour?](https://massivesci.com/articles/neuroscience-behavior-vs-technology/)
-
-(Some stuff here about Evolutionary Cognitive Neuroscience theory and Ethology a la Lorenz and Tinbergen)
-
-[How theater, startup culture, and business history helped us become better neuroscientists](https://massivesci.com/articles/neuroscience-can-learn-from-theater/)
-
-Stories help us contextualize information, and can provide the emotional and historical perspective we need to see our reality in new ways. To fully explore how the assumptions we make about our brains affect our society and the ways we treat each other, I'd like to tell you a story about two teenagers in the final decade of the 21st century. Humans have reached Mars but still suffer on Earth from fake news, aggressive urbanization, and severe social stratification. In this world, Asoca, who wants to bring Earth's biodiversity into space, meets Min, a climate change refugee who just wants to help her family regain dignity and independence. Asoca believes that good leadership can bring about big changes with the least amount of suffering, while Min believes that only anarchy -- meaning both the freedom to do exactly what you want in addition to the empowerment and responsibility of truly understanding what you want in order to do it -- and systems robust in keeping power well distributed, will keep humans from enslaving each other for their own convenience. They fall in love, and deeply influence each other's model of the world before they part ways upon graduation. 
-
 # Methods, Materials, Results, and Discussion
 
 Formatting note: *script vomit is in italics*, **descriptions of the plot are in bold**, **BOLD NAMES IN ALL CAPS ARE PLACEHOLDERS**.
@@ -88,9 +68,59 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 **Asoca hasn't told anyone besides Min yet, but she also plans to graduate this year. Asoca has realised that the "human brain == computer" analogy destoys our ability to build trust, in each other and in our own selves, because we become conditioned to believe that learning to how to trust can be reduced to a quantifiable optimization function. Together, Asoca and Min are realising that humans cannot advance as a super-organism until we re-learn how to build trust, and we regain our evolutionary ability to spread out to where there is room and resources for us instead of being stuck in increasingly over-crowded locations because we've forgotten how to survive without our infrastructures of convenience. During this final year, they share their dreams with each other. Asoca wants to liberate the PROTO-VIRS by building space farms, and creating green spaces for growing food and natural life cycles that are out of the reach of the SPACE CONSORTIUM and any haphazard overflow of the aggressive urbanization still ravaging the Earth. Min wants to make space travel accessible to anyone but especially the now impoverished and homeless refugees from WEST AMERICA. She feels that refugees can have a second chance by becoming space nomads, and building homes for themselves that are safe from climate change and ignorant politicians trying to standardize procedures for populations too large and diverse to be standardized. They promise to be strong in their goals, even though they must part ways: Asoca will go to Space University, while Min has chosen to stay with the ISS Corps.**
 
-# Conclusion
+# Timeline
 
-eLife paper about Field Neuroscience/Neuro-in-situ goes here?
+2045, May - Eithne born.
+
+2046, Dec to 2048, December - **GREAT NORTH AMERICAN WAR OF 2047**
+
+2050, November - João born.
+
+2047, November - **SPACE CONSORTIUM** begins to slowly and secretly increase the level of **MOOD STABILIZERS** in several major North American and European cities counter to their interests, who also happen to have large **PROTO-VIRS** populations. By 2048, May, **MOOD STABILIZER** levels in the water supply of these cities has reached levels known to stunt emotional maturity in teenagers, and to completely damage pre-pubescent brains to the point where they cannot express any emotional fluctuations or engage in emotional communication, a condition commonly called "Unreachable". This move turns out to be crucial to ending the war. 
+
+2048, April - Eithne's parents killed in **US NAVAL STRIKE IN INTERNATIONAL WATERS**, and she is taken in by her **PROTO-VIRS** aunt and uncle. 
+
+2049, February - **WEST AMERICA**'s new government signs and declares a new constitution.
+
+2056, March - An enormous fire destroys João's family farm in the Amazon River Basin. 
+
+2058, January - João and his family arrive in Devon, where João's father knows a friend from uni. They work for this friend on the friend's farm. This friend's sister is an agro researcher at **GREEN HAVEN DEVON**, and they send their kids to the **GREEN HAVEN DEVON** school. João's parents are encouraged to send João as well. 
+
+2061, Sept - Eithne arrives at the ISS Corps. 
+
+2064, June - Eithne graduates from the ISS Corps. 
+
+2064, Sept - Eithne begins training at Space University. 
+
+2068, June - Eithne graduates from Space University
+
+2070, August - Eithne arrives at **GREEN HAVEN DEVON** to conduct post-graduate research.
+
+2071, Oct - Eithne and João meet. 
+
+2076, July - Eithne obtains her post-graduate certification as an expert in exo-hydroponics. 
+
+2076, Sept - Eithne and João accept positions as research scientists at **GREEN HAVEN SHETLAND**. 
+
+2077, May - Eithne and João obtain a Reproductive License. 
+
+2077, August - Min is born
+
+2078, February - Asoca is born
+
+2092, June - Colorado River dries up, **WEST AMERICA**'s cities dissolve into riots
+
+2093, Jan - Min and her family leave Berkeley, **WEST AMERICA** and travel to Vancouver, Canada. 
+
+2094, May - Min succesfully applies to the ISS Corps and is accepted as a "scholarship student".
+
+2094, Sept - Min arrives at the ISS Corps.
+
+2095, Sept - Asoca arrives at the ISS Corps.
+
+2096, Sept - Asoca and Min begin their last year at the ISS Corps
+
+2097, June - Asoca and Min graduate from the ISS Corps
 
 # Supplementary Materials
 
