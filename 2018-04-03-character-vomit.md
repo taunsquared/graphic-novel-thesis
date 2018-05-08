@@ -34,6 +34,23 @@ Though Min finds satisfaction and comfort in the predictable logic of mathematic
 
 Min's mother is a Korean mathematician born in Seoul, who worked on the **SPACE CONSORTIUM ANSIBLE PROJECT** as a young math prodigy until she found out that the satellite she was building would be used to censor space communications and monitor academics suspected of harboring critical views towards the **SPACE CONSORTIUM**. She and a group of colleagues tried to blow the whistle on the **SPACE CONSORTIUM**, but the **SPACE CONSORTIUM** was able to cover everything up. In the aftermath, Min's mother left her position at the **SPACE CONSORTIUM ANSIBLE PROJECT** and became a maths professor at SungKyungKwan University (SKKU). While working a side hustle as a music reviewer for a local newspaper, she attended an **ARTIVISTS INTERNATIONAL** concert where she met Min's father. Min's father is a musician activist/hacker from Berkeley, California in West America, who is amongst the many that believe that the **SPACE CONSORTIUM** instigated the **GREAT NORTH AMERICAN WAR OF 2047**, which divided the old United States of America into 4 new nations: West America, New Texas, Appalachia, and New England. Min's father is one of many musicians touring with **ARTIVISTS INTERNATIONAL**, whose concerts use music and art to protest, among other things, the application of the ansible for secret government surveillance and military oppression. Min's mother and father stayed in touch even after **ARTIVISTS INTERNATIONAL** left Korea to continue with their world tour. Two years later, Min's mother came to University of California, Berkeley for a sabbatical, and ended up marrying Min's father and staying in West America. She leaves academia to teach high school maths, and she and her husband raise Min to be an outspoken, pro-active citizen who demands transparency and checks on the powers of politicians.   
 
+# Secondary Characters
+
+## Zalo
+A youth cadet of the INFRADESTRUCTORS home crew. He's obsessed with video games, reactive computing systems, and food. A workaholic, he's always experimenting with the latest "instant nutrition" food products to find the perfect balance of delicious taste and super-fast, convenient prep. 
+
+## Tross
+Tross was once a MENDELEEVER at ISS Corps, and is the only youth cadet in the history of the ISS Corps to graduate in one year. His family are PROTO-VIRS that lived so remotely that they managed to escape the EPIDEMIC that wiped out the Lost Generation. He fell in love with forging at an early age, and his parents encouraged him, to the point where by the time he was 17 he was proficient at working metal in any and every environment, including underwater. He spent one year at the ISS Corps learning space welding at a blinding pace, while video blogging the whole process simultaneously. But though he left the ISS Corps an ebullient hero, the robotic corporate-mindedness of Space University is making him jaded and apathetic. He grows resentful of space welding for being so close to what he wants (forging) and yet so far. 
+
+Tross comes back to the ISS Corps to visit CLAVEL and also to use the MENDELEEVERS forge. Hand-forging is considered an indulgent traditional craft, environmentally irresponsible for its use of coal fires and impractical for the sleek, high-precision machinery desired by the mainstream. So even Space University doesn't have a hand-forging setup. Tross has worked out an agreement with Space University and ISS Corps where he's allowed to come use the MENDELEEVERS forge for one week out of every four, to work on whatever he liked, so long as he helped maintain the space and did some teaching to the youth cadets. Tross ends up around the ISS Corps about once a week, to check in on the space and hold open office hours for students interested in metal working and space welding. When his one week to have the forge to himself comes around, he practically falls off the face of the earth, he spends so much time forging, barely eating. 
+
+Because he's raised by PROTO-VIRS, he knows how to take the government's tests and how to behave in front of surveillance cameras to escape the algorithms that flag citizens for extra mood-stabilizers, should they seem to be growing too emotionally volatile, or too curious, or critical of the government. Tross has, like most PROTO-VIRS children, been able to escape being fitted with a neural mod, but this also means that the algorithms are on higher alert when analysing him and others without neural mods. Though Tross is naturally rather cheerful and spontaneous, Space University is starting to get to him, and he finds that even little things, if they mess with his expectations, can send him into a rage. He's learning to control his anger by pushing all of his resentment into furious energy for forging. 
+
+Asoca becomes fascinated by Tross, and they develop a close friendship. Though their relationship is very intellectual and deeply emotional, Asoca also sometimes spends the night with Tross in the guest sleeping space next to the MENDELEEVERS forge. 
+
+## PQ
+A security guard at the Kennedy Station and good friend of Min. When Min first came to the ISS Corps and was struggling to juggle her studies with her scholarship work, PQ told Min that whenever she needed extra study time to come work join PQ's security shift at the front reception, where she could easily study in the down times between front desk duties. PQ and Min bond over their love of music, especially music with powerful messages about society, emotions, healthy relationships, and self-awareness. 
+
 # Other ISS Corps youth cadets
 
 ## CIRQUE DU COSMIQUE
@@ -72,19 +89,10 @@ Loves carpentry and woodwork. Always carries small knives for whittling. The kni
 ## INFRADESTRUCTORS
 Preoccupied with understanding the basic facilities, services, and installations needed for the healthy functioning of a society or organization, and with "un-black-boxing" these facilities, services, and installations (meaning that they want to know how things like plumbing, electricity, sewage systems, etc work, and then they want to modify these systems and document these systems well enough that other people can play/hack with them). They liase with the station management team and maintain the utilities shared by the home crews.
 
-### Zalo
-Obsessed with video games, reactive computing systems, and food. A workaholic, he's always experimenting with the latest "instant nutrition" food products to find the perfect balance of delicious taste and super-fast, convenient prep. 
-
 ### Ceddit
 Raised by radical PROTO-VIRS in the suburbs of Paris, his biological parents were space shuttle pilots who died when their shuttle collided with some space debris. The accident was one of three major disasters which raised public awareness of space debris and convinced the **SPACE CONSORTIUM** to create a sector in charge of monitoring, moving, and destroying space debris. 
 
 ## Other characters
 
-### Tross
-Tross was once a MENDELEEVER at ISS Corps, and is the only youth cadet in the history of the ISS Corps to graduate in one year. His family are PROTO-VIRS that lived so remotely that they managed to escape the EPIDEMIC that wiped out the Lost Generation. He fell in love with forging at an early age, and his parents encouraged him, to the point where by the time he was 17 he was proficient at working metal in any and every environment, including underwater. He spent one year at the ISS Corps learning space welding at a blinding pace, while video blogging the whole process simultaneously. 
-
 ### Adi
 An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
-
-### PQ
-A security guard at the Kennedy Station and good friend of Min. When Min first came to the ISS Corps and was struggling to juggle her studies with her scholarship work, PQ told Min that whenever she needed extra study time to come work join PQ's security shift at the front reception, where she could easily study in the down times between front desk duties. PQ and Min bond over their love of music, especially music with powerful messages about society, emotions, healthy relationships, and self-awareness. 
