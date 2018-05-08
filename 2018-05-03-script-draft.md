@@ -48,11 +48,11 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 ## Chapter 4: THE CUTTLE SHUTTLE
 
-**Min is one of many of cadets who share an appreciation (some might say obsession) with cephalopods. Last year the OCEAN SCIENCE CREW did an intensive observation study of freely-swimming cuttlefish in an environment where they can hunt "robotic prey" (Cuttle Shuttle), and they now want to analyze the video and figure out how to apply the movement stabilization that cuttlefish achieve during tentacle shots to human space swimming techniques and space module connection protocols. The first challenge that must be solved is to define the tentacle shot pattern in a way that a computer can understand. The next challenge is to teach a computer to reliably track an animal that is evolved to actively camouflage against predators that rely on visual tracking. Once the automated tracking allows the crew to have standardized video clips of every tentacle shot recorded in the video dataset, the next challenge is to decide how to visualize, find, and interpret patterns found within these video clips. The final challenge would be to then translate the movement patterns from cuttlefish in water to human or mechanical bodies in outer space. These will be the goals of OCEAN SCIENCE CREW this year.** 
+**Min is one of many of cadets who share an appreciation (some might say obsession) with cephalopods. Last year the OCEAN SCIENCE CREW did an intensive observation study of freely-swimming cuttlefish in an environment where they can hunt "robotic prey" (Cuttle Shuttle), and they now want to analyze the video and figure out how to apply the movement stabilization that cuttlefish achieve during tentacle shots to human space swimming techniques and space module connection protocols.** 
 
-**The OCEAN SCIENCE CREW consists of Min; her crew co-captain ZALO, from the INFRADESTRUCTORS crew, who helped build the environment and observation rig, in addition to helping program the robotic prey used to entice the cuttlefish into behaving; JOERRY, also of CIRQUE DU COSMIQUE, who knows how to raise cuttlefish in capitivity and is considered the local animal husbandry expert; TEHBAN, from the CYBERPHILIA crew, to do the automated tracking and video dataset digestion; CEDDIT, also from the INFRADESTRUCTORS crew, to translate the cuttlefish movements to the human body in order to present a report on the cuttlefish research's applicability to improving space swimming techniques (HIVE TRACKER). RHEE of the MENDELEEVERS, another first-year cadet, also joins the OCEAN SCIENCE CREW. ADI, an ISS Corps professor on the teaching staff for "Health and Well-Being in Space", is their faculty mentor.**
+**The OCEAN SCIENCE CREW consists of Min; her crew co-captain ZALO, from the INFRADESTRUCTORS crew, who helped build the environment and observation rig, in addition to helping program the robotic prey used to entice the cuttlefish into behaving; JOERRY, also of CIRQUE DU COSMIQUE, who knows how to raise cuttlefish in capitivity and is considered the local animal husbandry expert; TEHBAN, from the CYBERPHILIA crew, who works on the automated tracking and video dataset digestion; CEDDIT, also from the INFRADESTRUCTORS crew, who builds "movement translators" which map the cuttlefish movements to the human body in order to present a report on the cuttlefish research's applicability to improving space swimming techniques (HIVE TRACKER). RHEE of the MENDELEEVERS, another first-year cadet, also joins the OCEAN SCIENCE CREW. ADI, an ISS Corps professor on the teaching staff for "Health and Well-Being in Space", is their faculty mentor.**
 
-**Asoca becomes interested in the Cuttle Shuttle project for its applications to space modules and space architecture, and joins the OCEAN SCIENCE CREW. As Asoca and Min work together, they have many conversations expressing their philosophies about teaching and society, and realise that they share some fundamental values, even though they have different plans of action deriving from those values. They realise that they both believe in the power of education and the necessity of subversion and critical thought in a society, but Asoca believes that a wise leader can best nurture these two cultural tools, and Min believes that individuals must maintain constant vigilance against leaders using these two cultural tools.**
+**Asoca becomes interested in the Cuttle Shuttle project for its applications to space modules and space architecture, and joins the OCEAN SCIENCE CREW. As Asoca and Min work together, they have many conversations expressing their philosophies about teaching and society, and realise that they share some fundamental values, even though they have different plans of action deriving from those values. They realise that they both believe in the power of education and the necessity of subversion and critical thought in a society, but Asoca believes that a wise leader can best nurture these two cultural tools, and Min believes that individuals must maintain constant vigilance against leaders using these two cultural tools.** 
 
 ## Chapter 5: WHAT IS CLASS?
 
@@ -70,57 +70,119 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 # Timeline
 
-2045, May - Eithne born.
+2042, March - Sung-soo born in Berkeley, California.
 
-2046, Dec to 2048, December - **GREAT NORTH AMERICAN WAR OF 2047**
+2044, December - Jina born in Seoul. 
 
-2050, November - João born.
+2045, May - Eithne born in Shetland.
+
+2046, Dec - **GREAT NORTH AMERICAN WAR OF 2047** begins. 
 
 2047, November - **SPACE CONSORTIUM** begins to slowly and secretly increase the level of **MOOD STABILIZERS** in several major North American and European cities counter to their interests, who also happen to have large **PROTO-VIRS** populations. By 2048, May, **MOOD STABILIZER** levels in the water supply of these cities has reached levels known to stunt emotional maturity in teenagers, and to completely damage pre-pubescent brains to the point where they cannot express any emotional fluctuations or engage in emotional communication, a condition commonly called "Unreachable". This move turns out to be crucial to ending the war. 
 
 2048, April - Eithne's parents killed in **US NAVAL STRIKE IN INTERNATIONAL WATERS**, and she is taken in by her **PROTO-VIRS** aunt and uncle. 
 
+2048, December - **GREAT NORTH AMERICAN WAR OF 2047** ends. 
+
 2049, February - **WEST AMERICA**'s new government signs and declares a new constitution.
 
+2050, November - João born in Brazil.
+
 2056, March - An enormous fire destroys João's family farm in the Amazon River Basin. 
+
+2057, February - Sung-soo releases his first EP. 
 
 2058, January - João and his family arrive in Devon, where João's father knows a friend from uni. They work for this friend on the friend's farm. This friend's sister is an agro researcher at **GREEN HAVEN DEVON**, and they send their kids to the **GREEN HAVEN DEVON** school. João's parents are encouraged to send João as well. 
 
 2061, Sept - Eithne arrives at the ISS Corps. 
 
+2063, August - Sung-soo joins **ARTIVISTS INTERNATIONAL** as an "Exceptional Young Musician". 
+
 2064, June - Eithne graduates from the ISS Corps. 
+
+2064, August - Jina begins working at **SPACE CONSORTIUM ANSIBLE PROJECT**. 
 
 2064, Sept - Eithne begins training at Space University. 
 
+2065, January - Sung-soo releases his first album as part of **ARTIVISTS INTERNATIONAL** and departs on his first world tour with **ARTIVISTS INTERNATIONAL**, with shows in England, France, Portugal, Germany, Romania, India, Thailand, Australia, and New Zealand. 
+
+2066, September - Sung-soo returns to Berkeley. 
+
+2066, October - Jina first realises that the tech being developed in the **ANSIBLE PROJECT** is covertly planned for massive censorship and surveillance by governments. 
+
+2067, June - Jina and some colleagues present evidence of illegal censorship and surveillance plans by the **SPACE CONSORTIUM** in an attempt to block this use of the **ANSIBLE PROJECT**. Jina and friends lose *THE PEOPLE VS SPACE CONSORTIUM*. 
+
+2068, March - Jina resigns from **SPACE CONSORTIUM ANSIBLE PROJECT**. 
+
 2068, June - Eithne graduates from Space University
+
+2068, August - Jina is hired as a maths professor at SungKyungKwan University. 
+
+2068, November - Sung-soo releases his second personal album. 
+
+2070, July - Sung-soo releases his second **ARTIVISTS INTERNATIONAL** album.
 
 2070, August - Eithne arrives at **GREEN HAVEN DEVON** to conduct post-graduate research.
 
+2071, March - Sung-soo departs for the second world tour, with shows in Morocco, Egypt, Turkey, Singapore, Hong Kong, Taiwan, Shanghai, Seoul, Busan, Tokyo, Mexico City, Santiago, Buenos Aires. 
+
 2071, Oct - Eithne and João meet. 
+
+2071, November - Jina and Sung-soo meet in Seoul at an **ARTIVISTS INTERNATIONAL** concert. 
+
+2072, May - Sung-soo returns to Berkeley. 
+
+2074, January - Jina arrives at UC Berkeley for her sabbatical. 
+
+2074, November - Jina and Sung-soo release the album "**MATHEMAGICAL**", to critical acclaim. 
+
+2075, April - Jina submits her letter of resignation from her post as mathematics professor at SungKyungKwan University, effective at the end of the semester. 
+
+2075, Sept - Jina begins teaching high school maths. 
 
 2076, July - Eithne obtains her post-graduate certification as an expert in exo-hydroponics. 
 
+2076, August - Sung-soo and Jina move into their new warehouse space in Berkeley.
+
+2076, August - Tross is born in ???. 
+
 2076, Sept - Eithne and João accept positions as research scientists at **GREEN HAVEN SHETLAND**. 
+
+2076, December - Jina and Sung-soo obtain a Reproductive License. 
 
 2077, May - Eithne and João obtain a Reproductive License. 
 
-2077, August - Min is born
+2077, August - Min is born.
 
-2078, February - Asoca is born
+2078, February - Asoca is born.
 
-2092, June - Colorado River dries up, **WEST AMERICA**'s cities dissolve into riots
+2092, June - Colorado River dries up, **WEST AMERICA**'s cities dissolve into riots.
+
+2092, August - Min gets her first theremin, hand-made by Sung-soo and Jina.
+
+2092, Sept - Tross arrives at the ISS Corps.
 
 2093, Jan - Min and her family leave Berkeley, **WEST AMERICA** and travel to Vancouver, Canada. 
+
+2093, June - Tross graduates from the ISS Corps.
+
+2093, Sept - Zalo arrives at the ISS Corps. Tross arrives at Space University and begins his first year as a Space University Journeyman. 
 
 2094, May - Min succesfully applies to the ISS Corps and is accepted as a "scholarship student".
 
 2094, Sept - Min arrives at the ISS Corps.
 
-2095, Sept - Asoca arrives at the ISS Corps.
+2095, Sept - Asoca arrives at the ISS Corps and meets Min. 
 
-2096, Sept - Asoca and Min begin their last year at the ISS Corps
+2096, February - Asoca meets Tross. 
 
-2097, June - Asoca and Min graduate from the ISS Corps
+2096, June - Zalo graduates from the ISS Corps. 
+
+2096, Sept - Asoca and Min begin their last year at the ISS Corps. Zalo begins his first year as an ISS Corps Journeyman. 
+
+2096, November - Tross "disappears". 
+
+2097, June - Asoca and Min graduate from the ISS Corps.
 
 # Supplementary Materials
 
