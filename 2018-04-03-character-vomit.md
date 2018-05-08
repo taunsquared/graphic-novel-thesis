@@ -60,6 +60,9 @@ Because he's raised by PROTO-VIRS, he knows how to take the government's tests a
 
 Asoca becomes fascinated by Tross, and they develop a close friendship. Though their relationship is very intellectual and deeply emotional, Asoca also sometimes spends the night with Tross in the guest sleeping space next to the MENDELEEVERS forge. 
 
+### Adi
+An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
+
 ## PQ
 A security guard at the Kennedy Station and good friend of Min. When Min first came to the ISS Corps and was struggling to juggle her studies with her scholarship work, PQ told Min that whenever she needed extra study time to come work join PQ's security shift at the front reception, where she could easily study in the down times between front desk duties. PQ and Min bond over their love of music, especially music with powerful messages about society, emotions, healthy relationships, and self-awareness. 
 
@@ -106,5 +109,4 @@ Raised by radical PROTO-VIRS in the suburbs of Paris, his biological parents wer
 
 ## Other characters
 
-### Adi
-An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
+
