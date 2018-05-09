@@ -188,6 +188,10 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 2097, June - Asoca and Min graduate from the ISS Corps.
 
+# Quotes and notes to incorporate
+
+"I can't wait to see modified humans with displays on their skin!!...and I'm dreaming about haptic interface that would allow sending data in the other way ;p" -- Cedric
+
 # Supplementary Materials
 
 [Scientific Philosophy and Ethics](http://www.danbeekim.org/open-lab-notebook/scientific-philosophy-ethics/)
