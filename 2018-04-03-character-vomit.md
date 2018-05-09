@@ -69,7 +69,7 @@ Because he's raised by PROTO-VIRS, he knows how to take the government's tests a
 
 Asoca becomes fascinated by Tross, and they develop a close friendship. Though their relationship is very intellectual and deeply emotional, Asoca also sometimes spends the night with Tross in the guest sleeping space next to the MENDELEEVERS forge. 
 
-### Adi
+## Adi
 An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades" and one of the founding members of the ISS Corps. Enjoys gambling and often wins. Considered eccentric and unconventional, he has been the main push behind most of the progressive educational programs at the ISS Corps. 
 
 ## PQ
@@ -112,7 +112,4 @@ Preoccupied with understanding the basic facilities, services, and installations
 
 ### Ceddit
 Raised by radical PROTO-VIRS in the suburbs of Paris, his biological parents were space shuttle pilots who died when their shuttle collided with some space debris. The accident was one of three major disasters which raised public awareness of space debris and convinced the **SPACE CONSORTIUM** to create a sector in charge of monitoring, moving, and destroying space debris. 
-
-## Other characters
-
 
