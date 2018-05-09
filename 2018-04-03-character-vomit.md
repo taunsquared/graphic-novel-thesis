@@ -51,6 +51,15 @@ Upon his return to Berkeley, Sung-soo wrote a new album, in large part inspired 
 ## Zalo
 A youth cadet of the INFRADESTRUCTORS home crew. He's obsessed with video games, reactive computing systems, and food. A workaholic, he's always experimenting with the latest "instant nutrition" food products to find the perfect balance of delicious taste and super-fast, convenient prep. 
 
+## Rhee
+A surgeon's daughter, she is extremely meticulous and hygienic, both physically and emotionally. She also has a very macabre sense of humour and is fascinated by the mental disorders that can afflict those who spend long periods of time in space without going planetside. 
+
+## Oana
+Party girl from a small beach town who creates her own light- and sound-interactive costumes and outfits using homegrown bio-compatible silicon circuits. Child of PROTO-VIRS. 
+
+## Alex 
+A youth cadet who drops out after their first semester at ISS Corps. 
+
 ## Tross
 Tross was once a MENDELEEVER at ISS Corps, and is the only youth cadet in the history of the ISS Corps to graduate in one year. His family are PROTO-VIRS that lived so remotely that they managed to escape the EPIDEMIC that wiped out the Lost Generation. He fell in love with forging at an early age, and his parents encouraged him, to the point where by the time he was 17 he was proficient at working metal in any and every environment, including underwater. He spent one year at the ISS Corps learning space welding at a blinding pace, while video blogging the whole process simultaneously. But though he left the ISS Corps an ebullient hero, the robotic corporate-mindedness of Space University is making him jaded and apathetic. He grows resentful of space welding for being so close to what he wants (forging) and yet so far. 
 
@@ -61,10 +70,13 @@ Because he's raised by PROTO-VIRS, he knows how to take the government's tests a
 Asoca becomes fascinated by Tross, and they develop a close friendship. Though their relationship is very intellectual and deeply emotional, Asoca also sometimes spends the night with Tross in the guest sleeping space next to the MENDELEEVERS forge. 
 
 ### Adi
-An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades". Enjoys gambling and often wins. 
+An ISS Corps professor and PROTO-VIRS on the teaching staff for "Health and Well-Being in Space", who mentors the OCEAN SCIENCE CREW. Super charismatic and energetic, he is a "jack of all trades" and one of the founding members of the ISS Corps. Enjoys gambling and often wins. Considered eccentric and unconventional, he has been the main push behind most of the progressive educational programs at the ISS Corps. 
 
 ## PQ
 A security guard at the Kennedy Station and good friend of Min. When Min first came to the ISS Corps and was struggling to juggle her studies with her scholarship work, PQ told Min that whenever she needed extra study time to come work join PQ's security shift at the front reception, where she could easily study in the down times between front desk duties. PQ and Min bond over their love of music, especially music with powerful messages about society, emotions, healthy relationships, and self-awareness. 
+
+## Rogon
+An older ISS Corps professor, who became prominent in the scientific research world for incredible work funded by militaries. Rather set in his ways, he finds it difficult to empathize with the newer, younger generation of scientists. He believes that going to university should be about learning how to think, not learning how to get a job. This is complicated by the fact that he has tenure and is rather removed from the pressures of anyone who doesn't have a permanently guaranteed salary. 
 
 # Other ISS Corps youth cadets
 
@@ -91,12 +103,6 @@ Generally preoccupied with the manipulation of materials, using both cutting-edg
 
 ### Marq
 A scholarship student full of mischevious energy and unstoppable cheerfulness. Loves to find ways of subverting the no smoking rules and runs homebrew experiments in his sleeping structure.
-
-### Rhee
-A surgeon's daughter, she is extremely meticulous and hygienic, both physically and emotionally. She also has a very macabre sense of humour and is fascinated by the mental disorders that can afflict those who spend long periods of time in space without going planetside. 
-
-### Oana
-Party girl from a small beach town who creates her own light- and sound-interactive costumes and outfits using homegrown bio-compatible silicon circuits. Child of PROTO-VIRS. 
 
 ### Clavel
 Loves carpentry and woodwork. Always carries small knives for whittling. The knives are handmade gifts from his uncle Tross, who is a space welder at Space University. Tross visits Clavel often at the ISS Corps. 
