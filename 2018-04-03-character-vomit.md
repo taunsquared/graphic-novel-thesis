@@ -13,7 +13,7 @@ Soca's childhood education was a mix of European elite (voice lessons, chemistry
 
 Eithne is a government funded agricultural researcher and a member of the **PROTO-VIRS**, which was started by urban farmers who turned abandoned million-dollar apartments into urban farming schools. She is an alum of both the ISS Corps and Space University -- Eithne graduated with a specialization in exo-biology, then conducted post-graduate research on exo-hydroponics. 
 
-A bit of a wild child and always quite headstrong, Eithne was born in Shetland during the **GREAT NORTH AMERICAN WAR OF 2047**. Her parents were one of many fishing communities who helped smuggle scientists and academics out of North America to escape persecution. Unfortunately, they were killed by a **US NAVAL VESSEL** that found them in international waters before they could return to the safety of Shetland. Eithne was then taken in by her **PROTO-VIRS** aunt and uncle on the **GREEN HAVEN SHETLAND** research station, and helped care for their son **YOHAN**, an Unreachable. 
+A bit of a wild child and always quite headstrong, Eithne was born in Iceland during the **GREAT NORTH AMERICAN WAR OF 2047**. Her parents were one of many fishing communities who helped smuggle scientists and academics out of North America to escape persecution. Unfortunately, they were killed by a **US NAVAL VESSEL** that found them in international waters before they could return to the safety of Iceland. Eithne was then taken in by her **PROTO-VIRS** aunt and uncle on the **GREEN HAVEN SHETLAND** research station, and helped care for their son **YOHAN**, an Unreachable. 
 
 ### Father: João 
 
