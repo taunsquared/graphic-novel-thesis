@@ -32,7 +32,7 @@ Corporate shill: *"We cannot allow the unrest in **WEST AMERICA** to disrupt the
 
 **The Climate Change Reality Project has now trained so many people in the world that all kinds of grassroots environmental organizations have started to incubate quite naturally, as more and more people develop sustainable daily habits and sensibilities. Unfortunately they are still massively outnumbered by those still tied to life in the huge urban centers, where every amenity could be delivered, straight to your bed in some cases, for an easy, "convenient" price. The fake news crisis revealed just how truly incapable humans had become at building trust, and the distrustful masses now lean heavily on brand names to flag trustworthy sources of information and moral judgement.**
 
-**A new generation of urban farmers, PROTO-VIRS, living at the fringes of these urban tumours have been taking over abandoned million-dollar apartments (another "convenient" price, just half the price of last year's Volkwagon e-Mini, perfect for your government mandated 2-children limited family! *plastic smile*) and turning them into permaculture farming schools. After a decade of bliss, the SPACE CONSORTIUM found the PROTO-VIRS graduates so competent and their urban farming so successful that SPACE CONSORTIUM offered to protect the PROTO-VIRS farms from the onslaught of urban development in exchange for full access to the PROTO-VIRS's agricultural research. The PROTO-VIRS refused, so the SPACE CONSORTIUM filled their water with an overdose of "mood stabilizers" and destroyed their childrens' minds, but of course the PROTO-VIRS were unable to prove that the SPACE CONSORTIUM was responsible. So the PROTO-VIRS took in a generation of orphans, and taught them how to score perfectly average and docile on all of the governments' tests, thus escaping any need for mood stabilizers. In time, the PROTO-VIRS were incorporated into the SPACE CONSORTIUM.**
+**A new generation of urban farmers and neuroscientists, PROTO-VIRS, living at the fringes of these urban tumours have been taking over abandoned million-dollar apartments (another "convenient" price, just half the price of last year's Volkwagon e-Mini, perfect for your government mandated 2-children limited family! *plastic smile*) and turning them into permaculture research schools. After a decade of bliss, the SPACE CONSORTIUM realised that the PROTO-VIRS community was a) spearheading impressive projects to consistently high-quality results, and b) growing into a significant minority that could challenge SPACE CONSORTIUM's economic power. When the GREAT NORTH AMERICAN WAR OF 2047 broke out, SPACE CONSORTIUM offered to protect the PROTO-VIRS farms in exchange for full access to the PROTO-VIRS's agricultural research. The PROTO-VIRS refused, and during the war their children fell victim to an epidemic that left young people emotionally stunted forever. So the PROTO-VIRS studied their tragically damaged children and created a secret underground community of neuroscience research, in order to understand what had made them Unreachable. When they found out that their children were destroyed by an overdose of government mandated mood stabilizers, they realised that SPACE CONSORTIUM deliberately poisoned them. Of course the PROTO-VIRS were unable to prove that the SPACE CONSORTIUM was responsible, so they pledged to continue their underground neuroscience research. The PROTO-VIRS took in a generation of orphans, and taught them how to score perfectly average and docile on all of the governments' tests, thus escaping any need for mood stabilizers. In time, the PROTO-VIRS's permaculture research schools were incorporated into the SPACE CONSORTIUM, and their "successful" aspects were harvested as inspiration for the structure of the ISS Corps.**
 
 notes on the above: make this a story told by one character to another. maybe Min to Asoca? Or maybe a teacher?
 
@@ -78,7 +78,7 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 2044, December - Jina born in Seoul. 
 
-2045, May - Eithne born in Shetland.
+2045, May - Eithne born in Iceland.
 
 2046, Dec - **GREAT NORTH AMERICAN WAR OF 2047** begins. 
 
@@ -96,7 +96,7 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 2057, February - Sung-soo releases his first EP. 
 
-2058, January - João and his family arrive in Devon, where João's father knows a friend from uni. They work for this friend on the friend's farm. This friend's sister is an agro researcher at **GREEN HAVEN DEVON**, and they send their kids to the **GREEN HAVEN DEVON** school. João's parents are encouraged to send João as well. 
+2058, January - João and his family arrive in Devon, where João's father knows a friend from uni (**KRIENNA**). They work for **KRIENNA** on her farm. **KRIENNA**'s partner is an agro researcher at **GREEN HAVEN DEVON**, and they send their kids to the **GREEN HAVEN DEVON** school. João's parents are encouraged to send João there as well. 
 
 2061, Sept - Eithne arrives at the ISS Corps. 
 
@@ -148,7 +148,7 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 2076, August - Sung-soo and Jina move into their new warehouse space in Berkeley.
 
-2076, August - Tross is born in ???. 
+2076, August - Tross is born in Romania.  
 
 2076, Sept - Eithne and João accept positions as research scientists at **GREEN HAVEN SHETLAND**. 
 
@@ -160,7 +160,7 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 2078, February - Asoca is born.
 
-2092, June - Colorado River dries up, **WEST AMERICA**'s cities dissolve into riots.
+2092, June - Colorado River dries up, **WEST AMERICA**'s cities begin to dissolve into riots.
 
 2092, August - Min gets her first theremin, hand-made by Sung-soo and Jina.
 
