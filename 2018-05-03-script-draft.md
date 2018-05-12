@@ -2,23 +2,19 @@
 
 Formatting note: *script vomit is in italics*, **descriptions of the plot are in bold**, **BOLD NAMES IN ALL CAPS ARE PLACEHOLDERS**.
 
-## Chapter 1: LEAVING WEST AMERICA
+## Prologue: 
 
 *The great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of [Cascadia](https://en.wikipedia.org/wiki/Cascadia_(independence_movement)), sucked it dry in 2092, ruining that year's crops and sparking riots.*
 
-*The lack of sufficient alternatives has plunged the nation into a seemingly endless drought, and the anger, some righteous, has all turned into fear. The horrors of the [**GREAT NORTH AMERICAN WAR OF 2047** that birthed Cascadia](https://en.wikipedia.org/wiki/The_Nine_Nations_of_North_America) are still fresh in the minds of grandparents, but that doesn't stop the country from imploding into chaos and violence.*
+*[Not just North America,](https://en.wikipedia.org/wiki/The_Nine_Nations_of_North_America) but [the whole world, looks different now](https://www.nytimes.com/roomfordebate/2014/07/03/where-do-borders-need-to-be-redrawn/a-post-colonial-africa-drawn-by-nature-and-culture).  HIV and AIDS have become a forgotten disease, one you get vaccinated for as a baby in any half-decent hospital. But a new disease ravages the poor and oppressed of both overcrowded cities and desolate rural areas: the **MIND WIPE DISEASE**, which causes [anterograde amnesia](https://en.wikipedia.org/wiki/Anterograde_amnesia) and usually kills its victims through secondary causes, most commonly autoimmune disease and cardiovascular disease. Patient zero of **MIND WIPE DISEASE** occurred during the **GREAT WAR OF 2057**, but ever since then there's been major outbreaks every year. *
 
-*The **GLOBAL SPACE CONSORTIUM**, the world's largest corporation, ran the numbers and found that a civil war affecting one of their legacy technological strongholds, Silicon Valley, would be massively unprofitable.*
+*Out of the ashes of the **GREAT WAR OF 2057**, The **GLOBAL SPACE CONSORTIUM** established the ISS Corps, their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications". The ISS Corps was meant to be a living promise, that nations could now put aside their cultural and historical grievances, and their children would grow up together.*
 
-Corporate shill: *"We cannot allow the unrest in Cascadia to disrupt the construction of the new shuttle launch pad in Korea. Our investors will be most displeased if we fall behind schedule."*
-
-*They decided to offer asylum to the families of any young Cascadian refugees willing to become a "scholarship student" at the ISS Corps -- their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications".*
-
-*The scholarship meant that these students could attend the ISS Corps for free, and receive financial support for their university-level training of choice.*
+*The ISS Corps became popular amongst the wealthy and elite of the world, because graduates were often well recommended, personally, for Space University, the most prestigious university in the world. To maintain diversity of the student body, and as a savvy PR move in support of humanitarian efforts around the world, the ISS Corps decided to offer asylum to the families of any young climate change refugees willing to become a "scholarship student" at the ISS Corps. The scholarship meant that these students could attend the ISS Corps for free, and receive financial support for their university-level training of choice.*
 
 *It also meant that they committed 5 years of their wage-earning years to the **GLOBAL SPACE CONSORTIUM**.*
 
-*Soon enough, applications from young refugees began pouring into the ISS Corps. The **SPACE CONSORTIUM** was applauded for their great humanitarian effort and dedication to diversity.* 
+## Chapter 1: CASCADIA
 
 **Min is with her family in a hospital room where her mother is being treated for injuries sustained while escaping the riots in their hometown in Cascadia. Min and her father Sung-soo carried Min's mother Jina up the coast to Vancouver General Hospital, where they have been living as refugees for nearly a year. While Min's mother is recovering in the hospital, she finds an advert about the ISS Corps. She urges Min to apply, who has been obsessed with space travel ever since she took a ride in a space shuttle as a small child.**
 
@@ -74,119 +70,105 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 # Timeline
 
-2042, March - Sung-soo born in Berkeley, California.
+2052, March - Sung-soo born in Berkeley, California.
 
-2044, December - Jina born in Seoul. 
+2054, December - Jina born in Seoul. 
 
-2045, May - Eithne born in Iceland.
+2055, May - Eithne born in Iceland.
 
-2046, Dec - **GREAT NORTH AMERICAN WAR OF 2047** begins. 
+2056, Dec - **GREAT WAR OF 2057** begins. 
 
-2047, November - **SPACE CONSORTIUM** begins to slowly and secretly increase the level of **MOOD STABILIZERS** in several major North American and European cities counter to their interests, who also happen to have large **PROTO-VIRS** populations. By 2048, May, **MOOD STABILIZER** levels in the water supply of these cities has reached levels known to stunt emotional maturity in teenagers, and to completely damage pre-pubescent brains to the point where they cannot express any emotional fluctuations or engage in emotional communication, a condition commonly called "Unreachable". This move turns out to be crucial to ending the war. 
+2057, November - Patient Zero of **MIND WIPE DISEASE** diagnosed.
 
-2048, April - Eithne's parents killed in **US NAVAL STRIKE IN INTERNATIONAL WATERS**, and she is taken in by her **PROTO-VIRS** aunt and uncle. 
+2058, April - Eithne's parents killed in **US NAVAL STRIKE IN INTERNATIONAL WATERS**, and she is taken in by her **PROTO-VIRS** aunt and uncle at **GREEN HAVEN IRELAND**. 
 
-2048, December - **GREAT NORTH AMERICAN WAR OF 2047** ends. 
+2058, December - **GREAT WAR OF 2057** ends. 
 
-2049, February - **WEST AMERICA**'s new government signs and declares a new constitution.
+2059, February - Cascadia's new government signs and declares a new constitution.
 
-2050, November - João born in Brazil.
+2060, November - João born in Brazil.
 
-2056, March - An enormous fire destroys João's family farm in the Amazon River Basin. 
+2066, March - An enormous fire destroys João's family farm in the Amazon River Basin. 
 
-2057, February - Sung-soo releases his first EP. 
+2068, January - João and his family arrive in Devon. 
 
-2058, January - João and his family arrive in Devon, where João's father knows a friend from uni (**KRIENNA**). They work for **KRIENNA** on her farm. **KRIENNA**'s partner is an agro researcher at **GREEN HAVEN DEVON**, and they send their kids to the **GREEN HAVEN DEVON** school. João's parents are encouraged to send João there as well. 
+2071, Sept - Eithne arrives at the ISS Corps. 
 
-2061, Sept - Eithne arrives at the ISS Corps. 
+2074, June - Eithne graduates from the ISS Corps. 
 
-2063, August - Sung-soo joins **ARTIVISTS INTERNATIONAL** as an "Exceptional Young Musician". 
+2074, August - Jina begins working at **SPACE CONSORTIUM ANSIBLE PROJECT**. 
 
-2064, June - Eithne graduates from the ISS Corps. 
+2074, Sept - Eithne begins training at Space University. 
 
-2064, August - Jina begins working at **SPACE CONSORTIUM ANSIBLE PROJECT**. 
+2076, October - Jina first realises that the tech being developed in the **ANSIBLE PROJECT** is covertly planned for massive censorship and surveillance by governments. 
 
-2064, Sept - Eithne begins training at Space University. 
+2077, June - Jina and some colleagues present evidence of illegal censorship and surveillance plans by the **SPACE CONSORTIUM** in an attempt to block this use of the **ANSIBLE PROJECT**. Jina and friends lose *THE PEOPLE VS SPACE CONSORTIUM*. 
 
-2065, January - Sung-soo releases his first album as part of **ARTIVISTS INTERNATIONAL** and departs on his first world tour with **ARTIVISTS INTERNATIONAL**, with shows in England, France, Portugal, Germany, Romania, India, Thailand, Australia, and New Zealand. 
+2078, March - Jina resigns from **SPACE CONSORTIUM ANSIBLE PROJECT**. 
 
-2066, September - Sung-soo returns to Berkeley. 
+2078, June - Eithne graduates from Space University
 
-2066, October - Jina first realises that the tech being developed in the **ANSIBLE PROJECT** is covertly planned for massive censorship and surveillance by governments. 
+2078, August - Jina is hired as a maths professor at SungKyungKwan University. 
 
-2067, June - Jina and some colleagues present evidence of illegal censorship and surveillance plans by the **SPACE CONSORTIUM** in an attempt to block this use of the **ANSIBLE PROJECT**. Jina and friends lose *THE PEOPLE VS SPACE CONSORTIUM*. 
+2080, August - Eithne arrives at **GREEN HAVEN DEVON** to conduct post-graduate research.
 
-2068, March - Jina resigns from **SPACE CONSORTIUM ANSIBLE PROJECT**. 
+2081, March - Sung-soo joins an **ARTIVISTS INTERNATIONAL** project to create a hologram room experience that teaches people how to grow their own food. 
 
-2068, June - Eithne graduates from Space University
+2081, Sept - Sung-soo travels with the **ARTIVISTS INTERNATIONAL** project to showcase the hologram room experience in Tokyo and Seoul. 
 
-2068, August - Jina is hired as a maths professor at SungKyungKwan University. 
+2081, Oct - Eithne and João meet. 
 
-2068, November - Sung-soo releases his second personal album. 
+2081, November - Jina and Sung-soo meet in Seoul at the **ARTIVISTS INTERNATIONAL** exhibition. 
 
-2070, July - Sung-soo releases his second **ARTIVISTS INTERNATIONAL** album.
+2082, May - Sung-soo returns to Berkeley. 
 
-2070, August - Eithne arrives at **GREEN HAVEN DEVON** to conduct post-graduate research.
+2084, January - Jina arrives at UC Berkeley for her sabbatical. 
 
-2071, March - Sung-soo departs for the second world tour, with shows in Morocco, Egypt, Turkey, Singapore, Hong Kong, Taiwan, Shanghai, Seoul, Busan, Tokyo, Mexico City, Santiago, Buenos Aires. 
+2084, November - Jina and Sung-soo release the hologram room experience "**MATHEMAGICAL**", to critical acclaim. 
 
-2071, Oct - Eithne and João meet. 
+2085, April - Jina submits her letter of resignation from her post as mathematics professor at SungKyungKwan University, effective at the end of the semester. 
 
-2071, November - Jina and Sung-soo meet in Seoul at an **ARTIVISTS INTERNATIONAL** concert. 
+2085, Sept - Jina begins teaching high school maths. 
 
-2072, May - Sung-soo returns to Berkeley. 
+2086, July - Eithne obtains her post-graduate certification as an expert in exo-hydroponics. 
 
-2074, January - Jina arrives at UC Berkeley for her sabbatical. 
+2086, August - Tross is born in Romania.  
 
-2074, November - Jina and Sung-soo release the album "**MATHEMAGICAL**", to critical acclaim. 
+2086, Sept - Eithne and João accept positions as research scientists at **GREEN HAVEN IRELAND**. 
 
-2075, April - Jina submits her letter of resignation from her post as mathematics professor at SungKyungKwan University, effective at the end of the semester. 
+2086, December - Jina and Sung-soo obtain a Reproductive License. 
 
-2075, Sept - Jina begins teaching high school maths. 
+2087, May - Eithne and João obtain a Reproductive License. 
 
-2076, July - Eithne obtains her post-graduate certification as an expert in exo-hydroponics. 
+2087, August - Min is born.
 
-2076, August - Sung-soo and Jina move into their new warehouse space in Berkeley.
+2088, February - Asoca is born.
 
-2076, August - Tross is born in Romania.  
+2092, June - Colorado River dries up.
 
-2076, Sept - Eithne and João accept positions as research scientists at **GREEN HAVEN SHETLAND**. 
+2098, August - Min gets her first theremin, hand-made by Sung-soo and Jina.
 
-2076, December - Jina and Sung-soo obtain a Reproductive License. 
+3003, Jan - Min and her family leave their hometown and travel to Vancouver General Hospital. 
 
-2077, May - Eithne and João obtain a Reproductive License. 
+3003, Sept - Zalo and Tross arrive at the ISS Corps.
 
-2077, August - Min is born.
+3004, May - Min succesfully applies to the ISS Corps and is accepted as a "scholarship student".
 
-2078, February - Asoca is born.
+3004, June - Tross graduates from the ISS Corps.
 
-2092, June - Colorado River dries up, **WEST AMERICA**'s cities begin to dissolve into riots.
+3004, Sept - Min arrives at the ISS Corps. Tross arrives at Space University and begins his first year as a Space University Journeyman. 
 
-2092, August - Min gets her first theremin, hand-made by Sung-soo and Jina.
+3005, Sept - Asoca arrives at the ISS Corps and meets Min. 
 
-2092, Sept - Tross arrives at the ISS Corps.
+3006, February - Asoca meets Tross. 
 
-2093, Jan - Min and her family leave Berkeley, **WEST AMERICA** and travel to Vancouver, Canada. 
+3006, June - Zalo graduates from the ISS Corps. 
 
-2093, June - Tross graduates from the ISS Corps.
+3006, Sept - Asoca and Min begin their last year at the ISS Corps. Zalo begins his first year as an ISS Corps Journeyman. 
 
-2093, Sept - Zalo arrives at the ISS Corps. Tross arrives at Space University and begins his first year as a Space University Journeyman. 
+3006, November - Tross "disappears". 
 
-2094, May - Min succesfully applies to the ISS Corps and is accepted as a "scholarship student".
-
-2094, Sept - Min arrives at the ISS Corps.
-
-2095, Sept - Asoca arrives at the ISS Corps and meets Min. 
-
-2096, February - Asoca meets Tross. 
-
-2096, June - Zalo graduates from the ISS Corps. 
-
-2096, Sept - Asoca and Min begin their last year at the ISS Corps. Zalo begins his first year as an ISS Corps Journeyman. 
-
-2096, November - Tross "disappears". 
-
-2097, June - Asoca and Min graduate from the ISS Corps.
+3007, June - Asoca and Min graduate from the ISS Corps.
 
 # Quotes and notes to incorporate
 
