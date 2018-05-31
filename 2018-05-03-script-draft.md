@@ -1,62 +1,40 @@
-# working title
-
-[How the assumptions we make about our brains affect our society and the ways we treat each other.](http://www.danbeekim.org/open-lab-notebook/)
-
-# abstract
-
-Once upon a time, a little less than one hundred years in the future, education is still in crisis, cities are overcrowded, and rural communities are dying. But we've made it to Mars, and the allure of technology and materialism continues to fuel steep social stratification. Natural spaces on the planet are dwindling into those few areas which are explicitly protected by government or corporate interests, which are again turning less and less towards preserving the Earth's biological heritage and more towards winning the race to control and exploit the Earth's resources. In these last decades of the 21st century, the economic ratrace births a rather unusual school called the International Space Station (ISS) Corps, where teen-aged youth cadets live, study, and work at maintenance and launch stations for ISS space shuttles. While learning how to design, build, and maintain space shuttles, youth cadets also conduct field neuroscience experiments as part of collaborative, self-directed research teams. 
-
-The horrors of our current society and the joys of our personal knowledge-building experiences are reflected in this science fiction graphic novel, which we use to help us see our familiar reality in new ways. This thesis presents two pressing needs in our society: 1) re-learning how to build trust, and 2) regaining our evolutionary ability to distribute ourselves across various environments, as we find ourselves maladapted to survive without our infrastructures of convenience within increasingly over-crowded cities. This thesis proposes to tackle both objectives with better teaching, and discusses how neuroscience can guide this endeavor. 
-
-# background
-
-[Does modern neuroscience really help us understand behaviour?](https://massivesci.com/articles/neuroscience-behavior-vs-technology/)
-
-(Some stuff here about Evolutionary Cognitive Neuroscience theory and Ethology a la Lorenz and Tinbergen)
-
-[How theater, startup culture, and business history helped us become better neuroscientists](https://massivesci.com/articles/neuroscience-can-learn-from-theater/)
-
-Stories help us contextualize information, and can provide the emotional and historical perspective we need to see our reality in new ways. To fully explore how the assumptions we make about our brains affect our society and the ways we treat each other, I'd like to tell you a story about two teenagers in the final decade of the 21st century. Humans have reached Mars but still suffer on Earth from fake news, aggressive urbanization, and severe social stratification. In this world, Asoca, who wants to bring Earth's biodiversity into space, meets Min, a climate change refugee who just wants to help her family regain dignity and independence. Asoca believes that good leadership can bring about big changes with the least amount of suffering, while Min believes that only anarchy -- meaning both the freedom to do exactly what you want in addition to the empowerment and responsibility of truly understanding what you want in order to do it -- and systems robust in keeping power well distributed, will keep humans from enslaving each other for their own convenience. They fall in love, and deeply influence each other's model of the world before they part ways upon graduation. 
-
 # Methods, Materials, Results, and Discussion
 
 Formatting note: *script vomit is in italics*, **descriptions of the plot are in bold**, **BOLD NAMES IN ALL CAPS ARE PLACEHOLDERS**.
 
-## Chapter 1: LEAVING WEST AMERICA
+## Prologue: 
 
-*The great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of **WEST AMERICA**, sucked it dry in 2092, ruining that year's crops and sparking riots.*
+*The great Colorado River is now but a forgotten memory. The lucrative farms in northern California, bread basket of [Cascadia](https://en.wikipedia.org/wiki/Cascadia_(independence_movement)), sucked it dry in 2092, ruining that year's crops and sparking riots.*
 
-*The lack of sufficient alternatives has plunged the nation into a seemingly endless drought, and the anger, some righteous, has all turned into fear. The horrors of the **GREAT NORTH AMERICAN WAR OF 2047** that birthed **WEST AMERICA** are still fresh in the minds of grandparents, but that doesn't stop the country from imploding into chaos and violence.*
+*[Not just North America,](https://en.wikipedia.org/wiki/The_Nine_Nations_of_North_America) but [the whole world, looks different now](https://www.nytimes.com/roomfordebate/2014/07/03/where-do-borders-need-to-be-redrawn/a-post-colonial-africa-drawn-by-nature-and-culture).  HIV and AIDS have become a forgotten disease, one you get vaccinated for as a baby in any half-decent hospital. But a new disease ravages the poor and oppressed of both overcrowded cities and desolate rural areas: the **MIND WIPE DISEASE**, which causes [anterograde amnesia](https://en.wikipedia.org/wiki/Anterograde_amnesia) and usually kills its victims through secondary causes, most commonly autoimmune disease and cardiovascular disease. Patient zero of **MIND WIPE DISEASE** occurred during the **GREAT WAR OF 2057**, but ever since then there's been major outbreaks every year. *
 
-*The **SPACE CONSORTIUM** ran the numbers and found that a civil war affecting one of their legacy technological strongholds, Silicon Valley, would be massively unprofitable.*
+*Out of the ashes of the **GREAT WAR OF 2057**, The **GLOBAL SPACE CONSORTIUM** established the ISS Corps, their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications". The ISS Corps was meant to be a living promise, that nations could now put aside their cultural and historical grievances, and their children would grow up together.*
 
-Corporate shill: *"We cannot allow the unrest in **WEST AMERICA** to disrupt the construction of the new shuttle launch pad in **OLD NORTH CAROLINA**. The ISS is now an important way-station for maintaining communication and supply chains to the **MARS RESEARCH STATION**, in addition to serving as a refueling station and base of operations for other space endeavors. Our investors will be most displeased if we fall behind schedule."*
+*The ISS Corps became popular amongst the wealthy and elite of the world, because graduates were often well recommended, personally, for Space University, the most prestigious university in the world. To maintain diversity of the student body, and as a savvy PR move in support of humanitarian efforts around the world, the ISS Corps decided to offer asylum to the families of any young climate change refugees willing to become a "scholarship student" at the ISS Corps. The scholarship meant that these students could attend the ISS Corps for free, and receive financial support for their university-level training of choice.*
 
-*They decided to offer asylum to the families of any young **WEST AMERICA** refugees willing to become a "scholarship student" at the ISS Corps -- their flagship educational project for teenagers, an international training program for youth interested in career class "Interplanetary Travel and Communications".*
+*It also meant that they committed 5 years of their wage-earning years to the **GLOBAL SPACE CONSORTIUM**.*
 
-*The scholarship meant that these students could attend the ISS Corps for free, and receive financial support for their university-level training of choice.*
+## Chapter 1: CASCADIA
 
-*It also meant that they committed 5 years of their wage-earning years to the **SPACE CONSORTIUM**.*
+**Min is with her family in Vancouver General Hospital, where they have been living as refugees for nearly a year. They had to flee their home in Denver when an outbreak of MIND WIPE DISEASE caused mass hysteria and riots. While Min's mother is recovering in the hospital, she finds an advert about the ISS Corps. She urges Min to apply, who has been obsessed with space travel ever since she took a ride in a space shuttle as a small child.**
 
-*Soon enough, applications from young refugees began pouring into the ISS Corps. The **SPACE CONSORTIUM** was applauded for their great humanitarian effort and dedication to diversity.* 
+**Min is initially excited to hear about the GLOBAL SPACE CONSORTIUM'S offer to waive tuition to the ISS Corps, but she is reluctant to leave her family after the trauma of being driven out of their home. Min's parents don't like the conditions of the scholarship, but they also see very few other options for getting Min the certifications she needs in order to work in space travel. Her parents are also in a position with little options, as they lost everything when they fled Denver. The whole family has been relying completely on the generosity of Vancouver General Hospital for nearly a year, and they all agree that with this scholarship, they have a chance to regain their dignity and independence.**
 
-**Min is with her family in a hospital room where her mother is being treated for injuries sustained while escaping the riots in their hometown of Berkeley, WEST AMERICA. They are now in Vancouver, Canada, because the hospitals in WEST AMERICA won't even let you through the front door without an insurance card. Min's family was part of the well-educated elite of Silicon Valley, which is now been destroyed by the riots in WEST AMERICA sparked by a massive food shortage after a brutal drought killed over 80% of the nation's farms.** 
+**SPACE CONSORTIUM is concerned - some people are worried about letting large numbers of refugees into an elite training institute, where students have access to very advanced tech and many resources. Neural implants for behavioural control have been successfully deployed in prison systems, but the general public is still a bit squeemish about making these body modifications a common-place thing. However, behavioural modification via "social networks" is now a refined art, and "smartphones" have now become "haptic communication implants". Like a smartphone, these retinals can track your location, record audio or video without direct instruction from the wearer, track physiological measurements like heart rate and blood pressure, and is, naturally, connected to your internet self. Cruder, less sexy behavioural control implants are quite common for laborers, factory workers, and any other wage slaves, especially in work environments which are loud, busy, and require complex coordination in a chaotic environment - think like a beeper, but implanted into one's body. But also, these implants get used when factory overseers or managers/supervisors want to be able to deploy instructions remotely.**
 
-**While Min's mother is recovering in the hospital, she finds an advert about the ISS Corps. She urges Min to apply, who has been obsessed with space travel ever since she took a ride in a space shuttle as a small child. Min is initially excited to hear about the SPACE CONSORTIUM'S offer to waive tuition to the ISS Corps, but she is reluctant to leave her family after the trauma of being driven out of their home. To make her feel even worse, her parents are activists who protest the use of the ansible for secret government surveillance and military oppression, and while the SPACE CONSORTIUM hasn't done anything like that directly themselves, their members include several economically affluent and morally questionable organizations, so they are criticised for nurturing an environment which condones surveillance and oppression. Min's parents also don't like the conditions of the scholarship, but they also see very few other options for getting Min the certifications she needs in order to work in space travel. Her parents are also in a position with little options, as they lost everything when they fled WEST AMERICA. The whole family has been relying completely on the generosity of Vancouver General Hospital for nearly a year, and they all agree that with this scholarship, they have a chance to regain their dignity and independence.**
+**Anyway, forcing the WEST AMERICA refugees to all get neural mods would be frowned upon and quite expensive. Giving all of them retinals would also be expensive, but easier to pitch, and besides, the refugees would be an amazing source of neuroscientific data! So all refugees applying to be scholarship students are also told that if one gets admitted, they will be offered free retinal fittings.**
 
 ## Chapter 2: THE GREEN HAVENS, or YOU SAY YOU HAD A REVOLUTION
 
-**The Climate Change Reality Project has now trained so many people in the world that all kinds of grassroots environmental organizations have started to incubate quite naturally, as more and more people develop sustainable daily habits and sensibilities. Unfortunately they are still massively outnumbered by those still tied to life in the huge urban centers, where every amenity could be delivered, straight to your bed in some cases, for an easy, "convenient" price. The fake news crisis revealed just how truly incapable humans had become at building trust, and the distrustful masses now lean heavily on brand names to flag trustworthy sources of information and moral judgement.**
-
-**A new generation of urban farmers, PROTO-VIRS, living at the fringes of these urban tumours have been taking over abandoned million-dollar apartments (another "convenient" price, just half the price of last year's Volkwagon e-Mini, perfect for your government mandated 2-children limited family! *plastic smile*) and turning them into permaculture farming schools. After a decade of bliss, the SPACE CONSORTIUM found the PROTO-VIRS graduates so competent and their urban farming so successful that SPACE CONSORTIUM offered to protect the PROTO-VIRS farms from the onslaught of urban development in exchange for full access to the PROTO-VIRS's agricultural research. The PROTO-VIRS refused, so the SPACE CONSORTIUM filled their water with an overdose of "mood stabilizers" and destroyed their childrens' minds, but of course the PROTO-VIRS were unable to prove that the SPACE CONSORTIUM was responsible. So the PROTO-VIRS took in a generation of orphans, and taught them how to score perfectly average and docile on all of the governments' tests, thus escaping any need for mood stabilizers. In time, the PROTO-VIRS were incorporated into the SPACE CONSORTIUM.**
+**A new generation of urban farmers, the PROTO-VIRS, living at the fringes of sprawling metropolitan areas have been taking over abandoned million-dollar apartments (another "convenient" price, just half the price of last year's Volkwagon e-Mini, perfect for your government mandated 2-children limited family! *plastic smile*) and turning them into permaculture research schools. Many of their children fell victim to the MIND WIPE DISEASE. Distrustful of the government's suggested treatments, which have shown terrible reliability, the PROTO-VIRS begin to conduct their own neuroscience research on their tragically damaged children. They learn that the MIND WIPE DISEASE is caused by an overdose of government mandated mood stabilizers and realise that they need to continue their independent neuroscience reserach, and in secret. The PROTO-VIRS begin to adopt orphans of climate change crises, and teach them how to score perfectly average and docile on all of the governments' tests, thus escaping any need for mood stabilizers. In time, the PROTO-VIRS's permaculture research schools were incorporated into the SPACE CONSORTIUM, and their "successful" aspects were harvested as inspiration for the structure of the ISS Corps.**
 
 notes on the above: make this a story told by one character to another. maybe Min to Asoca? Or maybe a teacher?
 
-**Asoca's mother was an orphan adopted by the PROTO-VIRS, trained in GREEN HAVEN DEVON and stationed at GREEN HAVEN SHETLAND with her husband, a PROTO-VIRS from Devon. They raise Asoca on an agricultural research station as loyal scientists in the surveillance cameras of the SPACE CONSORTIUM, but via secret hand signals, they communicate and practice their PROTO-VIRS traditions. They hope for a humanity mature enough to treasure the biological heritage of the planet and live in true freedom, without slavery of any kind, even while training their bodies to meet violence and oppression without fear. Asoca's parents have played capoeira with her since she was a baby, looking to any curious government surveillance video curator like just a game played between parents and children, with singing and clapping and tumbling around. Asoca's parents noticed from a very early age that she seemed to just "get" the emotional landscape of a room or situation, and she was eerily good at befriending notoriously unfriendly people.**
+**Asoca's mother Eithne was an orphan adopted by the PROTO-VIRS, trained in GREEN HAVEN IRELAND and stationed at GREEN HAVEN SHETLAND with her husband João, a permaculture farmer from Devon who grew up in a community of PROTO-VIRS children, even though he was not raised PROTO-VIRS himself. Eithne and João raise Asoca on an agricultural research station as loyal scientists in the eyes of the surveillance cameras of the SPACE CONSORTIUM, but via secret hand signals, they communicate and practice their PROTO-VIRS traditions. They hope for a humanity mature enough to treasure the biological heritage of the planet and live in true freedom, without slavery of any kind, even while training their bodies to meet violence and oppression without fear. Asoca's parents have played capoeira with her since she was a baby, looking to any curious government surveillance video curator like just a game played between parents and children, with singing and clapping and tumbling around. Asoca's parents noticed from a very early age that she seemed to just "get" the emotional landscape of a room or situation, and she was eerily good at befriending notoriously unfriendly people.**
 
 note: maybe this whole thing is a story told by a VIRS, several generations later?
 
-**Asoca has dreamed of joining the ISS Corps and studying at Space University, just like her mother, ever since she could remember. She is going through her offer letter to join the ISS Corps while cuddled up with her mother on a bench swing in a beautiful garden. Asoca is nervous about leaving GREEN HAVEN SHETLAND and going to APPALACHIA, her first trip across an ocean, and for many months at a time. But she's also excited -- in the last year, she's been helping her mother research plants useful for space travel, and she has many ideas about how to build better space architecture to facilitate keeping plants alive in space. She's also excited by the possibility of meeting other children raised by PROTO-VIRS, which her mother assures her is highly likely in the ISS Corps.**
+**Asoca is tired of the tiny village of GREEN HAVEN SHETLAND, where she has lived her whole life. Her parents have taught her about the PROTO-VIRS and the history behind their work, but she's not sure if she truly identifies as a PROTO-VIRS. In the last year, she's been helping her mother research plants useful for space travel, and she has many ideas about how to build better space architecture to facilitate keeping plants alive in space. She's also excited by the possibility of meeting other children raised by PROTO-VIRS, which her mother assures her is highly likely in the ISS Corps. Eithne reminds Asoca that if she wishes to join the PROTO-VIRS, she must declare her intentions to do so before graduating from the ISS Corps.**
 
 ## Chapter 3: HOW TO SURVIVE THE ISS CORPS
 
@@ -68,11 +46,11 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 ## Chapter 4: THE CUTTLE SHUTTLE
 
-**Min is one of many of cadets who share an appreciation (some might say obsession) with cephalopods. Last year the OCEAN SCIENCE CREW did an intensive observation study of freely-swimming cuttlefish in an environment where they can hunt "robotic prey" (Cuttle Shuttle), and they now want to analyze the video and figure out how to apply the movement stabilization that cuttlefish achieve during tentacle shots to human space swimming techniques and space module connection protocols. The first challenge that must be solved is to define the tentacle shot pattern in a way that a computer can understand. The next challenge is to teach a computer to reliably track an animal that is evolved to actively camouflage against predators that rely on visual tracking. Once the automated tracking allows the crew to have standardized video clips of every tentacle shot recorded in the video dataset, the next challenge is to decide how to visualize, find, and interpret patterns found within these video clips. The final challenge would be to then translate the movement patterns from cuttlefish in water to human or mechanical bodies in outer space. These will be the goals of OCEAN SCIENCE CREW this year.** 
+**Min is one of many of cadets who share an appreciation (some might say obsession) with cephalopods. Last year the OCEAN SCIENCE CREW did an intensive observation study of freely-swimming cuttlefish in an environment where they can hunt "robotic prey" (Cuttle Shuttle), and they now want to analyze the video and figure out how to apply the movement stabilization that cuttlefish achieve during tentacle shots to human space swimming techniques and space module connection protocols.** 
 
-**The OCEAN SCIENCE CREW consists of Min; her crew co-captain ZALO, from the INFRADESTRUCTORS crew, who helped build the environment and observation rig, in addition to helping program the robotic prey used to entice the cuttlefish into behaving; JOERRY, also of CIRQUE DU COSMIQUE, who knows how to raise cuttlefish in capitivity and is considered the local animal husbandry expert; TEHBAN, from the CYBERPHILIA crew, to do the automated tracking and video dataset digestion; CEDDIT, also from the INFRADESTRUCTORS crew, to translate the cuttlefish movements to the human body in order to present a report on the cuttlefish research's applicability to improving space swimming techniques (HIVE TRACKER). RHEE of the MENDELEEVERS, another first-year cadet, also joins the OCEAN SCIENCE CREW. ADI, an ISS Corps professor on the teaching staff for "Health and Well-Being in Space", is their faculty mentor.**
+**The OCEAN SCIENCE CREW consists of Min; her crew co-captain ZALO, from the INFRADESTRUCTORS crew, who helped build the environment and observation rig, in addition to helping program the robotic prey used to entice the cuttlefish into behaving; JOERRY, also of CIRQUE DU COSMIQUE, who knows how to raise cuttlefish in capitivity and is considered the local animal husbandry expert; TEHBAN, from the CYBERPHILIA crew, who works on the automated tracking and video dataset digestion; CEDDIT, also from the INFRADESTRUCTORS crew, who builds "movement translators" which map the cuttlefish movements to the human body in order to present a report on the cuttlefish research's applicability to improving space swimming techniques (HIVE TRACKER). RHEE of the MENDELEEVERS, another first-year cadet, also joins the OCEAN SCIENCE CREW. ADI, an ISS Corps professor on the teaching staff for "Health and Well-Being in Space", is their faculty mentor.**
 
-**Asoca becomes interested in the Cuttle Shuttle project for its applications to space modules and space architecture, and joins the OCEAN SCIENCE CREW. As Asoca and Min work together, they have many conversations expressing their philosophies about teaching and society, and realise that they share some fundamental values, even though they have different plans of action deriving from those values. They realise that they both believe in the power of education and the necessity of subversion and critical thought in a society, but Asoca believes that a wise leader can best nurture these two cultural tools, and Min believes that individuals must maintain constant vigilance against leaders using these two cultural tools.**
+**Asoca becomes interested in the Cuttle Shuttle project for its applications to space modules and space architecture, and joins the OCEAN SCIENCE CREW. As Asoca and Min work together, they have many conversations expressing their philosophies about teaching and society, and realise that they share some fundamental values, even though they have different plans of action deriving from those values. They realise that they both believe in the power of education and the necessity of subversion and critical thought in a society, but Asoca believes that a wise leader can best nurture these two cultural tools, and Min believes that individuals must maintain constant vigilance against leaders using these two cultural tools.** 
 
 ## Chapter 5: WHAT IS CLASS?
 
@@ -88,9 +66,111 @@ note: maybe this whole thing is a story told by a VIRS, several generations late
 
 **Asoca hasn't told anyone besides Min yet, but she also plans to graduate this year. Asoca has realised that the "human brain == computer" analogy destoys our ability to build trust, in each other and in our own selves, because we become conditioned to believe that learning to how to trust can be reduced to a quantifiable optimization function. Together, Asoca and Min are realising that humans cannot advance as a super-organism until we re-learn how to build trust, and we regain our evolutionary ability to spread out to where there is room and resources for us instead of being stuck in increasingly over-crowded locations because we've forgotten how to survive without our infrastructures of convenience. During this final year, they share their dreams with each other. Asoca wants to liberate the PROTO-VIRS by building space farms, and creating green spaces for growing food and natural life cycles that are out of the reach of the SPACE CONSORTIUM and any haphazard overflow of the aggressive urbanization still ravaging the Earth. Min wants to make space travel accessible to anyone but especially the now impoverished and homeless refugees from WEST AMERICA. She feels that refugees can have a second chance by becoming space nomads, and building homes for themselves that are safe from climate change and ignorant politicians trying to standardize procedures for populations too large and diverse to be standardized. They promise to be strong in their goals, even though they must part ways: Asoca will go to Space University, while Min has chosen to stay with the ISS Corps.**
 
-# Conclusion
+# Timeline
 
-eLife paper about Field Neuroscience/Neuro-in-situ goes here?
+2052, March - Sung-soo born in Berkeley, California.
+
+2054, December - Jina born in Seoul. 
+
+2055, May - Eithne born in Iceland.
+
+2056, Dec - **GREAT WAR OF 2057** begins. 
+
+2057, November - Patient Zero of **MIND WIPE DISEASE** diagnosed.
+
+2058, April - Eithne's parents killed in **US NAVAL STRIKE IN INTERNATIONAL WATERS**, and she is taken in by her **PROTO-VIRS** aunt and uncle at **GREEN HAVEN IRELAND**. 
+
+2058, December - **GREAT WAR OF 2057** ends. 
+
+2059, February - Cascadia's new government signs and declares a new constitution.
+
+2060, November - João born in Brazil.
+
+2066, March - An enormous fire destroys João's family farm in the Amazon River Basin. 
+
+2068, January - João and his family arrive in Devon. 
+
+2071, Sept - Eithne arrives at the ISS Corps. 
+
+2074, June - Eithne graduates from the ISS Corps. 
+
+2074, August - Jina begins working at **SPACE CONSORTIUM ANSIBLE PROJECT**. 
+
+2074, Sept - Eithne begins training at Space University. 
+
+2076, October - Jina first realises that the tech being developed in the **ANSIBLE PROJECT** is covertly planned for massive censorship and surveillance by governments. 
+
+2077, June - Jina and some colleagues present evidence of illegal censorship and surveillance plans by the **SPACE CONSORTIUM** in an attempt to block this use of the **ANSIBLE PROJECT**. Jina and friends lose *THE PEOPLE VS SPACE CONSORTIUM*. 
+
+2078, March - Jina resigns from **SPACE CONSORTIUM ANSIBLE PROJECT**. 
+
+2078, June - Eithne graduates from Space University
+
+2078, August - Jina is hired as a maths professor at SungKyungKwan University. 
+
+2080, August - Eithne arrives at **GREEN HAVEN DEVON** to conduct post-graduate research.
+
+2081, March - Sung-soo joins an **ARTIVISTS INTERNATIONAL** project to create a hologram room experience that teaches people how to grow their own food. 
+
+2081, Sept - Sung-soo travels with the **ARTIVISTS INTERNATIONAL** project to showcase the hologram room experience in Tokyo and Seoul. 
+
+2081, Oct - Eithne and João meet. 
+
+2081, November - Jina and Sung-soo meet in Seoul at the **ARTIVISTS INTERNATIONAL** exhibition. 
+
+2082, May - Sung-soo returns to Berkeley. 
+
+2084, January - Jina arrives at UC Berkeley for her sabbatical. 
+
+2084, November - Jina and Sung-soo release the hologram room experience "**MATHEMAGICAL**", to critical acclaim. 
+
+2085, April - Jina submits her letter of resignation from her post as mathematics professor at SungKyungKwan University, effective at the end of the semester. 
+
+2085, Sept - Jina begins teaching high school maths. 
+
+2086, July - Eithne obtains her post-graduate certification as an expert in exo-hydroponics. 
+
+2086, August - Tross is born in Romania.  
+
+2086, Sept - Eithne and João accept positions as research scientists at **GREEN HAVEN IRELAND**. 
+
+2086, December - Jina and Sung-soo obtain a Reproductive License. 
+
+2087, May - Eithne and João obtain a Reproductive License. 
+
+2087, August - Min is born.
+
+2088, February - Asoca is born.
+
+2092, June - Colorado River dries up.
+
+2098, August - Min gets her first theremin, hand-made by Sung-soo and Jina.
+
+3003, Jan - Min and her family leave their hometown and travel to Vancouver General Hospital. 
+
+3003, Sept - Zalo and Tross arrive at the ISS Corps.
+
+3004, May - Min succesfully applies to the ISS Corps and is accepted as a "scholarship student".
+
+3004, June - Tross graduates from the ISS Corps.
+
+3004, Sept - Min arrives at the ISS Corps. Tross arrives at Space University and begins his first year as a Space University Journeyman. 
+
+3005, Sept - Asoca arrives at the ISS Corps and meets Min. 
+
+3006, February - Asoca meets Tross. 
+
+3006, June - Zalo graduates from the ISS Corps. 
+
+3006, Sept - Asoca and Min begin their last year at the ISS Corps. Zalo begins his first year as an ISS Corps Journeyman. 
+
+3006, November - Tross "disappears". 
+
+3007, June - Asoca and Min graduate from the ISS Corps.
+
+# Quotes and notes to incorporate
+
+"I can't wait to see modified humans with displays on their skin!!...and I'm dreaming about haptic interface that would allow sending data in the other way ;p" -- Cedric
 
 # Supplementary Materials
 
