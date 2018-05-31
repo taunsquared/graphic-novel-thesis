@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "DarArticle 0.1.0" "http://darformat.org/DarArticle-0.1.0.dtd">
+<article id="article" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front id="front-1">
+    <article-meta id="article-meta-1">
+      <title-group id="title-group-1">
+        <article-title id="article-title-1">Graphic Novel Thesis</article-title>
+      </title-group>
+      <history id="history-1" />
+      <abstract id="abstract-1">
+        <p id="p-1" />
+      </abstract>
+    </article-meta>
+  </front>
+  <body id="body-1">
+    <sec id="heading-946d95326ae938087a9503dfa68f5264">
+      <title>Script Vomit</title>
+      <sec id="heading-6c2940bbea2f9019aea39a54b8a660fe">
+        <title>Chapter 1</title>
+        <p id="heading-4212ebc9ded16948c90bd63db7cac6fc" level="3">Min is undergoing her medical clearance exam for the ISS Corps, at the hospital in New Orleans where she and her parents have been staying as refugees for the last year. She's stressed - after a rigorous and exclusive application process, Min was rewarded a scholarship from SPACE CONSORTIUM, which is the only way that she would be able to afford the ISS Corps, but now there is this medical clearance exam. Min nervously scratches her head tatoo, which marked her as part of the STARKVEGAS gang when she got it 2 years ago. It's a bit red and puffy, and Min is worried that it's infected, and that the head tatoo might disqualify her for ISS Corps. </p>
+        <p id="p-178f1a997ec44c67ca5f67e31d0f9e69" level="3">After a standard checkup, the nurse finds that her head tatoo was slightly contaminated with ESYRUP. It's not enough for it to self-assemble and gain emergent properties, and it's rather unusual that the ESYRUP is still viable after 2 years. The nurse gives Min a pill "to help label the e-syrup", then scans Min's head tatoo. He then gives Min some pills that will "neutralize the side effects of e-syrup contamination", then signs off on her health check.</p>
+        <p id="p-2">Min says goodbye to her parents, in the room where Min's mom is being treated for cancer. She was diagnosed just before a raging fire destroyed their neighborhood in Mississippi, forcing them to come to New Orleans. Min then walks out of the hospital, visits some other folks she needs to say goodbye to, then heads to the shuttle launch pad.</p>
+      </sec>
+    </sec>
+  </body>
+  <back id="back-1">
+    <ref-list id="ref-list-1" />
+  </back>
+</article>
