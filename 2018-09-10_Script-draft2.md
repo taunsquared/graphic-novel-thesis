@@ -393,7 +393,7 @@ Rhee, turning back to Min: "I've heard of folks occassionally being Unassigned b
 
 PA: "We are now arriving at Gemini Station. This is the final stop of this shuttle service. All change ple--"
 
-The pre-recorded announcement is interrupted by a live announcement: "This is an announcement for all first-year cadets. Welcome to the ISE Corps! Please check your temporary student ID for your guild assignment, and follow signs to the appropriate docking bay door."
+The pre-recorded announcement is interrupted by a live announcement: "This is an announcement for all first-year trainees. Welcome to the ISE Corps! Please check your temporary student ID for your guild assignment, and follow signs to the appropriate docking bay door."
 
 All three teens stare up at the speaker. 
 
@@ -407,7 +407,7 @@ We zoom in on Min, carrying a large e-syrup-fabric pack on her back, stuffed to 
 
 We see a sign: *"DOCKING BAY DOORS 0800 - 0820"*
 
-Min peers around the docking bay door and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the shoulder guards of 3rd year cadets (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other BIOSILICA teens with mechapets, but neither are the BIOSILICA teen from earlier, and neither have a cuttlefish mechapet. 
+Min peers around the docking bay door and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the shoulder guards of 3rd year trainees (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other BIOSILICA teens with mechapets, but neither are the BIOSILICA teen from earlier, and neither have a cuttlefish mechapet. 
 
 Zalo: "Hello! Welcome! You must be..." He consults the a diagram of faces and text floating beside him.
 
@@ -419,7 +419,7 @@ Zalo: "Great!"
 
 ### Page 10
 
-Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year cadet with the **CYBERPHILIA** guild, and this is Zalo, 3rd year cadet with the **INFRADESTRUCTORS** guild. We are this year's Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
+Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee with the **CYBERPHILIA** guild, and this is Zalo, 3rd year trainee with the **INFRADESTRUCTORS** guild. We are this year's Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
 
 Jheri: "A guild assignment is a mutual pledge of respect and commitment to study the skills and protect the secrets of your guild. Usually, we would rely on the data in your Universal Record to assign you to the optimal guild, based your life choices and achievements. But since, for one reason or another," and here Jheri smiles kindly, gently looking each first-year in the eye, "your Universal Records have insufficient data to calculate the optimal placement, you will spend the first week of the semester meeting each guild and taking some of their classes."
 
@@ -433,25 +433,25 @@ A wave of anxious whispers briefly rumbles through the gathered first-years: "Bu
 
 ### Page 11
 
-Min finds Asoka and Rhee at dinner. The food is trendy and more-ish but unhealthy and awful. All three are horrified and wonder how they will make it through the week, much less the whole training program. Afterwards, Rhee and Soka head off to their respective guild dormitories. Min, as a scholarship student, must report to the Service Crew Head Office in order to fulfill the work-study requirements of her scholarship. The Earther **GANGIE** from the cafe fight is also there. 
+Min eats with Asoka and Rhee at dinner. The food is trendy and more-ish but unhealthy and awful. All three are horrified and wonder how they will make it through the week, much less the whole training program. Afterwards, Rhee and Soka head off to their respective guild dormitories. Min, as a scholarship student, must report to the Service Crew Head Office in order to fulfill the work-study requirements of her scholarship. The Earther **GANGIE** from the cafe fight is also there. 
 
-Min gets to the Service Crew Head Office meets PQ, a proud and stern, much older Earther **GANGIE** who coordinates the scholarship students with the full-time service crew of Gemini Station. PQ gives a quick welcome/intro speech outlining expectations for scholarship students. She then dismisses them and the students begin to leave...
+Min meets PQ, a proud and stern, much older Earther **GANGIE** who coordinates the scholarship students with the full-time service crew of Gemini Station. PQ gives a quick welcome/intro speech outlining expectations for scholarship students. 
+
+Suddenly, Min's chest burns, her stomach seizes, and her scalp throbs as she falls to the floor. When she comes to, PQ is holding a glass of water to her lips and talking to Gemini medical staff, who are checking Min's vitals. The other scholarship students peer into PQ's office from the hallway, dying to know what's going on.
 
 ### Page 12 
 
-... when suddenly, Min's chest burns, her stomach seizes, and her scalp throbs as she falls to the floor. PQ yells at two students to go get medical services, then throws everyone else out. Min's subdermal shield becomes for a flickering second, unable to stay invisibile. PQ helps Min sit, gives her some water, and lets Min's breathing return to normal before saying...
+PQ: "I'm sure it's just a bad reaction to zero-G. I've seen this before."
+
+Gemini school medic: "Well all of your vitals are strong and steady. Get plenty of rest tonight, and drink lots of fluids, ok?"
+
+PQ shoos away the other students and insists on walking Min to her dormitory. At Min's door, PQ turns her back to the hallway surveillance cam and whispers.
 
 PQ, eyes unfathomable: "I saw it...your subdermal shield."
 
 Min clenches her teeth and begins to sweat: "How do you--??"
 
-PQ's face softens and PQ chuckles suddenly: "Child, do not be afraid, I know that the Automata aren't just another Earther gang."
-
-Min, suddenly angry because she feels she is being patronized: "You don't know anything about us!"
-
-PQ: "Oh, but I do. You know why?"
-
-Dramatic zoom into PQ's face: "Because an Automata once saved my life."
+PQ smiles mysteriously: "Because an Automata once saved my life. You wouldn't happen to know a crusty old bird named Magou, eh?" 
 
 ## Dream: The Night of a Thousand Burning Stars (2 pages)
 
@@ -463,9 +463,9 @@ PQ was part of a pioneering group of humans who were amongst the first generatio
 
 It's the next day, first day of classes. We see the entrance to a large workspace, hand made banner above the entrance proudly labeling the space as **"INFRADESTRUCTORS workspace 267"**. From inside, Zalo's voice can be heard saying: "...so if you open this panel..."
 
-Next panel, we are inside the workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year cadets, including Min. Zalo is holding up flat device about the size of a short, fat finger, which has been opened up so that the inner circuitry is visible. 
+Next panel, we are inside the workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up flat device about the size of a short, fat finger, which has been opened up so that the inner circuitry is visible. 
 
-Zalo: "You can see how this World Government medical scanner has two fixed e-syrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples."
+Zalo: "You can see how this 2080s standard issue medical scanner has two fixed e-syrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples."
 
 POV is now in front of Zalo, who now holds up a similarly shaped and sized device, also opened up. The insides of this second device is way more chaotic and rough, definitely looks like a work in progress. 
 
@@ -477,19 +477,19 @@ Zalo: "So today's challenge is to debug this prototype, and learn how to morph e
 
 ### Page 2
 
-View of the mess hall. 
+View of the **INFRADESTRUCTORS** workspace, several hours later. 
 
 Min: "I didn't realise so many Orbiter products use e-syrup circuits! It's everywhere!"
 
-Zalo, Min, and a few other **INFRADESTRUCTOR** cadets are seated together. Most of them have finished eating and they are philosophising over lunch. 
+Zalo, Min, and a few other **INFRADESTRUCTOR** trainees are seated together. Most of them have finished working and they are philosophising before dinner. 
 
-An Earther **NORMIE** cadet: "Yeah, it really makes me want to get body mods..."
+An Earther **NORMIE** trainee: "Yeah, it really makes me want to get body mods..."
 
-Zalo taps his utensil on his plate thoughtfully: "But you know, it's a real pain in the ass to be tied to Government standard issue body mods, which have at most 4 morphs available. In theory, living e-syrup should be able to go through an infinite number of morphs - think of all the crazy mods we COULD make, one that could last our whole lives!"
+Zalo taps a tool on his leg distractedly: "But you know, it's a real pain in the ass to be tied to Government standard issue body mods, which have at most 4 morphs available. In theory, living e-syrup should be able to go through an infinite number of morphs - think of all the crazy mods we COULD make, one that could last our whole lives!"
 
-An Earther **GANGIE** cadet: "But then who will make sure that the mods are safe?" 
+An Earther **GANGIE** trainee: "But then who will make sure that the mods are safe?" 
 
-Zalo, looking meaningfully at the cadet: "Do you really think that every mod we have out now is perfectly safe?"
+Zalo, looking meaningfully at the trainee: "Do you really think that every mod we have out now is perfectly safe?"
 
 ### Page 3
 
@@ -497,9 +497,9 @@ Earther **NORMIE**, shivers: "Ugh, definitely not! I've seen people have some CR
 
 Earther **GANGIE**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
 
-Sedii, an Orbiter cadet, leans in conspiratorially: "Well, and also because the government forbits basic research into e-syrup, so no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
+Sedii, an Orbiter trainee, leans in conspiratorially: "Well, and also because the government forbits basic research into e-syrup, so no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
 
-Earther **GANGIE** cadet, bitter: "Yeah, what better way to keep humanity stupid, enslaved, and easy to control." 
+Earther **GANGIE** trainee, bitter: "Yeah, what better way to keep humanity stupid, enslaved, and easy to control." 
 
 Sedii: "Exactly! Isn't it CRAZY how e-syrup seems to be a crucial part of all of our devices, our homes, our transportation, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
 
@@ -511,19 +511,27 @@ Min: "But, Zalo, are you trying to tell us that the **INFRADESTRUCTORS** guild I
 
 Zalo: "Ok, sure, but no guild is powerful enough to openly defy World Government law..."
 
-### Page 4
+### Page 4 
 
-Scene changes to the hallway outside PQ's office, where the scholarship students mingle, waiting to be called in. 
+Min, Rhee, and Asoka are at dinner again, looking glumly at today's unappetizing looking slop. Rhee is so freaked out by the food that she is refusing to eat any of it. Soka and Min are concerned and try to convince Rhee to eat something. Soka mentions that the **CIRQUE DU COSMIQUE** guild has fresh fruit, and Rhee immediately begs to have some.
 
-Min, referring to the day before: "...it's alright, they just checked my vitals and told me to drink more water. I'm fine now."
+### Page 5 and 6
 
-From inside the office door we hear PQ: "Next, Minka and Rajue!"
+Min tells the other 2 about the incident in PQ's office last night, and how PQ covered for her, and how, turns out, PQ knows Min's grandmother. Min and Asoka tell Rhee about how they met as children. 
+
+#### Flashback
+
+Min and Soka met each other as small children, when Soka's family was taken in by Min's clan. Soka's mom had tried to blow the whistle on a prominent agricultural engineering company, but she was betrayed and their family had to flee the government-funded agricultural research center where they lived. They weren't prepared to live beyond the safe bubbles of the World Government and would have died if Amadou hadn't found Soka and her family and brought them back to the Automata. Min and Soka became fast friends and shared dreams of exploring space without World Government permission or oversight. When Min's mother Jina fell ill with a mysterious sickness, Soka's father João revealed that he had a World Government medical scanner, and it proved to be key to healing Jina. But because João brought a taboo item, something made by the Orbiters, into an Automata clan, he and his family were banished. When Min and Soka said goodbye, they promised that they would find each other at the ISE Corps, in 4 years time. 
+
+### Page 7
+
+Min rushes down a corridor of the Gemini towards the Service Crew Head Office. From inside we hear PQ: "Next, Minka and Rajue!"
 
 The Earther **GANGIE** from the shuttle cafe fight peels himself from off the wall and gives Min a murderous look as he walks through PQ's office door. Min smiles mildly, shrugs, and enters unenthusiastically behind him. 
 
 Large panel, whole bottom half of the page: We see PQ standing next to a floating 3-dimensional schematic of the Gemini Station. The locations of all mecha-cleaner charging stations are highlighted and labeled. PQ is holding two heavy duty biohazard suits. PQ greets them with a "Good day my lovies! You alright, Min?" then says, cheerfully: "You two are servicing mecha-cleaners today!"
 
-### Page 5
+### Page 8
 
 In a mecha-cleaner charging station, somewhere on the Gemini...
 
@@ -537,7 +545,7 @@ Rajue: "It leads me to 2 possible conclusions..."
 
 Rajue: "Either your gang is so puny and unknown that it's not even worth beating the shit out of you..."
 
-We see Min's face reflected in the grimy metal insides of the mecha-cleaner, anger well-contained but visible as Rajue continues: "...or your head tat's a fake!"
+We see Min's face reflected in the grimy metal insides of the mecha-cleaner, anxiety well-contained but visible as Rajue continues: "...or your head tat's a fake!"
 
 Min: "Oh yeah?" 
 
@@ -545,7 +553,7 @@ Min's face becomes unscrutable as she says, still cleaning the inside of the mec
 
 Zoom in on Rajue's eyes, widening with anger and surprise as Min continues: "...and your gang was responsible for the **ARGO INCIDENT**, weren't you?"
 
-### Page 6
+### Page 9
 
 Rajue, furious: "Who told you this?"
 
@@ -553,68 +561,122 @@ Min: "A mortician's daughter, from the Vela quadrant. She's a student here, same
 
 Rajue: "And do you ever wonder why WE service the mecha-cleaners, and not any of those big-headed, puny-legged Orbiters?"
 
-Min shrugs: "Because otherwise we couldn't afford the fees to train with space-faring guilds, duh."
+Min shrugs, starting to sweat under the biohazard suit: "Because otherwise we couldn't afford the fees to train with space-faring guilds, duh."
 
 Rajue: "And why are those fees so high, huh?"
 
-Min, exasperated: "I dunno, because we're out in space maybe?! What's your point anyway?"
+Min, exasperated and suddenly feeling the same terrible burning and rushing feeling from her first night on board: "I dunno, because we're out in space maybe?! What's your point anyway?"
 
-Zoom in on Rajue's frustrated and furious eyes, glaring at Min. Rajue: "My POINT is..." 
+Zoom in on Rajue's frustrated and furious eyes, glaring at Min. Rajue: "My POINT is..." but he is interrupted as Min convulses in a seizure and collapses onto the mecha-cleaner she was just servicing. 
 
-### Page 7
+Rajue: "Auuugh!!"
 
-Scene cuts to the next day. We see a surgery room labeled "Laser Atomic Manipulator. Wear eye protection at all times."
+### Page 10
 
-Rajue: "...how the hell is a mod virgin going to be of any use to the **CYBERPHILIA** guild??"
+Min is back in PQ's office. PQ examines the black market injector and substance.
 
-Min has just arrived to join a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark e-syrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year cadets, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biosilican Unassigned students. 
+Min: "I'm SO LUCKY that the biohazard suit hid my subdermal shield from Rajue. He's the LAST person I want to see that."
 
-Jheri: "Rajue! You will refrain from using such bigoted language!"
+PQ, holding up the substance in its vial up to the light: "Humph. Doesn't look any scarier than some of the chem mods that the Orbiter teens smuggle on board. And you say a **MENDELEEVER** is analysing the substance?"
 
-Jheri glares at Rajue and waits until he mumbles an apology.
+Min: "Yes, well, at least, a **MENDELEEVER** TRAINEE is..." Min face-palms. "Actually, this particular trainee could use some help too...she's too freaked out by the food to eat it, we need a way to scan it in the mess hall or something."
 
-Jheri: "Thank you. No space-faring guild can rely on the constant presence of World Government supply lines. You may one day find yourself without easy access to constant spare parts, and you may have to use your body UNMODIFIED. When was the last time you did that?" 
+PQ: "Hmm...I might be able to get my hands on a medical scanner, from the infirmary."
 
-Rajue doesn't meet her gaze.
+Min: "Isn't that incredibly risky?"
 
-### Page 8
-
-Jheri continues her prep for the demo. We see close-ups of different components of the machine, and different other tools/prep material scattered about the room as Jheri says: "The **CYBERPHILIA** guild specializes in the communication, control, and governance necessary for space exploration. This means that we need to study the psychology of not only individual agents, but also groups of agents, to understand how agents in a system influence and control each other."
-
-Jheri: "This is the fundamental idea undelying the laser atomic manipulator. Through careful and subtle modulations of photonic energy, we've developed a language to negotiate with cells and tissues."
-
-### Page 9 and 10
-
-Min has lunch with the two Biosilican Unassigned students in the **CYBERPHILIA** guild. Their names are **SUNG-SOO** and **EITHNE**. 
-
-**SUNG-SOO**: "Well, there goes Rajue's chances of ever making it into the **CYBERPHILIA** guild."
-
-**EITHNE**: "I'm so stressed, what if I can't find a guild to take me?"
-
-Min learns from them that Jheri is currently considered one of the top cadets at ISE Corps, in large part for her incredible dexterity and precision with the LAM. She has already begun her Journeyhume training with a Space University professor, who invented the most recent version of the LAM, which is an order of magnitude cheaper and more portable, and can cut out a 1cm cubed (as opposed to previous models' 5cm cubed) volume out from deep inside of a living animal without causing bleeding or needing stitches.
+PQ: "What Magou did to save my life was far riskier. This is nothin, love."
 
 ### Page 11 and 12
 
-Min reports to Service Crew Head Office to PQ's office. She steps inside and closes the door, and PQ shows her the medical scanner that Min asked PQ to sneak out of the Gemini infirmary, so that Min can try to figure out what's been causing her subdermal shield to flare up. PQ mentions that these devices are all synchronised, so if Min doesn't want her scan to show up on the Universal Record she'll need to figure out how to disable the scans communication circuits. 
-
-Min: "I know exactly who to ask."
+Min mentions to PQ her conversation with Rajue. They discuss the Space Asylum Program and who it's actually serving. PQ warns Min to be very careful in the evenings, that seems to be the time when Min's subdermal shield freaks out. 
 
 ## Chapter 4
 
 ### Page 1
 
+We see a surgery room labeled "Laser Atomic Manipulator. Wear eye protection at all times."
 
+Rajue: "...how the hell is a mod virgin going to be of any use to the **CYBERPHILIA** guild??"
+
+Min is in a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark e-syrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year trainees, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biosilican Unassigned students. A **CYBERPHILIA** guild master oversees the class. 
+
+**CYBERPHILIA** guild master: "Rajue! You will refrain from using such bigoted language!"
+
+Guild master glares at Rajue and waits until he mumbles an apology.
+
+Guild master: "Thank you. No space-faring guild can rely on the constant presence of World Government supply lines. You may one day find yourself without easy access to constant spare parts, and you may have to use your body UNMODIFIED. When was the last time you did that?" 
+
+Rajue doesn't meet the teacher's gaze.
+
+Guild master: "Jheri, please continue with the demo."
+
+### Page 2
+
+Jheri continues her prep for the demo. We see close-ups of different components of the machine, and different other tools/prep material scattered about the room as Jheri says: "The **CYBERPHILIA** guild specializes in the communication, control, and governance necessary for space exploration. This means that we need to study the psychology of not only individual agents, but also groups of agents, to understand how agents in a system influence and control each other."
+
+Jheri: "This is the fundamental idea undelying the laser atomic manipulator. Through careful and subtle modulations of photonic energy, we've developed a language to negotiate with cells and tissues."
+
+### Page 3 and 4
+
+Min has dinner with Rhee and Asoka, and today Soka has smuggled several fruits in her multi-layered clothing. Rhee, desperately grateful, ravenously eats the fruit. Today the other two Biosilican Unassigned students join them. Their names are **SUNG-SOO** and **EITHNE**. 
+
+**SUNG-SOO**: "Well, there goes Rajue's chances of ever making it into the **CYBERPHILIA** guild."
+
+**EITHNE**: "I'm so stressed, what if I can't find a guild to take me?"
+
+Min learns from them that Jheri is currently considered one of the top trainees at ISE Corps, in large part for her incredible dexterity and precision with the LAM. She has already begun her Journeyhume training with a Space University professor, who invented the most recent version of the LAM, which is an order of magnitude cheaper and more portable, and can cut out a 1cm cubed (as opposed to previous models' 5cm cubed) volume out from deep inside of a living animal without causing bleeding or needing stitches.
+
+### Page 5
+
+Sung-soo and Eithne leave them, and Min walks with Rhee and Asoka so that they can discuss before their next class what Min plans to do about the incident with her subdermal shield. Rhee has analyzed the black market injections that Min uses to render her e-syrup tatoos undetectable, using the **MENDELEEVERS** more sophisticated scanners and devices. She confirms that the substance is what it claims to be, and that it is otherwise inert. 
+
+### Page 6
+
+Min mentions that PQ might be able to smuggle them a current model World Government medical scanner, so they can check the black market substance again. Soka suggests using to scan all of the water and food also, since it might mean Rhee could eat something, and because they have no idea what could be causing Min's episodes. 
+
+### Page 7
+
+Min reports to Service Crew Head Office to PQ's office. She steps inside and closes the door, and PQ shows her the cutting edge, this year's model medical scanner that PQ has smuggled out of the Gemini infirmary. PQ mentions that these devices are all synchronised, so if Min doesn't want her scan to show up on the Universal Record she'll need to figure out how to disable the scanner's communication circuits. 
+
+Min: "I know exactly who to ask."
+
+### Page 8 
+
+Next day. Full page depiction of the **CIRQUE DU COSMIQUE**'s main training gym, as guild trainees, most of them Earthers, do a physical warmup for partner acrobatics. We hear a steady stream of "Ready!"s, spoken by trainees with their hands raised, indicating that they are ready to base another trainee (this is the training sequence I saw at the beginning of Backbone show at Southbank Centre). Except for the first year trainees, all of the **CIRQUE DU COSMIQUE** trainees, including the Orbiters, are strong and muscled. Third year trainee **GIARMO**, a broad-shouldered Earther **GANGIE**, supervises the training session. The ceiling of the training gym is actually one wall of an enormous aquarium, full of old Earth animals and some new, genetically engineered marine animals. 
+
+### Page 9
+
+**GIARMO**: "Unassigned trainees! If you are an Orbiter, you may find the ways of this guild very difficult to follow."
+
+The crowd of Unassigned trainees trying out this particular guild is indeed smaller and dominated by Earthers. 
+
+**GIARMO**: "To be a space swimmer, you must keep yourself in peak physical condition. And life in space is the greatest enemy to human physical strength."
+
+### Page 10
+
+Whereas other guilds ate catered lunch from the mess hall, the **CIRQUE DU COSMIQUE** guild just puts out piles of raw fruit. 
+
+**GIARMO**: "I hate to say it but the food they feed you is trash. We have a small orchard in one of the terrariums, these are much better for a mid-day meal. Besides, if you get too full you won't be able to use the playground."
+
+Large panel depicting an insanely creative playgrounds, built by the guild trainees. Min sees the echoes of her beloved Earth trees in those playground structures, and is delighted to play on them, using Tree Surfer muscles that have been neglected ever since she came into space. 
+
+### Page 11
+
+At dinner Min finds Zalo and shows him the smuggled medical scanner. He freaks out and wants to take it apart immediately, but Min explains why she needs to shut off the scanner's communications and then use it to scan all of the food and water. Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the e-syrup neutralizer substance. 
+
+### Page 12
+
+Zalo freaks out/is full of awe when he learns that Min has living e-syrup tatoos. He wants to learn more and help. 
+
+## Chapter 5
 
 
 # Old summaries
 
-## Chapter 4
-
-On Day 3 Min joins the **CIRQUE DU COSMIQUE** guild, where 3rd-year cadet **GIARMO** is leading the day's physical training. Min quickly falls in love with the **CIRQUE DU COSMIQUE**'s training and performance spaces, their lovingly maintained aquariums and terrariums, and their movement focused lifestyle and mentality. After a morning of rigorous drills, they break for water and fruit before they play games on the playgrounds the crew builds for themselves, a combination of capoeira, parkour, and numerous East Asian martial arts traditions. By lunch Min is exhausted but exhilerated. In the afternoon, Asoka brings Min to her "Animal Husbandry in Space" course, where teacher Adi, a professor on the teaching staff of "Health and Well-being in Space" at Space University, entertains them with stories of research animals on space vessels escaping their designated areas. After the lecture they watch Iri play with biological cephalopods in the aquaculture tanks, and Asoka reveals that she's been teaching Iri to change not just her color and texture, but also her entire body shape, such that Iri can squeeze through any size gap, or can balloon and expand to protectively engulf Asoka. Asoka demonstrates her kinetic linguistics skills by having a brief conversation with the cephalopods in the aquaculture tanks.
+## Chapter 5
 
 It's Day 4, and the Undecideds are with the MENDELEEVERS, where ISS Corps alum Tross is giving a demonstration of space welding tools as fellow 2nd- and 3rd-year MENDELEEVERS cadets play rapid fire rounds of "What if...in space?!", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools. Tross's ESYRUP DAEMON, a midnight black, silky, sinewy cat named INQBI, alternates between curling around Tross's shoulders like an adorable, purring scarf, to gliding through the shadows like a silent, hazel-eyed wave of death and destruction. Min finds Tross's teaching style incredibly exciting and asks such eager questions that Tross and Min continue chatting over lunch, where Min also finds Rhee. Min and Rhee become fast friends with INQBI, who shares their fondness for fried cheese. Min's head tatoo flares up again, and Tross asks Min if she's alright. She explains that she might have some mild ESYRUP contamination, but she's gotten some pills to help with it. Tross asks her several probing questions about the pills and expresses concern over some of the active ingredients. Tross then excuses himself, saying that he needs to return to Space University now.
-
-## Chapter 5
 
 After lunch, Rhee introduces Min to Oana, another NORMIE and a scholarship student in her 2nd year, who has become an expert at blowing microscopic bio-compatible ESYRUP-infused glass filaments, which can be gently embedded subdermally to create programmable, interactive "mod-makeup". It's not quite like ESYRUP tatoos - the ESYRUP in the glass filaments have only limited input from the biological tissue and are programmed prior to injection. Oana shows them how to verify each piece to certify it safe for subdermal injection. While they work, Rhee teases Min for her fascination with Tross. Oana reveals that Tross was a muskie during the same year as Zalo and Jheri, but he is the first and only cadet to graduate in one year - most students take the full 3, and occassionally someone graduates in 2 years. Tross is now a 2nd-year journeyhume at Space University as an independent space welder, but he returns to the ISS Corps for the first week of the year, to be part of the initiation week and hold workshops and demonstrations for the MENDELEEVERS. Rhee also confesses a fascination with understanding the fundamental workings of ESYRUP, and encourages Min to ask Oana about her ESYRUP contamination. Oana listens to Min's symptoms, examines her head tatoo, and suggests talking to someone from INFRADESTRUCTORS to help her learn more about her pills.
 
@@ -662,9 +724,7 @@ https://en.wikipedia.org/wiki/Galactic_quadrant#Visibility_of_each_quadrant
 
 # Old writing that might be useful still
 
-## Dream: The Promise (3 pages)
 
-Min and Soka met each other as small children, and shared dreams of exploring space without World Government permission or oversight. When Min's mother Jina fell ill with a mysterious sickness, Soka's father João revealed that he had a World Government medical scanner, and it proved to be key to healing Jina. But because João brought a taboo item, something made by the Orbiters, into an Automata clan, he and his family were banished. When Min and Soka said goodbye, they promised that they would find each other at the ISE Corps, in 4 years time. 
 
 
 
