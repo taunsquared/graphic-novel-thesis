@@ -36,7 +36,7 @@ Backdrop: the glittery blackness of outer space.
 
 PA: "We are now arriving at **LOWER ESTATES ORBITAL STATION**."
 
-Small panel, upper left of the page: very close-up view of Min's closed eye. Her **SUBDERMAL SHIELD** is in stealth mode, mostly invisible except where it is pretending to be tendrils of hair cut into an elaborate shaved pattern; her clan tatoos, frozen in an imitation of an Earther **GANGIE**'s head tatoo. Just around her eye, we see shadows of her living e-syrup tatoo flickering with hints of her dreams. 
+Small panel, upper left of the page: very close-up view of Min's closed eye. Her **SUBDERMAL SHIELD** is in stealth mode, mostly invisible except where it is pretending to be tendrils of hair cut into an elaborate shaved pattern; her clan tatoos, frozen in an imitation of an Earther **GANGIE**'s head tatoo. Just around her eye, we see shadows of her living eSyrup tatoo flickering with hints of her dreams. 
 
 PA: "You may unbuckle your safety harnesses at this time."
 
@@ -62,7 +62,7 @@ Large half page spread: ...comes upon a section of the tunnel with a large viewi
 
 Small panels: We see Min swim down to press her face and hands against the viewing port, view from the space side of the viewing port. 
 
-Next panel zooms in on her eyes, which are reflecting the Earth below and surrounded by shadowy e-syrup tatoos going wild, barely able to keep themselves invisible. 
+Next panel zooms in on her eyes, which are reflecting the Earth below and surrounded by shadowy eSyrup tatoos going wild, barely able to keep themselves invisible. 
 
 #### Flashback 
 
@@ -72,7 +72,7 @@ Similar view as the last non-flashback view, except now Min's clan tatoos, rathe
 
 Magou: "We will take NOTHING from the Orbiters."
 
-View from the floor: we see a long corridor within a large e-syrup bubble, and Min's legs as she hides in the shadows of an e-syrup tapestry, one of many fabrics draped to serve as dividing walls. The tapestry embroidery depict various rituals of the Automata. 
+View from the floor: we see a long corridor within a large eSyrup bubble, and Min's legs as she hides in the shadows of an eSyrup tapestry, one of many fabrics draped to serve as dividing walls. The tapestry embroidery depict various rituals of the Automata. 
 
 Amadou: "So you let your BLIND HATRED for ORBITERS kill Jina? And who will win, if we lose our clan's greatest mathematician??" 
 
@@ -114,9 +114,9 @@ Larger panel that spans full width of page. Magou points her finger imperiously 
 
 #### Back on the **LOWER ESTATES ORBITAL STATION**
 
-Three small square panels in a row that spans the width of the page: We see Min's ear, with just barely visible shadows of her e-syrup tatoos writhing, as a warning siren of station emergency medical services wails in the distance. As we see Min's eyes turn from the viewing port to check for the source of the sound, she gets bumped hard enough to knock her head into the viewing port. From behind her, out of panel, a distant mechanical voice cries: "Whoops, sorry!"
+Three small square panels in a row that spans the width of the page: We see Min's ear, with just barely visible shadows of her eSyrup tatoos writhing, as a warning siren of station emergency medical services wails in the distance. As we see Min's eyes turn from the viewing port to check for the source of the sound, she gets bumped hard enough to knock her head into the viewing port. From behind her, out of panel, a distant mechanical voice cries: "Whoops, sorry!"
 
-Large panel spanning the width of the page: Min turns to see a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, tumbling through a crowd as people swim out of the way of an emergency medical team and their floater (vehicle). The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while ineffectually flailing with the other hand. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. The e-syrup embroidery along the front of the teen's face mask rearrenges itself into large letters that spell "Sorry!"
+Large panel spanning the width of the page: Min turns to see a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, tumbling through a crowd as people swim out of the way of an emergency medical team and their floater (vehicle). The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while ineffectually flailing with the other hand. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. The eSyrup embroidery along the front of the teen's face mask rearrenges itself into large letters that spell "Sorry!"
 
 Tall rectangular panel: View of Min, from below, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. In the viewing port behind Min we see the reflection of the BIOSILICA teen as a dense crowd of people start to laugh and some try to help her re-stabilize, while the rest of the crowd try to keep moving towards their own destinations, all while leaving a path for the emergency medical services.
 
@@ -128,11 +128,11 @@ Bottom of the page: Min stares after the BIOSILICA teen, then shakes herself out
 
 ### Page 6 and 7
 
-Min finds the platform for the school shuttle. The entrance to the platform is guarded by World Government Security Wardens, who are scanning everyone entering the platform for illegal substances and unregistered e-syrup products. 
+Min finds the platform for the school shuttle. The entrance to the platform is guarded by World Government Security Wardens, who are scanning everyone entering the platform for illegal substances and unregistered eSyrup products. 
 
 #### Flashback
 
-Min, on her way to the Space Barge station to leave Earth, stops by a black market drug dealer to buy a substance that when injected, will render her e-syrup tatoos undetectable by World Government standard issue scanners for 24 hours. Min has learned the circuitry of a chemical scanner, and uses it to verify the chemical components of the substance. The whole time, though, Min in stressed and the dealer is stone-faced. 
+Min, on her way to the Space Barge station to leave Earth, stops by a black market drug dealer to buy a substance that when injected, will render her eSyrup tatoos undetectable by World Government standard issue scanners for 24 hours. Min has learned the circuitry of a chemical scanner, and uses it to verify the chemical components of the substance. The whole time, though, Min in stressed and the dealer is stone-faced. 
 
 #### back to the **LOWER ESTATES ORBITAL STATION**
 
@@ -161,12 +161,12 @@ Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful
 **"Another Tree Surfer is born tonight."**
 
 Over this backdrop, small close-up panels are scattered, showing different parts of 16 year old Min, a year before she leaves Earth, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
-* an eye, nose, and ear. The eye, of Korean - West African - Brazilian descent, is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with e-syrup metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
-* a strong and straight back, dominated by an e-syrup tatoo depicting a shallow coral ocean scene, ever-changing.  
+* an eye, nose, and ear. The eye, of Korean - West African - Brazilian descent, is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with eSyrup metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
+* a strong and straight back, dominated by an eSyrup tatoo depicting a shallow coral ocean scene, ever-changing.  
 * shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
 * legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
 
-Bottom of the page, larger panel, full width of the page: the view zooms out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving e-syrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
+Bottom of the page, larger panel, full width of the page: the view zooms out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
 
 Drum beats keep everyone synchronised. 
 
@@ -177,9 +177,9 @@ Drum beats keep everyone synchronised.
 #### Flashback continued 
 
 3 panels show close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
-* Jina and Amadou, also covered in clan tatoos and splendid e-syrup ritual clothing. Jina's subdermal shield, marking her as an Expert Crafter, dance triumphantly in shadowy patterns under the clan tatoos. Next to her is a tall, beautiful e-syrup metal bucket, holding ritual clensing water.    
+* Jina and Amadou, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield, marking her as an Expert Crafter, dance triumphantly in shadowy patterns under the clan tatoos. Next to her is a tall, beautiful eSyrup metal bucket, holding ritual clensing water.    
 * Magou, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
-* **MARABA**, Min's cousin and dearest childhood companion, now an Expert Crafter: **INKER** and chosen for the honour of injecting Min's subdermal shield. Next to **MARABA**, in a shallow curving basket woven from e-syrup kevlar, is an enormous syringe full of swirling, bubbling, living e-syrup culture, freshly harvested from one of their living Mothers. 
+* **MARABA**, Min's cousin and dearest childhood companion, now an Expert Crafter: **INKER** and chosen for the honour of injecting Min's subdermal shield. Next to **MARABA**, in a shallow curving basket woven from eSyrup kevlar, is an enormous syringe full of swirling, bubbling, living eSyrup culture, freshly harvested from one of their living Mothers. 
 
 Wide panel, full width: **"DOOOOHM!"** The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
 
@@ -191,9 +191,9 @@ Jina, Amadou, Magou, and **MARABA** all stand up and pick up the metal hoop. The
 
 **MARABA** picks up the syringe as Jina picks up the bucket of water, leaving Magou and Amadou to hold the hoop with Min inside steady. 
 
-Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then **MARABA** positions the needle of the syringe full of living e-syrup against Min's right buttcheek, breaks the skin, and slowly injects all of the e-syrup as Min grits her teeth. 
+Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then **MARABA** positions the needle of the syringe full of living eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
 
-Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Magou, and **MARABA** turn Min in slow circles as the living e-syrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
+Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Magou, and **MARABA** turn Min in slow circles as the living eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
 
 Her body convulses as her inner circle turns her a few more times in the Cyr wheel, then they set her upright in the very center again. The crowd chants "Be Free! Be FREE! BE FREE!" as Min finishes integrating the subdermal shield. After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. 
 
@@ -223,9 +223,9 @@ We're back on the ISE Space Shuttle to Gemini Station. Min is still in the cafe 
 
 PA: "This is **THE MAE JEMISON MEMORIAL** station. Change here for **MAKE UP SOME ROUTES AND STUFF**. The next station is **SOMETHING SOMETHING**. This shuttle terminates at Gemini Station." 
 
-Behind Min, who is still nursing a hot tea and her stomach while hidden behind her large pack in her corner booth by the viewing port, a crowd of mostly Orbiters have gathered in small groups throughout the cafe compartment. The Orbiters have thin legs, very large puffy heads, and wear full-body e-syrup leotards, which act as an exoskeleton to help support their posture and compensate for the bone loss they experience, growing up and living their lives in space. Their faces are naked, and many of them already have World Government standard issue mods in their necks for space masks. 
+Behind Min, who is still nursing a hot tea and her stomach while hidden behind her large pack in her corner booth by the viewing port, a crowd of mostly Orbiters have gathered in small groups throughout the cafe compartment. The Orbiters have thin legs, very large puffy heads, and wear full-body eSyrup leotards, which act as an exoskeleton to help support their posture and compensate for the bone loss they experience, growing up and living their lives in space. Their faces are naked, and many of them already have World Government standard issue mods in their necks for space masks. 
 
-The Orbiters all throw sidelong glances at a small group of Earthers, whose bulkier bodies were clearly developed under the influence of stronger gravity. But they also look different from Min - their backs are hunched from living their lives in underground tunnels, their skin is ghostly pale, and all of them have also been surgically equipped with World Government standard issue e-syrup body modifications, which stretch their pale skin paper thin and cast dark bruise-like shadows. Some of the Earthers, mostly from military or academia families, also find room to be disdainful and superior towards the **GANGIE** Earthers, identifiable by their elaborate head tatoos, who tend to be from the lowest castes in the great underground World Government cities. 
+The Orbiters all throw sidelong glances at a small group of Earthers, whose bulkier bodies were clearly developed under the influence of stronger gravity. But they also look different from Min - their backs are hunched from living their lives in underground tunnels, their skin is ghostly pale, and all of them have also been surgically equipped with World Government standard issue eSyrup body modifications, which stretch their pale skin paper thin and cast dark bruise-like shadows. Some of the Earthers, mostly from military or academia families, also find room to be disdainful and superior towards the **GANGIE** Earthers, identifiable by their elaborate head tatoos, who tend to be from the lowest castes in the great underground World Government cities. 
 
 PA: "Please exercise caution while moving about the shuttle."
 
@@ -403,7 +403,7 @@ We see just the speaker in the panel as the live announcement continues: "If you
 
 Zoomed out, bird's eye view of the Gemini Station receiving platform. Hundreds of new students, mostly Orbiters, stream out of the shuttle with their luggage, some in small groups of friends. 
 
-We zoom in on Min, carrying a large e-syrup-fabric pack on her back, stuffed to the brim. 
+We zoom in on Min, carrying a large eSyrup-fabric pack on her back, stuffed to the brim. 
 
 We see a sign: *"DOCKING BAY DOORS 0800 - 0820"*
 
@@ -437,9 +437,11 @@ Min eats with Asoka and Rhee at dinner. The food is trendy and more-ish but unhe
 
 Min meets PQ, a proud and stern, much older Earther **GANGIE** who coordinates the scholarship students with the full-time service crew of Gemini Station. PQ gives a quick welcome/intro speech outlining expectations for scholarship students. 
 
-Suddenly, Min's chest burns, her stomach seizes, and her scalp throbs as she falls to the floor. When she comes to, PQ is holding a glass of water to her lips and talking to Gemini medical staff, who are checking Min's vitals. The other scholarship students peer into PQ's office from the hallway, dying to know what's going on.
+Suddenly, Min's chest burns, her stomach seizes, and her head tatoo throbs as she falls to the floor. 
 
 ### Page 12 
+
+When she comes to, PQ is holding a glass of water to her lips and talking to Gemini medical staff, who are checking Min's vitals. The other scholarship students peer into PQ's office from the hallway, dying to know what's going on.
 
 PQ: "I'm sure it's just a bad reaction to zero-G. I've seen this before."
 
@@ -455,7 +457,7 @@ PQ smiles mysteriously: "Because an Automata once saved my life. You wouldn't ha
 
 ## Dream: The Night of a Thousand Burning Stars (2 pages)
 
-PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars. Everyone on board was wearing protective e-syrup suits, but they weren't designed to keep people falling through the atmosphere alive. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of living e-syrup. Magou then helps PQ return to the underground cities. 
+PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars. Everyone on board was wearing protective eSyrup suits, but they weren't designed to keep people falling through the atmosphere alive. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of living eSyrup. Magou then helps PQ return to the underground cities. 
 
 ## Chapter 3
 
@@ -465,7 +467,7 @@ It's the next day, first day of classes. We see the entrance to a large workspac
 
 Next panel, we are inside the workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up flat device about the size of a short, fat finger, which has been opened up so that the inner circuitry is visible. 
 
-Zalo: "You can see how this 2080s standard issue medical scanner has two fixed e-syrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples."
+Zalo: "You can see how this 2080s standard issue medical scanner has two fixed eSyrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples."
 
 POV is now in front of Zalo, who now holds up a similarly shaped and sized device, also opened up. The insides of this second device is way more chaotic and rough, definitely looks like a work in progress. 
 
@@ -473,19 +475,19 @@ Zalo: "This is a prototype for a POCKET UNIVERSAL SCANNER..."
 
 We see numerous panels showing close-ups of the workspace, with tools and materials typical of an electrical workshop, chemistry wet lab, plumbing equipment and tools, field biology equipment, etc. Over these panels, Zalo's voice continues: "...ideally, it can give electrical and chemical readings of other animal species, plants, objects, anything you could possibly want to scan!" 
 
-Zalo: "So today's challenge is to debug this prototype, and learn how to morph e-syrup! Careful though, you only get 2 or 3 morphs out of an e-syrup circuit, 4 if you're very lucky!"
+Zalo: "So today's challenge is to debug this prototype, and learn how to morph eSyrup! Careful though, you only get 2 or 3 morphs out of an eSyrup circuit, 4 if you're very lucky!"
 
 ### Page 2
 
 View of the **INFRADESTRUCTORS** workspace, several hours later. 
 
-Min: "I didn't realise so many Orbiter products use e-syrup circuits! It's everywhere!"
+Min: "I didn't realise so many Orbiter products use eSyrup circuits! It's everywhere!"
 
 Zalo, Min, and a few other **INFRADESTRUCTOR** trainees are seated together. Most of them have finished working and they are philosophising before dinner. 
 
 An Earther **NORMIE** trainee: "Yeah, it really makes me want to get body mods..."
 
-Zalo taps a tool on his leg distractedly: "But you know, it's a real pain in the ass to be tied to Government standard issue body mods, which have at most 4 morphs available. In theory, living e-syrup should be able to go through an infinite number of morphs - think of all the crazy mods we COULD make, one that could last our whole lives!"
+Zalo taps a tool on his leg distractedly: "But you know, it's a real pain in the ass to be tied to Government standard issue body mods, which have at most 4 morphs available. In theory, living eSyrup should be able to go through an infinite number of morphs - think of all the crazy mods we COULD make, one that could last our whole lives!"
 
 An Earther **GANGIE** trainee: "But then who will make sure that the mods are safe?" 
 
@@ -497,17 +499,17 @@ Earther **NORMIE**, shivers: "Ugh, definitely not! I've seen people have some CR
 
 Earther **GANGIE**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
 
-Sedii, an Orbiter trainee, leans in conspiratorially: "Well, and also because the government forbits basic research into e-syrup, so no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
+Sedii, an Orbiter trainee, leans in conspiratorially: "Well, and also because the government forbits basic research into eSyrup, so no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
 
 Earther **GANGIE** trainee, bitter: "Yeah, what better way to keep humanity stupid, enslaved, and easy to control." 
 
-Sedii: "Exactly! Isn't it CRAZY how e-syrup seems to be a crucial part of all of our devices, our homes, our transportation, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
+Sedii: "Exactly! Isn't it CRAZY how eSyrup seems to be a crucial part of all of our devices, our homes, our transportation, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
 
-Zalo: "I heard that before the Water Crisis, e-syrup was considered a cute biological engineering project, and the original inventors published the entire recipe for living e-syrup ON THE INTERNET..."
+Zalo: "I heard that before the Water Crisis, eSyrup was considered a cute biological engineering project, and the original inventors published the entire recipe for living eSyrup ON THE INTERNET..."
 
 Sedii: "Ha! Yeah, back when humans thought the internet would exist forever..."
 
-Min: "But, Zalo, are you trying to tell us that the **INFRADESTRUCTORS** guild ISN'T trying to research living e-syrup? That's what I thought you meant by 'opening up all black boxes'..."
+Min: "But, Zalo, are you trying to tell us that the **INFRADESTRUCTORS** guild ISN'T trying to research living eSyrup? That's what I thought you meant by 'opening up all black boxes'..."
 
 Zalo: "Ok, sure, but no guild is powerful enough to openly defy World Government law..."
 
@@ -575,21 +577,25 @@ Rajue: "Auuugh!!"
 
 Min is back in PQ's office. PQ examines the black market injector and substance.
 
-Min: "I'm SO LUCKY that the biohazard suit hid my subdermal shield from Rajue. He's the LAST person I want to see that."
+Min: "I'm SO LUCKY I was wearing the biohazard suit. Rajue is the LAST person who should see my subdermal shield."
 
 PQ, holding up the substance in its vial up to the light: "Humph. Doesn't look any scarier than some of the chem mods that the Orbiter teens smuggle on board. And you say a **MENDELEEVER** is analysing the substance?"
 
 Min: "Yes, well, at least, a **MENDELEEVER** TRAINEE is..." Min face-palms. "Actually, this particular trainee could use some help too...she's too freaked out by the food to eat it, we need a way to scan it in the mess hall or something."
 
+### Page 11
+
 PQ: "Hmm...I might be able to get my hands on a medical scanner, from the infirmary."
 
 Min: "Isn't that incredibly risky?"
 
-PQ: "What Magou did to save my life was far riskier. This is nothin, love."
+PQ: "What Magou did to save my life was far riskier. This is nothin, love. Besides, they're mandated to buy the new model at the end of each year. They have devices spilling out of their ears."
 
-### Page 11 and 12
+Min: "That reminds me...Rajue said something...INTERESTING...about the Space Asylum Program..."
 
-Min mentions to PQ her conversation with Rajue. They discuss the Space Asylum Program and who it's actually serving. PQ warns Min to be very careful in the evenings, that seems to be the time when Min's subdermal shield freaks out. 
+### Page 12
+
+Min and PQ discuss the Space Asylum Program and who it's actually serving. As Min leaves to go to bed, PQ warns Min to be very careful in the evenings, as that seems to be the time when Min has her most severe eSyrup reactions. 
 
 ## Chapter 4
 
@@ -599,7 +605,7 @@ We see a surgery room labeled "Laser Atomic Manipulator. Wear eye protection at 
 
 Rajue: "...how the hell is a mod virgin going to be of any use to the **CYBERPHILIA** guild??"
 
-Min is in a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark e-syrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year trainees, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biosilican Unassigned students. A **CYBERPHILIA** guild master oversees the class. 
+Min is in a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark eSyrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year trainees, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biosilican Unassigned students. A **CYBERPHILIA** guild master oversees the class. 
 
 **CYBERPHILIA** guild master: "Rajue! You will refrain from using such bigoted language!"
 
@@ -629,7 +635,7 @@ Min learns from them that Jheri is currently considered one of the top trainees 
 
 ### Page 5
 
-Sung-soo and Eithne leave them, and Min walks with Rhee and Asoka so that they can discuss before their next class what Min plans to do about the incident with her subdermal shield. Rhee has analyzed the black market injections that Min uses to render her e-syrup tatoos undetectable, using the **MENDELEEVERS** more sophisticated scanners and devices. She confirms that the substance is what it claims to be, and that it is otherwise inert. 
+Sung-soo and Eithne leave them, and Min walks with Rhee and Asoka so that they can discuss before their next class what Min plans to do about the incident with her subdermal shield. Rhee has analyzed the black market injections that Min uses to render her eSyrup tatoos undetectable, using the **MENDELEEVERS** more sophisticated scanners and devices. She confirms that the substance is what it claims to be, and that it is otherwise inert. 
 
 ### Page 6
 
@@ -663,26 +669,72 @@ Large panel depicting an insanely creative playgrounds, built by the guild train
 
 ### Page 11
 
-At dinner Min finds Zalo and shows him the smuggled medical scanner. He freaks out and wants to take it apart immediately, but Min explains why she needs to shut off the scanner's communications and then use it to scan all of the food and water. Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the e-syrup neutralizer substance. 
+At dinner Min finds Zalo and tells him that she needs to show him something, but in the **INFRADESTRUCTORS** workspace please. There, Min shows Zalo the smuggled medical scanner. He freaks out and wants to take it apart immediately, but Min explains that she needs to shut off the scanner's communications and then use it to make an unrecorded scan of all the food and water.
 
 ### Page 12
 
-Zalo freaks out/is full of awe when he learns that Min has living e-syrup tatoos. He wants to learn more and help. 
+Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the eSyrup neutralizer substance. She shows him the substance and asks if he minds taking a look at it.
+
+Zalo's mind is blown when he learns that Min has living eSyrup tatoos. He wants to learn more and help. 
 
 ## Chapter 5
+
+### Page 1
+
+ISE Corps alum Tross, a Biosilican, is visiting from Space University to give a demonstration of space welding tools as MENDELEEVERS trainees play rapid fire rounds of "What if...in space?!", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools.
+
+Tross's mechapet, a midnight black, silky, sinewy cat named Inqbi, alternates between curling around Tross's shoulders like an adorable, purring scarf, to gliding through the shadows like a silent, hazel-eyed wave of death and destruction. 
+
+### Page 2
+
+Min finds Tross's teaching style incredibly exciting and asks such eager questions that Tross and Min continue chatting over lunch, where Rhee joins them. Tross, blushing slightly, pulls out a packed lunch, explaining that as an alum his meals at the mess hall aren't covered. Min and Rhee become fast friends with Inqbi, who shares their fondness for fried cheese. Min's head tatoo has a small flare up again, luckily without any subdermal effects. 
+
+### Page 3
+
+Tross asks Min if she's alright. Min explains that she's having some bad reactions to zero-G, and she's thinking she might be allergic to something in the food. Tross confesses that he also never liked the mess hall food, and that while he was a student there was a group of students who expressed concern over some of the active ingredients in the mess hall food. Tross gives Min a hard look and says, "If you can...don't eat the food here." Tross then excuses himself, saying that he needs to return to Space University now.
+
+### Page 4
+
+After lunch, Rhee introduces Min to Oana, another **NORMIE** and a scholarship student in her 2nd year, who has become an expert at blowing microscopic bio-compatible eSyrup-infused glass filaments, which can be gently embedded subdermally to create programmable, interactive "mod-makeup". It's not quite like eSyrup tatoos - the eSyrup in the glass filaments have only limited input from the biological tissue and are programmed prior to injection. 
+
+### Page 5
+
+Oana shows them how to verify each piece to certify it safe for subdermal injection. While they work, Rhee teases Min for her fascination with Tross. Oana reveals that Tross came to the ISE Corps during the same year as Zalo and Jheri, but he is the first and only cadet to graduate in one year - most students take the full 3, and occassionally someone graduates in 2 years. Tross is now a 2nd-year journeyhume at Space University as an independent space welder, but he returns to the ISE Corps for each year, to be part of the initiation week and hold workshops and demonstrations for the **MENDELEEVERS**. 
+
+### Page 6
+
+Rhee encourages Min to ask Oana about her eSyrup reactions. Oana listens to Min's symptoms, examines her head tatoo, and suggests talking to someone from **INFRADESTRUCTORS** to help her learn more about her injections. Min tells them that she's already talked to Zalo, and that he's got a sample of the eSyrup neutralizer substance. Oana urges Min to find Zalo at dinner and ask if he's figured anything out. 
+
+### Page 7
+
+On the way to dinner, Min spies Inqbi disappearing around a corner. Min tells Rhee to go ahead to dinner, and Min follows Inqbi in the hopes of running into Tross. Min finds herself in a workroom where she sees what looks like a delicate metal flower on the workbench. She goes in for a closer look. 
+
+### Page 8
+
+Tross suddenly appears and asks what Min is doing. He tries to encourage her to leave, but Min is fascinated by the flower and wants to learn more about it. Tross tells Min to forget the flower, claiming that it is a failed experiment that will get incinerated anyway. Min asks to take the flower, under the logic that she will happily investigate the "failed experiment", especially if no one else wants it. 
+
+### Page 9
+
+Tross refuses to give it to her and tries to physically remove her from the room, but of course Min doesn't stand for that. As their grappling becomes more earnest, one of the surveillance cameras catches the violence and an alarm goes off. Tross grips Min hard and says, deadly serious, "Min, if you value your life, leave right now." Utterly shaken, Min flees. 
+
+### Page 10
+
+Mess hall. Min finds Rhee and Zalo, who wants to take them to the **INFRADESTRUCTORS** workspace to discuss something urgent. Rhee asks why Min looks so shaken. Min brushes away Rhee's concern and asks Zalo what he found. 
+
+### Page 11
+
+In the **INFRADESTRUCTOR** workspace. Zalo shows them his analysis of the eSyrup neutralizer, which seems inert, as Rhee initially concluded. But Zalo also happened to analyse a bit of Min's blood that hadn't been cleaned off the injector, and points out a strange anomaly in the bloodwork. 
+
+### Page 12
+
+Zalo wants to ask Jheri for her opinion on his blood analysis, with Min's permission of course. Min is exasperated that so many people are becoming privy to her subdermal shield and the true nature of her tatoos. Zalo looks Min hard in the eye and says that he trusts Jheri with his life. Min agrees to let Jheri look at the blood analysis. 
+
+## Chapter 6
+
+###
 
 
 # Old summaries
-
-## Chapter 5
-
-It's Day 4, and the Undecideds are with the MENDELEEVERS, where ISS Corps alum Tross is giving a demonstration of space welding tools as fellow 2nd- and 3rd-year MENDELEEVERS cadets play rapid fire rounds of "What if...in space?!", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools. Tross's ESYRUP DAEMON, a midnight black, silky, sinewy cat named INQBI, alternates between curling around Tross's shoulders like an adorable, purring scarf, to gliding through the shadows like a silent, hazel-eyed wave of death and destruction. Min finds Tross's teaching style incredibly exciting and asks such eager questions that Tross and Min continue chatting over lunch, where Min also finds Rhee. Min and Rhee become fast friends with INQBI, who shares their fondness for fried cheese. Min's head tatoo flares up again, and Tross asks Min if she's alright. She explains that she might have some mild ESYRUP contamination, but she's gotten some pills to help with it. Tross asks her several probing questions about the pills and expresses concern over some of the active ingredients. Tross then excuses himself, saying that he needs to return to Space University now.
-
-After lunch, Rhee introduces Min to Oana, another NORMIE and a scholarship student in her 2nd year, who has become an expert at blowing microscopic bio-compatible ESYRUP-infused glass filaments, which can be gently embedded subdermally to create programmable, interactive "mod-makeup". It's not quite like ESYRUP tatoos - the ESYRUP in the glass filaments have only limited input from the biological tissue and are programmed prior to injection. Oana shows them how to verify each piece to certify it safe for subdermal injection. While they work, Rhee teases Min for her fascination with Tross. Oana reveals that Tross was a muskie during the same year as Zalo and Jheri, but he is the first and only cadet to graduate in one year - most students take the full 3, and occassionally someone graduates in 2 years. Tross is now a 2nd-year journeyhume at Space University as an independent space welder, but he returns to the ISS Corps for the first week of the year, to be part of the initiation week and hold workshops and demonstrations for the MENDELEEVERS. Rhee also confesses a fascination with understanding the fundamental workings of ESYRUP, and encourages Min to ask Oana about her ESYRUP contamination. Oana listens to Min's symptoms, examines her head tatoo, and suggests talking to someone from INFRADESTRUCTORS to help her learn more about her pills.
-
-On Day 5, Min spends the morning with the INFRADESTRUCTORS crew, trying to de-black-box her pills. They make some startling discoveries with the POCKET UNIVERSAL SCANNER, which make Zalo wonder if Min should stop taking the pills altogether.
-
-At lunch, Min catches up with Rhee and Oana about her morning session with the INFRADESTRUCTORS. After lunch, she joins Rhee for a workshop on "Common chemicals on space vessels with surprising properties", where Rhee proves to be a natural at chemical alchemy. After the workshop, Min spies INQBI disappearing around a corner. Follwing INQBI in the hopes of running into Tross, she steps into a workroom where she sees what looks like a delicate metal flower on the workbench. She goes in for a closer look, when Tross suddenly appears and asks what Min is doing. He tries to encourage her to leave, but Min is fascinated by the flower and wants to learn more about it. Tross tells Min to forget the flower, claiming that it is a failed experiment that will get incinerated anyway. Min asks to take the flower, under the logic that she will happily investigate the "failed experiment", especially if no one else wants it. Tross refuses to give it to her and tries to physically remove her from the room, but of course Min doesn't stand for that. As their grappling becomes more earnest, one of the surveillance cameras catches the violence and an alarm goes off. Tross grips Min hard and says, deadly serious, "Min, if you value your life, leave right now." Utterly shaken, Min flees.
 
 ## Chapter 6
 
