@@ -423,7 +423,7 @@ Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee with 
 
 Jheri: "A guild assignment is a mutual pledge of respect and commitment to study the skills and protect the secrets of your guild. Usually, we would rely on the data in your Universal Record to assign you to the optimal guild, based your life choices and achievements. But since, for one reason or another," and here Jheri smiles kindly, gently looking each first-year in the eye, "your Universal Records have insufficient data to calculate the optimal placement, you will spend the first week of the semester meeting each guild and taking some of their classes."
 
-Jheri's eyes grow both sad and hard: "If you cannot find a guild to accept you and commit to teaching you their ways, there will be no room for you at this school, and you will have to go home."
+Jheri's eyes grow both sad and hard: "You'll need to impress the third year trainees, who are the teaching assistants for each class, if you want to be accepted by a guild. If you cannot find a guild to accept you and commit to teaching you their ways, there will be no room for you at this school, and you will have to go home."
 
 The Earther **GANGIE** from the cafe fight: "But, wait, what if we're part of the Space Asylum Program? We have no home to go back to!"
 
@@ -447,13 +447,15 @@ PQ: "I'm sure it's just a bad reaction to zero-G. I've seen this before."
 
 Gemini school medic: "Well all of your vitals are strong and steady. Get plenty of rest tonight, and drink lots of fluids, ok?"
 
-PQ shoos away the other students and insists on walking Min to her dormitory. At Min's door, PQ turns her back to the hallway surveillance cam and whispers.
+PQ shoos away the other students and thanks the medic. Once everyone is out of her office, PQ makes a gesture that activates a strange energy in the room, making Min's hair stand on end. 
 
-PQ, eyes unfathomable: "I saw it...your subdermal shield."
+Min: "What's going on?"
+
+PQ, eyes unfathomable: "I've activated a **SIGNAL SCRAMBLER BUBBLE**. It'll keep the eyes and ears of the World Government off us. I saw it...your subdermal shield."
 
 Min clenches her teeth and begins to sweat: "How do you--??"
 
-PQ smiles mysteriously: "Because an Automata once saved my life. You wouldn't happen to know a crusty old bird named Magou, eh?" 
+PQ smiles mysteriously: "I know how to recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know a crusty old bird named Magou, eh?" 
 
 ## Dream: The Night of a Thousand Burning Stars (2 pages)
 
@@ -467,7 +469,7 @@ It's the next day, first day of classes. We see the entrance to a large workspac
 
 Next panel, we are inside the workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up flat device about the size of a short, fat finger, which has been opened up so that the inner circuitry is visible. 
 
-Zalo: "You can see how this 2080s standard issue medical scanner has two fixed eSyrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples."
+Zalo: "You can see how this 2080s standard issue medical scanner has two fixed eSyrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples. Modern medical scanners can detect changes in electrical and chemical properties up to 5 cm below the skin surface."
 
 POV is now in front of Zalo, who now holds up a similarly shaped and sized device, also opened up. The insides of this second device is way more chaotic and rough, definitely looks like a work in progress. 
 
@@ -515,11 +517,11 @@ Zalo: "Ok, sure, but no guild is powerful enough to openly defy World Government
 
 ### Page 4 
 
-Min, Rhee, and Asoka are at dinner again, looking glumly at today's unappetizing looking slop. Rhee is so freaked out by the food that she is refusing to eat any of it. Soka and Min are concerned and try to convince Rhee to eat something. Soka mentions that the **CIRQUE DU COSMIQUE** guild has fresh fruit, and Rhee immediately begs to have some.
+Min, Rhee, and Asoka are at dinner again, looking glumly at today's unappetizing looking slop. Rhee is so freaked out by the food that she is refusing to eat any of it, and only nibbles at the sourdough bread made by her guild. Soka and Min are concerned and try to convince Rhee to eat something. Soka mentions that the **CIRQUE DU COSMIQUE** guild has fresh fruit, and Rhee immediately begs to have some. Iri offers to analyse the mess hall food and drink by consuming them and making digital analyses of them.
 
 ### Page 5 and 6
 
-Min tells the other 2 about the incident in PQ's office last night, and how PQ covered for her, and how, turns out, PQ knows Min's grandmother. Min and Asoka tell Rhee about how they met as children. 
+Min tells the other 2 about the incident in PQ's office last night, and how PQ covered for her, and how, turns out, PQ knows Min's grandmother. Min mentions how paranoid PQ was about government surveillance, and Rhee insists that they figure out something similar. Min and Asoka can communicate silently, via Min's eSyrup tatoos and Soka's eSyrup clothing, which can transfer information via modulated vibrations that seem to whisper words into the receiver's ears. 
 
 #### Flashback
 
@@ -575,7 +577,7 @@ Rajue: "Auuugh!!"
 
 ### Page 10
 
-Min is back in PQ's office. PQ examines the black market injector and substance.
+Min is back in PQ's office. The **SIGNAL SCRAMBLE BUBBLE** is on, as PQ examines the black market injector and substance.
 
 Min: "I'm SO LUCKY I was wearing the biohazard suit. Rajue is the LAST person who should see my subdermal shield."
 
@@ -621,25 +623,27 @@ Guild master: "Jheri, please continue with the demo."
 
 Jheri continues her prep for the demo. We see close-ups of different components of the machine, and different other tools/prep material scattered about the room as Jheri says: "The **CYBERPHILIA** guild specializes in the communication, control, and governance necessary for space exploration. This means that we need to study the psychology of not only individual agents, but also groups of agents, to understand how agents in a system influence and control each other."
 
-Jheri: "This is the fundamental idea undelying the laser atomic manipulator. Through careful and subtle modulations of photonic energy, we've developed a language to negotiate with cells and tissues."
+As Jheri begins her demo, the Guild Master says: "This is the fundamental idea undelying the laser atomic manipulator. Through careful and subtle modulations of photonic energy, we've developed a language to negotiate with cells and tissues." 
 
-### Page 3 and 4
+### Page 3
 
-Min has dinner with Rhee and Asoka, and today Soka has smuggled several fruits in her multi-layered clothing. Rhee, desperately grateful, ravenously eats the fruit. Today the other two Biosilican Unassigned students join them. Their names are **SUNG-SOO** and **EITHNE**. 
+Jheri is currently considered one of the top trainees at ISE Corps, in large part for her incredible dexterity and precision with the LAM. She has already begun her Journeyhume training with a Space University professor, who invented the most recent version of the LAM, which is an order of magnitude cheaper and more portable, and can cut out a 1cm cubed (as opposed to previous models' 5cm cubed) volume out from deep inside of a living animal without causing bleeding or needing stitches.
 
-**SUNG-SOO**: "Well, there goes Rajue's chances of ever making it into the **CYBERPHILIA** guild."
+Guild Master turns to the first years with a stern look: "But before you even TOUCH a LAM, you'll need to prove your understanding of the theory." 
 
-**EITHNE**: "I'm so stressed, what if I can't find a guild to take me?"
+The Guild Master waves her hand in a well-practiced gesture and a wall of text and mathematical symbols appear in front of each trainee. "Memorize and drill these equations."
 
-Min learns from them that Jheri is currently considered one of the top trainees at ISE Corps, in large part for her incredible dexterity and precision with the LAM. She has already begun her Journeyhume training with a Space University professor, who invented the most recent version of the LAM, which is an order of magnitude cheaper and more portable, and can cut out a 1cm cubed (as opposed to previous models' 5cm cubed) volume out from deep inside of a living animal without causing bleeding or needing stitches.
+### Page 4
+
+Min is exhausted with the combined effort of symbolic maths and careful hidden usage of her eSyrup tatoo. At dinner, Soka has smuggled several fruits in her multi-layered clothing for Rhee. Rhee has brought enough bread to share today, and desperately grateful for some variety to her diet, ravenously eats the fruit. 
 
 ### Page 5
 
-Sung-soo and Eithne leave them, and Min walks with Rhee and Asoka so that they can discuss before their next class what Min plans to do about the incident with her subdermal shield. Rhee has analyzed the black market injections that Min uses to render her eSyrup tatoos undetectable, using the **MENDELEEVERS** more sophisticated scanners and devices. She confirms that the substance is what it claims to be, and that it is otherwise inert. 
+They discuss what Min plans to do about the incident with her subdermal shield. Rhee has analyzed the black market injections that Min uses to render her eSyrup tatoos undetectable, by sneaking time on the **MENDELEEVERS** more sophisticated scanners and devices. She says that as far as she can tell, the substance is what it claims to be, and that it seems otherwise inert. But Rhee was rushed, and she's not super familiar with the scanners, so she's not super sure of her analysis. 
 
 ### Page 6
 
-Min mentions that PQ might be able to smuggle them a current model World Government medical scanner, so they can check the black market substance again. Soka suggests using to scan all of the water and food also, since it might mean Rhee could eat something, and because they have no idea what could be causing Min's episodes. 
+Min, via silent communication to Soka, who relays it to Rhee, mentions that PQ might be able to smuggle them a current model World Government medical scanner, so they can check the black market substance again. Soka suggests using the government medical scanner to scan all of the water and food also, since it might help Rhee eat something besides bread and fruit, and because they have no idea what could be causing Min's episodes. 
 
 ### Page 7
 
@@ -649,9 +653,7 @@ Min: "I know exactly who to ask."
 
 ### Page 8 
 
-Next day. Full page depiction of the **CIRQUE DU COSMIQUE**'s main training gym, as guild trainees, most of them Earthers, do a physical warmup for partner acrobatics. We hear a steady stream of "Ready!"s, spoken by trainees with their hands raised, indicating that they are ready to base another trainee (this is the training sequence I saw at the beginning of Backbone show at Southbank Centre). Except for the first year trainees, all of the **CIRQUE DU COSMIQUE** trainees, including the Orbiters, are strong and muscled. Third year trainee **GIARMO**, a broad-shouldered Earther **GANGIE**, supervises the training session. The ceiling of the training gym is actually one wall of an enormous aquarium, full of old Earth animals and some new, genetically engineered marine animals. 
-
-### Page 9
+Next day. Full page depiction of the **CIRQUE DU COSMIQUE**'s main training gym, as guild trainees, most of them Earthers, do a physical warmup for partner acrobatics. We hear a steady stream of "Ready!"s, spoken by trainees with their hands raised, indicating that they are ready to base another trainee (this is the training sequence I saw at the beginning of Backbone show at Southbank Centre). Except for the first year trainees, all of the **CIRQUE DU COSMIQUE** trainees, including the Orbiters, are strong and muscled. Third year trainee **GIARMO**, a broad-shouldered Earther **GANGIE**, supervises the warmup. The ceiling of the gym is actually one wall of an enormous aquarium, full of old Earth animals and some new, genetically engineered marine animals. 
 
 **GIARMO**: "Unassigned trainees! If you are an Orbiter, you may find the ways of this guild very difficult to follow."
 
@@ -659,23 +661,31 @@ The crowd of Unassigned trainees trying out this particular guild is indeed smal
 
 **GIARMO**: "To be a space swimmer, you must keep yourself in peak physical condition. And life in space is the greatest enemy to human physical strength."
 
+### Page 9
+
+**GIARMO** rubs his hands together with gleeful anticipation: "So! Let's get started with stretches, then strength training!"
+
+Montage of typical circus training exercises, especially partner acro stuff. 
+
+Soka is strong but not the best at coordination. Min isn't so strong but incredibly dextrous and moves beautifully, artfully.
+
 ### Page 10
 
 Whereas other guilds ate catered lunch from the mess hall, the **CIRQUE DU COSMIQUE** guild just puts out piles of raw fruit. 
 
-**GIARMO**: "I hate to say it but the food they feed you is trash. We have a small orchard in one of the terrariums, these are much better for a mid-day meal. Besides, if you get too full you won't be able to use the playground."
+**GIARMO**: "I hate to say it but the food they feed you is trash. We have a small orchard in one of the terrariums, these are much better for a mid-day meal. Besides, if you get too full you won't be able to use the playground." Soka and Min exchange a look, and they decide to eat only fruit from the orchards until they can sort out Min's eSyrup seizures. 
 
-Large panel depicting an insanely creative playgrounds, built by the guild trainees. Min sees the echoes of her beloved Earth trees in those playground structures, and is delighted to play on them, using Tree Surfer muscles that have been neglected ever since she came into space. 
+Large panel depicting an insanely creative playground, built by the guild trainees. Min sees the echoes of her beloved Earth trees in those playground structures, and is delighted to play on them, using Tree Surfer muscles that have been neglected ever since she came into space. 
 
 ### Page 11
 
-At dinner Min finds Zalo and tells him that she needs to show him something, but in the **INFRADESTRUCTORS** workspace please. There, Min shows Zalo the smuggled medical scanner. He freaks out and wants to take it apart immediately, but Min explains that she needs to shut off the scanner's communications and then use it to make an unrecorded scan of all the food and water.
+**GIARMO** pulls aside Soka and Min to tell them that they show a lot of promise as space swimmers, and asks if they would be interested in a special group he's putting together to experiment with multi-partner synchronized space swimming, which could be a new way to accomplish certain build and maintenance tasks for space vessels in orbit or during space travel. Both Soka and Min are delighted. 
 
 ### Page 12
 
-Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the eSyrup neutralizer substance. She shows him the substance and asks if he minds taking a look at it.
+At dinner Min and Soka are so euphoric from the day that Min nearly forgets to find Zalo, but then she sees him right at the end of dinner. She runs after him and makes up a fake reason why he needs to come with her to the Service Crew Head Office, right now please. There, PQ shows Zalo the smuggled medical scanner. He freaks out and wants to take it apart immediately, but Min explains that she needs to shut off the scanner's communications and then use it to make an undocumented scan of all the food and water from the mess hall.
 
-Zalo's mind is blown when he learns that Min has living eSyrup tatoos. He wants to learn more and help. 
+Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the eSyrup neutralizer substance. She shows him the substance and asks if he minds taking a look at it. Zalo's mind is blown when he learns that Min has living eSyrup tatoos. He wants to learn more and help. 
 
 ## Chapter 5
 
@@ -687,11 +697,11 @@ Tross's mechapet, a midnight black, silky, sinewy cat named Inqbi, alternates be
 
 ### Page 2
 
-Min finds Tross's teaching style incredibly exciting and asks such eager questions that Tross and Min continue chatting over lunch, where Rhee joins them. Tross, blushing slightly, pulls out a packed lunch, explaining that as an alum his meals at the mess hall aren't covered. Min and Rhee become fast friends with Inqbi, who shares their fondness for fried cheese. Min's head tatoo has a small flare up again, luckily without any subdermal effects. 
+Min finds Tross's teaching style incredibly exciting and asks such eager questions that Tross and Min continue chatting over lunch, where Rhee joins them. Tross, blushing slightly, pulls out a packed lunch, explaining that as an alum his meals at the mess hall aren't covered. Min assures him that he's not missing anything, as she uses some jam and cheese to spice up Rhee's bread. Min and Rhee become fast friends with Inqbi, who shares their fondness for fried cheese, which Tross has packed in copious amounts. Min's head tatoo has a small flare up again, luckily without any subdermal effects. 
 
 ### Page 3
 
-Tross asks Min if she's alright. Min explains that she's having some bad reactions to zero-G, and she's thinking she might be allergic to something in the food. Tross confesses that he also never liked the mess hall food, and that while he was a student there was a group of students who expressed concern over some of the active ingredients in the mess hall food. Tross gives Min a hard look and says, "If you can...don't eat the food here." Tross then excuses himself, saying that he needs to return to Space University now.
+Tross asks Min if she's alright. Min explains that she's having some bad reactions to zero-G, and she's thinking she might be allergic to something in the mess hall food. Tross confesses that he also never liked the mess hall food, and that while he was a student there was a group of students who expressed concern over some of the active ingredients in the mess hall food and tried to reform the mess hall's cooking methods. Tross gives Min a hard look and says, "If you can...don't eat the food here." Tross then excuses himself, saying that he needs to return to Space University now.
 
 ### Page 4
 
@@ -699,74 +709,125 @@ After lunch, Rhee introduces Min to Oana, another **NORMIE** and a scholarship s
 
 ### Page 5
 
-Oana shows them how to verify each piece to certify it safe for subdermal injection. While they work, Rhee teases Min for her fascination with Tross. Oana reveals that Tross came to the ISE Corps during the same year as Zalo and Jheri, but he is the first and only cadet to graduate in one year - most students take the full 3, and occassionally someone graduates in 2 years. Tross is now a 2nd-year journeyhume at Space University as an independent space welder, but he returns to the ISE Corps for each year, to be part of the initiation week and hold workshops and demonstrations for the **MENDELEEVERS**. 
+Oana shows them how to verify each piece to certify it safe for subdermal injection. While they work, Rhee teases Min for her fascination with Tross. Oana reveals that Tross came to the ISE Corps during the same year as Zalo and Jheri, but he is the first and only cadet to graduate in one year - most students take the full 3, and occassionally someone graduates in 2 years. Tross is now a 2nd-year journeyhume at Space University as an independent space welder, but he returns to the ISE Corps for each year, to be part of the initiation week and hold workshops and demonstrations for the **MENDELEEVERS**. Min excuses herself to go to the toilet.
 
 ### Page 6
 
-Rhee encourages Min to ask Oana about her eSyrup reactions. Oana listens to Min's symptoms, examines her head tatoo, and suggests talking to someone from **INFRADESTRUCTORS** to help her learn more about her injections. Min tells them that she's already talked to Zalo, and that he's got a sample of the eSyrup neutralizer substance. Oana urges Min to find Zalo at dinner and ask if he's figured anything out. 
-
-### Page 7
-
-On the way to dinner, Min spies Inqbi disappearing around a corner. Min tells Rhee to go ahead to dinner, and Min follows Inqbi in the hopes of running into Tross. Min finds herself in a workroom where she sees what looks like a delicate metal flower on the workbench. She goes in for a closer look. 
-
-### Page 8
+On her way back from the toilet, Min spies Inqbi disappearing around a corner. Min follows Inqbi in the hopes of running into Tross. Min finds herself in a workroom where she sees what looks like a delicate metal flower on the workbench. She goes in for a closer look. 
 
 Tross suddenly appears and asks what Min is doing. He tries to encourage her to leave, but Min is fascinated by the flower and wants to learn more about it. Tross tells Min to forget the flower, claiming that it is a failed experiment that will get incinerated anyway. Min asks to take the flower, under the logic that she will happily investigate the "failed experiment", especially if no one else wants it. 
 
-### Page 9
+### Page 7
 
 Tross refuses to give it to her and tries to physically remove her from the room, but of course Min doesn't stand for that. As their grappling becomes more earnest, one of the surveillance cameras catches the violence and an alarm goes off. Tross grips Min hard and says, deadly serious, "Min, if you value your life, leave right now." Utterly shaken, Min flees. 
 
+### Page 8
+
+Mess hall. Min finds Soka, Rhee, and Zalo, who says he needs to discuss something urgent. Soka asks why Min looks so shaken. Min brushes away Soka's concern and asks Zalo what he found. Soka hands everyone fruit from the **CIRQUE DU COSMIQUE** orchards, as Rhee passes around **MENDELEEVER** bread. 
+
+Zalo insists on being careful about surveillance, so Min runs to ask PQ if they can come to her office. PQ tells Min to only bring people whom she trusts with her life.  
+
+### Page 9
+
+Min brings Soka, Rhee, and Zalo to PQ's office. Zalo shares his analysis of the eSyrup neutralizer, which seems inert, as Rhee initially concluded, but Zalo points out that some of the active ingredients are unusual choices given the supposed function. Given that, Zalo wants to take a blood sample from Min to run through the medical scanner. Min consents. 
+
+As they watch the device spit out scan results, PQ wonders at what point Min stopped eating mess hall food. Rhee and Soka help Min remember, and PQ points out that ever since Min stopped eating mess hall food, her eSyrup seizures have stopped. Zalo also asks PQ if he can examine her **SIGNAL SCRAMBLER BUBBLE** device. Min assures PQ that Zalo is cool, so PQ let's Zalo tinker. 
+
 ### Page 10
 
-Mess hall. Min finds Rhee and Zalo, who wants to take them to the **INFRADESTRUCTORS** workspace to discuss something urgent. Rhee asks why Min looks so shaken. Min brushes away Rhee's concern and asks Zalo what he found. 
+Zalo wants to ask Jheri for her opinion on the blood analysis, with Min's permission of course. Min is exasperated that so many people are becoming privy to her subdermal shield and the true nature of her tatoos. Zalo looks Min hard in the eye and says that he trusts Jheri with his life. Min agrees to let Jheri look at the blood analysis, then PQ shoos everyone away so that Min can do her evening service crew shift. Before leaving Zalo begs to have one more look at the **SIGNAL SCRAMBLER BUBBLE**, so PQ reveals that she has a second one that Zalo can take, on the condition that if he gets caught with it, PQ will deny any knowledge or connection. 
 
 ### Page 11
 
-In the **INFRADESTRUCTOR** workspace. Zalo shows them his analysis of the eSyrup neutralizer, which seems inert, as Rhee initially concluded. But Zalo also happened to analyse a bit of Min's blood that hadn't been cleaned off the injector, and points out a strange anomaly in the bloodwork. 
+PQ has put Min on paperwork duty in her office so that they can talk about Min's research into her eSyrup seizures. PQ seems unsurprised that the mess hall food is turning into the prime suspect, and apologises for not showing Min earlier. 
+
+Min: "Show me what earlier?" 
+
+PQ leads Min to a section of the Gemini that Min had never seen before - interstitial tunnels, where the service crew have been growing crops using re-directed waste water which they've filtered and cleaned using refurbished eSyrup products. Min is completely shocked, especially when she sees Rajue weeding one of the lines of crops. Min quickly moves out of his line of sight. 
+
+PQ gives Min some of the food they grow, and Min can feel a huge difference in her gut.
 
 ### Page 12
 
-Zalo wants to ask Jheri for her opinion on his blood analysis, with Min's permission of course. Min is exasperated that so many people are becoming privy to her subdermal shield and the true nature of her tatoos. Zalo looks Min hard in the eye and says that he trusts Jheri with his life. Min agrees to let Jheri look at the blood analysis. 
+PQ explains that this farming project started 3 years ago, after the first year of Space Asylum students started to fall ill and die from unexplained reasons. Since most of them are Earther **GANGIES**, PQ felt a need to take them all under her wing, and feed them food that reminded them of home food that might prevent them from wasting away with illness. Turns out that it saved the scholarship students' lives, and ever since PQ started the illegal farming project, no scholarship students have died. 
+
+## Dream: A vision of Mother (2 pages)
+
+Min dreams of her mother Jina, her grandmother Magou, and all of the women who have been part of her lineage. She also dreams of the living eSyrup culture in her skin, and its long life ever since it was born, way back before the Water Crisis. Min feels a strange pulsing in her body, it causes her pain and fear. 
 
 ## Chapter 6
 
-###
+### Page 1
 
+Min wakes up in Soka's dorm room. She had snuck in last night because Tross's behaviour, Zalo's analysis, and PQ's reveal of the interstitial illegal farming had overwhelmed her, and she didn't want to be alone. She knows she should be checking out more guilds, but she finds the **CIRQUE DU COSMIQUE** daily routine so familiar and Asoka's presence so comforting that she decides to shadow Asoka all day. 
 
-# Old summaries
+### Page 2
 
-## Chapter 6
+Min and Asoka work on space swimming drills until they reach lunch time, exhausted. Everyone is super excited by Min's immediate proficiency with space swimmer moves, and how strong and well trained her body already is thanks to working her whole life as an Arborist in giant trees. Everyone is also very impressed at how quickly Soka's space swimming is improving, especially with Min's help. 
 
-Min spends Day 6 with Asoka and the CIRQUE DU COSMIQUE crew. She had slept in Asoka's sleeping structure the night before, she was so confused and frightened by Tross's behaviour. She and Asoka had discussed it until late into the night, and now, the next day, she just wants to shut up the questions in her head with blindingly difficult physical challenges, so she and Asoka work on space swimming drills until they reach lunch time, exhausted. Everyone is super excited by how quickly Min's space swimming is improving, especially Asoka, who has been training space swimming since childhood and is eager to involve Min in her experiments in multi-partner synchronized space swimming, which could be a new way to accomplish certain build and maintenance tasks for space vessels in orbit or during space travel. Min spends a wonderful lunch with Asoka, GIARMO, and numerous other admiring cadets, discussing the history of space swimming.
+### Page 3
 
-Min is left feeling miserable. She doesn't want to leave the ISS Corps, but she's also pretty sure that she won't be able to build her affordable and accessible space craft with the knowledge and skills from just one crew. She runs into ADI, who asks her about her upcoming decision. Min finds herself telling ADI everything, from her father's activism and her desire to be a "jack of all space trades" to her head tatoo pain and the discoveries she had been making about the pills. ADI looks strangely pleased, and confesses that he's impressed by how quickly she's been able to coordinate so many of her fellow cadets, from across different crews. He then casually hands Min a note, saying, "If you're still torn about your choice by midnight tonight...they might be able to help."
+Zalo and Jheri come to find Min and Soka during lunch. They bring the two first years to the **MENDELEEVERS** biomedical lab where they turn on the **SIGNAL SCRAMBLER BUBBLE** that Zalo got from PQ. They've analysed Min's blood, and extracted Iri's analyses of the food and drink. There are unusual substances in the school's food and water, and Min's blood sample showed that some of these substances may be able to assemble into neuro-data tracers. Given that, Zalo and Jheri have run analyses of their own blood, and found elevated levels of these unusual substances in their own blood as well. 
 
-Min waits to go to the toilet before looking at the note, which contains a cryptic message. Min spends the rest of the day decoding it, in the end recruiting Asoka and Rhee to help her. It's a location, and a passcode. Rhee thinks it's a bad idea, maybe a nasty prank, and doesn't want Min to go. Asoka insists that ADI would never be malicious, and besides she is terribly curious, and wants to go with Min to see what this is all about. Min decides she wants to at least know what sort of help is being offered, and decides to go. Rhee and Asoka insist on joining her, using IRI to camouflage their presence. Rhee also insists on assembling a makeshift chemical weapon, just in case.
+### Page 4 
 
-When Min arrives at the secret location, she is greeted by two masked cadets, who coldly ask if she came alone. Min says yes, praying that they cannot detect Rhee and Asoka and IRI. The 2 masked cadets then scan her with POCKET SCANNERS and find Rhee, Asoka, and IRI. There is some confusion over the unexpected turn of events, as the situation turns into a standoff. Rhee uses her makeshift chem weapon, which reveals the masked cadets to be wearing some kind of personal protective force field. Asoka tries hand to hand combat but one of the masked cadets is able to subdue her with a sheathed sword. A mysterious ESYRUP DAEMON pools into existence out of the shadows to subdue IRI. The two masked cadets then turn on a SIGNAL SCRAMBLER BUBBLE and show Min the results of their POCKET UNIVERSAL SCANNERS: Min has a government tracer in her nervous system, one that harvests biomarker data from her strangely viable ESYRUP contamination and sends it to an untraceable location. Rhee, whose parents use similar, commercial scanners in their mortician work, confirms their diagnosis. The masked cadets tell Min that if she wants to stay at the ISS Corps, she needs to get the tracer removed. Min is appalled that her bio-data has been harvested for the last week without her permission, but she's scared - won't whoever put this in her come after her if they see that the tracer isn't sending sensible data anymore? Also, how could she trust masked strangers to perform this surgery on her? "Please," says one of the masked cadets, "trust us, you need to remove this tracer. It can collect stressful or suggestive mind states, save the parameters, and artificially re-trigger that mindset in you, even remotely."
+Min: "So, wait...you're saying that someone is feeding us neuro tracers and then harvesting our data??"
 
-Min is growing increasingly frightened, and the masked cadets increasingly frustrated. Finally, they come to a decision, and take off their masks - it's Jheri and Zalo. Jheri says, "Look, I'm the best at this kind of surgery, even if I'm not yet even a Journeyhume. Please let me take this tracer out of you." Min agrees, realising that she trusts these two deeply.
+Actually, according to Zalo and Jheri's analysis, someone made a brew that would react only with the components of a full subdermal shield. Someone is looking for Min, or someone with a subdermal shield, specifically. 
+
+Jheri shares her suspicion that Min has already consumed enough mess hall food for the components to have assembled into a fully functional tracer. 
+
+### Page 5
+
+Min wants to know how they could find this tracer. Zalo says that his universal pocket scanner could pinpoint it, and potentially trace where the tracer was sending its data. But the universal scanner still needs some work, he's really struggling, even with Jheri's help. Min realises that Rhee and Oana could help, asks for the **SIGNAL SCRAMBLER BUBBLE**, and goes off to look for the two **MENDELEEVERS**. They all decide that the safest place to do this is PQ's office.
+
+### Page 6
+
+PQ's office.  Min, Soka, Rhee, Zalo, Jheri, Oana, and Iri are all gathered at the door as Min explains the situation to PQ and begs to use a safe space. PQ decides that the best place would be one of the interstitial rooms near the illegal farm. Also, turns out that PQ already knows Oana, as Oana has been working on the illegal farm since she arrived at the ISE Corps. 
+
+### Page 7
+
+Dinner time. Zalo, Jheri, Oana, Rhee, and Iri have been hacking away at the universal pocket scanner. Soka has brought back armfuls of fruit to help them stay energized. Finally, success! The universal pocket scanner is ready. 
+
+### Page 8
+
+Zalo and Jheri prep Min for the scan. After a few moments, everyone sees the results: Min has a government-grade tracer in her nervous system, one that harvests biomarker data from her subdermal shield and sends it to an untraceable location. This makes Min a huge liability, for the school and for herself. "It can collect stressful or suggestive mind states, save the parameters, and artificially re-trigger that mindset in you, even remotely." Everyone is horrified.
+
+### Page 9
+
+Min: "Jheri...how good are you at using the LAM?"
+
+Jheri: "Pretty good, but I haven't done any surgeries on a living patient yet..."
+
+Min: "Well, here's your chance. I'd like to be your first living patient."
+
+Jheri is really stressed by this request. But Min insists, reminding them that she cannot practically stay at the ISE Corps with this in her body, and that they need evidence to prove that the food at the school is being used as a vector for sneaking government neuro-tracers into all of the students. 
+
+### Page 10
+
+Zalo and Jheri are surprised - Min wants to reveal everything? Min doesn't feel right, knowing that the students are being dosed with tracking substances and not doing anything about it. Rhee wholeheartedly agrees with Min that they need to expose the whole thing. Oana is quiet, watchful, listening carefully. 
+
+### Page 11
+
+Soka offers a middle ground: take out the tracer and research a neutralizer. It would be more difficult, but trying to blow the whistle on this whole endeavor might be tricky - it is a government tracer after all, which means that their enemy is the government. Soka knows first hand how impossible it can be to fight the government. 
+
+### Page 12
+
+Min is convinced by Soka's argument, as are Zalo and Oana. Rhee is unsatisfied, but willing to go with a more subtle path for now. Min now turns to Jheri, to convince Jheri to use the LAM on Min and extract the tracer. Jheri agrees. 
 
 ## Chapter 7
 
-Jheri carefully and painstakingly removes the tracer from Min. After the surgery, Zalo meticulously disassmbles the tracer and pockets the components. Min asks, so can I stay at ISS Corps now? Zalo and Jheri remind her that she needs to pick a crew. Min, exhausted and at her wit's end after the day she just had, explodes into a rant about how they wouldn't have been able to find the tracer, figure out what it's doing, and remove it, if Min hadn't worked with members of each crew, synthesizing their various expertises and interests to collectively solve this problem. Min's Grandmother runs a successful gang back on Earth because she can coordinate a huge variety of personalities and skill sets. Min doesn't understand how the ISS Corps will be able to prepare humans to be a space-faring species if they cling to ancient traditions of secrecy and isolated specialization. Asoka and Rhee chime in with equally furious opinions, and Zalo and Jheri ask them, do you really believe in integrating knowledge across the home crews, even though it's technically illegal? Asoka points out that over the course of this evening adventure, both Zalo and Jheri have revealed home crew-specific craft secrets with them already, and why were the two of them running around the interstitial spaces of the GEMINI wearing masks and sharing crew secrets, especially when they are on different crews? Rhee suggests maybe the muskies should report Zalo and Jheri! But Min says no, no one will report anyone, but it's so obvious the benefits of sharing knowledge between the crews, so if Zalo and Jheri can't help Min then Min will ask ADI for help. Jheri and Zalo exchange a look again, then turn to the Min, Rhee, and Asoka and tell them, let's take down the SIGNAL SCRAMBLER BUBBLE and go for a walk.
+Jheri carefully and painstakingly removes the tracer from Min. After the surgery, Zalo meticulously disassmbles the tracer and pockets the components. The trainees look around and realise that it is quite late, and Min has completely missed her service crew shift. Zalo and Jheri also remind Min that she still needs to make her official submissions for guild membership, otherwise she won't be able to stay at the ISE Corps even after all of this effort to get rid of the tracer. 
 
-Jheri and Zalo lead Min, Rhee, and Asoka through a maze of interstitial spaces on GEMINI to get to another secret room, where ADI, Tross, Oana, GIARMO, and a few others are gathered. Zalo reveals that these are members of a secret society here at the ISS Corps, who are trying to reverse engineer the formula for making living, self-replicating and evolving ESYRUP, and who have realised that they need skills and expertise from across the different home crews. They call themselves Vigilante Intergalactic Roustabout Scholars (VIRS).
+Min, exhausted and at her wit's end after the day she just had, explodes into a rant about how they wouldn't have been able to find the tracer, figure out what it's doing, and remove it, if Min hadn't worked with members of each crew, synthesizing their various expertises and interests to collectively solve this problem. Min's Grandmother runs a successful gang back on Earth because she can coordinate a huge variety of personalities and skill sets. Min doesn't understand how the ISS Corps will be able to prepare humans to be a space-faring species if they cling to ancient traditions of secrecy and isolated specialization. Asoka and Rhee chime in with equally furious opinions, and Zalo and Jheri ask them, do you really believe in integrating knowledge across the home crews, even though it's technically illegal? Asoka points out that over the course of this evening adventure, both Zalo and Jheri have revealed home crew-specific craft secrets with them already, and why were the two of them such close collaborators, willing to share crew secrets, when they are on different crews?
 
-The VIRS show Min, Rhee, and Asoka their results so far. Tross, Jheri, and Zalo have figured out how to enable INQBI to completely change shape and size, turning into an amorphous shadowy blob then reforming. Oana and GIARMO have started to grow plants that are spliced with ESYRUP.
+Zalo and Jheri admit that they too are frustrated by the secrecy and possessive attitudes of the guilds. But what can they do? 
 
-The VIRS ask Min, Rhee, and Asoka to join them. VIRSs can be on any crew and are expected to study their craft well enough to bring that knowledge to the other VIRSs. Also, VIRSs are encouraged to reframe insights, which come from working in secret with fellow VIRSs, into the language and logic of their home crews, to improve the work and progress of each craft.
+PQ interrupts and mentions that the illegal farm, and the **SIGNAL SCRAMBLER BUBBLE**, was developed by the scholarship students during their service crew shifts. These students had taken the knowledge and techniques of their guilds and had combined them to make these projects work. Oana reveals that these students are part of a secret society here at the ISE Corps, who are trying to reverse engineer the conditions for growing human-friendly crops, and who have realised that they need skills and expertise from across the different home crews. They call themselves Vigilante Intergalactic Roustabout Scholars (VIRS). Perhaps they can add researching the formula for making living, self-replicating and evolving eSyrup to their agenda. Would Min like to join them? Would PQ also accept Zalo, Jheri, Rhee, and Soka, who are not scholarship students, but have now gotten sucked into the workings of the secret society?
 
-Min is ecstatic and immediately says yes. Asoka is also very keen, ever up for a good adventure, and how can she say no to a secret society?? Meanwhile Rhee cynically asks whether she has any choice (will you just kill me if I say no, now that I've seen all this?), but in the end she confesses an eagerness to untangle the fundamentals of ESYRUP.
+Min is ecstatic and immediately says yes. Asoka is also very keen, ever up for a good adventure, and how can she say no to a secret society?? Meanwhile Rhee cynically asks whether she has any choice (will you just kill me if I say no, now that I've seen all this?), but in the end she confesses an eagerness to untangle the fundamentals of ESYRUP. Zalo and Jheri also confess an eagerness to join the project, even though they will be graduating soon. 
 
 Zalo and Jheri remind Min that it is now almost morning, and she must pick a home crew. Min smiles, no longer stressed about this decision. She says, "I choose..."
-
-
-
-
-
-
 
 # Notes and references
 
@@ -775,8 +836,6 @@ Zalo and Jheri remind Min that it is now almost morning, and she must pick a hom
 https://en.wikipedia.org/wiki/Galactic_quadrant#Visibility_of_each_quadrant
 
 # Old writing that might be useful still
-
-
 
 
 
