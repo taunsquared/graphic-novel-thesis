@@ -413,7 +413,7 @@ Zalo: "Hello! Welcome! You must be..." He consults the a diagram of faces and te
 
 Zalo: "...Minka Oosou?"
 
-Min, walking into the docking bay and putting down her pack: "Yup."
+Min has walked into the docking bay and puts down her pack with a grin: "Yup."
 
 Zalo: "Great!" 
 
@@ -425,7 +425,7 @@ Jheri: "A guild assignment is a mutual pledge of respect and commitment to study
 
 Jheri's eyes grow both sad and hard: "If you cannot find a guild to accept you and commit to teaching you their ways, there will be no room for you at this school, and you will have to go home."
 
-An Earther **NORMIE**: "But, wait, what if we're part of the Space Asylum Program? We have no home to go back to!"
+The Earther **GANGIE** from the cafe fight: "But, wait, what if we're part of the Space Asylum Program? We have no home to go back to!"
 
 Jheri looks terribly apologetic and says quietly: "If no guild will accept you, your scholarship will be void."
 
@@ -433,23 +433,17 @@ A wave of anxious whispers briefly rumbles through the gathered first-years: "Bu
 
 ### Page 11
 
-Min finds Asoka and Rhee at dinner. The food is trendy and more-ish but unhealthy and awful. All three are horrified and wonder how they will make it through the week, much less the whole training program. Afterwards, Rhee and Soka head off to their respective guild dormitories. Min, as a scholarship student, must report to the Service Crew Head Office in order to fulfill the work-study requirements of her scholarship. 
+Min finds Asoka and Rhee at dinner. The food is trendy and more-ish but unhealthy and awful. All three are horrified and wonder how they will make it through the week, much less the whole training program. Afterwards, Rhee and Soka head off to their respective guild dormitories. Min, as a scholarship student, must report to the Service Crew Head Office in order to fulfill the work-study requirements of her scholarship. The Earther **GANGIE** from the cafe fight is also there. 
 
-Min gets to the Service Crew Head Office meets PQ, a proud and stern, much older Earther **GANGIE** who coordinates the scholarship students with the full-time service crew of Gemini Station. PQ gives a quick welcome/intro speech outlining expectations for scholarship students...
+Min gets to the Service Crew Head Office meets PQ, a proud and stern, much older Earther **GANGIE** who coordinates the scholarship students with the full-time service crew of Gemini Station. PQ gives a quick welcome/intro speech outlining expectations for scholarship students. She then dismisses them and the students begin to leave...
 
 ### Page 12 
 
-... when suddenly, Min's chest burns, her stomach seizes, and her scalp throbs. Her clan tatoos writhe for a second, explosively, unable to stay frozen in the fake head tatoo. PQ helps Min sit, gives her some water, and lets Min's breathing return to normal before saying...
+... when suddenly, Min's chest burns, her stomach seizes, and her scalp throbs as she falls to the floor. PQ yells at two students to go get medical services, then throws everyone else out. Min's subdermal shield becomes for a flickering second, unable to stay invisibile. PQ helps Min sit, gives her some water, and lets Min's breathing return to normal before saying...
 
-PQ, eyes unfathomable: "Your head tatoo...it's fake."
+PQ, eyes unfathomable: "I saw it...your subdermal shield."
 
-Min clenches her teeth and begins to sweat: "I've just had a bad reaction to zero-G, that's all."
-
-PQ: "No, I know what you are..."
-
-PQ: "YOU'RE AN AUTOMATA." 
-
-Min: "So? Does your gang have business with mine?"
+Min clenches her teeth and begins to sweat: "How do you--??"
 
 PQ's face softens and PQ chuckles suddenly: "Child, do not be afraid, I know that the Automata aren't just another Earther gang."
 
@@ -519,33 +513,100 @@ Zalo: "Ok, sure, but no guild is powerful enough to openly defy World Government
 
 ### Page 4
 
-Scene changes to the hallway outside PQ's office, where Min and the other scholarship students stand, waiting to be called in.
+Scene changes to the hallway outside PQ's office, where the scholarship students mingle, waiting to be called in. 
+
+Min, referring to the day before: "...it's alright, they just checked my vitals and told me to drink more water. I'm fine now."
 
 From inside the office door we hear PQ: "Next, Minka and Rajue!"
 
-The Earther **GANGIE** from the shuttle cafe fight peels himself from off the wall and gives Min a murderous look as he walks through PQ's office door. Min enters unenthusiastically behind him. 
+The Earther **GANGIE** from the shuttle cafe fight peels himself from off the wall and gives Min a murderous look as he walks through PQ's office door. Min smiles mildly, shrugs, and enters unenthusiastically behind him. 
 
-Large panel, whole bottom half of the page: We see PQ standing next to a floating 3-dimensional schematic of the Gemini Station. The locations of all toilets are highlighted and labeled. PQ is holding two buckets with mop and cleaning solutions stuffed inside. PQ says, cheerfully: "You two will be on toilet duty today!"
+Large panel, whole bottom half of the page: We see PQ standing next to a floating 3-dimensional schematic of the Gemini Station. The locations of all mecha-cleaner charging stations are highlighted and labeled. PQ is holding two heavy duty biohazard suits. PQ greets them with a "Good day my lovies! You alright, Min?" then says, cheerfully: "You two are servicing mecha-cleaners today!"
 
 ### Page 5
 
-In a bathroom somewhere on the Gemini...Min wipes down a mirror covered in foamy cleaning solution as Rajue fiddles with the timer device that controls the self-cleaning toilet bowls. 
+In a mecha-cleaner charging station, somewhere on the Gemini...
+
+Min whistles from inside her biohazard suit while scraping hard-hardened, oozing, decomposing slime out of a mecha-cleaner's guts as Rajue hoses the mess down a drain in the center of the room. The epic hook of a currently trendy industrial metal band leaks softly from Rajue's ear mods and through his biohazard suit mask.  
 
 Rajue, not looking at Min: "I've asked around. No one knows your head tats."
 
-Min: "Oh yeah?"
+Min: "So?"
 
-Rajue: "Which leads me to 2 possible conclusions - either your gang is so puny and unknown that it's not even worth beating the shit out of you..."
+Rajue: "It leads me to 2 possible conclusions..."
 
-We see Min's face reflecting well-contained but visible anger as Rajue continues: "...or your head tat's a fake!"
+Rajue: "Either your gang is so puny and unknown that it's not even worth beating the shit out of you..."
+
+We see Min's face reflected in the grimy metal insides of the mecha-cleaner, anger well-contained but visible as Rajue continues: "...or your head tat's a fake!"
+
+Min: "Oh yeah?" 
+
+Min's face becomes unscrutable as she says, still cleaning the inside of the mecha-cleaner: "Well I've asked about YOUR head tats..."
+
+Zoom in on Rajue's eyes, widening with anger and surprise as Min continues: "...and your gang was responsible for the **ARGO INCIDENT**, weren't you?"
+
+### Page 6
+
+Rajue, furious: "Who told you this?"
+
+Min: "A mortician's daughter, from the Vela quadrant. She's a student here, same year as us." 
+
+Rajue: "And do you ever wonder why WE service the mecha-cleaners, and not any of those big-headed, puny-legged Orbiters?"
+
+Min shrugs: "Because otherwise we couldn't afford the fees to train with space-faring guilds, duh."
+
+Rajue: "And why are those fees so high, huh?"
+
+Min, exasperated: "I dunno, because we're out in space maybe?! What's your point anyway?"
+
+Zoom in on Rajue's frustrated and furious eyes, glaring at Min. Rajue: "My POINT is..." 
+
+### Page 7
+
+Scene cuts to the next day. We see a surgery room labeled "Laser Atomic Manipulator. Wear eye protection at all times."
+
+Rajue: "...how the hell is a mod virgin going to be of any use to the **CYBERPHILIA** guild??"
+
+Min has just arrived to join a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark e-syrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year cadets, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biosilican Unassigned students. 
+
+Jheri: "Rajue! You will refrain from using such bigoted language!"
+
+Jheri glares at Rajue and waits until he mumbles an apology.
+
+Jheri: "Thank you. No space-faring guild can rely on the constant presence of World Government supply lines. You may one day find yourself without easy access to constant spare parts, and you may have to use your body UNMODIFIED. When was the last time you did that?" 
+
+Rajue doesn't meet her gaze.
+
+### Page 8
+
+Jheri continues her prep for the demo. We see close-ups of different components of the machine, and different other tools/prep material scattered about the room as Jheri says: "The **CYBERPHILIA** guild specializes in the communication, control, and governance necessary for space exploration. This means that we need to study the psychology of not only individual agents, but also groups of agents, to understand how agents in a system influence and control each other."
+
+Jheri: "This is the fundamental idea undelying the laser atomic manipulator. Through careful and subtle modulations of photonic energy, we've developed a language to negotiate with cells and tissues."
+
+### Page 9 and 10
+
+Min has lunch with the two Biosilican Unassigned students in the **CYBERPHILIA** guild. Their names are **SUNG-SOO** and **EITHNE**. 
+
+**SUNG-SOO**: "Well, there goes Rajue's chances of ever making it into the **CYBERPHILIA** guild."
+
+**EITHNE**: "I'm so stressed, what if I can't find a guild to take me?"
+
+Min learns from them that Jheri is currently considered one of the top cadets at ISE Corps, in large part for her incredible dexterity and precision with the LAM. She has already begun her Journeyhume training with a Space University professor, who invented the most recent version of the LAM, which is an order of magnitude cheaper and more portable, and can cut out a 1cm cubed (as opposed to previous models' 5cm cubed) volume out from deep inside of a living animal without causing bleeding or needing stitches.
+
+### Page 11 and 12
+
+Min reports to Service Crew Head Office to PQ's office. She steps inside and closes the door, and PQ shows her the medical scanner that Min asked PQ to sneak out of the Gemini infirmary, so that Min can try to figure out what's been causing her subdermal shield to flare up. PQ mentions that these devices are all synchronised, so if Min doesn't want her scan to show up on the Universal Record she'll need to figure out how to disable the scans communication circuits. 
+
+Min: "I know exactly who to ask."
+
+## Chapter 4
+
+### Page 1
 
 
 
 
-
-On Day 2, Min joins the **CYBERPHILIA** guild for their classes. Min bonds with many on this crew over a shared love of anime, live improvisational music, and mechapets, as Biosilicans most often end up in this guild. The Earther **GANGIE** who attacked Rhee is also in this guild (Rajue), who loudly wonders how any mod-virgin will be able to do anything worthwhile in the **CYBERPHILIA** guild. 
-
-Jheri teaches the cadets how to use the laser atomic manipulator (LAM), which allows them to perform surgeries so precise that they can cut out a 1cm cubed volume out from deep inside of a living animal without causing bleeding or needing stitches. Jheri is currently considered one of the top cadets at ISE Corps, in large part for her incredible dexterity and precision with the LAM. She has already begun her Journeyhume training with a Space University professor, who invented the most recent version of the LAM, which is an order of magnitude cheaper and more portable.
+# Old summaries
 
 ## Chapter 4
 
