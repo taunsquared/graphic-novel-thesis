@@ -419,11 +419,11 @@ Zalo: "Great!"
 
 ### Page 10
 
-Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee of the **CYBERPHILIA** guild, and this is Zalo, 3rd year trainee of the **INFRADESTRUCTORS** guild. We are this year's Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
+Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee of the **CYBERPHILIA** guild, and this is Zalo, 3rd year trainee of the **INFRADESTRUCTORS** guild. We are your Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
 
-Jheri: "A guild assignment is a mutual pledge of respect and commitment to study the skills and protect the secrets of your guild. Usually, we would rely on the data in your Universal Record to assign you to the optimal guild, based your life choices and achievements. But since, for one reason or another," and here Jheri smiles kindly, gently looking each first-year in the eye, "your Universal Records have insufficient data to calculate the optimal placement, you will spend the first week of the semester meeting each guild and taking some of their classes."
+Jheri: "A guild assignment is a mutual pledge of respect, and a commitment to study the skills and protect the secrets of your guild. Usually, we would rely on the data in your Universal Record to assign you to the OPTIMAL guild, given your life choices and achievements. But since, for one reason or another," and here Jheri smiles kindly, gently looking each first-year in the eye, "your Universal Records have insufficient data to calculate the optimal placement, you will spend the first week of the semester browsing the guilds and taking some of their classes."
 
-Jheri's eyes grow both sad and hard: "You'll need to impress the third year trainees, who are the teaching assistants for each class, if you want to be accepted by a guild. If you cannot find a guild to accept you and commit to teaching you their ways, there will be no room for you at this school, and you will have to go home."
+Jheri's eyes grow both sad and hard: "You'll need to impress the third year trainees if you want a recommendation to a guild. If you cannot find a guild to accept you and commit to teaching you their ways, there will be no room for you at this school, and you will have to go home."
 
 The Earther **GANGIE** from the cafe fight: "But, wait, what if we're part of the Space Asylum Program? We have no home to go back to!"
 
@@ -431,15 +431,47 @@ Jheri looks terribly apologetic and says quietly: "If no guild will accept you, 
 
 A wave of anxious whispers briefly rumbles through the gathered first-years: "But wait, then what about the bursary they promised my family?" "Wasn't last year's drop-out rate something insane, like 40%??" "Why can't we take a drop-out's assignment?" "You mean no one is obligated to teach us, even though we made it this far?" "Your recruitment material is deliberately misleading!"
 
+The Earther **GANGIE** from the cafe fight: "So hold on, who put you in charge?"
+
+Close-up on Jheri's eyes as she gives him a sharp look: "No one. We volunteered."
+
 ### Page 11
 
-Min eats with Asoka and Rhee at dinner. The food is trendy and more-ish but unhealthy and awful. All three are horrified and wonder how they will make it through the week, much less the whole training program. Afterwards, Rhee and Soka head off to their respective guild dormitories. Min, as a scholarship student, must report to the Service Crew Head Office in order to fulfill the work-study requirements of her scholarship. The Earther **GANGIE** from the cafe fight is also there. 
+In the maybe-too-brightly lit Gemini mess hall. This scene takes up top half of the page. 
 
-Min meets PQ, a proud and stern, much older Earther **GANGIE** who coordinates the scholarship students with the full-time service crew of Gemini Station. PQ gives a quick welcome/intro speech outlining expectations for scholarship students. 
+Rhee: "So you might have to leave??"
 
-Suddenly, Min's chest burns, her stomach seizes, and her head tatoo throbs as she falls to the floor. 
+Min, staring in horrified fascination at the slop on her plate: "Eh, probably not. I have a whole week to make friends. I can be pretty charming." Min lifts a utensil-full of slop and watches it slowly **"PLOPP"** back onto the tray. 
+
+Soka shoves their tray away in disgust. Their face mask swirls and solidifies into: "This is ridiculous."
+
+Min: "Yeah, is this seriously the only option for food?"
+
+Rhee, miserable: "You can get private catering, but it's really pricey." 
+
+Rhee slams her head down on the table. "I may never find out which guild you make, Min." Min looks over questioningly, munching on a mouthful of the dinner slop. 
+
+Rhee, still face down: "I'll starve before the end of the week." Min swallows her mouthful, making an unpleasant but determined face, as Soka covers their mouth in horror. 
+
+Bottom half of page. We are now in a dimmer hallway of the Gemini Station, looking into a large open office space. The sign by the entrance says **"SERVICE CREW HEAD OFFICE"**. 
+
+PQ: "Welcome, my intergalactic scholars!"
+
+In the office, an Earther **GANGIE**, tall, glamorous crown of dreds piled up from a mohawk base and flowing down to her strong but not bulky shoulders, holds court. Her head tatoo is visible on the shaved parts of her head and continue down her neck onto her back. In the crowd of trainees before her stand Min, looking a bit queasy, the Earther **GANGIE** from the cafe fight, and several other Earther **NORMIES** and **GANGIES**. 
+
+PQ, with a regal tilt of her head: "Adilette PQ, at your service. I'll be coordinating you with my full-time crew, so you come see me every week for your shifts, yeah?" The crowd of trainees nod.  
+
+PQ: "So then, who's my Unassigned scholars?" Min and a few others raise their hands, including the Earther **GANGIE** from the cafe fight.
+
+PQ: "Right, you lot will come see me everyday this week, ok?" The Unassigned trainees nod. 
+
+PQ claps her hands. During the following speech we see Min 1) grimace and rub her sternum, 2) suddenly clutch her stomach, and 3) fall to the floor as her head tatoo throbs an angry reddish pink: "Excellent. The rest of you have weekly rotations which I've just posted to your Universal Record, and we'll keep to that schedule until mid-year holidays. Can everyone access their rota--!!"
 
 ### Page 12 
+
+Upper left panel: darkness. Next panel, Min's POV: blurred vision of PQ peering down in concern. Next panel: darkness again. 
+
+Next row, also Min's POV: slightly clearer vision of PQ holding a glass of water up to her face. 
 
 When she comes to, PQ is holding a glass of water to her lips and talking to Gemini medical staff, who are checking Min's vitals. The other scholarship students peer into PQ's office from the hallway, dying to know what's going on.
 
