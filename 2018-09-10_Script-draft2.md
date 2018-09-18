@@ -6,7 +6,7 @@
 
 **"Dialogue in bold is narrative text or sound effects, not spoken by any character."**
 
-## Dream: Nostalgia
+## Dream 1: Nostalgia
 
 ### Page 1
 
@@ -469,29 +469,33 @@ PQ claps her hands. During the following speech we see Min 1) grimace and rub he
 
 ### Page 12 
 
-Upper left panel: darkness. Next panel, Min's POV: blurred vision of PQ peering down in concern. Next panel: darkness again. 
+Upper left, small square panel: darkness. Next panel, Min's POV: blurred vision of PQ peering down in concern. Next panel: darkness again. 
 
-Next row, also Min's POV: slightly clearer vision of PQ holding a glass of water up to her face. 
+Next row, large panel, full width of page, also Min's POV: slightly clearer vision of PQ holding a glass of water up to her face. In the background are medical staff checking Min's vitals with medical scanners. The other scholarship students peer into PQ's office from the hallway, some concerned, some curious. 
 
-When she comes to, PQ is holding a glass of water to her lips and talking to Gemini medical staff, who are checking Min's vitals. The other scholarship students peer into PQ's office from the hallway, dying to know what's going on.
-
-PQ: "I'm sure it's just a bad reaction to zero-G. I've seen this before."
+Next row, PQ looks back at a medic and says: "I'm sure it's just a bad reaction to zero-G. I've seen this before."
 
 Gemini school medic: "Well all of your vitals are strong and steady. Get plenty of rest tonight, and drink lots of fluids, ok?"
 
-PQ shoos away the other students and thanks the medic. Once everyone is out of her office, PQ makes a gesture that activates a strange energy in the room, making Min's hair stand on end. 
+View of Min, on the floor with PQ's jacket under her head. She nods. 
+
+PQ: "Right then, thank you medics, for your swift response. I'll make sure she gets back to her dorm." To the scholarship students: "Scholars! No more excitement tonight, off to bed!"
+
+Once everyone is out of her office, PQ makes a gesture that activates a strange energy in the room, making Min's hair stand on end. 
 
 Min: "What's going on?"
 
-PQ, eyes unfathomable: "I've activated a **SIGNAL SCRAMBLER BUBBLE**. It'll keep the eyes and ears of the World Government off us. I saw it...your subdermal shield."
+PQ, eyes unfathomable: "I've activated a **SIGNAL SCRAMBLER BUBBLE**. It'll keep the eyes and ears of the World Government off us. 
+
+PQ leans in close to Min and whispers: "I saw it...your subdermal shield."
 
 Min clenches her teeth and begins to sweat: "How do you--??"
 
-PQ smiles mysteriously: "I know how to recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know a crusty old bird named Magou, eh?" 
+PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know a crusty old bird named Magou, eh?" 
 
-## Dream: The Night of a Thousand Burning Stars (2 pages)
+## Dream 2: The Night of a Thousand Burning Stars (3 pages)
 
-PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars. Everyone on board was wearing protective eSyrup suits, but they weren't designed to keep people falling through the atmosphere alive. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of living eSyrup. Magou then helps PQ return to the underground cities. 
+PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars, when a domino effect of systems malfunctions caused several orbital construction sites to overheat. Everyone on board the Space Barge was wearing protective eSyrup suits, but these suits weren't designed to keep people alive while falling through the atmosphere. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of living eSyrup. Magou then helps PQ return to the underground cities. 
 
 ## Chapter 3
 
@@ -630,6 +634,8 @@ Min: "That reminds me...Rajue said something...INTERESTING...about the Space Asy
 ### Page 12
 
 Min and PQ discuss the Space Asylum Program and who it's actually serving. As Min leaves to go to bed, PQ warns Min to be very careful in the evenings, as that seems to be the time when Min has her most severe eSyrup reactions. 
+
+## Dream 3: The Mole People (2 pages)
 
 ## Chapter 4
 
@@ -783,7 +789,7 @@ PQ gives Min some of the food they grow, and Min can feel a huge difference in h
 
 PQ explains that this farming project started 3 years ago, after the first year of Space Asylum students started to fall ill and die from unexplained reasons. Since most of them are Earther **GANGIES**, PQ felt a need to take them all under her wing, and feed them food that reminded them of home food that might prevent them from wasting away with illness. Turns out that it saved the scholarship students' lives, and ever since PQ started the illegal farming project, no scholarship students have died. 
 
-## Dream: A vision of Mother (2 pages)
+## Dream 4: A vision of Mother (1 page)
 
 Min dreams of her mother Jina, her grandmother Magou, and all of the women who have been part of her lineage. She also dreams of the living eSyrup culture in her skin, and its long life ever since it was born, way back before the Water Crisis. Min feels a strange pulsing in her body, it causes her pain and fear. 
 
