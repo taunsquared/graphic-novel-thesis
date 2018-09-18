@@ -136,7 +136,7 @@ Min, on her way to the Space Barge station to leave Earth, stops by a black mark
 
 #### back to the **LOWER ESTATES ORBITAL STATION**
 
-Min casually rubs the side of her neck, where we can see a tiny pinprick of an injection needle. She squares her shoulders and approaches the platform gate and the Wardens and the scanners. She shows them her documents proving that she is a scholarship student at the ISE Corps, includes a view of her temporary student ID with *"Guild Assignment: Undecided"* prominently in view, and passes through without incident. 
+Min casually rubs the side of her neck, where we can see a tiny pinprick of an injection needle. She squares her shoulders and approaches the platform gate and the Wardens and the scanners. She shows them her documents proving that she is a scholarship student at the ISE Corps, includes a view of her temporary student ID with *"Guild Assignment: Unassigned"* prominently in view, and passes through without incident. 
 
 ### Page 8
 
@@ -377,7 +377,7 @@ PA: "We are now approaching Gemini Station, home of the International Space Expl
 
 Min to Rhee: "You alright then?"
 
-Rhee: "I'm fine now. Thanks to both of you, again."
+Rhee: "I'm fine now. Thanks again, both of you."
 
 Min stands and says: "If we're almost there I guess I should get my stuff out of the shuttle luggage lockers...do you know where we go when we dock?"
 
@@ -389,7 +389,7 @@ Rhee: "Yeah, I'll be studying with the **MENDELEEVERS**." To Soka: "You?"
 
 Soka's face mask reads, "**CIRQUE DU COSMIQUE**".
 
-Rhee, turning back to Min: "I've heard of folks occassionally being Unassigned by the time they get to ISE Corps, but then I don't know where you'd go on your first day..."
+Rhee, turning back to Min: "I've heard of folks being Unassigned by the time they get to ISE Corps, but then I don't know where you'd go on your first day..."
 
 PA: "We are now arriving at Gemini Station. This is the final stop of this shuttle service. All change ple--"
 
@@ -401,13 +401,13 @@ We see just the speaker in the panel as the live announcement continues: "If you
 
 ### Page 9
 
-Zoomed out, bird's eye view of the Gemini Station receiving platform. Hundreds of new students, mostly Orbiters, stream out of the shuttle with their luggage, some in small groups of friends. 
+Zoomed out, bird's eye view of the Gemini Station receiving platform. Hundreds of new students, mostly Orbiters, stream out of the shuttle with their luggage, some in small groups of friends. About 30 docking bay doors lining the receiving platform are labeled with the names and crests of various guilds.
 
 We zoom in on Min, carrying a large eSyrup-fabric pack on her back, stuffed to the brim. 
 
 We see a sign: *"DOCKING BAY DOORS 0800 - 0820"*
 
-Min peers around the docking bay door and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the shoulder guards of 3rd year trainees (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other BIOSILICA teens with mechapets, but neither are the BIOSILICA teen from earlier, and neither have a cuttlefish mechapet. 
+Min peers around docking bay door 0813 and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the guild crests that mark them as 3rd year trainees (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other BIOSILICA teens with mechapets, but neither are the BIOSILICA teen from earlier, and neither have a cuttlefish mechapet. 
 
 Zalo: "Hello! Welcome! You must be..." He consults the a diagram of faces and text floating beside him.
 
@@ -419,7 +419,7 @@ Zalo: "Great!"
 
 ### Page 10
 
-Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee with the **CYBERPHILIA** guild, and this is Zalo, 3rd year trainee with the **INFRADESTRUCTORS** guild. We are this year's Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
+Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee of the **CYBERPHILIA** guild, and this is Zalo, 3rd year trainee of the **INFRADESTRUCTORS** guild. We are this year's Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
 
 Jheri: "A guild assignment is a mutual pledge of respect and commitment to study the skills and protect the secrets of your guild. Usually, we would rely on the data in your Universal Record to assign you to the optimal guild, based your life choices and achievements. But since, for one reason or another," and here Jheri smiles kindly, gently looking each first-year in the eye, "your Universal Records have insufficient data to calculate the optimal placement, you will spend the first week of the semester meeting each guild and taking some of their classes."
 
