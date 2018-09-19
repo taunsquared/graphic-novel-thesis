@@ -32,9 +32,9 @@
 
 ### Page 1
 
-Backdrop: the glittery blackness of outer space. 
+Backdrop: the glittery blackness of outer space, tempered by the light touch of the outermost layer of atmosphere. 
 
-PA: "We are now arriving at **LOWER ESTATES ORBITAL STATION**."
+PA: "This is a World Government Shuttle Barge Service, departing from Recife Shuttle Launch Station and terminating at **LOWER ESTATES ORBITAL STATION**. We are now arriving at **LOWER ESTATES ORBITAL STATION**."
 
 Small panel, upper left of the page: very close-up view of Min's closed eye. Her **SUBDERMAL SHIELD** is in stealth mode, mostly invisible except where it is pretending to be tendrils of hair cut into an elaborate shaved pattern; her clan tatoos, frozen in an imitation of an Earther **GANGIE**'s head tatoo. Just around her eye, we see shadows of her living eSyrup tatoo flickering with hints of her dreams. 
 
@@ -42,21 +42,21 @@ PA: "You may unbuckle your safety harnesses at this time."
 
 Another small panel, floating just to the right and a little below the first panel: The eyelid cracks open and we see part of a dark, deep brown eye flecked with gold. A tendril of hair floats across Min's forehead - there is no longer enough gravity to hold it down. 
 
-PA: "Please exercise caution while moving about the **SPACE BARGE**."
+PA: "Please exercise caution while moving about the **SHUTTLE**."
 
 Two panels, the same size as the previous small panels, connected to each other and in the middle of the page: (on the left) Min's POV, looking down her belly at the harness buckle. (on the right) View from above Min's seat, as Min floats up above her seat, still half-asleep and holding her belly rather tenderly. 
 
-PA: "The **SPACE BARGE** will dock at this station for 2 hours. Please collect all of your belongings before leaving the **BARGE**."
+PA: "The **SHUTTLE** will dock at this station for 2 hours. Please collect all of your belongings before leaving the **SHUTTLE**."
 
 ### Page 2
 
 Upper left panel shows the typical icon for toilet facilities - **NEED TO DESIGN A TOILET ICON OF 2119**. Next panel: Zoom out to see Min, now wearing a large pack, exit the toilet facilities and lean against the wall with the sign; she still looks a bit groggy and disoriented. Next panel: We see Min in profile as she leans her head back against the wall, looking as if she is gathering her strength. Next 3 panels: Same perspective as previous panel, 1) Min's eyes snap open, and, looking more focused and alert, 2) she goes horizontal and 3) pushes off from the wall. 
 
-Large panel, takes up the rest of the page: We see that the toilets were actually part of a large cylindrical tunnel, with shops, restaurants, pubs, toilets, etc, all the way around the cylinder, and a crowded stream of people either swimming through the center (few) or holding onto moving rails that have been elevated inwards, away from the outer walls of the transit tunnel (many). 
+Large panel, takes up the rest of the page: We see that the toilets were actually part of a large cylindrical tunnel, with shops, restaurants, pubs, toilets, etc, all the way around the cylinder, and a crowded stream of people either swimming through the center (few) or holding onto moving rails that have been elevated inwards, away from the outer walls of the transit tunnel (many). A sign pointing in the direction that Min is moving reads **"THIS WAY TO LOWER ESTATES ORBITAL STATION"**. 
 
 ### Page 3
 
-Small panel: Min is swimming through a station tunnel when she turns a corner and suddenly...
+Small panel: Min is swimming through the station along a "tunnel" created by the moving rails, which carve paths of high speed traffic around the station. She is enjoying flexing her muscles after the long ride from Recife. Min turns a corner and suddenly...
 
 Large half page spread: ...comes upon a section of the tunnel with a large viewing port. Earth gleams below like a greasy, grubby marble in the spotlight. 
 
@@ -114,23 +114,60 @@ Larger panel that spans full width of page. Magou points her finger imperiously 
 
 #### Back on the **LOWER ESTATES ORBITAL STATION**
 
-Three small square panels in a row that spans the width of the page: We see Min's ear, with just barely visible shadows of her eSyrup tatoos writhing, as a warning siren of station emergency medical services wails in the distance. As we see Min's eyes turn from the viewing port to check for the source of the sound, she gets bumped hard enough to knock her head into the viewing port. From behind her, out of panel, a distant mechanical voice cries: "Whoops, sorry!"
+Three small square panels in a row that spans the width of the page: We see Min's ear, with just barely visible shadows of her eSyrup tatoos writhing, as a warning siren of station emergency medical services wails in the distance. As we see Min's eyes turn from the viewing port to check for the source of the sound, she gets bumped hard enough to knock her head into the viewing port.
 
-Large panel spanning the width of the page: Min turns to see a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, tumbling through a crowd as people swim out of the way of an emergency medical team and their floater (vehicle). The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while ineffectually flailing with the other hand. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. The eSyrup embroidery along the front of the teen's face mask rearrenges itself into large letters that spell "Sorry!"
+Large panel spanning the width of the page: Min turns to see an emergency medical team (EMT) and their floater (vehicle) moving painstakingly slowly in the center of the nearest set of moving rails, as people swim out of the way and crowd her view.
 
-Tall rectangular panel: View of Min, from below, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. In the viewing port behind Min we see the reflection of the BIOSILICA teen as a dense crowd of people start to laugh and some try to help her re-stabilize, while the rest of the crowd try to keep moving towards their own destinations, all while leaving a path for the emergency medical services.
+On the other side of the EMT and their vehicle, Min catches sight of a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, swimming gleefully and deftly in all corners of the low-gravity **LOWER ESTATES ORBITAL STATION**. The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while gracefully using the other to push off a wall there, grab a pipe to turn a corner there. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. We hear a distant mechanical "Wheeeeeeeeee!"
 
-Tall rectangular panel: The BIOSILICA teen is now being towed by her free hand by some friendly older Orbiters. The teen takes a loud slurp of drink through the straw. The wail of the emergency medical services as it leaves passes behind the scene. 
+Tall rectangular panel: View of Min, from below, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. In the viewing port behind Min we see the reflection of the BIOSILICA teen take a corner a little too fast and tumble into a dense crowd of people moving towards their own destinations via the moving rails.
 
-2 wide panels, full width of page: The crowd begins to disperse. The BIOSILICA teen looks over their shoulder with a new message on the mask: "Thanks everyone!" The cuttlefish mechapet, now being towed along, happily gurgles: "Wheehaveanicedaaaay!"
+Tall rectangular panel: The BIOSILICA teen is now being told off by some disgruntled older Orbiters. The teen holds their drink half like a shield, half in seeming supplication, while the front of their face mask rearranges to say "Sorry!"  
 
-Bottom of the page: Min stares after the BIOSILICA teen, then shakes herself out of her reverie. She pushes off from the tunnel wall, aiming to swim in the opposite direction. 
+2 wide panels, full width of page: The disgruntled older Orbiters begin to disperse. The BIOSILICA teen swims away while looking over their shoulder with "Sorry!" still on their face mask. The cuttlefish mechapet swims backwards while bowing and crying: "So sorry, so sorry, have a nice day!"
 
-### Page 6 and 7
+Bottom of the page: Min stares after the BIOSILICA teen, then looks around the station with new eyes. She pushes off from the tunnel wall, not even looking at the paths demarked by the moving rails. 
 
-Min finds the platform for the school shuttle. The entrance to the platform is guarded by World Government Security Wardens, who are scanning everyone entering the platform for illegal substances and unregistered eSyrup products. 
+### Page 6
+
+Min is perched on the support beams, made of eSyrup-infused metal, munching on a small lumpy apple as she looks down at the platform for the ISE Corps Shuttle. The entrance to the platform is guarded by World Government Security Wardens, who are scanning everyone entering the platform for illegal substances and unregistered eSyrup products. 
+
+Series of small panels show zoomed-in view of Min eating the apple from the bottom, meticulously spitting the seeds into a cloth in her hand as she consumes everything except the stem. 
+
+Transition to flashback: In one panel, we see the World Government Security Wardens and their scanners reflected in Min's eye...
 
 #### Flashback
+
+...in the next panel, we see Min's eye reflecting a view from the bottom of the Recife World Government Shuttle Barge Service Station, grubby metal piercing the sky above the easternmost tip of the South American continent. The position of the sun says it's midday; the sky is smeared with grey-green-yellow light. 
+
+Zoom out to see Min looking up still, while the Earther **GANGIE** she just bribed is still tucking away the plastic bottle caps used as currency in the underground cities. They are standing near a tunnel entrance with a door that has been disguised to blend in with the surrounding, strange flora.  
+
+### Page 7
+
+We see the top of Min's pack in a crowded marketplace. There are rock walls everywhere; we are deep underground. Artifical light streams from the fabrics that cover and divide the market stalls, casting a strange, multi-source glow that softens most shadows. 
+
+Min walks up to the back of a market stall covered in fabrics screen-printed with World Government propoganda advertising work on Orbital construction projects as exciting, once-in-a-lifetime opportunities. A stick is tied on a long string at about head height on the fabric. Min takes the stick and raps it against the fabric. A flap in the fabric slowly cuts itself to create a opening big enough to let Min inside. 
+
+Earther **GANGIE** trader: "Did you bring it?"
+
+View from inside, fabric on this side exuding dimmer light, the flap still open to the outside. 
+
+Min reveals a pouch heavy with patua fruits. A beefy hand reaches for the pouch, but Min tucks it back into her jacket. 
+
+Min: "And you?"
+
+We see a table with a small vial of purple, strangely dark liquid and a tiny, discreet injector device. 
+
+Min: "I'll need to scan it."
+
+Earther **GANGIE** trader: "Hmph. Of course."
+
+Min stretches a palm toward the vial, and on her palm her eSyrup tatoos reshape into a QR code. The eSyrup tatoos then exude light in the QR code pattern, making it 3-D. The 3-D QR code made of precisely controlled rays of light now envelope the vial, and the light flickers and hums. The 3-D photon QR code sings out a gentle "ba-DOOP!" and the light rays envolping the vial turn quite green. Min smiles with satisfaction. 
+
+Earther **GANGIE** trader: "Happy?"
+
+In response, Min tosses over the heavy pouch. The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** gives it a good bite, to taste the fruit, see the color of the flesh, verify that it's the fruit that they are looking for. 
+
 
 Min, on her way to the Space Barge station to leave Earth, stops by a black market drug dealer to buy a substance that when injected, will render her eSyrup tatoos undetectable by World Government standard issue scanners for 24 hours. Min has learned the circuitry of a chemical scanner, and uses it to verify the chemical components of the substance. The whole time, though, Min in stressed and the dealer is stone-faced. 
 
@@ -479,19 +516,19 @@ Gemini school medic: "Well all of your vitals are strong and steady. Get plenty 
 
 View of Min, on the floor with PQ's jacket under her head. She nods. 
 
-PQ: "Right then, thank you medics, for your swift response. I'll make sure she gets back to her dorm." To the scholarship students: "Scholars! No more excitement tonight, off to bed!"
+PQ: "Right then, thank you medics, for your swift response. I'll let this one have a bit o' quiet, then I'll walk her back to her dorm." To the scholarship students: "Scholars! No more excitement tonight, off to bed!"
 
-Once everyone is out of her office, PQ makes a gesture that activates a strange energy in the room, making Min's hair stand on end. 
+PQ closes her office door then makes a gesture that activates a strange energy in the room, making Min's hair stand on end. 
 
 Min: "What's going on?"
 
-PQ, eyes unfathomable: "I've activated a **SIGNAL SCRAMBLER BUBBLE**. It'll keep the eyes and ears of the World Government off us. 
+PQ, eyes unfathomable: "I've activated a **SIGNAL SCRAMBLER BUBBLE**. It'll keep the eyes and ears of the World Government off us."
 
 PQ leans in close to Min and whispers: "I saw it...your subdermal shield."
 
 Min clenches her teeth and begins to sweat: "How do you--??"
 
-PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know a crusty old bird named Magou, eh?" 
+PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know a crusty old bird named Magou, would ya?" 
 
 ## Dream 2: The Night of a Thousand Burning Stars (3 pages)
 
@@ -501,13 +538,13 @@ PQ was part of a pioneering group of humans who were amongst the first generatio
 
 ### Page 1
 
-It's the next day, first day of classes. We see the entrance to a large workspace, hand made banner above the entrance proudly labeling the space as **"INFRADESTRUCTORS workspace 267"**. From inside, Zalo's voice can be heard saying: "...so if you open this panel..."
+It's the next day, first day of classes. We see a large hallway, with many tall double doors, each covered in the name and crest of a guild. One hand made banner above an entrance proudly labels the space as **"INFRADESTRUCTORS workspace 267"**. From inside, Zalo's voice can be heard saying: "...so if you open this panel..."
 
-Next panel, we are inside the workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up flat device about the size of a short, fat finger, which has been opened up so that the inner circuitry is visible. 
+Next panel, we are inside the **INFRADESTRUCTORS** workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up a corkboard to which is pinned a flat, flexible device about the length and width of a short, fat finger. It has been carefully dissected so that the miniscule inner circuitry is visible. 
 
 Zalo: "You can see how this 2080s standard issue medical scanner has two fixed eSyrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples. Modern medical scanners can detect changes in electrical and chemical properties up to 5 cm below the skin surface."
 
-POV is now in front of Zalo, who now holds up a similarly shaped and sized device, also opened up. The insides of this second device is way more chaotic and rough, definitely looks like a work in progress. 
+POV is now in front of Zalo, who now holds up another corkboard on which is pinned a similarly shaped and sized device, also opened up. The insides of this second device is way more chaotic and rough, definitely looks like a work in progress. 
 
 Zalo: "This is a prototype for a POCKET UNIVERSAL SCANNER..."
 
@@ -517,29 +554,29 @@ Zalo: "So today's challenge is to debug this prototype, and learn how to morph e
 
 ### Page 2
 
-View of the **INFRADESTRUCTORS** workspace, several hours later. 
+View of the **INFRADESTRUCTORS** workspace, several hours later. Some trainees are still hunched over their devices, others have taken a break to sit in a comfortable circle of large cushions, rocking chairs, and sitting pillows. 
 
 Min: "I didn't realise so many Orbiter products use eSyrup circuits! It's everywhere!"
 
 Zalo, Min, and a few other **INFRADESTRUCTOR** trainees are seated together. Most of them have finished working and they are philosophising before dinner. 
 
-An Earther **NORMIE** trainee: "Yeah, it really makes me want to get body mods..."
+An Earther **NORMIE** trainee named **SIMIAN**: "Yeah, it really makes me want to get body mods..."
 
 Zalo taps a tool on his leg distractedly: "But you know, it's a real pain in the ass to be tied to Government standard issue body mods, which have at most 4 morphs available. In theory, living eSyrup should be able to go through an infinite number of morphs - think of all the crazy mods we COULD make, one that could last our whole lives!"
 
-An Earther **GANGIE** trainee: "But then who will make sure that the mods are safe?" 
+An Earther **GANGIE** trainee named **SOLENA**: "But then who will make sure that the mods are safe?" 
 
 Zalo, looking meaningfully at the trainee: "Do you really think that every mod we have out now is perfectly safe?"
 
 ### Page 3
 
-Earther **NORMIE**, shivers: "Ugh, definitely not! I've seen people have some CRAZY reactions to capsule stims..."
+**SIMIAN**, shivers: "Ugh, definitely not! I've seen people have some CRAZY reactions to capsule stims..."
 
-Earther **GANGIE**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
+**SOLENA**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
 
 Sedii, an Orbiter trainee, leans in conspiratorially: "Well, and also because the government forbits basic research into eSyrup, so no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
 
-Earther **GANGIE** trainee, bitter: "Yeah, what better way to keep humanity stupid, enslaved, and easy to control." 
+**SOLENA**, bitter: "Yeah, what better way to keep humanity stupid, enslaved, and easy to control." 
 
 Sedii: "Exactly! Isn't it CRAZY how eSyrup seems to be a crucial part of all of our devices, our homes, our transportation, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
 
