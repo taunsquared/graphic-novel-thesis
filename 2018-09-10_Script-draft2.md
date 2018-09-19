@@ -44,7 +44,7 @@ Another small panel, floating just to the right and a little below the first pan
 
 PA: "Please exercise caution while moving about the **SHUTTLE**."
 
-Two panels, the same size as the previous small panels, connected to each other and in the middle of the page: (on the left) Min's POV, looking down her belly at the harness buckle. (on the right) View from above Min's seat, as Min floats up above her seat, still half-asleep and holding her belly rather tenderly. 
+Two panels, the same size as the previous small panels, connected to each other and in the middle of the page: (on the left) Min's POV, looking down her belly at the harness buckle. (on the right) View from above Min's seat, as Min floats up above her seat, still half-asleep and holding her belly rather tenderly. The PA announcement is mirrored in scrolling text in many languages on the ceiling of the shuttle compartment. 
 
 PA: "The **SHUTTLE** will dock at this station for 2 hours. Please collect all of your belongings before leaving the **SHUTTLE**."
 
@@ -287,11 +287,11 @@ Zoom in on Min's mouth, exhausted yet serene, wry, and just a tiny bit cheeky: "
 
 ### Page 1
 
-We're back on the ISE Space Shuttle to Gemini Station. Min is still in the cafe compartment, which is now much busier. She stares out the window as the curvature of the Earth slowly rotates under the shuttle. 
+We're back on the ISE Space Shuttle to Gemini Station. Min is now sitting in the cafe compartment, nursing a hot tea. She stares out the window as the curvature of the Earth slowly rotates under the shuttle. 
 
 PA: "This is **THE MAE JEMISON MEMORIAL** station. Change here for **MAKE UP SOME ROUTES AND STUFF**. The next station is **SOMETHING SOMETHING**. This shuttle terminates at Gemini Station." 
 
-Behind Min, who is still nursing a hot tea and her stomach while hidden behind her large pack in her corner booth by the viewing port, a crowd of mostly Orbiters have gathered in small groups throughout the cafe compartment. The Orbiters have thin legs, very large puffy heads, and wear full-body eSyrup leotards, which act as an exoskeleton to help support their posture and compensate for the bone loss they experience, growing up and living their lives in space. Their faces are naked, and many of them already have World Government standard issue mods in their necks for space masks. 
+Behind Min, who is well-hidden behind her large pack in her corner booth by the viewing port, a crowd of mostly Orbiters have gathered in small groups throughout the cafe compartment. The Orbiters have thin legs, very large puffy heads, and wear full-body eSyrup leotards, which act as an exoskeleton to help support their posture and compensate for the bone loss they experience, growing up and living their lives in space. Their faces are naked, and many of them already have World Government standard issue mods in their necks for space masks. 
 
 The Orbiters all throw sidelong glances at a small group of Earthers, whose bulkier bodies were clearly developed under the influence of stronger gravity. But they also look different from Min - their backs are hunched from living their lives in underground tunnels, their skin is ghostly pale, and all of them have also been surgically equipped with World Government standard issue eSyrup body modifications, which stretch their pale skin paper thin and cast dark bruise-like shadows. Some of the Earthers, mostly from military or academia families, also find room to be disdainful and superior towards the **GANGIE** Earthers, identifiable by their elaborate head tatoos, who tend to be from the lowest castes in the great underground World Government cities. 
 
@@ -307,13 +307,13 @@ Petite Orbiter: "What path, we're standing at the bar!"
 
 During this scene, the panels are focused on Min, who is watching with bored eyes from over her hot cup of tea.
 
-### Page 2
-
 The Orbiter and Earther **GANGIE** continue to bicker in the background, as we see Min turn back to the viewing port. Behind her, a body dressed in the multi-layered clothing of the BIOSILICA cult appear. The body places the softest of finger-tip touch onto Min's back and whispers: *"Mini?"*
 
 We see Min's eyes, reflected in the viewing port, grow wide as the reflection shows a vague figure. 
 
 Zoom in on Min's mouth, curved up in a triumphant grin: *"You made it!!!"*
+
+### Page 2
 
 Our attention shifts to the fight happening at the bar. Earther **GANGIE** reaches over to a not-quite cleared table to grab a mostly unused napkin while simultaneously grabbing Petite Orbiter's hand and starts to mop up the spilled drink on her hand: "Look, I'm really so--"
 
@@ -322,8 +322,6 @@ Petite Orbiter yanks her hand away and says coldly: "Don't touch me."
 Earther **GANGIE**: "What, I'm trying to--"
 
 Petite Orbiter: "THAT'S NOT CLEAN, DON'T TOUCH ME WITH IT!!" This moment draws everyone's attention in the cafe.
-
-### Page 3
 
 Some other Orbiters come over and push the Earther **GANGIE** away: "Hey why don't you leave her alone?" "Just stop!" "Leave, Muskie!" 
 
@@ -341,9 +339,9 @@ Petite Orbiter has also pressed a capsule into the mod port at her neck in an at
 
 Min to Petite Orbiter: "Are you alright?"
 
-Petite Orbiter looks up at Min, pained and desperate, as the BIOSILICA teen places a hand on her shoulder to steady her. Then the Petite Orbiter heaves another vomit. 
+Petite Orbiter looks up at Min, pained and desperate, as the BIOSILICA teen steadies her. Then the Petite Orbiter heaves another vomit. 
 
-### Page 4
+### Page 3
 
 The original Earther **GANGIE** who knocked Petite Orbiter's drink has finally noticed where Petite Orbiter ended up, and shouts: "Hey!" Min looks up to see him rushing over, intent on fighting Petite Orbiter. Min tries to warn the BIOSILICA teen and the Petite Orbiter: "Watch out--!"
 
@@ -365,7 +363,7 @@ PA, frantic, as other Orbiters and Earther **GANGIES** continue to brawl: "Will 
 
 The PA interrupts itself with a familiar ding: "We are now approaching **SOMETHING SOMETHING**. Exit here for the ISE Space Orchestra Conservatory."
 
-### Page 5
+### Page 4
 
 #### In a quieter compartment of the shuttle...
 
@@ -389,7 +387,7 @@ Min's shakes her head while looking down: "You know, your friends kinda suck. No
 
 Rhee's hands tighten in angry fists as she sneers: "Those ANIMALS aren't my friends. All they want is the next trendy mod and whatever psycho-stims they can get their rich, privileged hands on. I don't know ANYBODY here."
 
-### Page 6
+### Page 5
 
 Min looks at Rhee for a second, then smiles and says: "Well now you know me. I'm Minka Oosou, Tree Surfer of the Automata."
 
@@ -407,7 +405,7 @@ Min, appeased but a bit embarrassed to have been part of someone's childhood sto
 
 Rhee: "Oh, yeah probably not..."
 
-### Page 7
+### Page 6
 
 The cuttlefish mechapet belches, breaking the awkward silence. Min and Rhee stare, then they both start to laugh. 
 
@@ -439,7 +437,7 @@ Rhee: "Aaah! ...oh wow, that was weird!" Rhee stares at her hand.
 
 Then Rhee looks up at the BIOSILICA teen with a grin: "Pleased to meet you, Asoka of Green Haven Hibernia!" Iri claps two of its arms in celebration and looks enormously pleased. 
 
-### Page 8
+### Page 7
 
 PA: "We are now approaching Gemini Station, home of the International Space Exploration Corps. This will be the final stop of this shuttle service."
 
@@ -457,17 +455,15 @@ Rhee: "Yeah, I'll be studying with the **MENDELEEVERS**." To Soka: "You?"
 
 Soka's face mask reads, "**CIRQUE DU COSMIQUE**".
 
-Rhee, turning back to Min: "I've heard of folks being Unassigned by the time they get to ISE Corps, but then I don't know where you'd go on your first day..."
+Rhee, turning back to Min: "Huh, 'Unassigned' is new..."
 
 PA: "We are now arriving at Gemini Station. This is the final stop of this shuttle service. All change ple--"
 
-The pre-recorded announcement is interrupted by a live announcement: "This is an announcement for all first-year trainees. Welcome to the ISE Corps! Please check your temporary student ID for your guild assignment, and follow signs to the appropriate docking bay door."
+All three teens look up as the pre-recorded announcement is interrupted by a live announcement: "This is an announcement for all first-year trainees. Welcome to the ISE Corps! Please check your temporary student ID for your guild assignment, and follow signs to the appropriate docking bay door."
 
-All three teens stare up at the speaker. 
+Zoom in on the scrolling text on the ceiling as the live announcement continues: "If you are Unassigned, please report to docking bay door 0813. Once again, if you are Unassigned, please report to docking bay door 0813." 
 
-We see just the speaker in the panel as the live announcement continues: "If you are Unassigned, please report to docking bay door 0813. Once again, if you are Unassigned, please report to docking bay door 0813." 
-
-### Page 9
+### Page 8
 
 Zoomed out, bird's eye view of the Gemini Station receiving platform. Hundreds of new students, mostly Orbiters, stream out of the shuttle with their luggage, some in small groups of friends. About 30 docking bay doors lining the receiving platform are labeled with the names and crests of various guilds.
 
@@ -477,7 +473,7 @@ We see a sign: *"DOCKING BAY DOORS 0800 - 0820"*
 
 Min peers around docking bay door 0813 and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the guild crests that mark them as 3rd year trainees (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other BIOSILICA teens with mechapets, but neither are the BIOSILICA teen from earlier, and neither have a cuttlefish mechapet. 
 
-Zalo: "Hello! Welcome! You must be..." He consults the a diagram of faces and text floating beside him.
+Zalo: "Hello, welcome! You must be..." He consults the a diagram of faces and text floating beside him.
 
 Zalo: "...Minka Oosou?"
 
@@ -485,7 +481,7 @@ Min has walked into the docking bay and puts down her pack with a grin: "Yup."
 
 Zalo: "Great!" 
 
-### Page 10
+### Page 9
 
 Close up on Jheri and Zalo: "Welcome everyone! I'm Jheri, 3rd year trainee of the **CYBERPHILIA** guild, and this is Zalo, 3rd year trainee of the **INFRADESTRUCTORS** guild. We are your Assignment Counselors, meaning we are here to help you get a guild assignment before the end of the week!" 
 
@@ -503,9 +499,9 @@ The Earther **GANGIE** from the cafe fight: "So hold on, who put you in charge?"
 
 Close-up on Jheri's eyes as she gives him a sharp look: "No one. We volunteered."
 
-### Page 11
+### Page 10
 
-In the maybe-too-brightly lit Gemini mess hall. This scene takes up top half of the page. 
+In the maybe-too-brightly lit Gemini mess hall. 
 
 Rhee: "So you might have to leave??"
 
@@ -515,13 +511,37 @@ Soka shoves their tray away in disgust. Their face mask swirls and solidifies in
 
 Min: "Yeah, is this seriously the only option for food?"
 
-Rhee, miserable: "You can get private catering, but it's really pricey." 
+Rhee, miserable: "Guilds provide morning and midday meals, but we're on our own in the evenings. You can get private catering, but it's really pricey." 
 
 Rhee slams her head down on the table. "I may never find out which guild you make, Min." Min looks over questioningly, munching on a mouthful of the dinner slop. 
 
 Rhee, still face down: "I'll starve before the end of the week." Min swallows her mouthful, making an unpleasant but determined face, as Soka covers their mouth in horror. 
 
-Bottom half of page. We are now in a dimmer hallway of the Gemini Station, looking into a large open office space. The sign by the entrance says **"SERVICE CREW HEAD OFFICE"**. 
+Min: "In that case, I'm not visiting **MENDELEEVERS** guild until the end of the week, just to force you to survive."
+
+Rhee: "What? Nooo, don't do that..."
+
+Soka's face mask reads: "When will you visit me?"
+
+Min: "Also towards the end of the week. I wanna visit Zalo and Jheri's guilds first."
+
+Rhee: "The Assignment Counselors? Why?"
+
+Min: "They volunteered to spend time helping the Unassigned trainees, which makes me think they might be good teachers."
+
+Soka nods as their face mask rearranges into: " 'Every teacher a monarch, every classroom a realm.' "
+
+Rhee: "Huh?"
+
+Min: "It's an old quote we both like. Basically, you should judge a good teacher the way you would judge a good leader -- honorable and respectful towards the people they lead, principled and thoughtful in their behaviour, willing to take risks and able to clean up afterwards." 
+
+Min: "And depending on the risks they take, you can see the boundaries of their classroom, or the community they believe they serve. Zalo and Jheri believe in serving the school as a whole, even Earthers and scholarship students. I wanna know where they get those beliefs."
+
+We see Soka's gloved hand just barely touching Min's hand on the table. 
+
+### Page 11
+
+We are now in a dimmer hallway of the Gemini Station, looking into a large open office space. The sign by the entrance says **"SERVICE CREW HEAD OFFICE"**. 
 
 PQ: "Welcome, my intergalactic scholars!"
 
@@ -531,19 +551,19 @@ PQ, with a regal tilt of her head: "Adilette PQ, at your service. I'll be coordi
 
 PQ: "So then, who's my Unassigned scholars?" Min and a few others raise their hands, including the Earther **GANGIE** from the cafe fight.
 
-PQ: "Right, you lot will come see me everyday this week, ok?" The Unassigned trainees nod. 
+PQ: "Right, you lot will come see me EVERY DAY this week, ok?" The Unassigned trainees nod. 
 
 PQ claps her hands. During the following speech we see Min 1) grimace and rub her sternum, 2) suddenly clutch her stomach, and 3) fall to the floor as her head tatoo throbs an angry reddish pink: "Excellent. The rest of you have weekly rotations which I've just posted to your Universal Record, and we'll keep to that schedule until mid-year holidays. Can everyone access their rota--!!"
 
-### Page 12 
+Long thin line of static-filled darkness across the bottom of the page. 
 
-Upper left, small square panel: darkness. Next panel, Min's POV: blurred vision of PQ peering down in concern. Next panel: darkness again. 
+### Page 12
 
-Next row, large panel, full width of page, also Min's POV: slightly clearer vision of PQ holding a glass of water up to her face. In the background are medical staff checking Min's vitals with medical scanners. The other scholarship students peer into PQ's office from the hallway, some concerned, some curious. 
+Long panel, full width of page, Min's POV: slightly blurred vision of PQ holding a glass of water up to her face. In the background are medic guild trainees, checking Min's vitals with medical scanners. The other scholarship students peer into PQ's office from the hallway, some concerned, some curious. 
 
-Next row, PQ looks back at a medic and says: "I'm sure it's just a bad reaction to zero-G. I've seen this before."
+Next row, PQ looks back at a medic trainee and says: "I'm sure it's just a bad reaction to the station's low-G. I've seen this before."
 
-Gemini school medic: "Well all of your vitals are strong and steady. Get plenty of rest tonight, and drink lots of fluids, ok?"
+Medic trainee: "Well all of your vitals are strong and steady. Get plenty of rest tonight, and drink lots of fluids, ok?"
 
 View of Min, on the floor with PQ's jacket under her head. She nods. 
 
