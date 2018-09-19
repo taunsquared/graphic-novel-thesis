@@ -122,9 +122,9 @@ On the other side of the EMT and their vehicle, Min catches sight of a tall teen
 
 Tall rectangular panel: View of Min, from below, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. In the viewing port behind Min we see the reflection of the BIOSILICA teen take a corner a little too fast and tumble into a dense crowd of people moving towards their own destinations via the moving rails.
 
-Tall rectangular panel: The BIOSILICA teen is now being told off by some disgruntled older Orbiters. The teen holds their drink half like a shield, half in seeming supplication, while the front of their face mask rearranges to say "Sorry!"  
+Tall rectangular panel: The BIOSILICA teen is now being told off by some disgruntled older Orbiters. The teen holds their drink half like a shield, half in supplication, while the front of their face mask rearranges to say "Sorry!"  
 
-2 wide panels, full width of page: The disgruntled older Orbiters begin to disperse. The BIOSILICA teen swims away while looking over their shoulder with "Sorry!" still on their face mask. The cuttlefish mechapet swims backwards while bowing and crying: "So sorry, so sorry, have a nice day!"
+2 wide panels, full width of page: The disgruntled older Orbiters begin to disperse. The BIOSILICA teen swims away while looking over their shoulder with "Sorry!" still on their face mask. The cuttlefish mechapet swims backwards while bowing and chirping: "So sorry, so sorry, have a nice day!"
 
 Bottom of the page: Min stares after the BIOSILICA teen, then looks around the station with new eyes. She pushes off from the tunnel wall, not even looking at the paths demarked by the moving rails. 
 
@@ -144,56 +144,95 @@ Zoom out to see Min looking up still, while the Earther **GANGIE** she just brib
 
 ### Page 7
 
-We see the top of Min's pack in a crowded marketplace. There are rock walls everywhere; we are deep underground. Artifical light streams from the fabrics that cover and divide the market stalls, casting a strange, multi-source glow that softens most shadows. 
+We see the top of Min's pack in a crowded marketplace. There are rock walls everywhere; we are deep underground. Artifical light streams from the fabrics that cover and divide the market stalls, casting a strange, multi-source glow that softens most shadows. Min walks up to the back of a market stall covered in fabrics screen-printed with World Government propoganda advertising work on Orbital construction projects as exciting, once-in-a-lifetime opportunities. A small stick is tied on a long string at about head height on the fabric. Min takes the stick and scratches it against the fabric in a  casual pattern. A flap in the fabric slowly cuts itself to create a opening big enough to let Min inside. 
 
-Min walks up to the back of a market stall covered in fabrics screen-printed with World Government propoganda advertising work on Orbital construction projects as exciting, once-in-a-lifetime opportunities. A stick is tied on a long string at about head height on the fabric. Min takes the stick and raps it against the fabric. A flap in the fabric slowly cuts itself to create a opening big enough to let Min inside. 
+Earther **GANGIE** trader: "Did you bring it?" 
 
-Earther **GANGIE** trader: "Did you bring it?"
+View is from inside, fabric on this side exuding dimmer light, the flap still open to the outside. Min reveals a pouch heavy with small lumpy objects, the size of large grapes. A beefy hand reaches for the pouch, but Min tucks it back into her jacket. 
 
-View from inside, fabric on this side exuding dimmer light, the flap still open to the outside. 
+Close-up on Min: "And you?"
 
-Min reveals a pouch heavy with patua fruits. A beefy hand reaches for the pouch, but Min tucks it back into her jacket. 
-
-Min: "And you?"
-
-We see a table with a small vial of purple, strangely dark liquid and a tiny, discreet injector device. 
+View, showing us further into the back of the market stall, of a hand presenting a table with a small vial of purple, strangely dark liquid. 
 
 Min: "I'll need to scan it."
 
-Earther **GANGIE** trader: "Hmph. Of course."
-
-Min stretches a palm toward the vial, and on her palm her eSyrup tatoos reshape into a QR code. The eSyrup tatoos then exude light in the QR code pattern, making it 3-D. The 3-D QR code made of precisely controlled rays of light now envelope the vial, and the light flickers and hums. The 3-D photon QR code sings out a gentle "ba-DOOP!" and the light rays envolping the vial turn quite green. Min smiles with satisfaction. 
-
-Earther **GANGIE** trader: "Happy?"
-
-In response, Min tosses over the heavy pouch. The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** gives it a good bite, to taste the fruit, see the color of the flesh, verify that it's the fruit that they are looking for. 
-
-
-Min, on her way to the Space Barge station to leave Earth, stops by a black market drug dealer to buy a substance that when injected, will render her eSyrup tatoos undetectable by World Government standard issue scanners for 24 hours. Min has learned the circuitry of a chemical scanner, and uses it to verify the chemical components of the substance. The whole time, though, Min in stressed and the dealer is stone-faced. 
-
-#### back to the **LOWER ESTATES ORBITAL STATION**
-
-Min casually rubs the side of her neck, where we can see a tiny pinprick of an injection needle. She squares her shoulders and approaches the platform gate and the Wardens and the scanners. She shows them her documents proving that she is a scholarship student at the ISE Corps, includes a view of her temporary student ID with *"Guild Assignment: Unassigned"* prominently in view, and passes through without incident. 
+Earther **GANGIE** trader: "Of course."
 
 ### Page 8
 
-Min boards the shuttle and gasps - the walls and floor are covered in organic material, hardwood and brick, textile and ceramic. She runs her hands along the hardwood wall paneling as she remembers living and working in the trees on Earth as a Tree Surfer.
+Min stretches a palm toward the vial, and on her palm her eSyrup tatoos reshape into a QR code. The eSyrup tatoos then exude light in the QR code pattern, making it 3-D. The 3-D QR code made of precisely controlled rays of light now envelope the vial, and the light flickers and hums. The 3-D photon QR code sings out a gentle "ba-DOOP!" and the light rays envolping the vial turn green. Min smiles with satisfaction. 
 
-An announcement over the PA: "This is the ISE Space Shuttle to Gemini, headquarters of the ISE Corps. You must carry a valid student ID in order to use this shuttle. Otherwise, you may be charged a penalty fare, or asked to leave."
+Earther **GANGIE** trader: "Happy?"
 
-Min wanders the shuttle until she finds the cafe compartment. Her guts still feel unsteady, so she gets a cup of hot tea and takes it to a seat next to another viewing port. 
+In response, Min tosses over the heavy pouch. 
 
-Over the PA: "This is the ISE Space Shuttle terminating at Gemini Station, calling at ... **NAME SOME OTHER STATIONS HERE**"
+The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** gives it a good bite, to taste the fruit and see the color of the flesh. He grins with satisfaction.  
 
-As she sips her tea, she stares down at Earth and falls into another remembrance. 
+### Page 9 
+
+#### back to the **LOWER ESTATES ORBITAL STATION**
+
+Min casually rubs the side of her neck, where we can see a tiny pinprick of an injection needle. 
+
+The apple is done. Close-up view as Min folds up the cloth with the seeds and stem. 
+
+Zoomed out view as Min pushes off the wall and lands softly in the crowd milling about in front of the platform gate. We see her walk up to the Wardens and the scanners. 
+
+We see Min give the Wardens a charming smile as she hands over the World Government certified, encrypted eSyrup chip that serves as her temporary student ID. One Warden places the chip in the appropriate mod port and gestures to activate view mode. Min's Universal Record, hilariously sparse, appears around the Warden. We see *Guild Assignment: Unassigned* flashing in a corner.
+
+A Warden uses their scanner mods to scan Min's pack, while another Warden scans Min's body. Series of small panels showing x-ray-like views of the contents of Min's pack:
+* large sack of small, lumpy apples.
+* a metal mess kit
+* an adorably small swiss army knife
+* several pieces of small fabric, folded
+* a large blanket, folded
+* folded pouch full of apple seeds and stems
+
+Dialogue over these panels --
+
+Warden: "Headed to the ISE Corps?"
+
+Min: "Yes ma'am."
+
+Warden: "This your first time in orbit?"
+
+Min: "Yes ma'am!"
+
+Warden: "So how you liking it?"
+
+Min, with a laugh: "It's pretty different!"
+
+Warden: "How you gonna survive school with just some apples and a blanket? Didn't you bring any clothes with you?"
+
+Min: "Oh, I like the ones I'm wearing just fine."
+
+Warden: "Huh. You're like my daughter, she got her first eSyrup suit and didn't change clothes for nearly a year, just morphed it! Sait it was the most convenient thing..."
+
+Min: "They really are comfortable." 
+
+Warden: "I told her she was doing too many morphs, she'd run out faster than the cloth would wear, and whttaya know, about 6 months in, the suit just stopped changing. Didn't even flicker when Alli ran the entile left wall of our home pod through it." 
+
+Min: "Oh wow! Well, maybe an entire station will help me get past that hump."
+
+Warden: "Haha! That's the spirit. Well you have a good semester young lady."
+
+Min: "Thank you!"
+
+### Page 10
+
+Min boards the shuttle and gasps - the walls and floor are covered in organic material, hardwood and brick, textile and ceramic. She reverently places her hands on the hardwood wall paneling.
+
+An announcement over the PA: "This is the ISE Space Shuttle to Gemini, headquarters of the ISE Corps. You must carry a valid student ID in order to use this shuttle. Otherwise, you may be charged a penalty fare, or asked to leave. We will be calling at ... **NAME SOME OTHER STATIONS HERE**"
+
+We see the wood under Min's hand start to change into a living tree, as Min falls into another remembrance. 
 
 PA: "We will be departing in 10 minutes."
 
-### Page 9
-
 #### Flashback
 
-Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. 
+Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
+
+Drum beats keep everyone synchronised. 
 
 **"Another Tree Surfer is born tonight."**
 
@@ -203,13 +242,9 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 * shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
 * legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
 
-Bottom of the page, larger panel, full width of the page: the view zooms out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
-
-Drum beats keep everyone synchronised. 
-
 **"To be reborn, each Expert Crafter of the Automata must accept a MOTHER into their FULL SKIN."**
 
-### Page 10
+### Page 11
 
 #### Flashback continued 
 
@@ -222,21 +257,17 @@ Wide panel, full width: **"DOOOOHM!"** The drums all come to a halt, and all of 
 
 Jina, Amadou, Magou, and **MARABA** all stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
 
-### Page 11
-
-#### Flashback continued
-
 **MARABA** picks up the syringe as Jina picks up the bucket of water, leaving Magou and Amadou to hold the hoop with Min inside steady. 
 
 Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then **MARABA** positions the needle of the syringe full of living eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
 
 Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Magou, and **MARABA** turn Min in slow circles as the living eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
 
-Her body convulses as her inner circle turns her a few more times in the Cyr wheel, then they set her upright in the very center again. The crowd chants "Be Free! Be FREE! BE FREE!" as Min finishes integrating the subdermal shield. After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. 
-
 ### Page 12
 
 #### Flashback continued
+
+Min's body convulses as her inner circle sets her upright in the very center again. The crowd chants "Be Free! Be FREE! BE FREE!" as Min finishes integrating the subdermal shield. After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
 View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Magou gently place the hoop back down in its exact previous position, centering Min again. 
 
