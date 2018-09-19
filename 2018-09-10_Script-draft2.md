@@ -166,37 +166,43 @@ Earther **GANGIE** trader: "Happy?"
 
 In response, Min tosses over the heavy pouch. 
 
-The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** gives it a good bite, to taste the fruit and see the color of the flesh. He grins with satisfaction.  
+The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** activates a mouth mod and gives the raw fruit a good bite, to taste the fruit and feel the texture of the flesh. He grins with satisfaction.  
 
 ### Page 9 
 
 #### back to the **LOWER ESTATES ORBITAL STATION**
 
-Min casually rubs the side of her neck, where we can see a tiny pinprick of an injection needle. 
+The apple is done. Close-up view as Min folds up the cloth with the seeds and stem. We get an "exploded view" diagram of the contents of Min's pack: 
+* large sack full of mostly small, lumpy apples, but also carefully wrapped fruits native to the Amazon jungle basin.
+* a set of eSyrup metal tools, like a multi-tool but it can actually morph, so it's much lighter and sleeker.
+* several eSyrup bandanas and wash cloths
+* an eSyrup toothbrush, which works like electric toothbrushes of 2018 but don't need to be charged, because metal eSyrup products are generally solar powered, sometimes thermal powered. 
+* lightweight eSyrup habitat bubble, which is like a tent but made out of eSyrup fabric. 
+* a tiny eSyrup thermal bubble, which is like a tiny portable oven; it can stretch up to 10 times its packed volume.
+* the folded pouch full of apple seeds and stems
+* the vial of purple liquid, now slightly less full than we saw it before
 
-The apple is done. Close-up view as Min folds up the cloth with the seeds and stem. 
-
-Zoomed out view as Min pushes off the wall and lands softly in the crowd milling about in front of the platform gate. We see her walk up to the Wardens and the scanners. 
+Zoomed out view as Min pushes off the wall and lands softly in the crowd milling about in front of the platform gate. We see her cheerfully walk up to the Wardens and the scanners. 
 
 We see Min give the Wardens a charming smile as she hands over the World Government certified, encrypted eSyrup chip that serves as her temporary student ID. One Warden places the chip in the appropriate mod port and gestures to activate view mode. Min's Universal Record, hilariously sparse, appears around the Warden. We see *Guild Assignment: Unassigned* flashing in a corner.
 
-A Warden uses their scanner mods to scan Min's pack, while another Warden scans Min's body. Series of small panels showing x-ray-like views of the contents of Min's pack:
-* large sack of small, lumpy apples.
-* a metal mess kit
+A Warden uses their scanner mods to scan Min's pack, while another Warden scans Min's body. Series of small panels showing x-ray-like views of the contents of Min's pack as the World Government scanners see them:
+* large sack of World Government standard issue food ration cans
+* a metal standard issue mess kit
 * an adorably small swiss army knife
-* several pieces of small fabric, folded
+* several small towels, folded
 * a large blanket, folded
-* folded pouch full of apple seeds and stems
+* the folded pouch full of standard issue toiletry items
 
 Dialogue over these panels --
 
 Warden: "Headed to the ISE Corps?"
 
-Min: "Yes ma'am."
+Min: "Yes."
 
 Warden: "This your first time in orbit?"
 
-Min: "Yes ma'am!"
+Min: "Yes!"
 
 Warden: "So how you liking it?"
 
@@ -357,7 +363,7 @@ Tendril-like arms of a mechapet cuttlefish deftly twist out the grey capsule at 
 
 An inky, blobulous cuttlefish mechapet, floating behind the Earther **GANGIE**'s head, swallows the grey capsule with a happy gurgle. While munching the mechapet happily explains: "I love **WHAMO!**!"
 
-Without the WHAMO! capsule, the Earther **GANGIE** deflates quickly, and starts to shiver; furiously: "That's not fair you **FRACKIN** robot!" Meanwhile, mecha-cleaners have rushed over and start sucking up Petite Orbiter's vomit. She looks almost ill again, watching the cleaning robots seemingly slurp up her vomit, so BIOSILICA teen tries to turn her away.
+Without the WHAMO! capsule, the Earther **GANGIE** deflates quickly, and starts to shiver; furiously: "That's not fair you **FRACKIN** robot!" Meanwhile, mecha-cleaners have rushed over and start sucking up Petite Orbiter's vomit. She looks almost ill again, watching the cleaning robots seemingly slurp up her vomit, so BIOSILICA teen, their traditional religious eSyrup clothing glowing with the "data-shivers" from Iri's consumption of the WHAMO! capsules, now easily turns Rhee away.
 
 PA, frantic, as other Orbiters and Earther **GANGIES** continue to brawl: "Will passengers please note that physical violence will not be tolerated on this shuttle service! Will passengers please note that physical viole--"
 
@@ -375,9 +381,9 @@ Petite Orbiter, seated, is digging frantically through her bag as BIOSILICA teen
 
 Min cheekily produces 3 hilariously tiny bottles of water in one hand and a stack of fresh napkins with a grin: "Fizzy water nicked from the cafe?" 
 
-Wide panel: the 3 teens, sitting side-by-side in the shuttle seats. Petite Orbiter sits in the middle, anti-nausea pill packaging crumpled in one hand, head tilted back as she guzzles the fizzy water clenched in her other hand, eyes closed, breathing hard. Min holds the stack of napkins while looking out the viewing port in this compartment, legs crossed in her seat and looking rather pleased with herself. The BIOSILICA teen sits with legs folded on top of their seat, cuttlefish mechapet happily munching the rest of Petite Orbiter's capsule as BIOSILICA teen pats it on the head.
+Wide panel: the 3 teens, sitting side-by-side in the shuttle seats. Petite Orbiter sits in the middle, anti-nausea pill packaging crumpled in one hand, head tilted back as she guzzles the fizzy water clenched in her other hand, eyes closed, breathing hard. Min holds the stack of napkins while looking out the viewing port in this compartment, legs crossed in her seat and looking rather pleased with herself. The BIOSILICA teen sits with legs folded on top of their seat, cuttlefish mechapet happily munching the rest of Petite Orbiter's capsule as BIOSILICA teen pats it on the head. BIOSILICA teen's clothing once again pulse with glowing patterns, betraying a wireless coupling between the mechapet's internal state and the eSyrup in the BIOSILICA teen's clothing. 
 
-Petite Orbiter finishes the fizzy water and collapses into the shuttle seat. Still looking up at the ceiling, she says a bit begrudgingly: "Thank you for your help. Taking WHAMO! was a terrible idea...I don't know why I thought it would help..."
+Petite Orbiter finishes the fizzy water and collapses into the shuttle seat. Still looking up at the ceiling, she says a bit begrudgingly: "Thanks. Taking WHAMO! was a terrible idea..."
 
 Min, handing Petite Orbiter the stack of fresh napkins: "Is that what's in those capsules?"
 
@@ -399,7 +405,7 @@ Rhee looks sad and guilty and looks down again: "My parents are morticians for s
 
 Min, suddenly angry and proud and surprising herself with the fire in her voice: "That's why the Automata take nothing from Orbiters! We work for ourselves, and live free on the surface!"
 
-Rhee looks surprised: "There are humans living on the planet's surface?" Eyes widen. "That's why I've heard the term Automata...when I was little my grandpa told me that the World Government discovered a hidden civilization of nomadic humans on the surface, who somehow survived the Water Crisis and were living outside the law...that's you!"
+Rhee looks surprised: "There are humans living on the planet's surface?" Eyes widen. "That's why I've heard the term Automata...I remember hearing how the World Government discovered a hidden civilization of nomadic humans on the surface, who somehow survived the Water Crisis and were living outside the law...that's you!"
 
 Min, appeased but a bit embarrassed to have been part of someone's childhood stories: "Yeah, but...it's not...as glamorous as it sounds..."
 
@@ -507,7 +513,7 @@ Rhee: "So you might have to leave??"
 
 Min, staring in horrified fascination at the slop on her plate: "Eh, probably not. I have a whole week to make friends. I can be pretty charming." Min lifts a utensil-full of slop and watches it slowly **"PLOPP"** back onto the tray. 
 
-Soka shoves their tray away in disgust. Their face mask swirls and solidifies into: "This is ridiculous."
+Soka shoves their tray away in disgust. Their face mask swirls and solidifies into: "This is ridiculous." Iri begins to gleefully consume the slop, and starts to send "data-shivers" to Soka. 
 
 Min: "Yeah, is this seriously the only option for food?"
 
@@ -589,7 +595,7 @@ PQ was part of a pioneering group of humans who were amongst the first generatio
 
 ### Page 1
 
-It's the next day, first day of classes. We see a large hallway, with many tall double doors, each covered in the name and crest of a guild. One hand made banner above an entrance proudly labels the space as **"INFRADESTRUCTORS workspace 267"**. From inside, Zalo's voice can be heard saying: "...so if you open this panel..."
+It's the next day, first day of classes. We see a large hallway, with many tall double doors, each covered in the name and crest of a guild. One hand made banner above an entrance proudly labels the space as **"Workspace 267: INFRADESTRUCTORS"**. From inside, Zalo's voice can be heard saying: "...so if you open this panel..."
 
 Next panel, we are inside the **INFRADESTRUCTORS** workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up a corkboard to which is pinned a flat, flexible device about the length and width of a short, fat finger. It has been carefully dissected so that the miniscule inner circuitry is visible. 
 
