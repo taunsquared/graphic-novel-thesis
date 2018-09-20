@@ -36,7 +36,7 @@ Backdrop: the glittery blackness of outer space, tempered by the light touch of 
 
 PA: "This is a World Government Shuttle Barge Service, departing from Recife Shuttle Launch Station and terminating at **LOWER ESTATES ORBITAL STATION**. We are now arriving at **LOWER ESTATES ORBITAL STATION**."
 
-Small panel, upper left of the page: very close-up view of Min's closed eye. Her **SUBDERMAL SHIELD** is in stealth mode, mostly invisible except where it is pretending to be tendrils of hair cut into an elaborate shaved pattern; her clan tatoos, frozen in an imitation of an Earther **GANGIE**'s head tatoo. Just around her eye, we see shadows of her living eSyrup tatoo flickering with hints of her dreams. 
+Small panel, upper left of the page: very close-up view of Min's closed eye. Her **SUBDERMAL SHIELD** is in stealth mode, mostly invisible except where it is pretending to be tendrils of hair cut into an elaborate shaved pattern; her clan tatoos, frozen in an imitation of an Earther **GANGIE**'s head tatoo. Just around her eye, we see shadows of her raw eSyrup tatoo flickering with hints of her dreams. 
 
 PA: "You may unbuckle your safety harnesses at this time."
 
@@ -257,7 +257,7 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 3 panels show close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
 * Jina and Amadou, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield, marking her as an Expert Crafter, dance triumphantly in shadowy patterns under the clan tatoos. Next to her is a tall, beautiful eSyrup metal bucket, holding ritual clensing water.    
 * Magou, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
-* **MARABA**, Min's cousin and dearest childhood companion, now an Expert Crafter: **INKER** and chosen for the honour of injecting Min's subdermal shield. Next to **MARABA**, in a shallow curving basket woven from eSyrup kevlar, is an enormous syringe full of swirling, bubbling, living eSyrup culture, freshly harvested from one of their living Mothers. 
+* **MARABA**, Min's cousin and dearest childhood companion, now an Expert Crafter: **INKER** and chosen for the honour of injecting Min's subdermal shield. Next to **MARABA**, in a shallow curving basket woven from eSyrup kevlar, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
 Wide panel, full width: **"DOOOOHM!"** The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
 
@@ -265,9 +265,9 @@ Jina, Amadou, Magou, and **MARABA** all stand up and pick up the metal hoop. The
 
 **MARABA** picks up the syringe as Jina picks up the bucket of water, leaving Magou and Amadou to hold the hoop with Min inside steady. 
 
-Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then **MARABA** positions the needle of the syringe full of living eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
+Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then **MARABA** positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
 
-Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Magou, and **MARABA** turn Min in slow circles as the living eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
+Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Magou, and **MARABA** turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
 
 ### Page 12
 
@@ -315,7 +315,7 @@ During this scene, the panels are focused on Min, who is watching with bored eye
 
 The Orbiter and Earther **GANGIE** continue to bicker in the background, as we see Min turn back to the viewing port. Behind her, a body dressed in the multi-layered clothing of the BIOSILICA cult appear. The body places the softest of finger-tip touch onto Min's back and whispers: *"Mini?"*
 
-We see Min's eyes, reflected in the viewing port, grow wide as the reflection shows a vague figure. 
+We can see Min's eyes, reflected in the viewing port, grow wide as the reflection shows a vague figure. 
 
 Zoom in on Min's mouth, curved up in a triumphant grin: *"You made it!!!"*
 
@@ -513,13 +513,15 @@ Rhee: "So you might have to leave??"
 
 Min, staring in horrified fascination at the slop on her plate: "Eh, probably not. I have a whole week to make friends. I can be pretty charming." Min lifts a utensil-full of slop and watches it slowly **"PLOPP"** back onto the tray. 
 
-Soka shoves their tray away in disgust. Their face mask swirls and solidifies into: "This is ridiculous." Iri begins to gleefully consume the slop, and starts to send "data-shivers" to Soka. 
+Soka shoves their tray away in disgust. Their face mask swirls and solidifies into: "I can't eat this anymore." Iri begins to gleefully consume the slop, and starts to send "data-shivers" to Soka. 
 
-Min: "Yeah, is this seriously the only option for food?"
+Min: "Yeah, is this seriously the only option for food?" Slightly zoomed out view shows us the rest of the mess hall, most people eating mess hall slop. A few lucky ones have fancier food in front of them. 
 
-Rhee, miserable: "Guilds provide morning and midday meals, but we're on our own in the evenings. You can get private catering, but it's really pricey." 
+Rhee, miserable: "You can get private catering, but it's really pricey." 
 
-Rhee slams her head down on the table. "I may never find out which guild you make, Min." Min looks over questioningly, munching on a mouthful of the dinner slop. 
+Min, to Soka: "Can I get a chem readout from Iri?" Soka hold up their palm and Min presses her palm into theirs. Min looks serene for a moment as her subdermal shield translates the vibrational information from Soka's glove.
+
+Rhee slams her head down on the table. "I may never find out which guild you make, Min." Min looks over questioningly, munching on a mouthful of the dinner slop - she's decided that it won't kill her to eat it. 
 
 Rhee, still face down: "I'll starve before the end of the week." Min swallows her mouthful, making an unpleasant but determined face, as Soka covers their mouth in horror. 
 
@@ -533,17 +535,21 @@ Min: "Also towards the end of the week. I wanna visit Zalo and Jheri's guilds fi
 
 Rhee: "The Assignment Counselors? Why?"
 
-Min: "They volunteered to spend time helping the Unassigned trainees, which makes me think they might be good teachers."
+Min: "They volunteered to spend time helping the Unassigned trainees."
+
+Rhee: "So?"
+
+Min: "Out of all the third-year trainees I've met so far, they seem the most likely to give an Unassigned Earther a chance. So maybe I'll like learning from them, and maybe they'll recommend me to their guild."
 
 Soka nods as their face mask rearranges into: " 'Every teacher a monarch, every classroom a realm.' "
 
 Rhee: "Huh?"
 
-Min: "It's an old quote we both like. Basically, you should judge a good teacher the way you would judge a good leader -- honorable and respectful towards the people they lead, principled and thoughtful in their behaviour, willing to take risks and able to clean up afterwards." 
+Min: "It's an old quote we both like. Basically, you can judge a good teacher the way you would judge a good leader -- honorable and respectful towards the people they lead, principled and thoughtful in their behaviour, willing to take risks and able to clean up afterwards." 
 
-Min: "And depending on the risks they take, you can see the boundaries of their classroom, or the community they believe they serve. Zalo and Jheri believe in serving the school as a whole, even Earthers and scholarship students. I wanna know where they get those beliefs."
+Min: "And depending on the risks they take, you can tell who and what that teacher believes in; in other words, the community they serve, the bounds of their kingdom." 
 
-We see Soka's gloved hand just barely touching Min's hand on the table. 
+Min: "Zalo and Jheri are two Orbiters who believe in serving even Earthers and scholarship students. I wanna know where they get those beliefs."
 
 ### Page 11
 
@@ -573,29 +579,27 @@ Medic trainee: "Well all of your vitals are strong and steady. Get plenty of res
 
 View of Min, on the floor with PQ's jacket under her head. She nods. 
 
-PQ: "Right then, thank you medics, for your swift response. I'll let this one have a bit o' quiet, then I'll walk her back to her dorm." To the scholarship students: "Scholars! No more excitement tonight, off to bed!"
+PQ: "Right then, thank you medics, for your swift response. I'll let this one have a bit o' quiet, then walk her back to her dorm." To the scholarship students: "Scholars! No more excitement tonight, off to bed!"
 
 PQ closes her office door then makes a gesture that activates a strange energy in the room, making Min's hair stand on end. 
 
 Min: "What's going on?"
 
-PQ, eyes unfathomable: "I've activated a **SIGNAL SCRAMBLER BUBBLE**. It'll keep the eyes and ears of the World Government off us."
-
-PQ leans in close to Min and whispers: "I saw it...your subdermal shield."
+PQ, eyes unfathomable: "I saw it...your subdermal shield."
 
 Min clenches her teeth and begins to sweat: "How do you--??"
 
-PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know a crusty old bird named Magou, would ya?" 
+PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know an old bird named Magou, would ya?" 
 
 ## Dream 2: The Night of a Thousand Burning Stars (3 pages)
 
-PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars, when a domino effect of systems malfunctions caused several orbital construction sites to overheat. Everyone on board the Space Barge was wearing protective eSyrup suits, but these suits weren't designed to keep people alive while falling through the atmosphere. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of living eSyrup. Magou then helps PQ return to the underground cities. 
+PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars, when a domino effect of systems malfunctions caused several orbital construction sites to overheat. Everyone on board the Space Barge was wearing protective eSyrup suits, but these suits weren't designed to keep people alive while falling through the atmosphere. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of raw eSyrup. Magou then helps PQ return to the underground cities. 
 
 ## Chapter 3
 
 ### Page 1
 
-It's the next day, first day of classes. We see a large hallway, with many tall double doors, each covered in the name and crest of a guild. One hand made banner above an entrance proudly labels the space as **"Workspace 267: INFRADESTRUCTORS"**. From inside, Zalo's voice can be heard saying: "...so if you open this panel..."
+It's the next day, first day of classes. We see a large hallway, with many tall double doors, each covered in the name and crest of a guild. One hand made banner above an entrance proudly labels the space as **"Workspace 267: INFRADESTRUCTORS"**. From inside, Zalo's voice can be heard saying: "...so if you gently peel back this layer..."
 
 Next panel, we are inside the **INFRADESTRUCTORS** workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up a corkboard to which is pinned a flat, flexible device about the length and width of a short, fat finger. It has been carefully dissected so that the miniscule inner circuitry is visible. 
 
@@ -607,45 +611,61 @@ Zalo: "This is a prototype for a POCKET UNIVERSAL SCANNER..."
 
 We see numerous panels showing close-ups of the workspace, with tools and materials typical of an electrical workshop, chemistry wet lab, plumbing equipment and tools, field biology equipment, etc. Over these panels, Zalo's voice continues: "...ideally, it can give electrical and chemical readings of other animal species, plants, objects, anything you could possibly want to scan!" 
 
-Zalo: "So today's challenge is to debug this prototype, and learn how to morph eSyrup! Careful though, you only get 2 or 3 morphs out of an eSyrup circuit, 4 if you're very lucky!"
+Zalo: "So today's challenge is to debug this prototype, and learn how to morph eSyrup! Careful though, you only get 2 or 3 morphs out of these eSyrup chips, 4 if you're very lucky!"
 
 ### Page 2
 
 View of the **INFRADESTRUCTORS** workspace, several hours later. Some trainees are still hunched over their devices, others have taken a break to sit in a comfortable circle of large cushions, rocking chairs, and sitting pillows. 
 
-Min: "I didn't realise so many Orbiter products use eSyrup circuits! It's everywhere!"
+Min: "I didn't realise so many Orbiter products use semi-hardened eSyrup circuits! They're everywhere!"
 
 Zalo, Min, and a few other **INFRADESTRUCTOR** trainees are seated together. Most of them have finished working and they are philosophising before dinner. 
 
-An Earther **NORMIE** trainee named **SIMIAN**: "Yeah, it really makes me want to get body mods..."
+An Earther **NORMIE** trainee, 2nd-year, named **DAMIEN**: "Yeah, it's kinda nice how modular everything can be, with stardardized parts..."
 
-Zalo taps a tool on his leg distractedly: "But you know, it's a real pain in the ass to be tied to Government standard issue body mods, which have at most 4 morphs available. In theory, living eSyrup should be able to go through an infinite number of morphs - think of all the crazy mods we COULD make, one that could last our whole lives!"
+Zalo taps a tool on his leg distractedly: "Yes, but I just wish they weren't proprietary! It's a real pain in the ass to be tied to standard issue parts, which rarely have as many morphs as they claim they do." 
 
-An Earther **GANGIE** trainee named **SOLENA**: "But then who will make sure that the mods are safe?" 
+Sedii, Orbiter, 2nd-year trainee: "And if you want to do anything besides the exact function that those parts are designed for, you're screwed!"
+
+**DAMIEN**: "So the semi-hardened circuits are good to prototype quickly, but if you want to make anything custom or complex, you'll need to do it the hard way anyway."
+
+Zalo: "In theory, raw eSyrup can go through an infinite number of morphs, regardless of the material it's spliced with - what we lose in convenience and modularity, we gain in flexibility and expression!"
+
+An Earther **GANGIE** and first-year trainee named **YOLENA**: "But then who will make sure that the mods are safe?" 
 
 Zalo, looking meaningfully at the trainee: "Do you really think that every mod we have out now is perfectly safe?"
 
 ### Page 3
 
-**SIMIAN**, shivers: "Ugh, definitely not! I've seen people have some CRAZY reactions to capsule stims..."
+**DAMIEN**, shivers: "Ugh, definitely not! I've seen people have some CRAZY reactions to capsule stims..."
 
-**SOLENA**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
+**YOLENA**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
 
-Sedii, an Orbiter trainee, leans in conspiratorially: "Well, and also because the government forbits basic research into eSyrup, so no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
+Sedii: "And because the government forbits basic research into eSyrup, no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
 
-**SOLENA**, bitter: "Yeah, what better way to keep humanity stupid, enslaved, and easy to control." 
+**DAMIEN**, bitter: "Yeah, the blind leading the blind..." 
 
-Sedii: "Exactly! Isn't it CRAZY how eSyrup seems to be a crucial part of all of our devices, our homes, our transportation, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
+Sedii: "Exactly! Isn't it CRAZY how eSyrup circuits seem to be a crucial part of all of our devices, our homes, our transportation systems, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
 
-Zalo: "I heard that before the Water Crisis, eSyrup was considered a cute biological engineering project, and the original inventors published the entire recipe for living eSyrup ON THE INTERNET..."
+Zalo: "I heard that before the Water Crisis, eSyrup was considered a cute biological engineering project, and the original inventors published the entire recipe for raw eSyrup ON THE INTERNET..."
 
-Sedii: "Ha! Yeah, back when humans thought the internet would exist forever..."
+**DAMIEN**: "Ha! Yeah, back when we thought the internet would exist forever..."
 
-Min: "But, Zalo, are you trying to tell us that the **INFRADESTRUCTORS** guild ISN'T trying to research living eSyrup? That's what I thought you meant by 'opening up all black boxes'..."
+Min: "But, Zalo, are you trying to tell us that the **INFRADESTRUCTORS** guild ISN'T trying to research raw eSyrup? That's what I thought you meant by 'opening up all black boxes'..."
 
 Zalo: "Ok, sure, but no guild is powerful enough to openly defy World Government law..."
 
 ### Page 4 
+
+We're back in the mess hall. Today's standard issue rations are a rather vibrant shade of beet-maroon and tumeric-yellow. Min, Soka, and Rhee watch Iri shovel the slop into its mouth, then stare in morbid fascination at the sickly patterns made by the "data-shivers" sent to Soka's clothing. Min is poking and prodding the slop, while Rhee looks at Iri rather anxiously. 
+
+Rhee: "Will the food hurt Iri? What do they put in this stuff anyway?"
+
+Soka's face mask formulates the words: "Iri eats all kinds of stuff..."
+
+Soka's face mask rearranges into: "...and nothing's broken Iri yet." Iri suddenly pauses in the middle of shoveling more slop into its mouth, wiggles it butt in momentary discomfort, then belches quite loudly. Rhee face-palms in humiliation, Min starts to snicker, and Soka slouches in their seat, shy about the attention Iri's belch has attracted. 
+
+Rhee: "I can't eat any of 
 
 Min, Rhee, and Asoka are at dinner again, looking glumly at today's unappetizing looking slop. Rhee is so freaked out by the food that she is refusing to eat any of it, and only nibbles at the sourdough bread made by her guild. Soka and Min are concerned and try to convince Rhee to eat something. Soka mentions that the **CIRQUE DU COSMIQUE** guild has fresh fruit, and Rhee immediately begs to have some. Iri offers to analyse the mess hall food and drink by consuming them and making digital analyses of them.
 
@@ -817,7 +837,7 @@ Large panel depicting an insanely creative playground, built by the guild traine
 
 At dinner Min and Soka are so euphoric from the day that Min nearly forgets to find Zalo, but then she sees him right at the end of dinner. She runs after him and makes up a fake reason why he needs to come with her to the Service Crew Head Office, right now please. There, PQ shows Zalo the smuggled medical scanner. He freaks out and wants to take it apart immediately, but Min explains that she needs to shut off the scanner's communications and then use it to make an undocumented scan of all the food and water from the mess hall.
 
-Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the eSyrup neutralizer substance. She shows him the substance and asks if he minds taking a look at it. Zalo's mind is blown when he learns that Min has living eSyrup tatoos. He wants to learn more and help. 
+Zalo insists that he can build a food and water scanner from old parts, so Min has to explain the full story, about her subdermal shield and the eSyrup neutralizer substance. She shows him the substance and asks if he minds taking a look at it. Zalo's mind is blown when he learns that Min has raw eSyrup tatoos. He wants to learn more and help. 
 
 ## Chapter 5
 
@@ -885,7 +905,7 @@ PQ explains that this farming project started 3 years ago, after the first year 
 
 ## Dream 4: A vision of Mother (1 page)
 
-Min dreams of her mother Jina, her grandmother Magou, and all of the women who have been part of her lineage. She also dreams of the living eSyrup culture in her skin, and its long life ever since it was born, way back before the Water Crisis. Min feels a strange pulsing in her body, it causes her pain and fear. 
+Min dreams of her mother Jina, her grandmother Magou, and all of the women who have been part of her lineage. She also dreams of the raw eSyrup culture in her skin, and its long life ever since it was born, way back before the Water Crisis. Min feels a strange pulsing in her body, it causes her pain and fear. 
 
 ## Chapter 6
 
