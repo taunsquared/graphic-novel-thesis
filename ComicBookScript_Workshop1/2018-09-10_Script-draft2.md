@@ -10,11 +10,11 @@
 
 ### Page 1
 
-"Once upon a time..."
+"A long time ago..."
 
 "before the Orbiters lived in the sky,"
 
-"before we hid underground to survive **THE BOILING**"
+"before we hid underground to survive **THE BURNING**"
 
 "we all lived together, on the Earth's surface."
 
@@ -31,6 +31,34 @@
 ## Chapter 1
 
 ### Page 1
+
+"Nana?"
+
+"Yes, Minkinho?"
+
+"Can you tell me the story of when you first made eSyrup?"
+
+"That again, Minkinho?"
+
+"Please pretty please?"
+
+"Haha, well I think I may have forgotten how it starts..."
+
+"I remember! 'There were once 3 researchers - a molecular biologist, a materials scientist, and an electronics engineer.'"
+
+"That's right..."
+
+### Page 2
+
+**"
+
+
+
+
+
+
+
+### old structure
 
 Backdrop: the glittery blackness of outer space, tempered by the light touch of the outermost layer of atmosphere. 
 
@@ -50,19 +78,25 @@ PA: "The **SHUTTLE** will dock at this station for 2 hours. Please collect all o
 
 ### Page 2
 
-Upper left panel shows the typical icon for toilet facilities - **NEED TO DESIGN A TOILET ICON OF 2119**. Next panel: Zoom out to see Min, now wearing a large pack, exit the toilet facilities and lean against the wall with the sign; she still looks a bit groggy and disoriented. Next panel: We see Min in profile as she leans her head back against the wall, looking as if she is gathering her strength. Next 3 panels: Same perspective as previous panel, 1) Min's eyes snap open, and, looking more focused and alert, 2) she goes horizontal and 3) pushes off from the wall. 
+Upper left panel shows the typical icon for toilet facilities - **NEED TO DESIGN A TOILET ICON OF 2119**. Next panel: Zoom out to see Min, now wearing a large pack, exit the toilet facilities and lean against the wall with the sign; she still looks a bit groggy and disoriented. Next panel: We see Min in profile as she leans her head back against the wall, looking as if she is gathering her strength. Next 3 panels: Same perspective as previous panel, 1) Min's eyes snap open, and, looking more focused and alert, 2) she cautiously, expectantly, not-quite-believing the sensation, goes horizontal and 3) with a grin of newfound confidence and excited realization, pushes off from the wall. 
 
-Large panel, takes up the rest of the page: We see that the toilets were actually part of a large cylindrical tunnel, with shops, restaurants, pubs, toilets, etc, all the way around the cylinder, and a crowded stream of people either swimming through the center (few) or holding onto moving rails that have been elevated inwards, away from the outer walls of the transit tunnel (many). A sign pointing in the direction that Min is moving reads **"THIS WAY TO LOWER ESTATES ORBITAL STATION"**. 
+Large panel, takes up the rest of the page: We see that the toilets were actually part of a large cylindrical tunnel, with shops, restaurants, pubs, toilets, etc, all the way around the cylinder, and a crowded stream of people either swimming through the center (few) or holding onto moving rails that have been elevated inwards, away from the outer walls of the transit tunnel (many). These rails carve paths of high speed traffic around the station. 
+
+This part of the station is crowded with mostly Earthers, who look more or less like Min, but with paler skin, eyes that bulge out of their heads a bit more, and bulky shoulders hunched from a lifetime of living underground, digging tunnels or working in the industrial offices of the World Government. They are all fully covered in World Government standard issue eSyrup clothing. Some have eSyrup body modifications, which are small, flat, flexible eSyrup circuits surgically embedded into or just under their skin. The Earthers tend to use the moving rails, clumsy in their unfamiliarity with lower gravity. 
+
+The crowds also include Orbiters, some of whom were born in space and have never felt the full pull of Earth's gravity, so their bodies are generally less muscled. Orbiters tend to have thin legs, very large puffy heads, and wear full-body eSyrup leotards, which act as an exoskeleton to help support their posture and compensate for the bone loss they inevitably experience, growing up and living their lives in space. Their faces are naked, and many of them already have World Government standard issue space mask connector mods in their necks. Many of them swim around comfortably; Orbiter children chase each other and play dextrously in the low gravity. 
+
+A sign pointing in the direction that Min is moving reads **"THIS WAY TO LOWER ESTATES ORBITAL STATION"**. Min weaves between the streams of heavy traffic, ignoring the Orbiter children chasing each other in the emptier areas of the station and treating the support beams of the station like trees. Min has a huge grin on her face; she is exhilerated by her first experience with lower gravity. 
 
 ### Page 3
 
-Small panel: Min is swimming through the station along a "tunnel" created by the moving rails, which carve paths of high speed traffic around the station. She is enjoying flexing her muscles after the long ride from Recife. Min turns a corner and suddenly...
+Small panel: Min is swimming through a narrow part of the station, along a "tunnel" taken up mostly by the moving rails. She is enjoying flexing her muscles after the long ride from Recife Launch Station. Min turns a corner and suddenly...
 
-Large half page spread: ...comes upon a section of the tunnel with a large viewing port. Earth gleams below like a greasy, grubby marble in the spotlight. 
+Large half page spread: ...the "tunnel" opens up into a large cavernous space with a food court, and below is a large viewing port. Earth gleams below like a greasy, grubby marble in the spotlight. 
 
-Small panels: We see Min swim down to press her face and hands against the viewing port, view from the space side of the viewing port. 
+Small panels: We see Min, grin replaced with awe at seeing the planet from orbit for the first time, swim down to press her face and hands against the viewing port, view from the space side of the viewing port. 
 
-Next panel zooms in on her eyes, which are reflecting the Earth below and surrounded by shadowy eSyrup tatoos going wild, barely able to keep themselves invisible. 
+Next panel zooms in on her eyes, glistening with emotion, which reflect the Earth below and are surrounded by shadowy eSyrup tatoos going wild, barely able to keep themselves invisible. 
 
 #### Flashback 
 
@@ -114,23 +148,23 @@ Larger panel that spans full width of page. Magou points her finger imperiously 
 
 #### Back on the **LOWER ESTATES ORBITAL STATION**
 
-Three small square panels in a row that spans the width of the page: We see Min's ear, with just barely visible shadows of her eSyrup tatoos writhing, as a warning siren of station emergency medical services wails in the distance. As we see Min's eyes turn from the viewing port to check for the source of the sound, she gets bumped hard enough to knock her head into the viewing port.
+Three small square panels in a row that spans the width of the page: We see Min's ear, with just barely visible shadows of her eSyrup tatoos writhing, as a warning siren of station emergency medical services wails in the distance. We see Min's eyes turn from the viewing port to check for the source of the sound.
 
-Large panel spanning the width of the page: Min turns to see an emergency medical team (EMT) and their floater (vehicle) moving painstakingly slowly in the center of the nearest set of moving rails, as people swim out of the way and crowd her view.
+Large panel spanning the width of the page: Min turns to see an emergency medical team (EMT) and their floater (vehicle) moving painstakingly slowly into the food court, as people swim out of the way and crowd her view. It looks like someone had a bad reaction to their food. 
 
-On the other side of the EMT and their vehicle, Min catches sight of a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, swimming gleefully and deftly in all corners of the low-gravity **LOWER ESTATES ORBITAL STATION**. The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while gracefully using the other to push off a wall there, grab a pipe to turn a corner there. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. We hear a distant mechanical "Wheeeeeeeeee!"
+On the other side of the EMT and their vehicle, Min catches sight of a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, swimming fast, gleefully and deftly, in the far corners of the food court that host no food stands. The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while gracefully using the other to push off a wall there, grab a pipe to turn a corner there. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. We hear a distant mechanical "Wheeeeeeeeee!"
 
-Tall rectangular panel: View of Min, from below, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. In the viewing port behind Min we see the reflection of the BIOSILICA teen take a corner a little too fast and tumble into a dense crowd of people moving towards their own destinations via the moving rails.
+Tall rectangular panel: View of Min from far away, POV including the BIOSILICA teen in the foreground, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. The BIOSILICA teen takes a corner a little too fast and tumbles into a dense crowd of people moving out of the way of the emergency medical team.
 
 Tall rectangular panel: The BIOSILICA teen is now being told off by some disgruntled older Orbiters. The teen holds their drink half like a shield, half in supplication, while the front of their face mask rearranges to say "Sorry!"  
 
 2 wide panels, full width of page: The disgruntled older Orbiters begin to disperse. The BIOSILICA teen swims away while looking over their shoulder with "Sorry!" still on their face mask. The cuttlefish mechapet swims backwards while bowing and chirping: "So sorry, so sorry, have a nice day!"
 
-Bottom of the page: Min stares after the BIOSILICA teen, then looks around the station with new eyes. She pushes off from the tunnel wall, not even looking at the paths demarked by the moving rails. 
+Bottom of the page: Min stares after the BIOSILICA teen, then shakes herself out of her reverie. She pushes off from the tunnel wall in the opposite direction. 
 
 ### Page 6
 
-Min is perched on the support beams, made of eSyrup-infused metal, munching on a small lumpy apple as she looks down at the platform for the ISE Corps Shuttle. The entrance to the platform is guarded by World Government Security Wardens, who are scanning everyone entering the platform for illegal substances and unregistered eSyrup products. 
+Min is perched on the station support beams, munching on a small lumpy apple as she looks down at the platform for the ISE Corps Shuttle. The entrance to the platform is guarded by World Government Security Wardens, who are scanning everyone entering the platform for illegal substances and unregistered eSyrup products. 
 
 Series of small panels show zoomed-in view of Min eating the apple from the bottom, meticulously spitting the seeds into a cloth in her hand as she consumes everything except the stem. 
 
@@ -138,9 +172,11 @@ Transition to flashback: In one panel, we see the World Government Security Ward
 
 #### Flashback
 
-...in the next panel, we see Min's eye reflecting a view from the bottom of the Recife World Government Shuttle Barge Service Station, grubby metal piercing the sky above the easternmost tip of the South American continent. The position of the sun says it's midday; the sky is smeared with grey-green-yellow light. 
+...in the next panel, we see Min's eyes closed beneath what look like sun-glass lenses affixed to her temples. In the lenses we see the reflection of the Recife Shuttle Barge Service Station, grubby metal piercing the sky above the easternmost tip of the South American continent. The position of the sun says it's midday; the sky is smeared with grey-green-yellow light. The reflection is warped and reveals that Min is staring up at the Station from its base. 
 
-Zoom out to see Min looking up still, while the Earther **GANGIE** she just bribed is still tucking away the plastic bottle caps used as currency in the underground cities. They are standing near a tunnel entrance with a door that has been disguised to blend in with the surrounding, strange flora.  
+Zoom out to see Min looking up still, while the Earther **GANGIE** she just bribed is still tucking away the plastic bottle caps used as currency in the underground cities. Min is disguised as an Earther **GANGIE** from a different crew. The two of them are standing near a tunnel entrance with a door that has been disguised to blend in with the surrounding, strange flora. Earther **GANGIE** grunts, lifting the tunnel entrance and deliberately keeping their gaze down: "Don't look up, the reflection off the station will melt standard issue eye mods."
+
+Min's mouth cracks in a friendly smirk: "Mine aren't standard issue." We see a similar view to the first flashback panel, but now we see a bit through Min's eyelids, an x-ray-like view of the subdermal shield in her eyelid protecting Min's eye. 
 
 ### Page 7
 
@@ -160,13 +196,13 @@ Earther **GANGIE** trader: "Of course."
 
 ### Page 8
 
-Min stretches a palm toward the vial, and on her palm her eSyrup tatoos reshape into a QR code. The eSyrup tatoos then exude light in the QR code pattern, making it 3-D. The 3-D QR code made of precisely controlled rays of light now envelope the vial, and the light flickers and hums. The 3-D photon QR code sings out a gentle "ba-DOOP!" and the light rays envolping the vial turn green. Min smiles with satisfaction. 
+Min stretches a palm toward the vial, where her eSyrup tatoos have reshaped into what looks like a raised QR code. The eSyrup tatoos then exude light in the QR code pattern, making the QR code volumetric. The 3-D QR code made of precisely controlled rays of light now envelope the vial, and the light flickers and hums. The 3-D photon QR code sings out a gentle "ba-DOOP!" and the light rays envolping the vial turn green. Min smiles with satisfaction. 
 
 Earther **GANGIE** trader: "Happy?"
 
 In response, Min tosses over the heavy pouch. 
 
-The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** activates a mouth mod and gives the raw fruit a good bite, to taste the fruit and feel the texture of the flesh. He grins with satisfaction.  
+The Earther **GANGIE** pulls out an [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. The **GANGIE** activates a mouth mod and gives the raw fruit a good bite, to taste the fruit and feel the texture of the flesh. He grins with satisfaction: "Ah, nice! Finest patua you've ever brought me!" 
 
 ### Page 9 
 
@@ -182,11 +218,9 @@ The apple is done. Close-up view as Min folds up the cloth with the seeds and st
 * the folded pouch full of apple seeds and stems
 * the vial of purple liquid, now slightly less full than we saw it before
 
-Zoomed out view as Min pushes off the wall and lands softly in the crowd milling about in front of the platform gate. We see her cheerfully walk up to the Wardens and the scanners. 
+Zoomed out view as Min pushes off the wall and lands softly in the crowd milling about in front of the platform gate. We see her cheerfully walk up to the queue in front of the Wardens and the scanners. 
 
-We see Min give the Wardens a charming smile as she hands over the World Government certified, encrypted eSyrup chip that serves as her temporary student ID. One Warden places the chip in the appropriate mod port and gestures to activate view mode. Min's Universal Record, hilariously sparse, appears around the Warden. We see *Guild Assignment: Unassigned* flashing in a corner.
-
-A Warden uses their scanner mods to scan Min's pack, while another Warden scans Min's body. Series of small panels showing x-ray-like views of the contents of Min's pack as the World Government scanners see them:
+We see Min give the Wardens a charming smile as she steps into the World Government scanner. Min's Universal Record, hilariously sparse, appears around her. We see *Guild Assignment: Unassigned* flashing in a corner. Series of small panels showing x-ray-like views of the contents of Min's pack as the World Government scanners see them:
 * large sack of World Government standard issue food ration cans
 * a metal standard issue mess kit
 * an adorably small swiss army knife
@@ -204,15 +238,11 @@ Warden: "This your first time in orbit?"
 
 Min: "Yes!"
 
-Warden: "So how you liking it?"
+Warden: "Didn't pack much, did you?"
 
-Min, with a laugh: "It's pretty different!"
+Min: "I don't need much."
 
-Warden: "How you gonna survive school with just some apples and a blanket? Didn't you bring any clothes with you?"
-
-Min: "Oh, I like the ones I'm wearing just fine."
-
-Warden: "Huh. You're like my daughter, she got her first eSyrup suit and didn't change clothes for nearly a year, just morphed it! Sait it was the most convenient thing..."
+Warden: "Huh. You're like my daughter, she got her first eSyrup suit and didn't change clothes for nearly a year, just morphed it! Said it was the most convenient thing..."
 
 Min: "They really are comfortable." 
 
@@ -220,7 +250,7 @@ Warden: "I told her she was doing too many morphs, she'd run out faster than the
 
 Min: "Oh wow! Well, maybe an entire station will help me get past that hump."
 
-Warden: "Haha! That's the spirit. Well you have a good semester young lady."
+Warden: "Haha! That's the spirit. Well you have a good time out there."
 
 Min: "Thank you!"
 
@@ -283,11 +313,11 @@ View of Min from the front, gasping, blinking away large beads of sweat from her
 
 Magou's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
 
-Min closes her eyes, tries to calm her breathing, struggling to stand: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."
+Min closes her eyes, tries to calm her breathing, struggling to stand, gasps: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."
 
 Min throws her head up and cries: "...and to MOVE in any direction with curiosity and grace..."
 
-Zoom in on Min's mouth, exhausted yet serene, wry, and just a tiny bit cheeky: "...even OFF THE PLANET!"
+Zoom in on Min's mouth, exhausted yet serene, wry, and defiant: "...even OFF THE PLANET!"
 
 ## Chapter 2
 
@@ -297,7 +327,7 @@ We're back on the ISE Space Shuttle to Gemini Station. Min is now sitting in the
 
 PA: "This is **THE MAE JEMISON MEMORIAL** station. Change here for **MAKE UP SOME ROUTES AND STUFF**. The next station is **SOMETHING SOMETHING**. This shuttle terminates at Gemini Station." 
 
-Behind Min, who is well-hidden behind her large pack in her corner booth by the viewing port, a crowd of mostly Orbiters have gathered in small groups throughout the cafe compartment. The Orbiters have thin legs, very large puffy heads, and wear full-body eSyrup leotards, which act as an exoskeleton to help support their posture and compensate for the bone loss they experience, growing up and living their lives in space. Their faces are naked, and many of them already have World Government standard issue mods in their necks for space masks. 
+Behind Min, who is well-hidden behind her large pack in her corner booth by the viewing port, a crowd of mostly Orbiters have gathered in small groups throughout the cafe compartment.  
 
 The Orbiters all throw sidelong glances at a small group of Earthers, whose bulkier bodies were clearly developed under the influence of stronger gravity. But they also look different from Min - their backs are hunched from living their lives in underground tunnels, their skin is ghostly pale, and all of them have also been surgically equipped with World Government standard issue eSyrup body modifications, which stretch their pale skin paper thin and cast dark bruise-like shadows. Some of the Earthers, mostly from military or academia families, also find room to be disdainful and superior towards the **GANGIE** Earthers, identifiable by their elaborate head tatoos, who tend to be from the lowest castes in the great underground World Government cities. 
 
