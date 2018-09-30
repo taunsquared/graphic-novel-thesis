@@ -14,7 +14,7 @@
 
 "before the Orbiters lived in the sky,"
 
-"before we hid underground to survive **THE BURNING**"
+"before we hid underground to survive **THE GREAT BURNING**,"
 
 "we all lived together, on the Earth's surface."
 
@@ -32,25 +32,52 @@
 
 ### Page 1
 
-"Nana?"
+**"Nov 20, 2076: São Paulo, Brazil"**
 
-"Yes, Minkinho?"
+**"It was a day of hope and wonder."** 
 
-"Can you tell me the story of when you first made eSyrup?"
+**"The Space Consortium had just announced the completion of their third space farm, **THE UPPER ESTATES SPACE ARBORETUM**. The news feeds were drowning in photos of the ribbon-cutting event up in orbit, of beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly morph in response to the lights, the music, their wearers' moods..."**
 
-"That again, Minkinho?"
+**"...of delicate, mouth-watering hors d'oeuvres made from the crops grown and cultivated at the two older space farms, **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM** and **THE LOWER ESTATES SPACE ARBORETUM**..."**
 
-"Please pretty please?"
+**"...of the fleet of home pods that synchronised their orbits with the new arboretum in order to snag front row seats to this historic moment, when humanity proved its ingenuity once more..."**
 
-"Haha, well I think I may have forgotten how it starts..."
+**"...for the world was becoming too dirty, too extreme in its weather, to support industrial planetside farming..."**
 
-"I remember! 'There were once 3 researchers - a molecular biologist, a materials scientist, and an electronics engineer.'"
+**"...and many people, on this historic day of hope and wonder, were starving..."**
 
-"That's right..."
+Under this narration, we see a young Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air, hoods up, breathing masks and googles on. The air is hazy with smog, the sky a smeared grey-blue. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Others have tiny projections coming from subdermally implanted chips in their wrists, palms, or foreheads. 
+
+Most of the news is about the new space arboretum. Some of the news is about planetside climate disasters: 
+* The Colorado River has dried up completely, throwing North America into chaos
+* The River Niger has also dried up, causing panic in Africa 
+* An extremely aggressive water-borne disease wipes out several major urban areas in China and India 
+* Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world.
 
 ### Page 2
 
-**"
+We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Tecnologia". The front of the research facility is teeming with protesters, who hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!"
+
+Majhee sneaks into an alleyway to enter the research facility via a back door. We see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
+
+Receptionist: "Dr. Suh! How bad is it out there?"
+
+Majhee takes off her hood and googles and we see her face - pretty and youthful for her 41 years, if it weren't for the lines of worry and grim determination. Majhee is ethnically Korean, with lightly tanned porcelain skin and small shapely eyes on a round face. She shakes out her hair, cropped short in a bowl pixie cut. She then begins taking off her eSyrup hazmat suit.  
+
+"Still crowded."
+
+"Idiots. Don't they understand we're trying to help?"
+
+"Well, they're hungry. It's hard to be rational when you're hungry."
+
+Majhee removes her goggles and steps into the decontamination chamber.
+
+### Page 3
+
+"I'm not sure how much longer we'll be able to stay." 
+
+"Did you have another argument with Marcia?"
+
 
 
 
@@ -104,23 +131,23 @@ All of the following panels are in a single row along the bottom of the page.
 
 Similar view as the last non-flashback view, except now Min's clan tatoos, rather fewer in density, dance freely about her face, and she has no subdermal shield. Her eyes, on a visibly younger face, are wide with fear and full of confused tears. It is night, and the scene flickers with fire light. 
 
-Magou: "We will take NOTHING from the Orbiters."
+Majhee: "We will take NOTHING from the Orbiters."
 
 View from the floor: we see a long corridor within a large eSyrup bubble, and Min's legs as she hides in the shadows of an eSyrup tapestry, one of many fabrics draped to serve as dividing walls. The tapestry embroidery depict various rituals of the Automata. 
 
 Amadou: "So you let your BLIND HATRED for ORBITERS kill Jina? And who will win, if we lose our clan's greatest mathematician??" 
 
-View from the other side of the tapestry that Min is hiding behind: We see half of her face, cautiously peeking around the fabric, as the flickering shadows of Amadou, Min's father, and Magou, Min's grandmother, darken the tapestry. 
+View from the other side of the tapestry that Min is hiding behind: We see half of her face, cautiously peeking around the fabric, as the flickering shadows of Amadou, Min's father, and Majhee, Min's grandmother, darken the tapestry. 
 
-Small panel in the bottom right corner, the sharp, sparking, wrinkled eyes of Magou: "I said NOTHING!!" 
+Small panel in the bottom right corner, the sharp, sparking, wrinkled eyes of Majhee: "I said NOTHING!!" 
 
 ### Page 4
 
 #### Flashback continued
 
-Tall panel, angle of view is opposite from where young Min stands, so that we see the scene and Min hiding in the background: Magou, hands serenely on her crossed knees, her back rigid and tall with cold, sad, despair, and her face turned away from Amadou, who on his hands and knees is at face level with the much shorter Magou. Amadou's fists grip the floor rugs, his face, turned down, is streaked with tears, and his broad shoulders are bent with exhaustion. 
+Tall panel, angle of view is opposite from where young Min stands, so that we see the scene and Min hiding in the background: Majhee, hands serenely on her crossed knees, her back rigid and tall with cold, sad, despair, and her face turned away from Amadou, who on his hands and knees is at face level with the much shorter Majhee. Amadou's fists grip the floor rugs, his face, turned down, is streaked with tears, and his broad shoulders are bent with exhaustion. 
 
-Magou: "Always trying to PUSH the boundaries of our traditions. We are the Automata! We are Free! We do not beg for scraps from the ones who abandoned us to die on the surface!"
+Majhee: "Always trying to PUSH the boundaries of our traditions. We are the Automata! We are Free! We do not beg for scraps from the ones who abandoned us to die on the surface!"
 
 The following small panels take up diagonal rows that cover the right half of the page, leaving the left half of the page for the previous tall panel. 
 
@@ -136,13 +163,13 @@ Row 2:
 
 Small panel, focused on Amadou's fists: "And they have been so generous with their knowledge..."
 
-Small panel, we see Magou, her hands no longer so serene as they tighten on her knees. Off-panel, Amadou continues: "Then your daughter fell ill, and nothing we do helps. So when they confess to the possession of an Orbiter device, ONE WHICH COULD SAVE JINA'S LIFE..."
+Small panel, we see Majhee, her hands no longer so serene as they tighten on her knees. Off-panel, Amadou continues: "Then your daughter fell ill, and nothing we do helps. So when they confess to the possession of an Orbiter device, ONE WHICH COULD SAVE JINA'S LIFE..."
 
 Small panel, back on Amadou's fiercely determined eyes: "we punish them, for what? Keeping it a secret from us?"
 
-3 small square panels, lining the top of the page: 1) Magou squints her eyes and grits her teeth against tears of frustration; 2) Magou lowers her head, hiding her eyes, her mouth set in sad determination; 3) zoom in closer on the same image from previous panel as Magou whispers: "FINE. Use the Orbiter device. If Jina dies, João **MORIERA** and his family also die."
+3 small square panels, lining the top of the page: 1) Majhee squints her eyes and grits her teeth against tears of frustration; 2) Majhee lowers her head, hiding her eyes, her mouth set in sad determination; 3) zoom in closer on the same image from previous panel as Majhee whispers: "FINE. Use the Orbiter device. If Jina dies, João **MORIERA** and his family also die."
 
-Larger panel that spans full width of page. Magou points her finger imperiously as we see Amadou steely-eyed yet still incredulous, and over his shoulder, Min's eyes as wide as saucers from behind the tapestry. Magou: "If Jina heals, they will have 7 days to leave our clan and never contact us again."
+Larger panel that spans full width of page. Majhee points her finger imperiously as we see Amadou steely-eyed yet still incredulous, and over his shoulder, Min's eyes as wide as saucers from behind the tapestry. Majhee: "If Jina heals, they will have 7 days to leave our clan and never contact us again."
 
 ### Page 5
 
@@ -152,15 +179,15 @@ Three small square panels in a row that spans the width of the page: We see Min'
 
 Large panel spanning the width of the page: Min turns to see an emergency medical team (EMT) and their floater (vehicle) moving painstakingly slowly into the food court, as people swim out of the way and crowd her view. It looks like someone had a bad reaction to their food. 
 
-On the other side of the EMT and their vehicle, Min catches sight of a tall teen, gangly limbs fully covered in the traditional multi-layers of the BIOSILICA cult, swimming fast, gleefully and deftly, in the far corners of the food court that host no food stands. The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while gracefully using the other to push off a wall there, grab a pipe to turn a corner there. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. We hear a distant mechanical "Wheeeeeeeeee!"
+On the other side of the EMT and their vehicle, Min catches sight of a tall teen, gangly limbs fully covered in the traditional multi-layers of the Biononymous cult, swimming fast, gleefully and deftly, in the far corners of the food court that host no food stands. The teen holds a large cup of drink in one hand, straw disappearing into the folds of their face mask, while gracefully using the other to push off a wall there, grab a pipe to turn a corner there. A cuttlefish mechapet floats nearby and holds on for dear life, with amorphous arms clinging to the teen's neck, shoulders, and head. We hear a distant mechanical "Wheeeeeeeeee!"
 
-Tall rectangular panel: View of Min from far away, POV including the BIOSILICA teen in the foreground, as she stares up at the tall BIOSILICA teen with slight dumbfoundedness, one hand still on the viewing port. The BIOSILICA teen takes a corner a little too fast and tumbles into a dense crowd of people moving out of the way of the emergency medical team.
+Tall rectangular panel: View of Min from far away, POV including the Biononymous teen in the foreground, as she stares up at the tall Biononymous teen with slight dumbfoundedness, one hand still on the viewing port. The Biononymous teen takes a corner a little too fast and tumbles into a dense crowd of people moving out of the way of the emergency medical team.
 
-Tall rectangular panel: The BIOSILICA teen is now being told off by some disgruntled older Orbiters. The teen holds their drink half like a shield, half in supplication, while the front of their face mask rearranges to say "Sorry!"  
+Tall rectangular panel: The Biononymous teen is now being told off by some disgruntled older Orbiters. The teen holds their drink half like a shield, half in supplication, while the front of their face mask rearranges to say "Sorry!"  
 
-2 wide panels, full width of page: The disgruntled older Orbiters begin to disperse. The BIOSILICA teen swims away while looking over their shoulder with "Sorry!" still on their face mask. The cuttlefish mechapet swims backwards while bowing and chirping: "So sorry, so sorry, have a nice day!"
+2 wide panels, full width of page: The disgruntled older Orbiters begin to disperse. The Biononymous teen swims away while looking over their shoulder with "Sorry!" still on their face mask. The cuttlefish mechapet swims backwards while bowing and chirping: "So sorry, so sorry, have a nice day!"
 
-Bottom of the page: Min stares after the BIOSILICA teen, then shakes herself out of her reverie. She pushes off from the tunnel wall in the opposite direction. 
+Bottom of the page: Min stares after the Biononymous teen, then shakes herself out of her reverie. She pushes off from the tunnel wall in the opposite direction. 
 
 ### Page 6
 
@@ -286,18 +313,18 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 
 3 panels show close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
 * Jina and Amadou, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield, marking her as an Expert Crafter, dance triumphantly in shadowy patterns under the clan tatoos. Next to her is a tall, beautiful eSyrup metal bucket, holding ritual clensing water.    
-* Magou, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
+* Majhee, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
 * **MARABA**, Min's cousin and dearest childhood companion, now an Expert Crafter: **INKER** and chosen for the honour of injecting Min's subdermal shield. Next to **MARABA**, in a shallow curving basket woven from eSyrup kevlar, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
 Wide panel, full width: **"DOOOOHM!"** The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
 
-Jina, Amadou, Magou, and **MARABA** all stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
+Jina, Amadou, Majhee, and **MARABA** all stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
 
-**MARABA** picks up the syringe as Jina picks up the bucket of water, leaving Magou and Amadou to hold the hoop with Min inside steady. 
+**MARABA** picks up the syringe as Jina picks up the bucket of water, leaving Majhee and Amadou to hold the hoop with Min inside steady. 
 
 Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then **MARABA** positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
 
-Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Magou, and **MARABA** turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
+Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and **MARABA** turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
 
 ### Page 12
 
@@ -305,13 +332,13 @@ Min's cousin pulls out the syringe and places it back on the basket. Then Jina, 
 
 Min's body convulses as her inner circle sets her upright in the very center again. The crowd chants "Be Free! Be FREE! BE FREE!" as Min finishes integrating the subdermal shield. After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
-View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Magou gently place the hoop back down in its exact previous position, centering Min again. 
+View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Majhee gently place the hoop back down in its exact previous position, centering Min again. 
 
-Magou stands at her original position in the inner circle and shouts: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"
+Majhee stands at her original position in the inner circle and shouts: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"
 
 View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother and clan leader.  
 
-Magou's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
+Majhee's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
 
 Min closes her eyes, tries to calm her breathing, struggling to stand, gasps: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."
 
@@ -343,7 +370,7 @@ Petite Orbiter: "What path, we're standing at the bar!"
 
 During this scene, the panels are focused on Min, who is watching with bored eyes from over her hot cup of tea.
 
-The Orbiter and Earther **GANGIE** continue to bicker in the background, as we see Min turn back to the viewing port. Behind her, a body dressed in the multi-layered clothing of the BIOSILICA cult appear. The body places the softest of finger-tip touch onto Min's back and whispers: *"Mini?"*
+The Orbiter and Earther **GANGIE** continue to bicker in the background, as we see Min turn back to the viewing port. Behind her, a body dressed in the multi-layered clothing of the Biononymous cult appear. The body places the softest of finger-tip touch onto Min's back and whispers: *"Mini?"*
 
 We can see Min's eyes, reflected in the viewing port, grow wide as the reflection shows a vague figure. 
 
@@ -369,21 +396,21 @@ Earther **GANGIE** presses a small grey canister into a body mod port on his nec
 
 With a roar, several other Orbiters and Earther **GANGIES** press similar canisters into their necks, suddenly pump up, and throw themselves at each other. 
 
-Everyone else looks on in serene befuddlement, and we see that even Min and the BIOSILICA teen can't help but stare. 
+Everyone else looks on in serene befuddlement, and we see that even Min and the Biononymous teen can't help but stare. 
 
-Petite Orbiter has also pressed a capsule into the mod port at her neck in an attempt to stay safe in a suddenly escalated situation, but her transformation isn't going smoothly. Her body wobbles and inflates in a rather chaotic manner for a few seconds, then everything deflates and the Petite Orbiter heaves an enormous vomit. People around her scatter away as fast as they can, knocking over more drinks. As she stumbles to get away from the fight, she turns and runs into the tall BIOSILICA teen. Min is on her feet by now.
+Petite Orbiter has also pressed a capsule into the mod port at her neck in an attempt to stay safe in a suddenly escalated situation, but her transformation isn't going smoothly. Her body wobbles and inflates in a rather chaotic manner for a few seconds, then everything deflates and the Petite Orbiter heaves an enormous vomit. People around her scatter away as fast as they can, knocking over more drinks. As she stumbles to get away from the fight, she turns and runs into the tall Biononymous teen. Min is on her feet by now.
 
 Min to Petite Orbiter: "Are you alright?"
 
-Petite Orbiter looks up at Min, pained and desperate, as the BIOSILICA teen steadies her. Then the Petite Orbiter heaves another vomit. 
+Petite Orbiter looks up at Min, pained and desperate, as the Biononymous teen steadies her. Then the Petite Orbiter heaves another vomit. 
 
 ### Page 3
 
-The original Earther **GANGIE** who knocked Petite Orbiter's drink has finally noticed where Petite Orbiter ended up, and shouts: "Hey!" Min looks up to see him rushing over, intent on fighting Petite Orbiter. Min tries to warn the BIOSILICA teen and the Petite Orbiter: "Watch out--!"
+The original Earther **GANGIE** who knocked Petite Orbiter's drink has finally noticed where Petite Orbiter ended up, and shouts: "Hey!" Min looks up to see him rushing over, intent on fighting Petite Orbiter. Min tries to warn the Biononymous teen and the Petite Orbiter: "Watch out--!"
 
-But the Earther **GANGIE** is blind with chemically-amplified fury and approaching too fast. Min steps in front of BIOSILICA teen and Petite Orbiter to grab his punching arm and throws his weight over her hip. He crashes into the cafe booth. 
+But the Earther **GANGIE** is blind with chemically-amplified fury and approaching too fast. Min steps in front of Biononymous teen and Petite Orbiter to grab his punching arm and throws his weight over her hip. He crashes into the cafe booth. 
 
-Min, furious: "Can't you see she's sick?" In the background, BIOSILICA teen is completely holding up Petite Orbiter. 
+Min, furious: "Can't you see she's sick?" In the background, Biononymous teen is completely holding up Petite Orbiter. 
 
 Earther **GANGIE**: "Why do you care?! Whose crew are you on anyway??" He runs a wild eye judgmentally over Min as he tries struggles to stand. His upper lip curls in a cruel smirk: "A mod virgin??" 
 
@@ -393,7 +420,7 @@ Tendril-like arms of a mechapet cuttlefish deftly twist out the grey capsule at 
 
 An inky, blobulous cuttlefish mechapet, floating behind the Earther **GANGIE**'s head, swallows the grey capsule with a happy gurgle. While munching the mechapet happily explains: "I love **WHAMO!**!"
 
-Without the WHAMO! capsule, the Earther **GANGIE** deflates quickly, and starts to shiver; furiously: "That's not fair you **FRACKIN** robot!" Meanwhile, mecha-cleaners have rushed over and start sucking up Petite Orbiter's vomit. She looks almost ill again, watching the cleaning robots seemingly slurp up her vomit, so BIOSILICA teen, their traditional religious eSyrup clothing glowing with the "data-shivers" from Iri's consumption of the WHAMO! capsules, now easily turns Rhee away.
+Without the WHAMO! capsule, the Earther **GANGIE** deflates quickly, and starts to shiver; furiously: "That's not fair you **FRACKIN** robot!" Meanwhile, mecha-cleaners have rushed over and start sucking up Petite Orbiter's vomit. She looks almost ill again, watching the cleaning robots seemingly slurp up her vomit, so Biononymous teen, their traditional religious eSyrup clothing glowing with the "data-shivers" from Iri's consumption of the WHAMO! capsules, now easily turns Rhee away.
 
 PA, frantic, as other Orbiters and Earther **GANGIES** continue to brawl: "Will passengers please note that physical violence will not be tolerated on this shuttle service! Will passengers please note that physical viole--"
 
@@ -407,11 +434,11 @@ We see Min's hand with Petite Orbiter's capsule, holding it out as she says: "He
 
 Mecha-tentacles snag the capsule and bring it back to a delighted cuttlefish mechapet. 
 
-Petite Orbiter, seated, is digging frantically through her bag as BIOSILICA teen holds the bag for her. Petite Orbiter finally produces an anti-nausea pill, then her face falls as she looks around and mumbles, "**FRACK** I have no water..."
+Petite Orbiter, seated, is digging frantically through her bag as Biononymous teen holds the bag for her. Petite Orbiter finally produces an anti-nausea pill, then her face falls as she looks around and mumbles, "**FRACK** I have no water..."
 
 Min cheekily produces 3 hilariously tiny bottles of water in one hand and a stack of fresh napkins with a grin: "Fizzy water nicked from the cafe?" 
 
-Wide panel: the 3 teens, sitting side-by-side in the shuttle seats. Petite Orbiter sits in the middle, anti-nausea pill packaging crumpled in one hand, head tilted back as she guzzles the fizzy water clenched in her other hand, eyes closed, breathing hard. Min holds the stack of napkins while looking out the viewing port in this compartment, legs crossed in her seat and looking rather pleased with herself. The BIOSILICA teen sits with legs folded on top of their seat, cuttlefish mechapet happily munching the rest of Petite Orbiter's capsule as BIOSILICA teen pats it on the head. BIOSILICA teen's clothing once again pulse with glowing patterns, betraying a wireless coupling between the mechapet's internal state and the eSyrup in the BIOSILICA teen's clothing. 
+Wide panel: the 3 teens, sitting side-by-side in the shuttle seats. Petite Orbiter sits in the middle, anti-nausea pill packaging crumpled in one hand, head tilted back as she guzzles the fizzy water clenched in her other hand, eyes closed, breathing hard. Min holds the stack of napkins while looking out the viewing port in this compartment, legs crossed in her seat and looking rather pleased with herself. The Biononymous teen sits with legs folded on top of their seat, cuttlefish mechapet happily munching the rest of Petite Orbiter's capsule as Biononymous teen pats it on the head. Biononymous teen's clothing once again pulse with glowing patterns, betraying a wireless coupling between the mechapet's internal state and the eSyrup in the Biononymous teen's clothing. 
 
 Petite Orbiter finishes the fizzy water and collapses into the shuttle seat. Still looking up at the ceiling, she says a bit begrudgingly: "Thanks. Taking WHAMO! was a terrible idea..."
 
@@ -445,33 +472,33 @@ Rhee: "Oh, yeah probably not..."
 
 The cuttlefish mechapet belches, breaking the awkward silence. Min and Rhee stare, then they both start to laugh. 
 
-Rhee, looking at BIOSILICA teen while reaching a hand towards the mechapet: "May I?"
+Rhee, looking at Biononymous teen while reaching a hand towards the mechapet: "May I?"
 
-BIOSILICA teen nods as the mechapet eagerly stretches out its arms to Rhee: "I'm Iri, I like you!"
+Biononymous teen nods as the mechapet eagerly stretches out its arms to Rhee: "I'm Iri, I like you!"
 
-After a moment of scratches and head pats, Rhee draws her head back from petting Iri and tilts her head curiously at the BIOSILICA teen.
+After a moment of scratches and head pats, Rhee draws her head back from petting Iri and tilts her head curiously at the Biononymous teen.
 
-Rhee: "I've heard of people who dress like you, and have mechapet companions...are you a follower of the Biosilica religion?"
+Rhee: "I've heard of people who dress like you, and have mechapet companions...are you a follower of the Biononymous religion?"
 
-BIOSILICA teen nods their head silently as the front of their mask spells out, "Yes." 
+Biononymous teen nods their head silently as the front of their mask spells out, "Yes." 
 
-Rhee: "I heard that Biosilicans only use their voices for religious rituals and with members of their family...is that true?"
+Rhee: "I heard that Biononymouss only use their voices for religious rituals and with members of their family...is that true?"
 
-BIOSILICA teen nods again. 
+Biononymous teen nods again. 
 
-Rhee: "So are there any deaf Biosilicans?"
+Rhee: "So are there any deaf Biononymous?"
 
-BIOSILICA teen's mask rearranges to spell, "Of course!"
+Biononymous teen's mask rearranges to spell, "Of course!"
 
 Rhee: "Then how...?"
 
 Iri, giggling: "You have more senses than your eyes and ears!"
 
-The BIOSILICA teen extends a hand palm forward to Rhee, a ghost of a smile visible beneath the teen's face mask. After a moment of confusion, Rhee puts her palm against the BIOSILICA teen's hand, who presses against Rhee's hand as Rhee suddenly looks as if she's being lightly electrocuted.
+The Biononymous teen extends a hand palm forward to Rhee, a ghost of a smile visible beneath the teen's face mask. After a moment of confusion, Rhee puts her palm against the Biononymous teen's hand, who presses against Rhee's hand as Rhee suddenly looks as if she's being lightly electrocuted.
 
 Rhee: "Aaah! ...oh wow, that was weird!" Rhee stares at her hand.
 
-Then Rhee looks up at the BIOSILICA teen with a grin: "Pleased to meet you, Asoka of Green Haven Hibernia!" Iri claps two of its arms in celebration and looks enormously pleased. 
+Then Rhee looks up at the Biononymous teen with a grin: "Pleased to meet you, Asoka of Green Haven Hibernia!" Iri claps two of its arms in celebration and looks enormously pleased. 
 
 ### Page 7
 
@@ -507,7 +534,7 @@ We zoom in on Min, carrying a large eSyrup-fabric pack on her back, stuffed to t
 
 We see a sign: *"DOCKING BAY DOORS 0800 - 0820"*
 
-Min peers around docking bay door 0813 and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the guild crests that mark them as 3rd year trainees (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other BIOSILICA teens with mechapets, but neither are the BIOSILICA teen from earlier, and neither have a cuttlefish mechapet. 
+Min peers around docking bay door 0813 and sees a small gathering of other Unassigned students. On a raised platform at the opposite end as the docking bay door, two older Orbiter teens wearing the guild crests that mark them as 3rd year trainees (Zalo and Jheri) stand looking over the group. The other Unassigned students are mostly Earther **GANGIES**, including the one that was in a fight with Rhee earlier; some Earther **NORMIES**; and 2 other Biononymous teens with mechapets, but neither are the Biononymous teen from earlier, and neither have a cuttlefish mechapet. 
 
 Zalo: "Hello, welcome! You must be..." He consults the a diagram of faces and text floating beside him.
 
@@ -619,11 +646,11 @@ PQ, eyes unfathomable: "I saw it...your subdermal shield."
 
 Min clenches her teeth and begins to sweat: "How do you--??"
 
-PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know an old bird named Magou, would ya?" 
+PQ smiles mysteriously: "I recognize it, because an Automata once saved my life with something similar. You wouldn't happen to know an old bird named Majhee, would ya?" 
 
 ## Dream 2: The Night of a Thousand Burning Stars (3 pages)
 
-PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars, when a domino effect of systems malfunctions caused several orbital construction sites to overheat. Everyone on board the Space Barge was wearing protective eSyrup suits, but these suits weren't designed to keep people alive while falling through the atmosphere. PQ was lucky and managed to survive the fall long enough to be discovered by a young Magou, who kept PQ alive by secretly giving PQ a partial injection of raw eSyrup. Magou then helps PQ return to the underground cities. 
+PQ was part of a pioneering group of humans who were amongst the first generation to live in space. Most of these people were **GANGIES** with not many prospects on Earth, who were desperate for a change in their situation. But the first generation of space craft and orbiting structures had many bugs and kinks that still needed to be worked out. PQ was commuting in one of the Space Barges that exploded during the Night of a Thousand Burning Stars, when a domino effect of systems malfunctions caused several orbital construction sites to overheat. Everyone on board the Space Barge was wearing protective eSyrup suits, but these suits weren't designed to keep people alive while falling through the atmosphere. PQ was lucky and managed to survive the fall long enough to be discovered by a young Majhee, who kept PQ alive by secretly giving PQ a partial injection of raw eSyrup. Majhee then helps PQ return to the underground cities. 
 
 ## Chapter 3
 
@@ -771,7 +798,7 @@ PQ: "Hmm...I might be able to get my hands on a medical scanner, from the infirm
 
 Min: "Isn't that incredibly risky?"
 
-PQ: "What Magou did to save my life was far riskier. This is nothin, love. Besides, they're mandated to buy the new model at the end of each year. They have devices spilling out of their ears."
+PQ: "What Majhee did to save my life was far riskier. This is nothin, love. Besides, they're mandated to buy the new model at the end of each year. They have devices spilling out of their ears."
 
 Min: "That reminds me...Rajue said something...INTERESTING...about the Space Asylum Program..."
 
@@ -789,7 +816,7 @@ We see a surgery room labeled "Laser Atomic Manipulator. Wear eye protection at 
 
 Rajue: "...how the hell is a mod virgin going to be of any use to the **CYBERPHILIA** guild??"
 
-Min is in a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark eSyrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year trainees, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biosilican Unassigned students. A **CYBERPHILIA** guild master oversees the class. 
+Min is in a class with the **CYBERPHILIA** guild. The walls of the surgery room are covered in anime fan art. In the center of the surgery room is a large, fluid device made of dark eSyrup metal. It is connected to a hermetically sealed glass chamber, large enough to fit a large human. Jheri is preparing to demonstrate to a group of first-year trainees, which include Rajue and a few other **GANGIES**, mostly Orbiters, and the two Biononymous Unassigned students. A **CYBERPHILIA** guild master oversees the class. 
 
 **CYBERPHILIA** guild master: "Rajue! You will refrain from using such bigoted language!"
 
@@ -873,7 +900,7 @@ Zalo insists that he can build a food and water scanner from old parts, so Min h
 
 ### Page 1
 
-ISE Corps alum Tross, a Biosilican, is visiting from Space University to give a demonstration of space welding tools as MENDELEEVERS trainees play rapid fire rounds of "What if...in space?!", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools.
+ISE Corps alum Tross is visiting from Space University to give a demonstration of space welding tools as MENDELEEVERS trainees play rapid fire rounds of "What if...in space?!", in which a situation is invented in which something breaks out in space, and no internet is available, and very few technologically optimized tools are available, and thus one must macgyver a solution using un-networked tools.
 
 Tross's mechapet, a midnight black, silky, sinewy cat named Inqbi, alternates between curling around Tross's shoulders like an adorable, purring scarf, to gliding through the shadows like a silent, hazel-eyed wave of death and destruction. 
 
@@ -935,7 +962,7 @@ PQ explains that this farming project started 3 years ago, after the first year 
 
 ## Dream 4: A vision of Mother (1 page)
 
-Min dreams of her mother Jina, her grandmother Magou, and all of the women who have been part of her lineage. She also dreams of the raw eSyrup culture in her skin, and its long life ever since it was born, way back before the Water Crisis. Min feels a strange pulsing in her body, it causes her pain and fear. 
+Min dreams of her mother Jina, her grandmother Majhee, and all of the women who have been part of her lineage. She also dreams of the raw eSyrup culture in her skin, and its long life ever since it was born, way back before the Water Crisis. Min feels a strange pulsing in her body, it causes her pain and fear. 
 
 ## Chapter 6
 
