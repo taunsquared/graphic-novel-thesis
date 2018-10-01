@@ -36,7 +36,7 @@ Majhee and her colleagues present a proposal to the United Nations to develop af
 
 ### 2066
 
-The Laboratório Nacional de Biociências e Tecnologia, the publicly-funded research institute where Majhee and her colleagues conduct eSyrup research, is approached by the Space Consortium, who are interested in developing their own products with eSyrup and are looking to collaborate. Based on the recipe for raw eSyrup that Majhee and her colleagues have published online, the Space Consortium believes that eSyrup can also serve as a replacement for rocket fuel. However, unlike all of the other eSyrup products developed so far, the Space Consortium demands that they be allowed to have proprietary access and rights to eSyrup fuel, should they succeed in developing it, for at least 10 years. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
+The Laboratório Nacional de Biociências e Tecnologia, the publicly-funded research institute where Majhee and her colleagues conduct eSyrup research, is approached by the Space Consortium, who are interested in developing their own products with eSyrup and are looking to collaborate. Based on the recipe for raw eSyrup that Majhee and her colleagues have published online, the Space Consortium believes that eSyrup can also serve as a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
 
 ### 2067
 
@@ -52,7 +52,7 @@ The Space Consortium reports successful harvest of crops grown in low gravity, m
 
 ### 2069 
 
-In collaboration with the Laboratório Nacional de Biociências e Tecnologia, the Space Consortium develops eSyrup fuel, which when liquid, can replace rocket fuel, and when voltage-treated to become solid, can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. The Space Consortium begins to mass-manufacture commercial eSyrup products, which they can make tiny and flexible thanks to the properties of eSyrup fuel. 
+In collaboration with the Laboratório Nacional de Biociências e Tecnologia, the Space Consortium develops eSyrup fuel, which when liquid, can replace rocket fuel, and when voltage-treated to become solid, can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. The Space Consortium begins to mass-manufacture commercial eSyrup products, which they can make tiny and flexible thanks to the properties of eSyrup fuel. However, unlike all of the other eSyrup products developed so far, the Space Consortium demands that they be allowed to have proprietary access and rights to eSyrup fuel for at least 10 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
 
 First Space Barge makes its virgin flight to **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. The Space Consortium begins distributing their first excess yield of orbit-grown crops to planetside countries in need.
 
@@ -86,31 +86,29 @@ Orbiter population reaches 8,000.
 
 The Space Consortium establishes the **International Space Barge Corps** in order to sustain interest in space exploration into the next generation, and to find the best and the brightest for their projects. Youth from around the world spend 1-3 years at various planet-side launch stations learning about space travel and communication while helping maintain the space barges that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISB Corps is a year-round pre-university training institution that prepares youth for Space University (which is in turn affiliated with several nations' military and space exploration departments), and it quickly becomes popular amongst the well-educated elite of the world.
 
-The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical eSyrup implants, is founded. The Biononymous believe that eSyrup mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the BioPuritans, Raquel Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create eSyrup clothing that will not only protect wearers from harmful solar radiations, but will also obscure their faces from naked vision and surveillance cameras. The Biononymous movement becomes particularly popular at the UN Green Havens.
+The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical eSyrup implants, is founded. The Biononymous believe that eSyrup mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Raquel Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create eSyrup clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
 
 The first eSyrup liver is successfully implanted in a patient. 
 
-### 2075
-
-The first eSyrup eyeball is successfully implanted in a patient. 
+### 2075 
 
 eSyrup clothing and accessories of all kinds are now widely available, and secondhand stores and charity shops even have eSyrup items on a regular basis. 
 
-Raquel Morei gives birth to João Morei in Harrison, New Jersey, USA.
+The River Niger also dries up, causing panic in Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world.
+
+Raquel Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
 ### 2076
 
 The Space Consortium completes **UPPER ESTATES SPACE ARBORETUM**, their third orbiting arboretum and first space station built entirely in orbit (but still using raw resources refined planetside). 
 
-The Colorado River dries up completely, which throws North America into chaos. The River Niger also dries up, causing panic in Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world.
+The Colorado River dries up completely, which throws North America into chaos. A fire in a large high-rise apartment in an outer slum of San Francisco, ignited during a police raid looking for illegal eSyrup products, escalates into a city-wide blaze, thanks to the severe drought in the area and the huge prevalence of petroleum-based plastic furniture and objects in most homes. The burning city spreads all the way down the Californian coast, which is now one monstrous suburban sprawl, all the way past the border into Mexico. The fire also spreads inland towards the Colorado River Basin area, now parched by drought. 
 
 ### 2077: The Global Water Crisis, or, **THE BURNING OCEANS**
 
-A fire in a large high-rise apartment in an outer slum of San Francisco, ignited during a police raid looking for illegal eSyrup products, escalates into a city-wide blaze, thanks to the severe drought in the area and the huge prevalence of petroleum-based plastic furniture and objects in most homes. The burning city spreads all the way down the Californian coast, which is now one monstrous suburban sprawl, all the way past the border into Mexico. The fire also spreads inland towards the Colorado River Basin area, now parched by drought. 
+The first eSyrup eyeball is successfully implanted in a patient.
 
-In a stroke of terrible serendipity,  
-
-A huge swath of southwestern North America and the Pacific currents are engulfed in flames, triggering off-shore oil drilling wells to combust, destroying ecosystems, and utterly disrupting the water cycle on the planet. Rivers of plastic in the oceans spread the molten petroleum fire around the world, where polluted water ways spread the fire to other continents. Panic leads to military action, riots, and genocide. 
+In a stroke of terrible serendipity, a deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. Panic leads to military action, riots, and an incredible death toll. 
 
 Majhee and her colleagues pack up all of their raw eSyrup cultures and research to save them from looters, and flee with their families inland. They hide amongst friends and family living deep in the Amazon Rainforest. 
 
@@ -132,6 +130,8 @@ Up in orbit, the resources of the space arboretums are stretched to their limit,
 
 The UN declares itself as the World Government. With assistance from the Space Consortium, the World Government commandeers the former UN Green Havens that have survived The Global Water Crisis, which are now the only source of planetside agriculture. They force the people who have either remained in the Green Havens or have sought refuge in the Green Havens to farm for the World Government's agenda of meeting humanity's food needs, both planetside and in orbit. 
 
+The **International Space Barge** Corps becomes a required "civil service" for all humans, but many Orbiters find loophoules out of doing their required service (often via medical reasons). ISB Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
+
 The Space Barge fleet resumes its daily trips between planetside launch stations and the space arboretums. 
 
 Upon hearing the news of the World Government, several members of Majhee's collective, including Majhee, co-write The Manifesto of the Automata. They pledge to remain free from oppressive rule by the World Government and to keep their eSyrup research a secret from the World Government. 
@@ -144,13 +144,13 @@ Activist groups around the world protest the World Government's prioritisation o
 
 With the orbit-based strategic advantage and military-grade firepower of the Space Consortium backing them, the World Government establishes absolute political power over the remaining planetside humans. 
 
-Historians later come to call the years between 2076 and 2081 "The Global Water Crisis" and **THE GREAT SEPARATION**. Those left on Earth later came to call these years **THE BURNING OCEANS** and **"THE DESERTION"**. 
+Historians later come to call the years between 2076 and 2081 "The Global Water Crisis" and **THE GREAT SEPARATION**. Those left on Earth later came to call these years **THE BURNING OCEANS** and **"THE SEVERING"**. 
 
 ### 2082 
 
-The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** to host the re-establishment of Space University. The construction project is huge and fully employs the refugee population on the 2 space arboretums, easing the strain on the space arboretums. However, even more laborers are needed for the construction, so nearly 200,000 Earthers from the underground cities are conscripted to work up in orbit. 
+The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and fully employs the refugee population on the 2 space arboretums, completely easing the strain on the space arboretums. However, even more laborers are needed for the construction, so nearly 200,000 Earthers from the ISB Corps are assigned to work up in orbit. 
 
-Amadou's father is part of the first cohort of Earthers conscripted to go into orbit and work on the construction of the **SPACE UNIVERSITY STATION**. 
+Amadou's father is part of the first cohort of Earthers conscripted to go into orbit and work on the construction of **SPACE UNIVERSITY STATION** and **GEMINI ARBORETUM**. 
 
 During this construction project, the Space Consortium organises incoming laborers according to categories of skilled and unskilled labour. Based on these distinctions, communities and loyalties grow and develop. 
 
@@ -165,6 +165,8 @@ Living conditions on the **SPACE UNIVERSITY STATION** construction site are not 
 Amadou's father dies on the **SPACE UNIVERSITY STATION** construction site - his safety harness, being old and overused, malfunctions and he becomes detached. While floating away slowly from the construction site, he is fatally hit by a large piece of space debris. He is one of approximately 1,500 workers who die during this year of construction due to work accidents. 
 
 Medical services still aren't great on the construction site, and fast-spreading flu-like disease runs through the population of unskilled laborers, who live in the worst conditions. A catastrophic 9,800 people die that year from health-related complications. 
+
+A great many protests planetside have become violent during this year. More and more people try to run away from work conscription, and most of them are hunted down. More and more people begin to suspect malicious tracking and surveillance through body mods, and . 
 
 The Space Welders guild, the first independently organised advocacy group on behalf of space laborers, registers itself under World Government law. They lobby for better working and living conditions on the **SPACE UNIVERSITY STATION** construction site. 
 
