@@ -74,11 +74,11 @@ Majhee removes her goggles and steps into the decontamination chamber.
 
 ### Page 3
 
-Majhee stands in her office, seemingly floating in the center of a giant transparent human eye made of light. The light model of the eye is exquisitely detailed, and a section of the retinal layer is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
+Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
 Off panel: "Majhee, you can't *scoop* the *Space Consortium*..."
 
-Majhee: "For the last time, it's not scooping if I'm making everything freely accessible!"
+Majhee: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation: "You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."
 
@@ -88,15 +88,15 @@ Marcia: "But you saw what they did with after our collaboration to develop eSyru
 
 ### Page 4
 
-Majhee angrily turns off the giant eye of light with an impatient gesture as she turns to Marcia, furious: "*You* pushed that collaboration through, against my numerous objections!" 
+Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious: "*You* pushed that collaboration through, against my numerous objections!" 
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger: "I know, I *know*, that was definitely my mistake, and I'm *sorry*."
 
-Majhee interrupts: "And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic views*?"
+Majhee interrupts: "And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"
 
 Marcia sighs, defeated: "Just...be careful." 
 
-Marcia looks over her shoulder, then says, low and careful: "There are rumors that the Space Consortium is *weaponizing eSyrup*. I know I sound like a conspiracy theorist, but..."
+Marcia looks over her shoulder, then says, low and careful: "There are rumors that the Space Consortium is trying to *weaponize eSyrup*. I know I sound like a conspiracy theorist, but..."
 
 Majhee, incredulous: "They wouldn't dare--"
 
@@ -118,11 +118,11 @@ Beatriz, kindly: "We also remember that your father had a liver transplant last 
 
 Felix, covering his face with his hands, furious at the tears that won't stop streaming down his face: "SCC (Squamous cell carcinoma) is still one of the most treatable skin cancers, even for a second diagnosis. He might be fine." 
 
-Felix now looks up, straight at Majhee, eyes full of determined fire behind the wall of tears: "I want to finish the eSyrup eye project, *before* Space Consortium can get their filthy hands on another patent." 
+Felix now looks up, straight at Majhee, eyes full of determined fire behind the wall of tears: "I want to finish the eSyrup biofilm project, *before* Space Consortium can get their filthy hands on another patent." 
 
 Nova: "I'm sure we could manage without you--"
 
-Kai, arms folded, looking down at her lap with hard eyes: "We can't finish this project in time without Felix. My hands hurt too much now. We all know that the splicing technique is more art than algorithm, and Felix is our *best*."
+Kai, arms folded, looking down at her lap with hard eyes: "We can't finish this project in time without Felix. My hands hurt too much now. We all know that splicing is more art than algorithm, and Felix is our *best*."
 
 Kai looks over at Nova: "And you've already been pushing yourself to the limit. I know you've been sleeping under your desk for the last week." Nova also bursts into tears, and Kai's face falls, looking terribly apologetic but unwilling to admit it. 
 
@@ -134,7 +134,7 @@ Majhee: "I won't..."
 
 Majhee: "I can't...*ask* anyone to stay. We all know the dangers of completing this project, of working in this building right now. We all have family to protect."
 
-Majhee: "But I also...personally...can't give up now. A cheap replacement eye implant is desperately necessary, and if Space Consortium patents it, many will suffer because they can't pay Space Consortium's price."
+Majhee: "But I also...personally...can't give up now. A stable splice of eSyrup with bacteria is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."
 
 Majhee: "So let me be clear. You are all free to do as you wish. If you choose to leave, I will make sure you can live comfortably for at least the next year."
 
@@ -142,9 +142,9 @@ Majhee: "If you stay...I will protect you and your families in any way that I ca
 
 ### Page 7
 
-**"November 20, 2076: Vermont, USA"**
+**"November 20, 2076: Massachusetts, USA"**
 
-We see rolling countryside behind a low row of warehouses, labeled "Morei Textiles". 
+We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
 "Raquel, the folks from the World Health Organization are here." 
 
@@ -158,7 +158,7 @@ Raquel smiles and yells as she waves towards her office door, just next to the e
 
 Raquel: "Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo." 
 
-Dr. Kauffmann: "If you would only get an info-sphere mod..."
+Dr. Kauffmann: "You know, you'd get these updates faster if you'd just get an info-sphere mod..."
 
 Raquel: "Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."
 
@@ -172,7 +172,7 @@ Raquel: "Really? From where?"
 
 ### Page 9
 
-Dr. Kauffmann: "Didn't you hear? A police raid in L.A. started a huge fire that's spread halfway up the coast of California and is now being carried over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared." 
+Dr. Kauffmann: "Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California and is now being carried over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared." 
 
 Raquel: "What?? How many dead??"
 
@@ -180,7 +180,7 @@ Dr. Kauffmann: "Unfortunately we haven't had a chance to count."
 
 Raquel: "How does a police raid start a state-wide fire??"
 
-Dr. Kauffmann: "It's all the plastic furniture - they're basically solid petroleum, turns a misplaced candle into a fireball in just minutes. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't know...do you know anyone over there?"
+Dr. Kauffmann: "It's all the plastic furniture - they're basically solid petroleum, turns a misplaced candle into a fireball in just minutes. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"
 
 Raquel: "Yes, I...I'm sorry I need to make a call..."
 
@@ -192,11 +192,11 @@ Raquel calls her Biononymous contact at Green Haven Tahoe to confirm that the po
 
 ### Page 11
 
-Raquel and her Biononymous contact confirm that members of their cult were being tracked via body mods. 
+Raquel and her Biononymous contact confirm that their collaborators were being tracked via body mods. They decide it is time to register as a religious movement, in order to dodge surveillance. 
 
 ### Page 12
 
-Raquel promises to perfect the mechapet, which can detect tracking frequencies and provide greater protection against malicious body mod hacking and surveillance. 
+Raquel has heard that Majhee and her colleagues in São Paulo have successfully created the first eSyrup biofilm, or an aggregate community of prokaryotes encased in slime. With this knowledge securely in the public domain, Raquel and her contact decide that to perfect the eSyrup mechapet, an idea they've been toying with for a while. This synthetic creature would become companions to every Biononymous, and would be able to provide greater protection against malicious tracking and surveillance while also providing all of the conveniences of body mods. 
 
 ## Chapter 2
 
@@ -204,15 +204,13 @@ The day the Global Water Crisis started, from Majhee and Raquel's perspectives.
 
 ### 2077: The Global Water Crisis, or, **THE BURNING OCEANS**
 
-The first eSyrup eyeball is successfully implanted in a patient.
+A deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. The enormous cloud of hydrogen flouride is picked up by global wind currents and spreads throughout the atmosphere. Panic leads to military action, riots, and an incredible death toll. 
 
-A deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. Panic leads to military action, riots, and an incredible death toll. 
-
-Majhee and her colleagues pack up all of their raw eSyrup cultures and research to save them from looters, and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
+Meanwhile, in São Paulo, Majhee and her colleagues successfully splice eSyrup with eukaryotic cell cultures for the first time, creating a rat-like creature named Nimh. Nimh lives 11 days. When they hear news of the deep-sea silica harvesting rig disaster, Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
 Raquel flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride
 
-Amadou and his parents flee to Green Haven Santarém, in the Pará province of Brazil. 
+Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
 
 Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. 
 
@@ -224,11 +222,19 @@ Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee 
 
 Jump ahead to 2119, Gemini Arboretum, home station of the ISE Corps. It is the day of Qualification Exams, when all first year trainees must take a "basic competencies" exam in order to advance to placement within a guild and begin their apprenticeship. However, Min, Asoka, and Rhee have other things on their minds. They have discovered that someone is transplanting crops around the Gemini station, and some of the new plants that are showing up in the Gemini Arboretum seem to be genetically modified to hijack human body processes to induce the production of nano-biotrackers. Min, Asoka, and Rhee have narrowed their list of suspects and are in hot pursuit of a shadowy figure through the interstitial depths of the Gemini station. 
 
-Flashbacks establish how Min gets to Gemini station, how Min and Asoka meet, how they meet Rhee, and some of the daily mechanics of studying at the ISE Corps, especially as a scholarship student. 
+Flashbacks establish how Min gets to Gemini station, how Min and Asoka meet, how they meet Rhee, and some of the daily mechanics of studying at the ISE Corps, especially as a scholarship student. Min and Asoka carry with them the legacy of their grandmothers, who both taught their descendents to be wary of Space Consortium and to fight the seduction of convenience that Space Consortium uses to pacify discontent. 
+
+Asoka's mission on the Gemini, as declared to the Biononymous, is to learn more about the splicing process that is being used to turn crop plants into vectors for secretly injecting nano-biotrackers into humans without their consent or even awareness. If possible, Asoka will also try to understand who in the World Gov and Space Consortium are masterminding this plot. 
+
+Min's mission on the Gemini, as declared to the Automata, is to discover just how advanced the proprietary eSyrup research of the Space Consortium has become. As the bearer of a subdermal shield, Min is a living embodiment of the pinnacle of Automata eSyrup research. 
+
+While chasing the figure through the dark corridors, Min reflects on the choice she must make in order to continue living and studying on Gemini Station - which guild to declare an interest in? Her secret dream is to be a space swimmer, but space swimming is considered too difficult for Earthers, and Orbiters take great pride in their dominance at space swimming, to the point of severe prejudice in the apprenticeship process. Min has also done well enough in several other topics of study that she already has a number of offers from 3rd year trainees to recommend her to their guild. She has no such connection to anyone in the space swimmer guild, and Min wonders if she should go for their qual exam anyway. First-year trainees can take qual exams for up to 3 guilds, and their choices are usually determined by offers of recommendation by 3rd year trainees. 
 
 ## Chapter 7
 
-Min, Asoka, and Rhee confront the culprit, who turns out to be a misled fellow student (Rajue?) who was bribed with insane amounts of money to change the plants in the arboretum. But this student has been keeping the uprooted plants in a secret garden within the interstitial spaces of Gemini station. 
+Min, Asoka, and Rhee catch and confront the culprit, who turns out to be Tross, an ISE Corps alum and now a Journeyhume Space Swimmer at Space University. Turns out thought that he's been trying to replace the arboretum plants with better food crop plants, because his analysis showed that the students on Gemini were being under-nourished. Tross reveals a secret gardening project, hosted within the interstitial spaces of the Gemini station and supported by the chief of service crews, PQ. Min, Asoka, and Rhee reveal their mission and discuss with Tross the possibility that his secret gardening project has been infiltrated by a mole, and his efforts are now being hijacked to create ways of more closely surveilling ISE Corps students without legal or ethical oversight. 
+
+In the end, they all join forces and agree to work together to untangle this greater mystery. Tross offers to give Min a recommendation to the space swimmer guild. PQ dubs them the Vigilante Intergalactic Roustabout Scholars. 
 
 # old structure
 

@@ -22,7 +22,7 @@ Space Consortium successfully launches its first reusable space shuttle designed
 
 ### 2063 
 
-Majhee and her colleagues successfully splice eSyrup with eukaryotic cell cultures for the first time, creating a rat-like creature named Nimh. Nimh lives 11 days. 
+Majhee and her colleagues successfully splice eSyrup with a series of inorganic materials, including steel, aluminum, copper, brass, and glass.
 
 ### 2064
 
@@ -36,7 +36,9 @@ Majhee and her colleagues present a proposal to the United Nations to develop af
 
 ### 2066
 
-The Laboratório Nacional de Biociências e Tecnologia, the publicly-funded research institute where Majhee and her colleagues conduct eSyrup research, is approached by the Space Consortium, who are interested in developing their own products with eSyrup and are looking to collaborate. Based on the recipe for raw eSyrup that Majhee and her colleagues have published online, the Space Consortium believes that eSyrup can also serve as a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
+Majhee and her colleagues successfully splice eSyrup with non-living organic materials such as wool, cotton, polyester, and rubber.
+
+While trying to splice eSyrup with textiles, Majhee and her colleagues discover that eSyrup can provide alternative means for long-distance, wireless communication.  
 
 ### 2067
 
@@ -44,15 +46,13 @@ Space Consortium's first Orbital arboretum, **THE PEGGY WHITSON MEMORIAL SPACE A
 
 Majhee and her colleagues begin distributing eSyrup air and water filters via the World Health Organization and Doctor's Without Borders to countries in need.
 
-### 2068
+### 2068 
 
-While trying to splice eSyrup with textiles, Majhee and her colleagues discover that eSyrup can provide alternative means for long-distance, wireless communication.   
+The Laboratório Nacional de Biociências e Tecnologia, the publicly-funded research institute where Majhee and her colleagues conduct eSyrup research, is approached by the Space Consortium, who are interested in developing their own products with eSyrup and are looking to collaborate. Based on the recipe for raw eSyrup that Majhee and her colleagues have published online, the Space Consortium believes that eSyrup can also serve as a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
 
 The Space Consortium reports successful harvest of crops grown in low gravity, more than enough to feed the crew aboard **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. 
 
 ### 2069 
-
-In collaboration with the Laboratório Nacional de Biociências e Tecnologia, the Space Consortium develops eSyrup fuel, which when liquid, can replace rocket fuel, and when voltage-treated to become solid, can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. The Space Consortium begins to mass-manufacture commercial eSyrup products, which they can make tiny and flexible thanks to the properties of eSyrup fuel. However, unlike all of the other eSyrup products developed so far, the Space Consortium demands that they be allowed to have proprietary access and rights to eSyrup fuel for at least 10 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
 
 First Space Barge makes its virgin flight to **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. The Space Consortium begins distributing their first excess yield of orbit-grown crops to planetside countries in need.
 
@@ -64,13 +64,17 @@ Majhee and her colleagues successfully design a manufacturing process that splic
 
 First Orbital home pod is successfully launched from the **PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. Within months, nearly 500 home pods are successfully launched, with residents. 
 
-The first commercial subdermal eSyrup products become available in global markets. 
+The first commercial subdermal eSyrup products become available in global markets. Many of these are invented and patented by the Space Consortium, drawing harsh criticism. 
 
-### 2071 
-
-Space Consortium's second Orbital arboretum, **THE LOWER ESTATES SPACE ARBORETUM**, is completed. Orbiter population is now 1,000. Space Consortium immediately begins construction on a third orbiting arboretum, experimenting with orbit-based construction methods.  
+### 2071  
 
 Amadou is born in Monte Alegre, Pará, Brazil.
+
+### 2072
+
+In collaboration with the Laboratório Nacional de Biociências e Tecnologia, the Space Consortium develops eSyrup fuel, which when liquid, can replace rocket fuel, and when voltage-treated to become solid, can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. The Space Consortium begins to mass-manufacture commercial eSyrup products, which they can make tiny and flexible thanks to the properties of eSyrup fuel. However, unlike all of the other eSyrup products developed so far, the Space Consortium demands that they be allowed to have proprietary access and rights to eSyrup fuel for at least 10 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
+
+Space Consortium's second Orbital arboretum, **THE LOWER ESTATES SPACE ARBORETUM**, is completed. Orbiter population is now 1,000. Space Consortium immediately begins construction on a third orbiting arboretum, experimenting with orbit-based construction methods. 
 
 ### 2073  
 
@@ -88,13 +92,11 @@ The Space Consortium establishes the **International Space Barge Corps** in orde
 
 The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical eSyrup implants, is founded. The Biononymous believe that eSyrup mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Raquel Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create eSyrup clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
 
-The first eSyrup liver is successfully implanted in a patient. 
-
 ### 2075 
 
 eSyrup clothing and accessories of all kinds are now widely available, and secondhand stores and charity shops even have eSyrup items on a regular basis. 
 
-The River Niger also dries up, causing panic in Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world.
+The River Niger also dries up, causing panic in Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world. 
 
 Raquel Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
@@ -102,11 +104,13 @@ Raquel Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
 The Space Consortium completes **UPPER ESTATES SPACE ARBORETUM**, their third orbiting arboretum and first space station built entirely in orbit (but still using raw resources refined planetside). 
 
+Majhee and her colleagues successfully create the first eSyrup biofilm, or an aggregate community of prokaryotes encased in slime. 
+
 The Colorado River dries up completely, which throws North America into chaos. A fire in a large high-rise apartment in an outer slum of San Francisco, ignited during a police raid looking for illegal eSyrup products, escalates into a city-wide blaze, thanks to the severe drought in the area and the huge prevalence of petroleum-based plastic furniture and objects in most homes. The burning city spreads all the way down the Californian coast, which is now one monstrous suburban sprawl, all the way past the border into Mexico. The fire also spreads inland towards the Colorado River Basin area, now parched by drought. 
 
 ### 2077: The Global Water Crisis, or, **THE BURNING OCEANS**
 
-The first eSyrup eyeball is successfully implanted in a patient.
+Majhee and her colleagues successfully splice eSyrup with eukaryotic cell cultures for the first time, creating a rat-like creature named Nimh. Nimh lives 11 days. 
 
 In a stroke of terrible serendipity, a deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. Panic leads to military action, riots, and an incredible death toll. 
 
@@ -198,7 +202,7 @@ Jina, who is now 21 and has been helping Majhee research eSyrup, discovers how t
 
 ### 2097
 
-Construction begins on the Gemini Youth Station, which will serve as home to the **International Space Exploration Corps**. Similar to the International Space Barge Corps, the ISE Corps establishes a pre-university training program for Orbiter youth, meant to prepare them for future work in space exploration and/or further education at Space University. 
+Construction begins to convert Gemini Arboretum into the Gemini Youth Station, which will serve as home to the **International Space Exploration Corps**. Similar to the International Space Barge Corps, the ISE Corps establishes a pre-university training program for Orbiter youth, meant to prepare them for future work in space exploration and/or further education at Space University. 
 
 ### 2098
 
@@ -247,7 +251,7 @@ After 2 years of hiding in the Northern Underground Cities, trying to evade merc
 
 ### 2116
 
-Climate change and wars on Earth are still creating refugee populations everywhere on Earth. The Space Consortium convinces the UN to implement a refugee re-education process that gives Earther refugees the option of joining the ISE Corps as scholarship students, in which their application and tuition fees are waived in exchange for working on the service crews at Gemini Youth Station during their apprentice-level training. This program, called the **Space Asylum Program**, is seen as a politically suave move and great PR. The Space Asylum Program is advertised as an effort to increase the diversity of the ISE Corps student body and increase the appeal of the ISE Corps mission as a global endeavor. Critics see it as just another flavour of exploitation and social oppression.
+Climate change and wars on Earth are still creating refugee populations everywhere on Earth. The Space Consortium convinces the World Government to implement a refugee re-education process that gives Earther refugees the option of joining the ISE Corps as scholarship students, in which their application and tuition fees are waived in exchange for working on the Gemini Arboretum farm and on service crews at Gemini Youth Station during their apprentice-level training. This program, called the **Space Asylum Program**, is seen as a politically suave move and great PR. The Space Asylum Program is advertised as an effort to increase the diversity of the ISE Corps student body and increase the appeal of the ISE Corps mission as a global endeavor. Critics see it as just another flavour of exploitation and social oppression.
 
 ### 2117
 
