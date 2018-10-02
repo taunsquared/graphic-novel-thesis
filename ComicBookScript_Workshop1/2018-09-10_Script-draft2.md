@@ -162,7 +162,7 @@ Majhee: "If you stay...I will protect you and your families in any way that I ca
 
 ### Page 7
 
-**"November 20, 2076: Massachusetts, USA"**
+**"September 21, 2076: Massachusetts, USA"**
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
@@ -234,21 +234,21 @@ Iúna ponders for a moment, her face furrowed with grief and concentration.
 
 Tahoe: "Wa-wait, seriously?"
 
-Iúna: "Yes. We need all of the protections we can get right now, and into the future."
+Iúna: "Yes. We need all of the protections we can get right now."
 
-Tahoe: "You've been thinking about what Pigsah said at our TeleSensing?"
+Tahoe: "You've been thinking about what Pigsah said at our last TeleSensing?"
 
 Iúna: "Pigsah was right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children *won't* have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod."
 
-Tahoe: "So you're saying...it's not just about fighting surveillance."*
+Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a cult."*
 
 ### Page 12
 
-*Iúna: "It is and it isn't. If we want defend our right to live without constant surveillance, we can't just empower our individual decisions and not think about the rest of society. If we don't make it a religious tenent, in just 10 years our social structures will make it *impossible* to live without constant surveillance."
+*Iúna: "I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance."
 
 Tahoe: "But we still haven't figured out our own solutions to the advantages of body mods...instantaneous long-distance communication, ways to aid our memories and gain perspective on our behaviour..."
 
-Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil just posted online?"
+Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?"
 
 Tahoe: "What?"
 
@@ -264,7 +264,13 @@ Iúna: "*It's possible now.* If they can splice eSyrup with a microcolony of bac
 
 Iúna: "...then neither Space Consortium nor any national government can interfere!"*
 
-## Chapter 2
+## Chapter 2: Where Thunder Goes When It Dies
+
+### Page 1
+
+**"October 12, 2077: Antarctic Convergence"**
+
+
 
 The day the Global Water Crisis started, from Majhee and Iúna's perspectives. 
 

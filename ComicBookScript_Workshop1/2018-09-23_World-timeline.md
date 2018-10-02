@@ -110,17 +110,17 @@ The Colorado River dries up completely, which throws North America into chaos. A
 
 ### 2077: The Global Water Crisis, or, **THE BURNING OCEANS**
 
-Majhee and her colleagues successfully splice eSyrup with eukaryotic cell cultures for the first time, creating a rat-like creature named Nimh. Nimh lives 11 days. 
+A deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. The enormous cloud of hydrogen flouride is picked up by global wind currents and spreads throughout the atmosphere. Panic leads to military action, riots, and an incredible death toll. 
 
-In a stroke of terrible serendipity, a deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. Panic leads to military action, riots, and an incredible death toll. 
+Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the , Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
-Majhee and her colleagues pack up all of their raw eSyrup cultures and research to save them from looters, and flee with their families inland. They hide amongst friends and family living deep in the Amazon Rainforest. 
+Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride
 
-Amadou and his parents flee to Green Haven Santarém, in the Pará province of Brazil. 
+Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
 
 Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. 
 
-Amid the chaos, all students at ISB Corps schools around the world are evacuated to the space arboretums, and nearly 60,000 other planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
+Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
 ### 2078
 
