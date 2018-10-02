@@ -4,7 +4,7 @@
 
 *"Dialogue in italics are thoughts of characters."*
 
-**"Dialogue in bold is narrative text or sound effects, not spoken by any character."**
+**"Dialogue in bold is without an associated character is narrative text or sound effects, not spoken by any character."**
 
 ## Dream 1: Nostalgia
 
@@ -28,7 +28,7 @@
 
 "FREE."
 
-## Chapter 1
+## Chapter 1: Calm Before the Storm
 
 ### Page 1
 
@@ -56,19 +56,19 @@ A lot of the news is about the new space arboretum, but most of the individual i
 
 ### Page 2
 
-We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Biotecnologias". The front of the research facility is teeming with protesters, who hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!"
+We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". The front of the research facility is teeming with protesters, who hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!"
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. We see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-Receptionist: "Dr. Suh! How bad is it out there?"
+**Receptionist: "Dr. Suh! How bad is it out there?"**
 
 Majhee takes off her hood and googles and we see her face - pretty and youthful for her 41 years, if it weren't for the lines of worry and grim determination. Majhee is ethnically Korean, with lightly tanned porcelain skin and small shapely eyes on a round face. She shakes out her hair, cropped short in a bowl pixie cut. Though she is clearly burdened with many troubles, she holds herself tall and regal. She then begins taking off her eSyrup hazmat suit.  
 
-Majhee: "Still crowded."
+**Majhee: "Still crowded."
 
 Receptionist: "Idiots. Don't they understand we're trying to help?"
 
-Majhee: "Well, they're hungry. Can't think when you're hungry."
+Majhee: "Well, they're hungry. Can't think when you're hungry."**
 
 Majhee removes her goggles and steps into the decontamination chamber.
 
@@ -76,69 +76,89 @@ Majhee removes her goggles and steps into the decontamination chamber.
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
-Off panel: "Majhee, you can't *scoop* the *Space Consortium*..."
+**Off panel: "Majhee, you can't *scoop* the *Space Consortium*..."
 
-Majhee: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"
+Majhee: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"**
 
-We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation: "You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."
+We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
+
+**Marcia: "You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."
 
 Majhee: "Exactly."
 
-Marcia: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"
+Marcia: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"**
 
 ### Page 4
 
-Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious: "*You* pushed that collaboration through, against my numerous objections!" 
+Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
-Marcia, immediately apologetic, hands up to ward off Majhee's anger: "I know, I *know*, that was definitely my mistake, and I'm *sorry*."
+**Majhee: "*You* pushed that collaboration through, against my numerous objections!"** 
+
+Marcia, immediately apologetic, hands up to ward off Majhee's anger
+
+**Marcia: "I know, I *know*, that was definitely my mistake, and I'm *sorry*."
 
 Majhee interrupts: "And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"
 
-Marcia sighs, defeated: "Just...be careful." 
+Marcia, defeated: "*sigh*. Just...be careful."** 
 
-Marcia looks over her shoulder, then says, low and careful: "There are rumors that the Space Consortium is trying to *weaponize eSyrup*. I know I sound like a conspiracy theorist, but..."
+Marcia looks over her shoulder, then turns back to Majhee.
 
-Majhee, incredulous: "They wouldn't dare--"
+**Marcia, low and careful: "There are rumors that the Space Consortium is trying to *weaponize eSyrup*. I know I sound like a conspiracy theorist, but..."
 
-Felix Barbosa, a younger scientist in Majhee's lab, appears at the doorway, breathless, in tears: "Majhee, my father-- President Netto!"
+Majhee, incredulous: "They wouldn't dare--"**
 
-Majhee: "I'm sorry Marcia, we'll have to continue this another time."
+Felix Barbosa, a younger scientist in Majhee's lab, appears at the doorway, breathless and in tears.
+
+**Felix: "Majhee, my father-- President Netto!"
+
+Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
 
 ### Page 5
 
 Majhee, Felix, and other members of Majhee's research group sit in a meeting room in an upper floor of the research institute. One wall is a floor-to-ceiling window, showing the dusty, polluted sky-line of São Paulo. The sun sits in a hazy sky, just past the midday zenith. 
 
-Majhee: "So. Felix's father has also been diagnosed again."
+**Majhee: "So. Felix's father has also been diagnosed again."**
 
 The circle of researchers: **Felix Silva**, a pale young man born and raised in São Paulo by Portuguese parents, currently a graduate student in the group, his shoulders hunched with fear and sadness, his face streaked with tears; **Kai Oliveira**, an older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Nova Jatobá**, another young graduate student, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Vec Barbosa**, a large, portly man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face kind and sad behind a rather bushy yet neatly-trimmed beard. 
 
-Vec, to Felix: "Nova and I have already contacted your father's medical team. He's given us permission to add his diagnosis to our database of repeat skin cancer patients. This will be a huge help towards improving our eSyrup textile manufacturing process, but..." 
+**Vec, to Felix: "Nova and I have already contacted your father's medical team. He's given us permission to add his diagnosis to our database of repeat skin cancer patients. This will be a huge help towards improving our eSyrup textile manufacturing process, but..." 
 
-Beatriz, kindly: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."
+Beatriz, kindly: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
 
-Felix, covering his face with his hands, furious at the tears that won't stop streaming down his face: "SCC (Squamous cell carcinoma) is still one of the most treatable skin cancers, even for a second diagnosis. He might be fine." 
+Felix, covering his face with his hands, furious at the tears that won't stop streaming down his face
 
-Felix now looks up, straight at Majhee, eyes full of determined fire behind the wall of tears: "I want to finish the eSyrup biofilm project, *before* Space Consortium can get their filthy hands on another patent." 
+**Felix: "SCC *(Squamous cell carcinoma)* is still one of the most treatable skin cancers, even for a second diagnosis. He might be fine." 
 
-Nova: "I'm sure we could manage without you--"
+Felix now looks up, straight at Majhee, eyes full of determination behind the tears.
 
-Kai, arms folded, looking down at her lap with hard eyes: "We can't finish this project in time without Felix. My hands hurt too much now. We all know that splicing is more art than algorithm, and Felix is our *best*."
+**Felix: "I want to finish the eSyrup biofilm project, *before* Space Consortium can get their filthy hands on another patent." 
 
-Kai looks over at Nova: "And you've already been pushing yourself to the limit. I know you've been sleeping under your desk for the last week." Nova also bursts into tears, and Kai's face falls, looking terribly apologetic but unwilling to admit it. 
+Nova: "I'm sure we could manage without you--"**
+
+Kai, arms folded, looking down at her lap with hard eyes.
+
+**Kai: "We can't finish this project in time without Felix. We all know that splicing is more art than algorithm, and ever since my hands starting hurting too much, Felix is our *best*."**
+
+Kai looks over at Nova.
+
+**Kai: "And you've already been pushing yourself to the limit. I know you've been sleeping under your desk for the last week."** 
+
+Nova also bursts into tears, and Kai's face falls, looking terribly apologetic but unwilling to admit it. 
 
 ### Page 6
 
 We see the circle of researchers sitting in silence, everyone unable to break the silence, everyone contemplating the difficulties of the current situation. 
 
-Majhee: "I won't..."
+**Majhee: "I won't..."
 
 Majhee: "I can't...*ask* anyone to stay. We all know the dangers of completing this project, of working in this building right now. We all have family to protect."
 
-Majhee: "But I also...personally...can't give up now. A stable splice of eSyrup with bacteria is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."
+Majhee: "But I also...personally...can't give up now. A stable splice of eSyrup-bacteria is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."
 
 Majhee: "So let me be clear. You are all free to do as you wish. If you choose to leave, I will make sure you can live comfortably for at least the next year."
 
-Majhee: "If you stay...I will protect you and your families in any way that I can. And I will forever owe you a debt of gratitude."
+Majhee: "If you stay...I will protect you and your families in any way that I can. And I will forever owe you a debt of gratitude."**
 
 ### Page 7
 
@@ -146,69 +166,115 @@ Majhee: "If you stay...I will protect you and your families in any way that I ca
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
-"Raquel, the folks from the World Health Organization are here." 
+**Off-panel, secretary: "Iúna, the folks from the World Health Organization are here." 
 
-"I'll be with them in a moment."
+Off-panel, Iúna: "I'll be with them in a moment."**
 
-We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Raquel Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy black hair pulled up in a practical bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
+We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy black hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
 
-Raquel smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Raquel Morei, CEO of Morei Textiles": "HELLO! SHALL WE STEP INTO MY OFFICE?" 
+Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles": "HELLO! SHALL WE STEP INTO MY OFFICE?" 
 
 ### Page 8
 
-Raquel: "Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo." 
+**Iúna: "Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo." 
 
 Dr. Kauffmann: "You know, you'd get these updates faster if you'd just get an info-sphere mod..."
 
-Raquel: "Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."
+Iúna: "Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."
 
-Dr. Kauffmann: "Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat Morei Textiles when it comes to sheer eSyrup fabrics with incredibly high MERV filter efficiency ratings. I've got your organzas in every window of my house."
+Dr. Kauffmann: "Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your MERV filter efficiency ratings, not with sheer fabrics at least. I've got your organzas in every window of my house."
 
-Raquel: "Just doing what we can. What was the emergency conference about?"
+Iúna: "Just doing what we can. What was the emergency conference about?"
 
 Dr. Kauffmann: "They're preparing themselves for a huge wave of refugees."
 
-Raquel: "Really? From where?"
+Iúna: "Really? From where?"**
+
+Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that when Iúna stood inside of, placed the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
 
 ### Page 9
 
-Dr. Kauffmann: "Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California and is now being carried over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared." 
+**Dr. Kauffmann: "Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared." 
 
-Raquel: "What?? How many dead??"
+Iúna: "What?? How many dead??"
 
-Dr. Kauffmann: "Unfortunately we haven't had a chance to count."
+Dr. Kauffmann: "Unfortunately we haven't had a chance to count yet. Thousands are already homeless."
 
-Raquel: "How does a police raid start a state-wide fire??"
+Iúna: "How does a police raid start a state-wide fire??"
 
 Dr. Kauffmann: "It's all the plastic furniture - they're basically solid petroleum, turns a misplaced candle into a fireball in just minutes. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"
 
-Raquel: "Yes, I...I'm sorry I need to make a call..."
+Iúna: "Yes, I...I'm sorry I need to make a call..."
 
-Dr. Kauffmann: "Of course. I'll see myself out."
+Dr. Kauffmann: "Of course. I'll see myself out."**
+
+Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of eSyrup cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
 ### Page 10
 
-Raquel calls her Biononymous contact at Green Haven Tahoe to confirm that the police raid was looking for the Biononymous' anti-surveillance eSyrup research. No one has been able to contact Green Haven Joshua Tree since the fire started yesterday. 
+*Iúna: "Tahoe, have you been able to contact Joshua Tree?"*
+
+Iúna is outside, and her baby is no longer strapped to her chest. Instead, her face is covered in a thick veil and she wears what looks like a heavy, full-sleeved and full-length apron. eSyrup circuits flash within the weave of both Iúna's veil and apron. She stands, facing west, arms flung out wide, back straight and tall, legs apart, boots planted wide in the frosty grass. 
+
+*Iúna's Biononymous contact at Green Haven Tahoe: "Negative, Mama Bird."
+
+Iúna: "How is Tahoe?"
+
+Tahoe: "Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary."
+
+Iúna: "So...it *was* the body mod."*
 
 ### Page 11
 
-Raquel and her Biononymous contact confirm that their collaborators were being tracked via body mods. They decide it is time to register as a religious movement, in order to dodge surveillance. 
+*Tahoe: "Looks like it. They didn't even bother going for the decoy."*
+
+Iúna ponders for a moment, her face furrowed with grief and concentration.
+
+*Iúna: "Tahoe, I've changed my mind. I vote for registering as a religion."
+
+Tahoe: "Wa-wait, seriously?"
+
+Iúna: "Yes. We need all of the protections we can get right now, and into the future."
+
+Tahoe: "You've been thinking about what Pigsah said at our TeleSensing?"
+
+Iúna: "Pigsah was right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children *won't* have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod."
+
+Tahoe: "So you're saying...it's not just about fighting surveillance."*
 
 ### Page 12
 
-Raquel has heard that Majhee and her colleagues in São Paulo have successfully created the first eSyrup biofilm, or an aggregate community of prokaryotes encased in slime. With this knowledge securely in the public domain, Raquel and her contact decide that to perfect the eSyrup mechapet, an idea they've been toying with for a while. This synthetic creature would become companions to every Biononymous, and would be able to provide greater protection against malicious tracking and surveillance while also providing all of the conveniences of body mods. 
+*Iúna: "It is and it isn't. If we want defend our right to live without constant surveillance, we can't just empower our individual decisions and not think about the rest of society. If we don't make it a religious tenent, in just 10 years our social structures will make it *impossible* to live without constant surveillance."
+
+Tahoe: "But we still haven't figured out our own solutions to the advantages of body mods...instantaneous long-distance communication, ways to aid our memories and gain perspective on our behaviour..."
+
+Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil just posted online?"
+
+Tahoe: "What?"
+
+Iúna: "The first successful splice of eSyrup with a living organic compound, a recipe for creating eSyrup biofilm!"
+
+Tahoe: "...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?"
+
+Iúna: "Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive info-spheres?"
+
+Tahoe: "...yes...?"
+
+Iúna: "*It's possible now.* If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if creating and interacting with these creatures is part of our religious practice..."
+
+Iúna: "...then neither Space Consortium nor any national government can interfere!"*
 
 ## Chapter 2
 
-The day the Global Water Crisis started, from Majhee and Raquel's perspectives. 
+The day the Global Water Crisis started, from Majhee and Iúna's perspectives. 
 
 ### 2077: The Global Water Crisis, or, **THE BURNING OCEANS**
 
 A deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. The enormous cloud of hydrogen flouride is picked up by global wind currents and spreads throughout the atmosphere. Panic leads to military action, riots, and an incredible death toll. 
 
-Meanwhile, in São Paulo, Majhee and her colleagues successfully splice eSyrup with eukaryotic cell cultures for the first time, creating a rat-like creature named Nimh. Nimh lives 11 days. When they hear news of the deep-sea silica harvesting rig disaster, Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
+Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the , Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
-Raquel flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride
+Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride
 
 Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
 
@@ -228,7 +294,7 @@ Asoka's mission on the Gemini, as declared to the Biononymous, is to learn more 
 
 Min's mission on the Gemini, as declared to the Automata, is to discover just how advanced the proprietary eSyrup research of the Space Consortium has become. As the bearer of a subdermal shield, Min is a living embodiment of the pinnacle of Automata eSyrup research. 
 
-While chasing the figure through the dark corridors, Min reflects on the choice she must make in order to continue living and studying on Gemini Station - which guild to declare an interest in? Her secret dream is to be a space swimmer, but space swimming is considered too difficult for Earthers, and Orbiters take great pride in their dominance at space swimming, to the point of severe prejudice in the apprenticeship process. Min has also done well enough in several other topics of study that she already has a number of offers from 3rd year trainees to recommend her to their guild. She has no such connection to anyone in the space swimmer guild, and Min wonders if she should go for their qual exam anyway. First-year trainees can take qual exams for up to 3 guilds, and their choices are usually determined by offers of recommendation by 3rd year trainees. 
+While chasing the mysterious figure through the dark corridors, Min reflects on the choice she must make in order to continue living and studying on Gemini Station - which guild to declare an interest in? Her secret dream is to be a space swimmer, but space swimming is considered too difficult for Earthers, and Orbiters take great pride in their dominance at space swimming, to the point of severe prejudice in the apprenticeship process. Min has also done well enough in several other topics of study that she already has a number of offers from 3rd year trainees to recommend her to their guild. She has no such connection to anyone in the space swimmer guild, and Min wonders if she should go for their qual exam anyway. First-year trainees can take qual exams for up to 3 guilds, and their choices are usually determined by offers of recommendation by 3rd year trainees. 
 
 ## Chapter 7
 
