@@ -316,11 +316,13 @@ Massive fluctuations of electromagnetic radiation from sun flares completely dis
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
-## Chapter 3
+## Chapter 3: 
 
 ### Page 1
 
-We see a beautiful half dome of transparent material encasing the Gemini Arboretum. It is part of the larger Gemini Youth Station, attached to the Space University Station by a large steel bridge. 
+**"2119: Space University Station and Gemini Youth Station"**
+
+We see a beautiful half dome of transparent material encasing the Gemini Arboretum, glittering with greens and blues against the stark blackness of space. It is part of the larger Gemini Youth Station, attached to the Space University Station by a large steel bridge. Far below, we see the grubby edge of Earth's atmosphere. 
 
 **Min: "They're headed towards the bridge - they're from SUS!"**
 
@@ -358,7 +360,9 @@ Rhee cautiously enters the tunnel, then wipes her hands with an eSyrup handkerch
 
 Asoka's smile turns nostalgic and wistful, looking towards the quickly disappearing Min. The words on their clothes morph into "She always comes back..."
 
-#### flashback
+#### Flashback
+
+**"2114: Amazon Rainforest"**
 
 The dimly lit maintenance tunnel turns into the enormous trunk of a giant tree in the Amazon Rainforest. A much younger Soka, also wearing traditional Biononymous clothes, looks up the tree with wonder and awe. 
 
@@ -382,7 +386,7 @@ Min takes Soka's hand gently and beams at Soka with friendly, naive excitement.
 
 Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly, with arms stretched up from Soka's full height. Min then hops down to the ground and croches behind Soka, hands clasped to create a step for Soka's foot. 
 
-**Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I have to help Gustavo all the time, and he's much bigger than you."**
+**Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I help Gustavo all the time, and he's much bigger than you."**
 
 Soka hesitantly places a foot into Min's hands. 
 
@@ -398,19 +402,42 @@ Soka complies, and the two children make a wobbly human tower, the short but stu
 
 ### Page 5
 
-Min and Soka have made it to the top of the tree and are lying on a platform, staring up. Min reaches up with a finger to poke at the eSyrup bubble separating them from the sky, protecting them from the sun's radiations and the toxic atmosphere. Soka's gloved fingers also graze the sheer eSyrup material. 
+Min and Soka have made it to the top of the tree and are lying on a platform, staring up at a sky that seems blue, with clouds that seem puffy and far away. Min reaches up with a finger to poke at the eSyrup bubble separating them from the sky, protecting them from the real sun and atmosphere, both too harsh now for humans to lie under unprotected. Soka's gloved fingers also graze the eSyrup bubble. 
 
-**Min: "One day, I'll be a real Tree Surfer, and I'll be able to go outside our home bubble, just like you!"**
+**Min: "One day, I'll be a real Tree Surfer, and then I'll be able to see the real sky, and feel real wind!"**
+
+Soka's face mask rearranges to read, "It's not so pretty out there..."
 
 Min lets her fingers intertwine with Soka's. 
 
-**Min: "Can we telesense? I want to keep looking at the sky..."**
+**Min: "Can we telesense? I want to keep looking up..."**
+
+Min and Soka let their hands fall above their heads onto the platform as they gaze up. 
 
 *Soka: "Does it still tickle?"*
 
 *Min: "Haha, a little! But I'm used to it now, I think."*
 
 ### Page 6
+
+*Soka: "Why do you want to go out there so bad? It's nice inside your bubbles."*
+
+*Min: "Because I *know* this is fake. I want reality, no matter how *ugly* it is."*
+
+Min punches the eSyrup bubble. The location of impact swirls with iridescent colors before settling back into a clean, clear blue. 
+
+*Min: "So you don't have trees at the Green Havens?"*
+
+*Soka: "Not big ones like this. We don't have giant, flexible eSyrup bubbles at the Green Havens, just sealed greenhouses made of e-cement. So nothing grows taller than 2 meters."*
+
+*Min: "How can you stretch your brain if all of your ceilings are so low?"* 
+
+*Soka: "Ha, I guess we can't. Honestly, most people are so used to being underground, or indoors, I don't think they notice..."*
+
+*Min: "That's crazy..."*
+
+### Page 7
+
 
 
 
