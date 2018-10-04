@@ -64,11 +64,11 @@ Majhee sneaks into an alleyway to enter the research facility via a back door. W
 
 Majhee takes off her hood and googles and we see her face - pretty and youthful for her 41 years, if it weren't for the lines of worry and grim determination. Majhee is ethnically Korean, with lightly tanned porcelain skin and small shapely eyes on a round face. She shakes out her hair, cropped short in a bowl pixie cut. Though she is clearly burdened with many troubles, she holds herself tall and regal. She then begins taking off her eSyrup hazmat suit.  
 
-**Majhee: "Still crowded."
+**Majhee: "Still crowded."**
 
-Receptionist: "Idiots. Don't they understand we're trying to help?"
+**Receptionist: "Idiots. Don't they understand we're trying to help?"**
 
-Majhee: "Well, they're hungry. Can't think when you're hungry."**
+**Majhee: "Well, they're hungry. Can't think when you're hungry."**
 
 Majhee removes her goggles and steps into the decontamination chamber.
 
