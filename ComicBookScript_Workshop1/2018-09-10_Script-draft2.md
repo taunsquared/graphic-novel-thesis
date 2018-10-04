@@ -226,9 +226,9 @@ Iúna is outside, and her baby is no longer strapped to her chest. Instead, her 
 
 *Iúna: "So...it *was* the body mod."*
 
-### Page 11
-
 *Tahoe: "Looks like it. They didn't even bother going for the decoy."*
+
+### Page 11
 
 Iúna ponders for a moment, her face furrowed with grief and concentration.
 
@@ -244,9 +244,9 @@ Iúna ponders for a moment, her face furrowed with grief and concentration.
 
 *Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*."*
 
-### Page 12
-
 *Iúna: "I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance."*
+
+### Page 12
 
 *Tahoe: "But we still haven't figured out our own solutions to the really *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour..."*
 
@@ -272,7 +272,7 @@ Iúna ponders for a moment, her face furrowed with grief and concentration.
 
 **"September 23, 2077: Ushuaia, Argentina"**
 
-We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
+We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or modern high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
 **"When growing a personal supply of eSyrup, say, for research or for fun, you can feed it enough silica just by running down to the beach once a week with a soup bowl."**
 
@@ -282,19 +282,21 @@ We see a bustling harbour town, everything about it small and cute except for th
 
 **"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the Antarctic."**
 
-We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. Maybe close-up panels are shown on top of a background layer that shows a map of that area of the world?
+We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. A tiny plume of smoke, looking both innocent and foreboding, curls up from the rig. 
 
 ### Page 2
 
-We've now moved closer to that distant speck, and we see an enormous deep-sea drilling platform, a monstrous steel structure anchored into the Antarctic sea - see [this video](https://youtu.be/DTlpzf47MIU) for reference. Behind the barges we see a distant coastline, mountainous and raw. 
+**"Ocean Acidification Monitoring Station, Roca Redonda, Galapagos Islands"**
 
-**"The lighthouse at Isla de los Estados once inspired a dying surrealist to write a novel about piracy, isolation, and surviving the extreme."**
+**Technician: "Dr. Zambrano! Dr. Zambrano!"**
 
-**"It was called, 'The Lighthouse at the End of the World'."**
+**Dr. Zambrano: "What is it?"**
 
-**"Jules did have a bit of a prophetic streak."**
+**Tech: "The pH levels...do you see...!"**
 
-The deep-sea drilling platform is spewing water vapour, and the water around the rig looks stained with blood. Upon closer inspection, we see dead bodies littering the drilling platform and the surrounding ocean. The bodies are melted and corroded, faces frozen in blind expressions of horror. 
+**Dr.Zambrano: "Dios mío...how can it fall so fast??"**
+
+This scene should give clues about the deep-sea silica drilling disaster, which suddenly makes the shallow parts of the ocean water column drastically more acidic, combined with a shut down of important ocean current circulations like the Meridional Overturning Circulation - see [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) for more info. 
 
 ### Page 3
 
@@ -314,6 +316,105 @@ Massive fluctuations of electromagnetic radiation from sun flares completely dis
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
+## Chapter 3
+
+### Page 1
+
+We see a beautiful half dome of transparent material encasing the Gemini Arboretum. It is part of the larger Gemini Youth Station, attached to the Space University Station by a large steel bridge. 
+
+**Min: "They're headed towards the bridge - they're from SUS!"**
+
+**Rhee: "Ok, calm down, I'm not going to be able to override this airlock with you hovering like that!"**
+
+**Min: "But they're getting away!"**
+
+### Page 2
+
+We see Minka, writhing with impatience, behind Rhee, whose forehead info-sphere is flashing a schematic of the airlock system. Rhee's hands, fingers bent in a complex gesture, are also lit with spheres. They are in a maintenance shaft above the main corridor leading to the bridge that connects Space University Station with the Gemini. The airlock door in front of them glows a dull, gentle red. 
+
+**Rhee: "Ok, so whoever they are, they also bypassed the ID register, so they're good, but we must have spooked them, because they didn't clean up very well..."**
+
+Asoka suddenly appears next to them, placing a warning hand on both Minka and Rhee's mouths. 
+
+**Min: "Aaaah! Oh jeez, Soka, I'm not used to your camou yet, can't you at least throw us your breath??"**
+
+We see a faint smile behind layers of translucent face veil, as the front of Asoka's traditional Biononymous clothing morphs to create the letters "Maybe I'll get a bell." 
+
+The airlock door suddenly turns green and gently clicks open. 
+
+**Min: "Finally!"**
+
+Min eagerly pulls herself through the airlock and readies herself against the metal framework on the other side, gently floating in the low gravity of the bridge. 
+
+**Rhee: "Right, Min, don't lose them, and don't forget to throw us your eyes!"**
+
+Min gives her a thumbs up, then pushes off into the dimly lit tunnel. 
+
+### Page 3
+
+Rhee cautiously enters the tunnel, then wipes her hands with an eSyrup handkerchief attached to the inside of her left sleeve. 
+
+**Rhee: "Does she always do that? Run off and disappear without even looking back?"**
+
+Asoka's smile turns nostalgic and wistful, looking towards the quickly disappearing Min. The words on their clothes morph into "She always comes back..."
+
+#### flashback
+
+The dimly lit maintenance tunnel turns into the enormous trunk of a giant tree in the Amazon Rainforest. A much younger Soka, also wearing traditional Biononymous clothes, looks up the tree with wonder and awe. 
+
+**Min: "Come ON, Soka!!"**
+
+The face of young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
+
+Soka puts a gloved hand reverently on the tree trunk, and suddenly feeling shy, morphs words into the top of their head covering: "I've...never climbed a tree..."
+
+**Min: "You what?? What do you mean never??"**
+
+Without waiting for Soka's response, Min quickly and decisively climbs back down to Soka. 
+
+Min takes Soka's hand gently and beams at Soka with friendly, naive excitement. 
+
+**Min: "It's easy! My nanna says that we used to live in trees all the time. You just hug the tree and it will never let you down!"**
+
+### Page 4
+
+**Min: "Like this..."**
+
+Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly, with arms stretched up from Soka's full height. Min then hops down to the ground and croches behind Soka, hands clasped to create a step for Soka's foot. 
+
+**Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I have to help Gustavo all the time, and he's much bigger than you."**
+
+Soka hesitantly places a foot into Min's hands. 
+
+**Min: "Ok, on three! One, two--!"**
+
+Min straightens her legs as Soka scrabbles for a branch to hold. 
+
+**Min: "Ok, now other foot on my shoulder!"**
+
+Soka complies, and the two children make a wobbly human tower, the short but sturdy Min basing the taller, more willowy Soka. 
+
+**Min: "Hug the tree, hug the tree!!"**
+
+### Page 5
+
+Min and Soka have made it to the top of the tree and are lying on a platform, staring up. Min reaches up with a finger to poke at the eSyrup bubble separating them from the sky, protecting them from the sun's radiations and the toxic atmosphere. Soka's gloved fingers also graze the sheer eSyrup material. 
+
+**Min: "One day, I'll be a real Tree Surfer, and I'll be able to go outside our home bubble, just like you!"**
+
+Min lets her fingers intertwine with Soka's. 
+
+**Min: "Can we telesense? I want to keep looking at the sky..."**
+
+*Soka: "Does it still tickle?"*
+
+*Min: "Haha, a little! But I'm used to it now, I think."*
+
+### Page 6
+
+
+
+
 ## Chapters 3-6
 
 Jump ahead to 2119, Gemini Arboretum, home station of the ISE Corps. It is the day of Qualification Exams, when all first year trainees must take a "basic competencies" exam in order to advance to placement within a guild and begin their apprenticeship. However, Min, Asoka, and Rhee have other things on their minds. They have discovered that someone is transplanting crops around the Gemini station, and some of the new plants that are showing up in the Gemini Arboretum seem to be genetically modified to hijack human body processes to induce the production of nano-biotrackers. Min, Asoka, and Rhee have narrowed their list of suspects and are in hot pursuit of a shadowy figure through the interstitial depths of the Gemini station. 
@@ -332,7 +433,7 @@ Min, Asoka, and Rhee catch and confront the culprit, who turns out to be Tross, 
 
 In the end, they all join forces and agree to work together to untangle this greater mystery. Tross offers to give Min a recommendation to the space swimmer guild. PQ dubs them the Vigilante Intergalactic Roustabout Scholars. 
 
-# old structure
+# old writings
 
 Backdrop: the glittery blackness of outer space, tempered by the light touch of the outermost layer of atmosphere. 
 
