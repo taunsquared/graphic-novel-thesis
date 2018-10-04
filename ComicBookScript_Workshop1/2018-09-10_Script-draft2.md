@@ -46,10 +46,10 @@
 
 **"...and many people, on this historic day of hope and wonder, were starving..."**
 
-Under this narration, we see a young Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air, hoods up, breathing masks and googles on. The air is hazy with smog, the sky a smeared grey-blue. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
+Under this narration, we see a young Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air, hoods up, breathing masks and googles on. The air is hazy with smog, the sky a smeared grey-blue, the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
 
 A lot of the news is about the new space arboretum, but most of the individual info-spheres are focused on news about planetside climate disasters: 
-* The Colorado River has dried up completely and the severe drought is causing mass migrations to the American Northeast, causing massive overcrowding in major east coast cities. 
+* The Colorado River has dried up completely and the severe drought is causing mass migrations to east, causing massive overcrowding in major inland ("mid-western") cities. 
 * Last year's total evaporation of the River Niger has heightened ethnic tensions in the area and armed conflict is escalating.
 * An extremely aggressive water-borne disease wipes out several major urban areas in China and India 
 * Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world.
@@ -108,9 +108,9 @@ Marcia looks over her shoulder, then turns back to Majhee.
 
 Majhee, incredulous: "They wouldn't dare--"**
 
-Felix Barbosa, a younger scientist in Majhee's lab, appears at the doorway, breathless and in tears.
+Felix Barbosa, a scientist in Majhee's lab, appears at the doorway, breathless and in tears.
 
-**Felix: "Majhee, my father-- President Netto!"
+**Felix: "Majhee, my son-- President Netto!"
 
 Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
 
@@ -118,21 +118,21 @@ Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
 
 Majhee, Felix, and other members of Majhee's research group sit in a meeting room in an upper floor of the research institute. One wall is a floor-to-ceiling window, showing the dusty, polluted sky-line of São Paulo. The sun sits in a hazy sky, just past the midday zenith. 
 
-**Majhee: "So. Felix's father has also been diagnosed again."**
+**Majhee: "So. Your father has been diagnosed again."**
 
-The circle of researchers: **Felix Silva**, a pale young man born and raised in São Paulo by Portuguese parents, currently a graduate student in the group, his shoulders hunched with fear and sadness, his face streaked with tears; **Kai Oliveira**, an older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Nova Jatobá**, another young graduate student, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Vec Barbosa**, a large, portly man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face kind and sad behind a rather bushy yet neatly-trimmed beard. 
+The circle of researchers: **Felix Silva**, a pale but handsome man in his late 20s, born and raised in São Paulo by Portuguese parents, his shoulders hunched with fear and sadness, his face streaked with tears; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Vec Barbosa**, a large, portly man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face kind and sad behind a rather bushy yet neatly-trimmed beard. 
 
-**Vec, to Felix: "Nova and I have already contacted your father's medical team. He's given us permission to add his diagnosis to our database of repeat skin cancer patients. This will be a huge help towards improving our eSyrup textile manufacturing process, but..." 
+**Vec, to Felix: "Beatriz and I have already contacted your father's medical team, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..." 
 
 Beatriz, kindly: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
 
 Felix, covering his face with his hands, furious at the tears that won't stop streaming down his face
 
-**Felix: "SCC *(Squamous cell carcinoma)* is still one of the most treatable skin cancers, even for a second diagnosis. He might be fine." 
+**Felix: "Skin cancer is still one of the most treatable cancers, even after a second diagnosis. He might be fine."**
 
 Felix now looks up, straight at Majhee, eyes full of determination behind the tears.
 
-**Felix: "I want to finish the eSyrup biofilm project, *before* Space Consortium can get their filthy hands on another patent." 
+**Felix: "I want to finish the biofilm project, *before* Space Consortium can get their filthy hands on another patent." 
 
 Nova: "I'm sure we could manage without you--"**
 
@@ -154,7 +154,7 @@ We see the circle of researchers sitting in silence, everyone unable to break th
 
 Majhee: "I can't...*ask* anyone to stay. We all know the dangers of completing this project, of working in this building right now. We all have family to protect."
 
-Majhee: "But I also...personally...can't give up now. A stable splice of eSyrup-bacteria is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."
+Majhee: "But I also...personally...can't give up now. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."
 
 Majhee: "So let me be clear. You are all free to do as you wish. If you choose to leave, I will make sure you can live comfortably for at least the next year."
 
@@ -170,7 +170,7 @@ We see rolling countryside, vibrant with autumn colors, behind a low row of conc
 
 Off-panel, Iúna: "I'll be with them in a moment."**
 
-We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy black hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
+We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
 
 Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles": "HELLO! SHALL WE STEP INTO MY OFFICE?" 
 
@@ -240,13 +240,13 @@ Tahoe: "You've been thinking about what Pigsah said at our last TeleSensing?"
 
 Iúna: "Pigsah was right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children *won't* have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod."
 
-Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a cult."*
+Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*."*
 
 ### Page 12
 
 *Iúna: "I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance."
 
-Tahoe: "But we still haven't figured out our own solutions to the advantages of body mods...instantaneous long-distance communication, ways to aid our memories and gain perspective on our behaviour..."
+Tahoe: "But we still haven't figured out our own solutions to the *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour..."
 
 Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?"
 
@@ -268,27 +268,49 @@ Iúna: "...then neither Space Consortium nor any national government can interfe
 
 ### Page 1
 
-**"October 12, 2077: Antarctic Convergence"**
+**"September 23, 2077: Ushuaia, Argentina"**
 
+We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
+**"When growing a personal supply of eSyrup, say, for research or for fun, you can feed it enough silica just by running down to the beach once a week with a soup bowl." 
 
-The day the Global Water Crisis started, from Majhee and Iúna's perspectives. 
+"Industrialized eSyrup production, however, needs quite a bit of silica. "
 
-### 2077: The Global Water Crisis, or, **THE BURNING OCEANS**
+"Sand mining was out of the question, given the Space Consortium's concern with their image - wouldn't want their brand tarnished by news of their operations destroying delicate coastal ecosystems or picturesque beachside communities." 
 
-A deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of silicon tetrafluoride, directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. The enormous cloud of hydrogen flouride is picked up by global wind currents and spreads throughout the atmosphere. Panic leads to military action, riots, and an incredible death toll. 
+"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the Antarctic."**
 
-Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the , Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
+We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. Maybe close-up panels are shown on top of a background layer that shows a map of that area of the world?
 
-Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride
+### Page 2
+
+We've now moved closer to that distant speck, and we see an enormous deep-sea drilling platform, a monstrous steel structure anchored into the Antarctic sea - see [this video](https://youtu.be/DTlpzf47MIU) for reference. Behind the barges we see a distant coastline, mountainous and raw. 
+
+**"The lighthouse at Isla de los Estados once inspired a dying surrealist to write a novel about piracy, isolation, and surviving the extreme."
+
+"It was called, 'The Lighthouse at the End of the World'."
+
+"Jules did have a bit of a prophetic streak."**
+
+The deep-sea drilling platform is spewing water vapour, and the water around the rig looks stained with blood. Upon closer inspection, we see dead bodies littering the drilling platform and the surrounding ocean. The bodies are melted and corroded, faces frozen in blind expressions of horror. 
+
+### Page 3
+
+**"October 12, 2077: São Paulo, Brazil"**
+
+The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing a breathing mask. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+
+**Majhee: "We need to finish packing up NOW."**
+
+Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
+
+Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride.
 
 Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
 
 Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. 
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
-
-### Page 1
 
 ## Chapters 3-6
 

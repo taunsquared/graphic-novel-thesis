@@ -2,7 +2,25 @@
 
 ## Majhee Suh 
 
-Born in 2035. Korean who immigrated to Brazil. 
+Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and at age 26, coordinates the first successful cultivation of raw, living eSyrup. This eventually leads to her appointment as a research group leader at Laboratório Nacional de Biociências e Saúde Pública. Majhee 
+
+Pronouns: She/her/hers
+
+Phenotype: Korean. Straight, black hair; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
+
+### What does this character want?
+
+Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after Majhee's husband Cauã dies from skin cancer, and after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
+
+When the Global Water Crisis hits, Majhee decides that São Paulo is no longer safe, not for her family and not for eSyrup research. She decides to relocate to her parents-in-law's farm on the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of hydrogen flouride, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
+
+## Iúna Serrano Morei
+
+Born in 2043 in Watertown, Massachusetts, USA. 
+
+Pronouns: She/her/hers
+
+Phenotype: Portuguese. Thick, wavy brown hair. Large blue eyes, dark olive skin. Very large ears. 
 
 ## Minka Oosou
 
@@ -14,7 +32,7 @@ Phenotype: East Asian/West African. Thick dark brown hair, slightly curled. Dark
 
 ### What does this character want?
 
-Min believes that being free also means that the Automata should be able to move on and off planet as they choose. She resents her grandmother for banishing Soka and for being so afraid of the Orbiters. Min is tired of hiding in the jungle and wants to show the Orbiters how strong Earthers can be. Min dreams of exploring the universe with her own space vessel and crew. 
+Min believes that being free also means that the Automata should be able to move on and off planet as they choose. She is tired of hiding in the jungle and wants to show the Orbiters how strong Earthers can be. Min dreams of becoming a space swimmer, and exploring the universe with her own space vessel and crew. 
 
 ## Asoka Morei
 
@@ -52,17 +70,17 @@ Phenotype: Columbian. Shorter than average for an Earther male. Compact body, we
 
 Rajue wants to get educated and rich as fast as possible, so that he never has to dig another tunnel ever again. He hates the World Gov with a fierce rage and deep smoldering resentment. He wants to leave behind all of the painful memories of now-dead loved ones and get as far away from planet Earth as possible. 
 
-## Tross
+## Tross Bitencourt Silva
 
-Earther, member of the Automata Clan (Eurasia) and disguised as a member of the **METAL WORKERS OF BLACK SEA AREA** gang. Has a knack for metal working and extremely fond of animals, especially cats. Gentle giant who looks large and intimidating but is actually incredibly averse to violence. 
+Earther, member of the Automata Clan (Eurasia) and disguised as a member of the **METAL WORKERS OF BLACK SEA AREA** gang. Has a knack for metal working and extremely fond of animals, especially cats. Gentle giant who looks large and intimidating but is actually incredibly averse to violence. Grandson of Felix Silva, research colleague of Majhee Suh. 
 
 Pronouns: He/him/his
 
-Phenotype: Romanian/Dacia, with Turkish and Indian influences. Wide nose, large ears, hazel-green eyes with flecks of gold, unruly dirty blonde hair that sticks out in all directions. Full facial hair that he often forgets to trim or keep tidy. Large yet dextrous hands, skin the colour of tea-stained parchment paper, pock-marked with scars and stained with soot. Slim hips, broad shoulders, powerfully-muscled arms and legs. 
+Phenotype: Romanian/Dacia, with German and Portuguese influences. Wide nose, large ears, hazel-green eyes with flecks of gold, unruly dirty blonde hair that sticks out in all directions. Full facial hair that he often forgets to trim or keep tidy. Large yet dextrous hands, skin the colour of tea-stained parchment paper, pock-marked with scars and stained with soot. Slim hips, broad shoulders, powerfully-muscled arms and legs. 
 
 ### What does this character want?
 
-Tross wants to find his mother, a Space Swimmer who fell in love with a construction welder on Earth while visiting the Underground City Optymistychna. Tross's mother left Earth to return to her career as a Space Swimmer when Tross was 3 years old, leaving Tross's father to raise Tross alone. 
+
 
 ## Zalo
 
