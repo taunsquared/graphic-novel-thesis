@@ -76,17 +76,17 @@ Majhee removes her goggles and steps into the decontamination chamber.
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
-**Off panel: "Majhee, you can't *scoop* the *Space Consortium*..."
+**Off panel: "Majhee, you can't *scoop* the *Space Consortium*..."**
 
-Majhee: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"**
+**Majhee: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"**
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
 
-**Marcia: "You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."
+**Marcia: "You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."**
 
-Majhee: "Exactly."
+**Majhee: "Exactly."**
 
-Marcia: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"**
+**Marcia: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"**
 
 ### Page 4
 
@@ -96,23 +96,23 @@ Majhee angrily turns off the giant bacteria of light with an impatient gesture a
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger
 
-**Marcia: "I know, I *know*, that was definitely my mistake, and I'm *sorry*."
+**Marcia: "I know, I *know*, that was definitely my mistake, and I'm *sorry*."**
 
-Majhee interrupts: "And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"
+**Majhee interrupts: "And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"**
 
-Marcia, defeated: "*sigh*. Just...be careful."** 
+**Marcia, defeated: "*sigh*. Just...be careful."** 
 
 Marcia looks over her shoulder, then turns back to Majhee.
 
-**Marcia, low and careful: "There are rumors that the Space Consortium is trying to *weaponize eSyrup*. I know I sound like a conspiracy theorist, but..."
+**Marcia, low and careful: "There are rumors that the Space Consortium is trying to *weaponize eSyrup*. I know I sound like a conspiracy theorist, but..."**
 
-Majhee, incredulous: "They wouldn't dare--"**
+**Majhee, incredulous: "They wouldn't dare--"**
 
 Felix Barbosa, a scientist in Majhee's lab, appears at the doorway, breathless and in tears.
 
-**Felix: "Majhee, my son-- President Netto!"
+**Felix: "Majhee, my son-- President Netto!"**
 
-Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
+**Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
 
 ### Page 5
 
@@ -122,9 +122,9 @@ Majhee, Felix, and other members of Majhee's research group sit in a meeting roo
 
 The circle of researchers: **Felix Silva**, a pale but handsome man in his late 20s, born and raised in São Paulo by Portuguese parents, his shoulders hunched with fear and sadness, his face streaked with tears; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Vec Barbosa**, a large, portly man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face kind and sad behind a rather bushy yet neatly-trimmed beard. 
 
-**Vec, to Felix: "Beatriz and I have already contacted your father's medical team, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..." 
+**Vec, to Felix: "Beatriz and I have already contacted your father's medical team, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
 
-Beatriz, kindly: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
+**Beatriz, kindly: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
 
 Felix, covering his face with his hands, furious at the tears that won't stop streaming down his face
 
@@ -132,9 +132,9 @@ Felix, covering his face with his hands, furious at the tears that won't stop st
 
 Felix now looks up, straight at Majhee, eyes full of determination behind the tears.
 
-**Felix: "I want to finish the biofilm project, *before* Space Consortium can get their filthy hands on another patent." 
+**Felix: "I want to finish the biofilm project, *before* Space Consortium can get their filthy hands on another patent."**
 
-Nova: "I'm sure we could manage without you--"**
+**Nova: "I'm sure we could manage without you--"**
 
 Kai, arms folded, looking down at her lap with hard eyes.
 
@@ -150,15 +150,15 @@ Nova also bursts into tears, and Kai's face falls, looking terribly apologetic b
 
 We see the circle of researchers sitting in silence, everyone unable to break the silence, everyone contemplating the difficulties of the current situation. 
 
-**Majhee: "I won't..."
+**Majhee: "I won't..."**
 
-Majhee: "I can't...*ask* anyone to stay. We all know the dangers of completing this project, of working in this building right now. We all have family to protect."
+**Majhee: "I can't...*ask* anyone to stay. We all know the dangers of completing this project, of working in this building right now. We all have family to protect."**
 
-Majhee: "But I also...personally...can't give up now. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."
+**Majhee: "But I also...personally...can't give up now. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."**
 
-Majhee: "So let me be clear. You are all free to do as you wish. If you choose to leave, I will make sure you can live comfortably for at least the next year."
+**Majhee: "So let me be clear. You are all free to do as you wish. If you choose to leave, I will make sure you can live comfortably for at least the next year."**
 
-Majhee: "If you stay...I will protect you and your families in any way that I can. And I will forever owe you a debt of gratitude."**
+**Majhee: "If you stay...I will protect you and your families in any way that I can. And I will forever owe you a debt of gratitude."**
 
 ### Page 7
 
@@ -166,47 +166,49 @@ Majhee: "If you stay...I will protect you and your families in any way that I ca
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
-**Off-panel, secretary: "Iúna, the folks from the World Health Organization are here." 
+**Off-panel, secretary: "Iúna, the folks from the World Health Organization are here."**
 
-Off-panel, Iúna: "I'll be with them in a moment."**
+**Off-panel, Iúna: "Thanks, I'll be with them in a moment."**
 
 We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
 
-Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles": "HELLO! SHALL WE STEP INTO MY OFFICE?" 
+Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles".
+
+**Iúna: "HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
 ### Page 8
 
-**Iúna: "Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo." 
+**Iúna: "Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
 
-Dr. Kauffmann: "You know, you'd get these updates faster if you'd just get an info-sphere mod..."
+**Dr. Kauffmann: "You know, you'd get these updates a lot faster if you'd just get an info-sphere mod..."**
 
-Iúna: "Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."
+**Iúna: "Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
 
-Dr. Kauffmann: "Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your MERV filter efficiency ratings, not with sheer fabrics at least. I've got your organzas in every window of my house."
+**Dr. Kauffmann: "Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your MERV filter efficiency ratings, not with sheer fabrics at least. I've got your organzas in every window of my house."**
 
-Iúna: "Just doing what we can. What was the emergency conference about?"
+**Iúna: "Just doing what we can. What was the emergency conference about?"**
 
-Dr. Kauffmann: "They're preparing themselves for a huge wave of refugees."
+**Dr. Kauffmann: "They're preparing themselves for a huge wave of refugees."**
 
-Iúna: "Really? From where?"**
+**Iúna: "Really? From where?"**
 
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that when Iúna stood inside of, placed the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
 
 ### Page 9
 
-**Dr. Kauffmann: "Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared." 
+**Dr. Kauffmann: "Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
 
-Iúna: "What?? How many dead??"
+**Iúna: "What?? How many dead??"**
 
-Dr. Kauffmann: "Unfortunately we haven't had a chance to count yet. Thousands are already homeless."
+**Dr. Kauffmann: "Unfortunately we haven't had a chance to count yet. Thousands are already homeless."**
 
-Iúna: "How does a police raid start a state-wide fire??"
+**Iúna: "How does a police raid start a state-wide fire??"**
 
-Dr. Kauffmann: "It's all the plastic furniture - they're basically solid petroleum, turns a misplaced candle into a fireball in just minutes. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"
+**Dr. Kauffmann: "It's all the plastic furniture - they're basically *solid petroleum*, turns a misplaced candle into a fireball in just *minutes*. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"**
 
-Iúna: "Yes, I...I'm sorry I need to make a call..."
+**Iúna: "Yes, I...I'm sorry I need to make a call..."**
 
-Dr. Kauffmann: "Of course. I'll see myself out."**
+**Dr. Kauffmann: "Of course. I'll see myself out."**
 
 Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of eSyrup cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
@@ -216,13 +218,13 @@ Under this dialogue we see close-up views of the baby strapped to Iúna's front.
 
 Iúna is outside, and her baby is no longer strapped to her chest. Instead, her face is covered in a thick veil and she wears what looks like a heavy, full-sleeved and full-length apron. eSyrup circuits flash within the weave of both Iúna's veil and apron. She stands, facing west, arms flung out wide, back straight and tall, legs apart, boots planted wide in the frosty grass. 
 
-*Iúna's Biononymous contact at Green Haven Tahoe: "Negative, Mama Bird."
+*Iúna's Biononymous contact at Green Haven Tahoe: "Negative, Mama Bird."*
 
-Iúna: "How is Tahoe?"
+*Iúna: "How is Tahoe?"*
 
-Tahoe: "Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary."
+*Tahoe: "Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary."*
 
-Iúna: "So...it *was* the body mod."*
+*Iúna: "So...it *was* the body mod."*
 
 ### Page 11
 
@@ -230,39 +232,39 @@ Iúna: "So...it *was* the body mod."*
 
 Iúna ponders for a moment, her face furrowed with grief and concentration.
 
-*Iúna: "Tahoe, I've changed my mind. I vote for registering as a religion."
+*Iúna: "Tahoe, I've changed my mind. I vote for registering as a religion."*
 
-Tahoe: "Wa-wait, seriously?"
+*Tahoe: "Wa-wait, seriously?"*
 
-Iúna: "Yes. We need all of the protections we can get right now."
+*Iúna: "Yes. We need all of the protections we can get right now."*
 
-Tahoe: "You've been thinking about what Pigsah said at our last TeleSensing?"
+*Tahoe: "You've been thinking about what Pigsah said at our last TeleSensing?"*
 
-Iúna: "Pigsah was right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children *won't* have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod."
+*Iúna: "Pigsah was right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children *won't* have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod."*
 
-Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*."*
+*Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*."*
 
 ### Page 12
 
-*Iúna: "I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance."
+*Iúna: "I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance."*
 
-Tahoe: "But we still haven't figured out our own solutions to the *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour..."
+*Tahoe: "But we still haven't figured out our own solutions to the really *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour..."*
 
-Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?"
+*Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?"*
 
-Tahoe: "What?"
+*Tahoe: "What?"*
 
-Iúna: "The first successful splice of eSyrup with a living organic compound, a recipe for creating eSyrup biofilm!"
+*Iúna: "The first successful splice of eSyrup with a living organic compound, a recipe for creating eSyrup biofilm!"*
 
-Tahoe: "...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?"
+*Tahoe: "...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?"*
 
-Iúna: "Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive info-spheres?"
+*Iúna: "Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive info-spheres?"*
 
-Tahoe: "...yes...?"
+*Tahoe: "...yes...?"*
 
-Iúna: "*It's possible now.* If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if creating and interacting with these creatures is part of our religious practice..."
+*Iúna: "*It's possible now.* If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if creating and interacting with these creatures is part of our religious practice..."*
 
-Iúna: "...then neither Space Consortium nor any national government can interfere!"*
+*Iúna: "...then neither Space Consortium nor any national government can interfere!"*
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
@@ -272,13 +274,13 @@ Iúna: "...then neither Space Consortium nor any national government can interfe
 
 We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
-**"When growing a personal supply of eSyrup, say, for research or for fun, you can feed it enough silica just by running down to the beach once a week with a soup bowl." 
+**"When growing a personal supply of eSyrup, say, for research or for fun, you can feed it enough silica just by running down to the beach once a week with a soup bowl."**
 
-"Industrialized eSyrup production, however, needs quite a bit of silica. "
+**"Industrialized eSyrup production, however, needs quite a bit of silica."**
 
-"Sand mining was out of the question, given the Space Consortium's concern with their image - wouldn't want their brand tarnished by news of their operations destroying delicate coastal ecosystems or picturesque beachside communities." 
+**"Sand mining was out of the question, given the Space Consortium's concern with their image - wouldn't want their brand tarnished by news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
 
-"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the Antarctic."**
+**"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the Antarctic."**
 
 We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. Maybe close-up panels are shown on top of a background layer that shows a map of that area of the world?
 
@@ -286,11 +288,11 @@ We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.b
 
 We've now moved closer to that distant speck, and we see an enormous deep-sea drilling platform, a monstrous steel structure anchored into the Antarctic sea - see [this video](https://youtu.be/DTlpzf47MIU) for reference. Behind the barges we see a distant coastline, mountainous and raw. 
 
-**"The lighthouse at Isla de los Estados once inspired a dying surrealist to write a novel about piracy, isolation, and surviving the extreme."
+**"The lighthouse at Isla de los Estados once inspired a dying surrealist to write a novel about piracy, isolation, and surviving the extreme."**
 
-"It was called, 'The Lighthouse at the End of the World'."
+**"It was called, 'The Lighthouse at the End of the World'."**
 
-"Jules did have a bit of a prophetic streak."**
+**"Jules did have a bit of a prophetic streak."**
 
 The deep-sea drilling platform is spewing water vapour, and the water around the rig looks stained with blood. Upon closer inspection, we see dead bodies littering the drilling platform and the surrounding ocean. The bodies are melted and corroded, faces frozen in blind expressions of horror. 
 
