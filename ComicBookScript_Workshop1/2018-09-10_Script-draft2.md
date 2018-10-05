@@ -320,7 +320,7 @@ Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee 
 
 ### Page 1
 
-**"2119: Somewhere on the Gemini Youth Station..."**
+**"October 5, 2119: A maintenance shaft on the Gemini Youth Station"**
 
 We see a beautiful half dome of transparent material encasing the Gemini Arboretum, glittering with greens and blues against the stark blackness of space. We can barely see four sections to the Arboretum: one section glitters with icy frost, another is gently dewy and full of riotous spring colors, the next simmers with heat and condensation, and the last is a marvel of autumn colors. The arboretum is part of the larger Gemini Youth Station, which includes a mess hall, student accommodations, a full-gravity sphere where students can exercise, and a common area. The entire Gemini Youth Station is attached to the Space University Station by a large steel bridge. Far below, we see the grubby edge of Earth's atmosphere. 
 
@@ -463,7 +463,7 @@ We are back in the maintenance shaft.
 
 **Min: "Oh come on! The Mendeleevers have been falling all over themselves to recommend you ever since you learned how to pull medical grade micro-eGlass in just a week. You could take just their exam and not even care about the other 2."**
 
-**Rhee: "Well, thank you for the compliment, but I'm still going to take 3 exams. It would be so embarrassing if I was arrogant enough to take just one, and then I *didn't* pass...huh, well that's really weird."**
+**Rhee: "Well, thank you for the compliment, but I'm still going to take 3 exams. It would be so embarrassing if I was so arrogant I took just one exam, and then I *didn't* pass...huh, well that's really weird."**
 
 **Min: "What?"**
 
@@ -475,29 +475,35 @@ We are back in the maintenance shaft.
 
 ### Page 9
 
-Asoka suddenly appears next to them, placing a warning hand on both Minka and Rhee's mouths. Rhee freezes in terror; Min grabs Soka's hand in a combative knee-jerk reaction before controlling herself. 
+Asoka suddenly appears next to them, placing a warning hand on both Minka and Rhee's mouths. A cuttlefish mechapet is wrapped around Asoka's neck. Rhee freezes in terror; Min grabs Soka's hand in a combative knee-jerk reaction before controlling herself. 
 
 **Rhee: "Aaaah! Oh jeez, Soka, I'm not used to your camou yet, can't you at least throw us your breath??"**
 
-We see a faint smile behind layers of translucent face veil, as the front of Asoka's traditional Biononymous clothing morphs to create the letters "Maybe I'll get a bell." 
+We see a faint smile behind layers of translucent face veil, as the front of Asoka's traditional Biononymous clothing morphs to create the letters "Maybe I'll get a bell." The cuttlefish mechapet oozes forward to sit on Asoka's shoulder and chirps at Rhee. 
+
+**Cuttlefish Mechapet: "We're silent, like ninjas!"
+
+**Rhee: "Good for you, Iri."**
+
+Even though Rhee tries to act annoyed, she can't help reaching over to pet Iri. 
 
 **Min: "Haha, you found us! Were you able to analyse the plants?"**
 
 The three teens stand in a circle with their hands palm-to-palm. 
 
-*Asoka: "So, yes, I was able to analyse them, but...these plants are *really* weird."*
+*Asoka: "So, yes, I was able to analyse them, but...these plants are **really** weird."*
 
 *Min: "What do you mean?"*
 
 ### Page 10
 
-*Asoka: "What I *mean*, is, even though these plants are growing more slowly, and they *look* like runts, their nutrient content is off the charts! Calcium, potassium, zinc, iron, protein, they're all elevated to about 20 percent more than the crops we planted."* 
+*Asoka: "What I **mean**, is, even though these plants are growing more slowly, and they **look** like runts, their nutrient content is off the charts! Calcium, potassium, zinc, iron, protein, they're all elevated to about 20 percent more than the crops we originally planted."* 
 
-*Rhee: "Wait, are you telling us...that the mystery crops are *better* than the fancy proprietary crops the ISE Corps buys from Space Consortium?"*
+*Rhee: "Wait, are you telling us...that the mystery crops are **better** than the fancy proprietary crops the ISE Corps buys from Space Consortium?"*
 
 Min suddenly grips both Asoka and Rhee's hands tightly. 
 
-*Min: "Oh...my...BUTTS, you know what this means??"*
+*Min: "Oh...my...BUTTS, you know what this **means**??"*
 
 *Rhee: "Min, you're hurting my hand."*
 
@@ -511,7 +517,7 @@ Min suddenly grips both Asoka and Rhee's hands tightly.
 
 *Rhee: "Ok, let's not jump to conclusions yet. Soka, did you screen the plants for eSyrup-tuned genetic structures, or whatever it was you were looking for?"* 
 
-*Asoka: "So, yeah, that's another weird thing...some of the plants *are* genetically modified to form silica-harvesting proteins during digestion, but this was only about 1 out of 10 of the plants I analysed. And the I can't tell what other structures these plants are genetically modified to build, but they have some *really* weird gene sequences."*
+*Asoka: "So, yeah, that's another weird thing...some of the plants **are** genetically modified to form silica-harvesting proteins during digestion, but this was only about 1 out of 10 of the plants I analysed. And the I can't tell what other structures these plants are genetically modified to build, but they have some **really** weird gene sequences."*
 
 *Min: "So...we're back where we started."*
 
@@ -525,7 +531,7 @@ Asoka's clothes morph to read "Yes."
 
 ### Page 12
 
-**Min: "Rhee, you know where human bodies store silica? In our bones and cartilage. In the case of you and every Orbiter on this station, your skeletons are already depleted from a lifetime in orbit. Do you really want to become an immobile blob, unable to move your own body, eating these mysterious plants that will suck your bones out of you?"**
+**Min: "Rhee, you know where human bodies store silica? *In our bones and cartilage*. In the case of you and every Orbiter on this station, your skeletons are already depleted from a lifetime in orbit. Do you really want to become an immobile *blob*, unable to move your own body, eating these mysterious plants that will *suck your bones out of you*?"**
 
 Rhee looks horrified. 
 
@@ -545,14 +551,278 @@ Rhee sighs.
 
 ### Page 1
 
+**"October 5, 2119: A maintenance shaft on the Gemini Youth Station"**
 
-
-
-
+Rhee is working on unlocking the secret airlock door, which is still glowing a dull red. Min is practicing her handstands. Asoka and Iri are practicing their camouflage. 
 
 The airlock door suddenly turns green and gently clicks open. 
 
 **Min: "Finally!"**
+
+Min drops her legs to get out of the handstand and comes over to inspect the secret door. Asoka comes over as well, and Asoka and Iri also inspect the door. Rhee steps back and stares hard at the back of Min's head. 
+
+Rhee comes to a decision. 
+
+**Rhee: "We still need to disable the ID register...especially if you want to go through, Min."**
+
+Min looks at Rhee with wary curiosity. 
+
+**Min: "Why's that?"**
+
+Rhee blushes, but plows ahead. 
+
+**Rhee: "You're not a normal Earther gangie, are you?"**
+
+**Rhee: "Who are you really, Aramina Pedroso of the Petar Caves?"**
+
+### Page 2
+
+==Flashback==
+
+Backdrop: the glittery blackness of outer space, tempered by the light touch of the outermost layer of atmosphere. 
+
+**PA: "This is a World Government Shuttle Barge Service, departing from Lower Estates Space Arboretum and terminating at Gemini Arboretum. Our next stop is the Mae Jemison Memorial station."**
+
+Small panel, upper left of the page: very close-up view of Min's closed eye. Her subdermal shield is in stealth mode, mostly invisible except where it is pretending to be tendrils of hair cut into an elaborate shaved pattern; her clan tatoos, frozen in an imitation of an Earther gangie's head tatoo. Just around her eye, we see shadows of her raw eSyrup tatoo flickering with hints of her dreams. 
+
+**PA: "You may unbuckle your safety harnesses at this time."**
+
+Another small panel, floating just to the right and a little below the first panel: The eyelid cracks open and we see part of a dark, deep brown eye flecked with gold. A tendril of hair floats across Min's forehead - there is no longer enough gravity to hold it down. 
+
+**PA: "Please exercise caution while moving about the shuttle barge."**
+
+Two panels, the same size as the previous small panels, connected to each other and in the middle of the page: (on the left) Min's POV, looking down her belly at the harness buckle. (on the right) View from above Min's seat, as Min floats up above her seat, still half-asleep and holding her belly rather tenderly. The PA announcement is mirrored in scrolling text in many languages on the ceiling of the shuttle compartment. 
+
+**PA: "If you would like to purchase any drinks or snacks, the cafe compartment is now open."**
+
+### Page 3
+
+We see Min sitting in the cafe compartment, nursing a hot tea and still looking a bit groggy. She stares out the window as the curvature of the Earth slowly rotates under the shuttle. 
+
+**PA: "This is the Mae Jemison Memorial station. Change here for services to the Peggy Whitson Memorial Space Arboretum. The next station is Upper Estates Space Hub. This shuttle terminates at Gemini Station."** 
+
+Min is well-hidden behind her large pack in her corner booth by the viewing port. Crowds of mostly Orbiters have gathered in small groups throughout the cafe compartment. Earthers are scattered throughout the room, clustered in their own cliques. The Earthers all have much bulkier bodies than the Orbiters, and in many cases their backs are hunched and their skin is ghostly pale, thanks to living their lives in underground tunnels. The vast majority of both Earthers and Orbiters are surgically equipped with World Government standard issue eSyrup body modifications, which stretch their skin and cast faint, bruise-like shadows. Some of the Earthers, mostly from military or academia families, also find room to be disdainful and superior towards the Earther gangies, identifiable by their elaborate head tatoos, who tend to be from the lowest castes in the great underground World Government cities. 
+
+There is a commotion by the bar. An Earther gangie teen, with a body covered in mods and cautious, defensive eyes, has knocked over the drink of a petite Orbiter girl and got her drink all over her. 
+
+**Petite Orbiter girl: "Wha--! Well excuse you!"**
+
+**Earther gangie: "What? You were standing in the middle of the path."**
+
+**Petite Orbiter: "What path, we're standing at the bar!"**
+
+During this scene, the panels are focused on Min, who is watching with bored eyes from over her hot cup of tea. 
+
+Behind her, a body dressed in the multi-layered clothing of the Biononymous cult appears. The body places a finger onto Min's back. 
+
+*Biononymous teen: "Mini?"*
+
+We can see Min's eyes, reflected in the viewing port, grow wide as the reflection shows a vague figure. Min's mouth curves up into a triumphant grin.
+
+*Min: "You made it!!!"*
+
+### Page 4
+
+Our attention shifts to the fight happening at the bar. Earther gangie reaches over to a not-quite cleared table to grab a mostly unused napkin while simultaneously grabbing Petite Orbiter's hand and starts to mop up the spilled drink on her hand. However, he is quite rough and his facial expression betrays his anger at having to apologize. 
+
+**Earther gangie: "Look, I'm really sorry--"**
+
+Petite Orbiter yanks her hand away coldly. 
+
+**Petite Orbiter: "Don't touch me."** 
+
+**Earther gangie: "What, I'm trying to--"**
+
+**Petite Orbiter: "THAT'S NOT CLEAN, DON'T TOUCH ME WITH IT!!"** 
+
+This moment draws everyone's attention in the cafe.
+
+### Page 5
+
+Some other Orbiters come over and push the Earther gangie away.
+
+**Orbiters: "Hey why don't you leave her alone?" "Just stop!" "Leave, Muskie!"** 
+
+Earther gangie gets immediately wild-eyed and tenses his body into a fighting stance. 
+
+**Earther gangie: "You guys wanna fight?!"**
+
+Some of the other Earther gangie's perk their ears and start to turn towards the scene.  
+
+**Petite Orbiter: "What?? No!"**
+
+### Page 6
+
+Earther gangie presses a small grey canister into a body mod port on his neck, and his legs suddenly puff up, get more defined, his arms also get more buff, and an already sturdy-looking human is now pumped up like a body builder.
+
+**Earther gangie: "Fight me!!"**
+
+With a roar, several other Orbiters and Earther gangies press similar canisters into their necks, suddenly pump up, and throw themselves at each other. 
+
+Everyone else looks on in serene befuddlement, and we see that even Min and the Biononymous teen can't help but stare. 
+
+Petite Orbiter has also pressed a capsule into the mod port at her neck in an attempt to stay safe in a suddenly escalated situation, but her transformation isn't going smoothly. Her body wobbles and inflates in a rather chaotic manner for a few seconds, then everything deflates and the Petite Orbiter heaves an enormous vomit. People around her scatter away as fast as they can, knocking over more drinks. As she stumbles to get away from the fight, she turns and runs into the tall Biononymous teen. Min looks at the Petite Orbiter with concern.
+
+**Min: "Are you alright?"**
+
+Petite Orbiter looks up at Min, pained and desperate, as the Biononymous teen steadies her. Then the Petite Orbiter heaves another vomit. 
+
+### Page 7
+
+The original Earther gangie who knocked Petite Orbiter's drink has finally noticed where Petite Orbiter ended up.
+
+**Earther gangie: "Hey!"** 
+
+Min looks up to see him rushing over, intent on fighting Petite Orbiter. Min tries to warn the Biononymous teen and the Petite Orbiter.
+
+**Min: "Watch out--!"**
+
+But the Earther gangie is blind with chemically-amplified fury and approaching too fast. Min steps in front of Biononymous teen and Petite Orbiter to grab his punching arm and throws his weight over her hip. He crashes into the cafe booth. 
+
+Min stands over the Earther gangie, looking disappointed and a bit angry. 
+
+**Min: "Hey, can't you see she's sick?"** 
+
+In the background, Biononymous teen is completely holding up Petite Orbiter. 
+
+**Earther gangie: "Why do you care?! Whose crew are you on anyway??"** 
+
+Earther gangie runs a wild eye judgmentally over Min as he tries struggles to stand. His upper lip curls in a cruel smirk
+
+**Earther gangie: "A mod virgin??"**
+
+Min's brow furrows at the derogatory term. Earther **GANGIE** says, off-panel: "No wonder you're useless!"
+
+### Page 8
+
+Tendril-like arms of a mechapet cuttlefish deftly twist out the grey capsule at Earther **GANGIE**'s neck with a soft *"KWUSSSSSSHHHHH"*. 
+
+**Earther gangie: "What the--!"**
+
+An inky, blobulous cuttlefish mechapet, floating behind the Earther gangie's head, tosses the grey capsule into its mouth with a happy gurgle. 
+
+**Cuttlefish mechapet: "I love Whamo!!"**
+
+Without the chemicals in the capsule, the Earther gangie deflates quickly, and starts to shiver; furiously. 
+
+**Earther gangie: "That's not fair, you *frakkin* robot!"** 
+
+Meanwhile, mecha-cleaners have rushed over and start sucking up Petite Orbiter's vomit. She looks almost ill again, watching the cleaning robots seemingly slurp up her vomit, so Biononymous teen, their traditional religious eSyrup clothing glowing with the "data-shivers" from Iri's consumption of the Whamo capsules, now easily turns Rhee away.
+
+**PA, frantic, as other Orbiters and Earther gangies continue to brawl: "Will passengers please note that physical violence will not be tolerated on this shuttle service! Will passengers please note that physical viole--"**
+
+The PA interrupts itself with a familiar ding.
+
+**PA: "We are now approaching Upper Estates Space Hub. Exit here for the ISE Space Orchestra Conservatory."**
+
+### Page 9
+
+We see Min's hand with Petite Orbiter's capsule, holding it out to the cuttlefish mechapet. 
+
+**Min: "Here, eat this too."**
+
+Mecha-tentacles snag the capsule and bring it back to a delighted cuttlefish mechapet. 
+
+Petite Orbiter, seated, is digging frantically through her bag as Biononymous teen holds the bag for her. 
+
+**Petite Orbiter: "Frak, I have no water..."**
+
+Min cheekily produces 3 hilariously tiny bottles of water.
+
+**Min: "Fizzy water nicked from the cafe?"**
+
+### Page 10
+
+Wide panel: the 3 teens, sitting side-by-side in the shuttle seats. Petite Orbiter sits in the middle, anti-nausea pill packaging crumpled in one hand, head tilted back as she guzzles the fizzy water clenched in her other hand, eyes closed, breathing hard. Min sits with her legs crossed in her seat and looking rather pleased with herself. The Biononymous teen sits with legs folded on top of their seat, cuttlefish mechapet happily munching the rest of Petite Orbiter's capsule as Biononymous teen pats it on the head. Biononymous teen's clothing once again pulse with glowing patterns, betraying a wireless coupling between the mechapet's internal state and the eSyrup in the Biononymous teen's clothing.  
+
+**Petite Orbiter: "Thanks. Taking Whamo was a terrible idea..."**
+
+**Min: "Is that what's in those capsules?"**
+
+Petite Orbiter nods and wipes her face with an eSyrup handkerchief she produces from her left sleeve.
+
+**Petite Orbiter: "Have you never seen anyone using uppers before? I guess you are a mod vir-- sorry, I mean, you don't have an body mods..."** 
+
+Min laughs. 
+
+**Min: "No worries. I'm Aramina Pedroso, from the Petar Caves of South America."
+
+### Page 11
+
+**Petite Orbiter: "I'm Rhee of the Seppellitori guild, Vela quadrant. Thank you for helping me." 
+
+Rhee gives Min an innocently curious sidelong glance.
+
+**Rhee: "Which gang are you from? I don't recognize your head tatoo..."**
+
+**Min: "How does an Orbiter know how to recognize Earther gangie head tatoos?"**
+
+Rhee looks sad and guilty and looks down again.
+
+**Rhee: "My parents are morticians for several large space construction companies who usually hire Earther gangies as cheap labor...so I've seen lots of head tatoos..."
+
+### Page 12
+
+The cuttlefish mechapet belches, breaking the awkward silence. Min and Rhee stare, then they both start to laugh. 
+
+Rhee looks at the mechapet with an extended hand.
+
+**Rhee: "My name is Rhee, what's yours?"**
+
+The mechapet eagerly stretches out its arms to Rhee.
+
+**Cuttlefish mechapet: "I'm Iri, I like you!"**
+
+Rhee turns to the Biononymous teen, whose clothing have morphed to spell out "Hi! Would you like to telesense?"
+
+**Rhee: "Oh! Sure, but how...?"**
+
+The Biononymous teen extends a hand palm forward to Rhee, a ghost of a smile visible beneath the teen's face mask. After a moment of confusion, Rhee puts her palm against the Biononymous teen's hand, who presses against Rhee's hand as Rhee suddenly looks as if she's being lightly electrocuted.
+
+Rhee: "Aaah! ...oh wow, that was weird!" Rhee stares at her hand.
+
+Then Rhee looks up at the Biononymous teen with a grin: "Pleased to meet you, Asoka of Green Haven Hibernia!" Iri claps two of its arms in celebration and looks enormously pleased. 
+
+==End of flashback==
+
+## Chapter 5
+
+
+
+
+
+
+
+
+Iri places two amorphous arms over its mouth in a caricature of horror. Min grins.
+
+**Min: "Did you just now figure that out, or have you been too polite to say anything?"**
+
+**Rhee: "When we started hanging out a lot, I noticed...your head tatoo isn't always stable..."**
+
+Min grimaces and smacks herself in the head. Asoka turns sharply to Min, and the front of their clothes morph to say, "I told you you've been getting sloppy!"
+
+**Min: "Shoot, I need to be more careful..."**
+
+**Rhee: "Anyway, we might all get expelled for snooping around like this, and while I'm not inherently opposed to figuring out what's going on, it's still a huge risk."**
+
+Rhee crosses her arms and looks at Min stubbornly. 
+
+**Rhee: "If you want any more of my help, I need to know who you really are."**
+
+### Page 3
+
+Min heaves a big sigh and sits down, back leaning against the wall of the maintenance shaft, head down, thinking. 
+
+Min looks up at Rhee with a resigned smile. 
+
+**Min: "You're totally right, you deserve to know before we go any further."**
+
+**Min: "My name isn't Aramina Pedroso, and I'm not from the PETAR caves. My real name is Minka Oosou, and I'm a member of the Automata."
+
+
+
+
 
 Min eagerly pulls herself through the airlock and readies herself against the metal framework on the other side, gently floating in the low gravity of the bridge. Rhee turns off her forehead info-sphere to look at Min. 
 
