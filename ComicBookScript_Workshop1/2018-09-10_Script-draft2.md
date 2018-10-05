@@ -110,7 +110,7 @@ Marcia looks over her shoulder, then turns back to Majhee.
 
 Felix Barbosa, a scientist in Majhee's lab, appears at the doorway, breathless and in tears.
 
-**Felix: "Majhee, my son-- President Netto!"**
+**Felix: "Majhee, my father-- President Netto!"**
 
 **Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
 
