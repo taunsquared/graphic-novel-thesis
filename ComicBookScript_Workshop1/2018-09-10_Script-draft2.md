@@ -320,47 +320,253 @@ Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee 
 
 ### Page 1
 
-**"2119: Space University Station and Gemini Youth Station"**
+**"2119: Somewhere on the Gemini Youth Station..."**
 
-We see a beautiful half dome of transparent material encasing the Gemini Arboretum, glittering with greens and blues against the stark blackness of space. It is part of the larger Gemini Youth Station, attached to the Space University Station by a large steel bridge. Far below, we see the grubby edge of Earth's atmosphere. 
+We see a beautiful half dome of transparent material encasing the Gemini Arboretum, glittering with greens and blues against the stark blackness of space. We can barely see four sections to the Arboretum: one section glitters with icy frost, another is gently dewy and full of riotous spring colors, the next simmers with heat and condensation, and the last is a marvel of autumn colors. The arboretum is part of the larger Gemini Youth Station, which includes a mess hall, student accommodations, a full-gravity sphere where students can exercise, and a common area. The entire Gemini Youth Station is attached to the Space University Station by a large steel bridge. Far below, we see the grubby edge of Earth's atmosphere. 
 
-**Min: "They're headed towards the bridge - they're from SUS!"**
+The voices are coming from a section of the Gemini Youth Station just before the bridge leading to Space University Station. 
 
-**Rhee: "Ok, calm down, I'm not going to be able to override this airlock with you hovering like that!"**
+**Rhee, off-panel: "They're headed towards Space Uni! Min, what if they're a Guild Leader?"**
 
-**Min: "But they're getting away!"**
+**Min, off-panel: "Even more reason to make them explain why they're messing with our farm!"**
+
+**"CLANG"**
+
+**Min, off-panel: "Oooowww..."**
+
+**Rhee, off-panel: "Min, you alright??"**
+
+**Min, off-panel: "Yeah...did they go through a wall? This is where the next handprint is."**
 
 ### Page 2
 
-We see Minka, writhing with impatience, behind Rhee, whose forehead info-sphere is flashing a schematic of the airlock system. Rhee's hands, fingers bent in a complex gesture, are also lit with spheres. They are in a maintenance shaft above the main corridor leading to the bridge that connects Space University Station with the Gemini. The airlock door in front of them glows a dull, gentle red. 
+We see Minka, tenderly rubbing her head, behind Rhee, whose forehead info-sphere is flashing an incomplete schematic of the Gemini Station maintenance shafts. Rhee's hands, fingers bent in a complex gesture, are also dimly lit with spheres. They are in a dark maintenance shaft above the main corridor leading to the bridge that connects Space University Station with the Gemini. 
 
-**Rhee: "Ok, so whoever they are, they also bypassed the ID register, so they're good, but we must have spooked them, because they didn't clean up very well..."**
+**Rhee: "Throw me your eyes?"**
 
-Asoka suddenly appears next to them, placing a warning hand on both Minka and Rhee's mouths. 
+Min closes her eyes, and through her eyelids, we see an x-ray-like version of the maintenance shaft. A ghostly hand print glows on the wall panel in front of Rhee. This view is replicated on Rhee's forehead info-sphere. 
 
-**Min: "Aaaah! Oh jeez, Soka, I'm not used to your camou yet, can't you at least throw us your breath??"**
+**Rhee: "Hmmmmm..."**
+
+Rhee lines up her hands to the glowing hand prints and gingerly begins to feel around the wall panels. 
+
+**"ba-DOOP"**
+
+**Rhee: "Aha!"**
+
+The wall panel morphs, and now airlock door appears in front of them, glowing a dull, gentle red. 
+
+### Page 3
+
+**Min: "Nice! Can you open it?"**
+
+**Rhee: "Maybe?"**
+
+Rhee has adjusted the light spheres at her hands, which now give her an x-ray-like view of the inner circuitry of the airlock door as she runs her hands over the metal. 
+
+**"bleep!"**
+
+**Rhee: "Interesting...why does a hidden airlock door have an ID scanner? Who else uses this door, besides a bunch of delinquent muskies who are probably ruining their chances of doing well on their qualification exams?"**
+
+**Min: "Do you even have to worry about the quals? I thought you were assigned already?"**
+
+**Rhee: "Assigned, but not Accepted. Didn't you pay any attention to induction?"**
+
+**Min: "Only to the interesting parts..."**
+
+### Page 4
+
+~~Flashback~~
+
+**"One month ago..."**
+
+We see a bird's eye view of the Gemini Station docking bay. About 150 new students, mostly Orbiters, stream out of the docked shuttle with their luggage, some in small groups of friends, and gather into a crowd facing a raised platform at the opposite end of the docking bay. A long row of about 25 older Orbiter teens, wearing the guild crests that mark them as 3rd year apprentices, stand on the raised platform, looking over the new trainees. Every 3rd or 4th apprentice holds a sign with the name and crest of a guild: 
+
+* Infradestructors
+* Mendeleevers
+* Cyberphilia
+* Hippocrates
+* Exocology
+* Corpora Caelus
+* Univatiso
+* Unassigned
+
+But in this scene we don't need to see all of the guild crests in great detail. 
+
+We see Min, Asoka, and Rhee in the crowd of first years. Asoka, easily one of the tallest first years, sticks out above the crowd, while both Min and Rhee struggle to look over the tops of the heads in front of them. 
+
+One of the third years steps forward and spreads their arms wide. The area around their mouth glimmers a bit from the body mod that is amplifying their voice. 
+
+**Third-year apprentice: "HELLO! CAN EVERYONE HEAR ME?"**
+
+Obligatory cheers from the audience. Min whoops and jumps, Rhee tries very hard to look too cool to be excited, and we can see Asoka's grin under layers of face veil. 
+
+**Third-year apprentice: "WELCOME TO THE GEMINI YOUTH STATION, HOME OF THE INTERNATIONAL SPACE EXPLORATION CORPS!"**
+
+### Page 5
+
+The 3rd year apprentices step forward and spread out along the front of the raised platform. 
+
+**Third-year apprentice: "IF YOU HAVE BEEN ASSIGNED, PLEASE FIND YOUR GUILD REP AND GO WITH THEM FOR YOUR GUILD-SPECIFIC INDUCTION!"**
+
+The "freshies" begin to break apart into groups of about 20. Guild reps lead each group towards a different docking bay door. 
+
+**Rhee: "I'm assigned to Mendeleevers. What about you two?"**
+
+Asoka's clothes morph to say "Exocology".
+
+**Min: "I'm...unassigned?"**
+
+All three look back up at the platform as the 3rd year with the amplified voice gestures to two of the 3rd years.
+
+**Third-year apprentice: "IF YOU ARE UNASSIGNED, PLEASE FOLLOW ZALO AND JHERI!"**
+
+Zalo smiles and gestures freshies towards Jheri, who has now come down from the raised platform and is herding Unassigned freshies towards Docking Bay Door 0813. 
+
+### Page 6
+
+We are now in a small meeting room just inside the hallway of Docking Bay Door 0813. 
+
+**Jheri: "Welcome everyone! I'm Jheri, apprentice of the Hippocrates guild, and this is Zalo, apprentice of the Infradestructors guild. We are your Guild Reps, which, in your case, means we are here to help you get a guild recommendation before qualifying exams at the end of the month!"**
+
+**Zalo: "You don't *need* a recommendation to a guild in order to take their qualifying exam, but it's generally a very good indicator of your chances. You can take up to 3 qualifying exams, and if you *want* a recommendation, you'll need to impress the guild reps."** 
+
+**Jheri: "By passing a guild's qualifying exam, you will have earned a guild assignment. A guild assignment is a mutual pledge of respect and solidarity, and a commitment to study the skills and protect the secrets of your guild."**
+
+**Jheri: "If you do not pass any qualifying exams, there will be no room for you at this school, and you will have to go home."**
+
+### Page 7
+
+**An Earther Gangie named Rajue: "But, wait, what if we're part of the Space Asylum Program? We have no home to go back to!"**
+
+Jheri looks terribly apologetic. 
+
+**Jheri: "If no guild will accept you, your scholarship will be void."**
+
+**A wave of anxious whispers briefly rumbles through the gathered first-years: "But wait, then what about the bursary they promised my family?" "Wasn't last year's drop-out rate something insane, like 40%??" "Why can't we take a drop-out's assignment?" "You mean no one is obligated to teach us, even though we made it this far?" "Your recruitment material is deliberately misleading!"**
+
+**Rajue: "So hold on, who put you in charge?"**
+
+**Close-up on Jheri's eyes as she gives him a sharp look: "No one. We volunteered."**
+
+~~ End Flashback~~
+
+### Page 8
+
+We are back in the maintenance shaft. 
+
+**Rhee: "Don't you have recommendations from, like, every guild?"**
+
+**Min: "Not Corpora Caelus..."**
+
+**Rhee: "You really want them that badly? 6 out of 7 guilds want you, and you want the *one* guild that hasn't offered you a rec. And here I am, struggling for anything at all."**
+
+**Min: "Oh come on! The Mendeleevers have been falling all over themselves to recommend you ever since you learned how to pull medical grade micro-eGlass in just a week. You could take just their exam and not even care about the other 2."**
+
+**Rhee: "Well, thank you for the compliment, but I'm still going to take 3 exams. It would be so embarrassing if I was arrogant enough to take just one, and then I *didn't* pass...huh, well that's really weird."**
+
+**Min: "What?"**
+
+**Rhee: "The ID register is completely empty."**
+
+**Min: "Seriously?"**
+
+**Rhee: "I guess this means we definitely need to disable it. Otherwise it'll look too suspicious..."**
+
+### Page 9
+
+Asoka suddenly appears next to them, placing a warning hand on both Minka and Rhee's mouths. Rhee freezes in terror; Min grabs Soka's hand in a combative knee-jerk reaction before controlling herself. 
+
+**Rhee: "Aaaah! Oh jeez, Soka, I'm not used to your camou yet, can't you at least throw us your breath??"**
 
 We see a faint smile behind layers of translucent face veil, as the front of Asoka's traditional Biononymous clothing morphs to create the letters "Maybe I'll get a bell." 
+
+**Min: "Haha, you found us! Were you able to analyse the plants?"**
+
+The three teens stand in a circle with their hands palm-to-palm. 
+
+*Asoka: "So, yes, I was able to analyse them, but...these plants are *really* weird."*
+
+*Min: "What do you mean?"*
+
+### Page 10
+
+*Asoka: "What I *mean*, is, even though these plants are growing more slowly, and they *look* like runts, their nutrient content is off the charts! Calcium, potassium, zinc, iron, protein, they're all elevated to about 20 percent more than the crops we planted."* 
+
+*Rhee: "Wait, are you telling us...that the mystery crops are *better* than the fancy proprietary crops the ISE Corps buys from Space Consortium?"*
+
+Min suddenly grips both Asoka and Rhee's hands tightly. 
+
+*Min: "Oh...my...BUTTS, you know what this means??"*
+
+*Rhee: "Min, you're hurting my hand."*
+
+*Min: "Sorry! But do you get it??"*
+
+*Asoka: "I guess this means...that our mystery farmer might actually be on our side...?"*
+
+*Min: "Maybe!"*
+
+### Page 11
+
+*Rhee: "Ok, let's not jump to conclusions yet. Soka, did you screen the plants for eSyrup-tuned genetic structures, or whatever it was you were looking for?"* 
+
+*Asoka: "So, yeah, that's another weird thing...some of the plants *are* genetically modified to form silica-harvesting proteins during digestion, but this was only about 1 out of 10 of the plants I analysed. And the I can't tell what other structures these plants are genetically modified to build, but they have some *really* weird gene sequences."*
+
+*Min: "So...we're back where we started."*
+
+Min disconnects her palms from Rhee and Asoka to rub her temples with mild frustration. 
+
+**Min: "We need to find our mystery farmer, and interrogate them, whoever they are."**
+
+Asoka's clothes morph to read "Yes."
+
+**Rhee: "But we were just talking about how they might be a Guild Leader!"**
+
+### Page 12
+
+**Min: "Rhee, you know where human bodies store silica? In our bones and cartilage. In the case of you and every Orbiter on this station, your skeletons are already depleted from a lifetime in orbit. Do you really want to become an immobile blob, unable to move your own body, eating these mysterious plants that will suck your bones out of you?"**
+
+Rhee looks horrified. 
+
+**Rhee: "*That's* what these plants will do to us??"**
+
+**Min: "I mean, I don't *know* for sure, but if these they're gonna build silica-harvesting proteins in our guts, then I wanna know whose *frakkin* great idea it was to plant these crops on our school farm, and why!"**
+
+Asoka's clothes morph to read "I agree!". 
+
+Rhee looks at Min and Asoka. 
+
+Rhee sighs. 
+
+**Rhee: "How did I *know* that you two would get me into trouble?"**
+
+## Chapter 4
+
+### Page 1
+
+
+
+
+
 
 The airlock door suddenly turns green and gently clicks open. 
 
 **Min: "Finally!"**
 
-Min eagerly pulls herself through the airlock and readies herself against the metal framework on the other side, gently floating in the low gravity of the bridge. 
+Min eagerly pulls herself through the airlock and readies herself against the metal framework on the other side, gently floating in the low gravity of the bridge. Rhee turns off her forehead info-sphere to look at Min. 
 
-**Rhee: "Right, Min, don't lose them, and don't forget to throw us your eyes!"**
+**Rhee: "Right, Min, don't lose them, and until you find Iri, throw us your eyes!"**
 
 Min gives her a thumbs up, then pushes off into the dimly lit tunnel. 
 
 ### Page 3
 
-Rhee cautiously enters the tunnel, then wipes her hands with an eSyrup handkerchief attached to the inside of her left sleeve. 
+Rhee daintily steps into the tunnel, then wipes her hands with an eSyrup handkerchief attached to the inside of her left sleeve. As Asoka climbs in after her, Rhee flicks her fingers in another well-practiced gesture to turn her forehead info-sphere back on and begins to erase the airlock's memory of their entry. Asoka begins to wipe down the parts of the airlock that could have been touched by Rhee and Min. 
 
 **Rhee: "Does she always do that? Run off and disappear without even looking back?"**
 
 Asoka's smile turns nostalgic and wistful, looking towards the quickly disappearing Min. The words on their clothes morph into "She always comes back..."
-
-#### Flashback
 
 **"2114: Amazon Rainforest"**
 
@@ -368,11 +574,13 @@ The dimly lit maintenance tunnel turns into the enormous trunk of a giant tree i
 
 **Min: "Come ON, Soka!!"**
 
-The face of young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
+The beaming face of young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
 
 Soka puts a gloved hand reverently on the tree trunk, and suddenly feeling shy, morphs words into the top of their head covering: "I've...never climbed a tree..."
 
-**Min: "You what?? What do you mean never??"**
+**Min: "You what?? What do you mean *never*??"**
+
+### Page 4
 
 Without waiting for Soka's response, Min quickly and decisively climbs back down to Soka. 
 
@@ -380,11 +588,9 @@ Min takes Soka's hand gently and beams at Soka with friendly, naive excitement.
 
 **Min: "It's easy! My nanna says that we used to live in trees all the time. You just hug the tree and it will never let you down!"**
 
-### Page 4
-
 **Min: "Like this..."**
 
-Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly, with arms stretched up from Soka's full height. Min then hops down to the ground and croches behind Soka, hands clasped to create a step for Soka's foot. 
+Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly. Min then hops down to the ground and croches behind Soka, hands clasped together to create a step for Soka's foot. 
 
 **Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I help Gustavo all the time, and he's much bigger than you."**
 
@@ -412,7 +618,7 @@ Min lets her fingers intertwine with Soka's.
 
 **Min: "Can we telesense? I want to keep looking up..."**
 
-Min and Soka let their hands fall above their heads onto the platform as they gaze up. 
+Min and Soka let their clasped hands fall above their heads onto the platform as they gaze up. 
 
 *Soka: "Does it still tickle?"*
 
@@ -420,7 +626,7 @@ Min and Soka let their hands fall above their heads onto the platform as they ga
 
 ### Page 6
 
-*Soka: "Why do you want to go out there so bad? It's nice inside your bubbles."*
+*Soka: "Why do you want to go out there so bad? It's so much nicer inside your bubbles."*
 
 *Min: "Because I *know* this is fake. I want reality, no matter how *ugly* it is."*
 
@@ -428,15 +634,17 @@ Min punches the eSyrup bubble. The location of impact swirls with iridescent col
 
 *Min: "So you don't have trees at the Green Havens?"*
 
-*Soka: "Not big ones like this. We don't have giant, flexible eSyrup bubbles at the Green Havens, just sealed greenhouses made of e-cement. So nothing grows taller than 2 meters."*
+*Soka: "Not big ones like this. We don't have giant, flexible eSyrup bubbles at the Green Havens, just sealed greenhouses made of eGlass and eSteel. So nothing grows taller than 2 meters."*
 
 *Min: "How can you stretch your brain if all of your ceilings are so low?"* 
 
-*Soka: "Ha, I guess we can't. Honestly, most people are so used to being underground, or indoors, I don't think they notice..."*
+*Soka: "Ha, I guess we can't. Honestly, most people are so used to being underground, or indoors, I don't think they notice."*
 
 *Min: "That's crazy..."*
 
 ### Page 7
+
+**"2119: The Bridge between Space University Station and Gemini Youth Station"**
 
 
 
@@ -453,6 +661,19 @@ Asoka's mission on the Gemini, as declared to the Biononymous, is to learn more 
 Min's mission on the Gemini, as declared to the Automata, is to discover just how advanced the proprietary eSyrup research of the Space Consortium has become. As the bearer of a subdermal shield, Min is a living embodiment of the pinnacle of Automata eSyrup research. 
 
 While chasing the mysterious figure through the dark corridors, Min reflects on the choice she must make in order to continue living and studying on Gemini Station - which guild to declare an interest in? Her secret dream is to be a space swimmer, but space swimming is considered too difficult for Earthers, and Orbiters take great pride in their dominance at space swimming, to the point of severe prejudice in the apprenticeship process. Min has also done well enough in several other topics of study that she already has a number of offers from 3rd year trainees to recommend her to their guild. She has no such connection to anyone in the space swimmer guild, and Min wonders if she should go for their qual exam anyway. First-year trainees can take qual exams for up to 3 guilds, and their choices are usually determined by offers of recommendation by 3rd year trainees. 
+
+### relevant writing vomit
+
+Min grins sheepishly at Rhee. 
+
+**Min: "Have you just been polite, or did I actually fool you at all?"**
+
+**Rhee: "You did! But not after we started hanging out a bunch..."**
+
+**Min: "I'm sorry I lied to you."**
+
+**Rhee: "It's ok! I'm sure you had good reason."**
+
 
 ## Chapter 7
 

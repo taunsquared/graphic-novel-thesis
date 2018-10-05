@@ -8,11 +8,13 @@ Pronouns: She/her/hers
 
 Phenotype: Korean. Straight, black hair; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
 
+Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes. Is just starting to need reading glasses, which she is constantly misplacing. 
+
 ### What does this character want?
 
 Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after Majhee's husband Cauã dies from skin cancer, and after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
 
-When the Global Water Crisis hits, Majhee decides that São Paulo is no longer safe, not for her family and not for eSyrup research. She decides to relocate to her parents-in-law's farm on the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of hydrogen flouride, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
+When the Global Water Crisis hits, Majhee decides that São Paulo is no longer safe, not for her family and not for eSyrup research. She decides to relocate to her parents-in-law's farm on the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
 
 ## Iúna Serrano Morei
 
