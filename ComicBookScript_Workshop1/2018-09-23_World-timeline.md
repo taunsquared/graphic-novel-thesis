@@ -247,11 +247,11 @@ Eithne is caught sabotaging plant splicing experiments and is arrested. João an
 
 After 2 years of hiding in the Northern Underground Cities, trying to evade mercenaries sent to hunt them down, João and Asoka are forced to cross the **RED ZONE** into the Southern Hemisphere. They are found by Amadou and brought to the Automata. Not knowing who to trust, João makes no mention of why they left Green Haven Kentucky, and begs for sanctuary with the Automata for the sake of 6-year-old Asoka. The Automata decide to let them stay as long as they renounce the use of any Orbiter products and never speak of the Underground Cities. 
 
-### 2115
+### 2116
 
 Climate change and wars on Earth are still creating refugee populations everywhere on Earth. The Space Consortium convinces the World Government to implement a refugee re-education process that gives Earther refugees the option of joining the ISE Corps as scholarship students, in which their application and tuition fees are waived in exchange for working on the Gemini Arboretum farm and on service crews at Gemini Youth Station during their apprentice-level training. This program, called the **Space Asylum Program**, is seen as a politically suave move and great PR. The Space Asylum Program is advertised as an effort to increase the diversity of the ISE Corps student body and increase the appeal of the ISE Corps mission as a global endeavor. Critics see it as just another flavour of exploitation and social oppression.
 
-### 2116
+### 2117
 
 Jina falls terribly ill, and nothing the Automata do seems to help. João reveals that he has been using a World Gov medical scanner and portable Laser Atomic Manipulator (LAM) to monitor his and Asoka's health and see to their medical needs. They offer both devices to the Automata as a means of saving Jina, revealing their breach of Automata law. 
 
