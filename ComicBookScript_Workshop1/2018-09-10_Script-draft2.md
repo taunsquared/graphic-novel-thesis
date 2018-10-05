@@ -316,6 +316,82 @@ Massive fluctuations of electromagnetic radiation from sun flares completely dis
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
+## Dream: Childhood
+
+### Page 1
+
+We see the enormous trunk of a giant tree in the Amazon Rainforest. A very young Soka, wearing traditional Biononymous clothes, looks up the tree with wonder and awe. 
+
+**Min: "Come ON, Soka!!"**
+
+The beaming face of young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
+
+Soka puts a gloved hand reverently on the tree trunk, and suddenly feeling shy, morphs words into the top of their head covering: "I've...never climbed a tree..."
+
+**Min: "You what?? What do you mean *never*??"**
+
+### Page 2
+
+Without waiting for Soka's response, Min quickly and decisively climbs back down to Soka. 
+
+Min takes Soka's hand gently and beams at Soka with friendly, naive excitement. 
+
+**Min: "It's easy! My nanna says that we used to live in trees all the time. You just hug the tree and it will never let you down!"**
+
+**Min: "Like this..."**
+
+Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly. Min then hops down to the ground and croches behind Soka, hands clasped together to create a step for Soka's foot. 
+
+**Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I help Gustavo all the time, and he's much bigger than you."**
+
+Soka hesitantly places a foot into Min's hands. 
+
+**Min: "Ok, on three! One, two--!"**
+
+Min straightens her legs as Soka scrabbles for a branch to hold. 
+
+**Min: "Ok, now other foot on my shoulder!"**
+
+Soka complies, and the two children make a wobbly human tower, the short but sturdy Min basing the taller, more willowy Soka. 
+
+**Min: "Hug the tree, hug the tree!!"**
+
+### Page 3
+
+Min and Soka have made it to the top of the tree and are lying on a platform, staring up at a sky that seems blue, with clouds that seem puffy and far away. Min reaches up with a finger to poke at the eSyrup bubble separating them from the sky, protecting them from the real sun and atmosphere, both too harsh now for humans to lie under unprotected. Soka's gloved fingers also graze the eSyrup bubble. 
+
+**Min: "One day, I'll be a real Tree Surfer, and then I'll be able to see the real sky, and feel real wind!"**
+
+Soka's face mask rearranges to read, "It's not so pretty out there..."
+
+Min lets her fingers intertwine with Soka's. 
+
+**Min: "Can we telesense? I want to keep looking up..."**
+
+Min and Soka let their clasped hands fall above their heads onto the platform as they gaze up. 
+
+*Soka: "Does it still tickle?"*
+
+*Min: "Haha, a little! But I'm used to it now, I think."*
+
+### Page 4
+
+*Soka: "Why do you want to go out there so bad? It's so much nicer inside your bubbles."*
+
+*Min: "Because I *know* this is fake. I want reality, no matter how *ugly* it is."*
+
+Min punches the eSyrup bubble. The location of impact swirls with iridescent colors before settling back into a clean, clear blue. 
+
+*Min: "So you don't have trees at the Green Havens?"*
+
+*Soka: "Not big ones like this. We don't have giant, flexible eSyrup bubbles at the Green Havens, just sealed greenhouses made of eGlass and eSteel. So nothing grows taller than 2 meters."*
+
+*Min: "How can you stretch your brain if all of your ceilings are so low?"* 
+
+*Soka: "Ha, I guess we can't. Honestly, most people are so used to being underground, or indoors, I don't think they notice."*
+
+*Min: "That's crazy..."*
+
 ## Chapter 3: 
 
 ### Page 1
@@ -927,15 +1003,27 @@ Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
 
 ### Page 10
 
-**Jina: "You are now autonomous. What will you do with your freedom?"**
+**"May 20, 2119: Amazon Rainforest"**
 
-**Min: "Before the Burning Oceans, before the Severing that put such a distance between us and the Orbiters..."**
+Min and Jina sit in comfortable silence, leaning against each other and watching the sunset. Min is showing off her counterfeit Universal Record, so that she can register for the ISE Corps without revealing the Automata. 
 
-**Min: "...my grandmother, Dr. Majhee Suh, raced to discover the secrets of eSyrup before the Space Consortium..."**
+**Jina: "Haha, Aramina Pedroso, really? And now you will take our achievements into orbit, through this Space Asylum Scholarship. I'm so proud of my strong, smart, clever daughter."**
 
-**Min: "...and now, I carry in my very skin, the pinnacle of that research, our subdermal shield."**
+**Min: "Mom...do you remember Asoka, and João?"**
 
-**Min: "I will go into Orbit, and discover just how far Space Consortium has run without my grandmother around to light a fire under their tails."**
+**Jina: "Of course! João saved my life, how could I forget them?"**
+
+**Min: "Asoka is also going to the ISE Corps with me...
+
+**Min: "...and they want to continue Eithne's work."**
+
+**Jina: "I see."** 
+
+Jina's hand clasps Min's hand, and their clan tatoos swirl against each other. 
+
+**Jina: "Remember, no matter what happens, 'autonomous' doesn't mean 'alone'. I love you, Minaya."**
+
+**Min: "Love you too, mom."**
 
 ### Page 11
 
@@ -943,7 +1031,7 @@ Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
 
 Rhee, Min, and Soka sit in the maintenance shaft. 
 
-**Rhee: "So...you want to know how far Space Consortium's cutting edge eSyrup research went?"**
+**Rhee: "So...you want to know how far Space Consortium's eSyrup research went?"**
 
 **Min: "That's part of it."**
 
@@ -1015,95 +1103,19 @@ Min carefully places her own hand next to the smaller handprint in the tunnel, t
 
 The image morphs into two handprints in the dirt: one the same as the smaller, more wrinkled hand print in the bridge interstitial space; the other is Min's hand print. 
 
+This flashback introduces PQ and shows us some of the work that Min has to do as a scholarship student: working on the farm, cleaning the public spaces of the Gemini station, cooking for the cafeteria. Rajue is also a scholarship student, and he and Min end up talking about Orbiter prejudices against Earthers, including the assumption that Earthers cannot handle the work of the Corpora Caelus guild. 
+
+**Min: "I think our mystery farmer is working with PQ, head of the Gemini station service crew."
+
+## Chapter 7
 
 
 
 
 
 
-### Page 3
 
-**Rhee: "Does she always do that? Run off and disappear without even looking back?"**
 
-Asoka's smile turns nostalgic and wistful, looking towards the quickly disappearing Min. The words on their clothes morph into "She always comes back..."
-
-**"2114: Amazon Rainforest"**
-
-The dimly lit maintenance tunnel turns into the enormous trunk of a giant tree in the Amazon Rainforest. A much younger Soka, also wearing traditional Biononymous clothes, looks up the tree with wonder and awe. 
-
-**Min: "Come ON, Soka!!"**
-
-The beaming face of young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
-
-Soka puts a gloved hand reverently on the tree trunk, and suddenly feeling shy, morphs words into the top of their head covering: "I've...never climbed a tree..."
-
-**Min: "You what?? What do you mean *never*??"**
-
-### Page 4
-
-Without waiting for Soka's response, Min quickly and decisively climbs back down to Soka. 
-
-Min takes Soka's hand gently and beams at Soka with friendly, naive excitement. 
-
-**Min: "It's easy! My nanna says that we used to live in trees all the time. You just hug the tree and it will never let you down!"**
-
-**Min: "Like this..."**
-
-Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly. Min then hops down to the ground and croches behind Soka, hands clasped together to create a step for Soka's foot. 
-
-**Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I help Gustavo all the time, and he's much bigger than you."**
-
-Soka hesitantly places a foot into Min's hands. 
-
-**Min: "Ok, on three! One, two--!"**
-
-Min straightens her legs as Soka scrabbles for a branch to hold. 
-
-**Min: "Ok, now other foot on my shoulder!"**
-
-Soka complies, and the two children make a wobbly human tower, the short but sturdy Min basing the taller, more willowy Soka. 
-
-**Min: "Hug the tree, hug the tree!!"**
-
-### Page 5
-
-Min and Soka have made it to the top of the tree and are lying on a platform, staring up at a sky that seems blue, with clouds that seem puffy and far away. Min reaches up with a finger to poke at the eSyrup bubble separating them from the sky, protecting them from the real sun and atmosphere, both too harsh now for humans to lie under unprotected. Soka's gloved fingers also graze the eSyrup bubble. 
-
-**Min: "One day, I'll be a real Tree Surfer, and then I'll be able to see the real sky, and feel real wind!"**
-
-Soka's face mask rearranges to read, "It's not so pretty out there..."
-
-Min lets her fingers intertwine with Soka's. 
-
-**Min: "Can we telesense? I want to keep looking up..."**
-
-Min and Soka let their clasped hands fall above their heads onto the platform as they gaze up. 
-
-*Soka: "Does it still tickle?"*
-
-*Min: "Haha, a little! But I'm used to it now, I think."*
-
-### Page 6
-
-*Soka: "Why do you want to go out there so bad? It's so much nicer inside your bubbles."*
-
-*Min: "Because I *know* this is fake. I want reality, no matter how *ugly* it is."*
-
-Min punches the eSyrup bubble. The location of impact swirls with iridescent colors before settling back into a clean, clear blue. 
-
-*Min: "So you don't have trees at the Green Havens?"*
-
-*Soka: "Not big ones like this. We don't have giant, flexible eSyrup bubbles at the Green Havens, just sealed greenhouses made of eGlass and eSteel. So nothing grows taller than 2 meters."*
-
-*Min: "How can you stretch your brain if all of your ceilings are so low?"* 
-
-*Soka: "Ha, I guess we can't. Honestly, most people are so used to being underground, or indoors, I don't think they notice."*
-
-*Min: "That's crazy..."*
-
-### Page 7
-
-**"2119: The Bridge between Space University Station and Gemini Youth Station"**
 
 
 
