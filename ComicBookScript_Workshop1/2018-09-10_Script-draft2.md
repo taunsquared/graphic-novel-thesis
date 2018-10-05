@@ -310,7 +310,11 @@ The crowds in front of the Laboratório Nacional de Biociências e Saúde Públi
 
 **Majhee: "We need to finish packing up NOW."**
 
-Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
+Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. 
+
+One month ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Romania. 
+
+Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
 Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride.
 
@@ -328,7 +332,7 @@ We see the enormous trunk of a giant tree in the Amazon Rainforest. A very young
 
 **Min: "Come ON, Soka!!"**
 
-The beaming face of young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
+The beaming face of a very young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
 
 Soka puts a gloved hand reverently on the tree trunk, and suddenly feeling shy, morphs words into the top of their head covering: "I've...never climbed a tree..."
 
@@ -382,7 +386,7 @@ Min and Soka let their clasped hands fall above their heads onto the platform as
 
 *Soka: "Why do you want to go out there so bad? It's so much nicer inside your bubbles."*
 
-*Min: "Because I *know* this is fake. I want reality, no matter how *ugly* it is."*
+*Min: "Because I **know** this is fake. I want reality, no matter how **ugly** it is."*
 
 Min punches the eSyrup bubble. The location of impact swirls with iridescent colors before settling back into a clean, clear blue. 
 
