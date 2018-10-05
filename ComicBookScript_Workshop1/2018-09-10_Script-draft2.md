@@ -453,6 +453,8 @@ Jheri looks terribly apologetic.
 
 ### Page 8
 
+**"Back in the maintenance shaft on Gemini Arboretum..."**
+
 We are back in the maintenance shaft. 
 
 **Rhee: "Don't you have recommendations from, like, every guild?"**
@@ -551,7 +553,7 @@ Rhee sighs.
 
 ### Page 1
 
-**"October 5, 2119: A maintenance shaft on the Gemini Youth Station"**
+**"October 5, 2119: A maintenance shaft on the Gemini Arboretum"**
 
 Rhee is working on unlocking the secret airlock door, which is still glowing a dull red. Min is practicing her handstands. Asoka and Iri are practicing their camouflage. 
 
@@ -578,6 +580,8 @@ Rhee blushes, but plows ahead.
 ### Page 2
 
 ==Flashback==
+
+**"September 2, 2119: On the shuttle barge service to Gemini Arboretum."**
 
 Backdrop: the glittery blackness of outer space, tempered by the light touch of the outermost layer of atmosphere. 
 
@@ -691,7 +695,9 @@ Earther gangie runs a wild eye judgmentally over Min as he tries struggles to st
 
 **Earther gangie: "A mod virgin??"**
 
-Min's brow furrows at the derogatory term. Earther **GANGIE** says, off-panel: "No wonder you're useless!"
+Min's brow furrows at the derogatory term. 
+
+**Earther gangie, off-panel: "No wonder you're useless!"**
 
 ### Page 8
 
@@ -745,11 +751,11 @@ Petite Orbiter nods and wipes her face with an eSyrup handkerchief she produces 
 
 Min laughs. 
 
-**Min: "No worries. I'm Aramina Pedroso, from the Petar Caves of South America."
+**Min: "No worries. I'm Aramina Pedroso, from the Petar Caves of South America."**
 
 ### Page 11
 
-**Petite Orbiter: "I'm Rhee of the Seppellitori guild, Vela quadrant. Thank you for helping me." 
+**Petite Orbiter: "I'm Rhee of the Seppellitori guild, Vela quadrant. Thank you for helping me."** 
 
 Rhee gives Min an innocently curious sidelong glance.
 
@@ -759,7 +765,7 @@ Rhee gives Min an innocently curious sidelong glance.
 
 Rhee looks sad and guilty and looks down again.
 
-**Rhee: "My parents are morticians for several large space construction companies who usually hire Earther gangies as cheap labor...so I've seen lots of head tatoos..."
+**Rhee: "My parents are morticians for several large space construction companies who work with conscripted Earther gangies...so I've seen lots of head tatoos..."**
 
 ### Page 12
 
@@ -779,26 +785,29 @@ Rhee turns to the Biononymous teen, whose clothing have morphed to spell out "Hi
 
 The Biononymous teen extends a hand palm forward to Rhee, a ghost of a smile visible beneath the teen's face mask. After a moment of confusion, Rhee puts her palm against the Biononymous teen's hand, who presses against Rhee's hand as Rhee suddenly looks as if she's being lightly electrocuted.
 
-Rhee: "Aaah! ...oh wow, that was weird!" Rhee stares at her hand.
+**Rhee: "Aaah! ...oh wow, that was weird!"**
 
-Then Rhee looks up at the Biononymous teen with a grin: "Pleased to meet you, Asoka of Green Haven Hibernia!" Iri claps two of its arms in celebration and looks enormously pleased. 
+Rhee stares at her hand.
+
+Then Rhee looks up at the Biononymous teen with a grin.
+
+**Rhee: "Pleased to meet you, Asoka of Green Haven Hibernia!"** 
+
+Iri claps two of its arms in celebration and looks enormously pleased. 
 
 ==End of flashback==
 
 ## Chapter 5
 
+### Page 1
 
+**"October 5, 2119: A maintenance shaft on the Gemini Arboretum"**
 
-
-
-
-
-
-Iri places two amorphous arms over its mouth in a caricature of horror. Min grins.
+Iri has two amorphous arms over its mouth in a caricature of horror. Min grins.
 
 **Min: "Did you just now figure that out, or have you been too polite to say anything?"**
 
-**Rhee: "When we started hanging out a lot, I noticed...your head tatoo isn't always stable..."**
+**Rhee: "When we started hanging out a lot, I noticed...your head tatoo isn't always the same..."**
 
 Min grimaces and smacks herself in the head. Asoka turns sharply to Min, and the front of their clothes morph to say, "I told you you've been getting sloppy!"
 
@@ -810,21 +819,175 @@ Rhee crosses her arms and looks at Min stubbornly.
 
 **Rhee: "If you want any more of my help, I need to know who you really are."**
 
-### Page 3
+### Page 2
 
-Min heaves a big sigh and sits down, back leaning against the wall of the maintenance shaft, head down, thinking. 
+Min heaves a big sigh and sits down, back leaning against the wall of the maintenance shaft, head down, thinking. Min's legs are bent up and her arms rest on her knees. Asoka softly places her hand on Min's shoulder in a gesture of comfort. 
 
 Min looks up at Rhee with a resigned smile. 
 
 **Min: "You're totally right, you deserve to know before we go any further."**
 
-**Min: "My name isn't Aramina Pedroso, and I'm not from the PETAR caves. My real name is Minka Oosou, and I'm a member of the Automata."
+**Min: "My name isn't Aramina Pedroso, and I'm not from the PETAR caves. My real name is Minka Oosou, and I'm a member of the Automata."**
+
+Rhee's eyes grow huge. 
+
+**Rhee: "Wait...the *Automata*?? I've heard of them...do you really live on the surface? Were you harboring Earthers who tried to run away from the work draft to build Space University?"**
+
+**Min: "Yes, to both."**
+
+**Rhee: "So then, is your head tatoo just a fake gang tatoo?"**
+
+**Min: "It's a tatoo made of eSyrup...want me to show you?"**
+
+Rhee nods, eyes huge with anticipation. 
+
+### Page 3
+
+Min stands and relaxes her subdermal shield out of stealth mode. Min's head tatoo melts into the far more elaborate pattern of her Automata clan tatoos, spreading across her whole body. The subdermal shield becomes more visible, giving her dark skin a metallic grey sheen. Min looks euphoric. 
+
+**Rhee: "*Woooow!* That was...*beautiful*...!"**
+
+**Min: "When I do that, I reconnect with every other member of my clan who has a subdermal shield. I just let them know that I'm well, and with good friends."**
+
+**Rhee: "What's a subdermal shield? Why do you have it?"**
+
+**Min: "It's what let's us live on the surface, instead of hiding in caves..."**
+
+### Page 4
+
+**"February 18, 2118: Amazon Rainforest"**
+
+Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
+
+Drum beats keep everyone synchronised.
+
+**"Another Tree Surfer is born tonight."**
+
+Over this backdrop, small close-up panels are scattered, showing different parts of 16 year old Min, a year before she leaves Earth, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
+* an eye, nose, and ear. The eye is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with eSyrup metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
+* a strong and straight back, dominated by an eSyrup tatoo depicting a shallow coral ocean scene, ever-changing.  
+* shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
+* legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
+
+**"To be reborn, each Expert Crafter of the Automata must first retreat to one of the sacred caves and refrain from both speech and food for 7 days. Then, they must accept an injection of *raw eSyrup* into their *full skin*."**
+
+### Page 5
+
+3 panels show close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
+
+* Jina and Amadou, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield, marking her as an Expert Crafter, dance triumphantly in shadowy patterns under the clan tatoos. Next to her is a tall, beautiful eSyrup metal bucket, holding ritual clensing water.    
+* Majhee, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
+* Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's subdermal shield. Next to Maraba, in a shallow curving basket woven from eSyrup kevlar, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
+
+**"DOOOOHM!"** 
+
+The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
+
+Jina, Amadou, Majhee, and Maraba all stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
+
+### Page 6
+
+Maraba picks up the syringe as Jina picks up the bucket of water, leaving Majhee and Amadou to hold the hoop with Min inside steady. 
+
+Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then Maraba positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
+
+Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, into her eyelids and nose and mouth. As the subdermal shield continues down her throat to line her lungs and gut, Min begins to cough and gag. 
+
+### Page 7
+
+Min's body convulses as her inner circle sets her upright in the very center again. 
+
+The crowd chants **"Be Free! Be FREE! BE FREE!"** as Min finishes integrating the subdermal shield. 
+
+After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
+
+### Page 8
+
+View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Majhee gently place the hoop back down in its exact previous position, centering Min again. 
+
+Majhee stands at her original position in the inner circle. 
+
+**Majhee: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"**
+
+View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
+
+Majhee's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
+
+### Page 9
+
+Min closes her eyes, tries to calm her breathing, and struggles to stand. 
+
+**Min: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."**
+
+**Min: "...and to MOVE in any direction with curiosity and grace..."**
+
+Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
+
+**Min: "...even OFF THE PLANET!"**
+
+### Page 10
+
+**Jina: "You are now autonomous. What will you do with your freedom?"**
+
+**Min: "Before the Burning Oceans, before the Severing that put such a distance between us and the Orbiters..."**
+
+**Min: "...my grandmother, Dr. Majhee Suh, raced to discover the secrets of eSyrup before the Space Consortium..."**
+
+**Min: "...and now, I carry in my very skin, the pinnacle of that research, our subdermal shield."**
+
+**Min: "I will go into Orbit, and discover just how far Space Consortium has run without my grandmother around to light a fire under their tails."**
+
+### Page 11
+
+**"Back on the Gemini Arboretum..."**
+
+Rhee, Min, and Soka sit in the maintenance shaft. 
+
+**Rhee: "So...you want to know how far Space Consortium's cutting edge eSyrup research went?"**
+
+**Min: "That's part of it."**
+
+Min looks at Asoka and squeezes Asoka's hand. 
+
+**Min: "Asoka's grandmother also conducted eSyrup research, and put it out of the reach of the Space Consortium by turning her research into a religion - the Biononymous. Soka's clothing is the result of her grandmother's research programme - how to let humans, who don't want to implant trackable, proprietary hardware into their bodies, use powerful digital computing technology."**
+
+**Min: "But Soka's mother Eithne discovered a plot at the Green Havens, to turn crop plants into vectors for secretly injecting nano-biotrackers into people without their consent or even their awareness. Eithne gave up her life to fight this plot, and now that we've discovered the same plot here at the ISE Corps, both Soka and I are determined to finish her work, and find out who is behind this."**
+
+### Page 12
+
+**Rhee: "So that's why you always knew so much about basic eSyrup research...and I just thought you're a nano-materials nerd..."**
+
+**Rhee: "...and that's why tracking down our mystery farmer is so important."
+
+Rhee comes over to Min and Soka and hugs them. 
+
+**Rhee: "Thank you for trusting me."**
+
+Rhee turns to Min and gestures towards the secret airlock door.
+
+**Rhee: "I guess you should get going, yeah?"**
+
+## Chapter 6
+
+### Page 1
+
+**Min: "Did you already disable the ID register?"**
+
+Rhee nods.
+
+**Rhee: "I disabled it when I opened it. I just wanted an excuse to confront you about your identity."**
+
+Min laughs, a big hearty laugh, then pulls Rhee into a heartfelt bear hug. 
+
+Min then eagerly pulls herself through the airlock and looks around. She is in a large interstitial space that looks to be the whole length of the bridge, stretching darkly off into the distance. 
 
 
 
 
 
-Min eagerly pulls herself through the airlock and readies herself against the metal framework on the other side, gently floating in the low gravity of the bridge. Rhee turns off her forehead info-sphere to look at Min. 
+
+
+readies herself against the metal framework on the other side, gently floating in the low gravity of the bridge. Rhee turns off her forehead info-sphere to look at Min. 
 
 **Rhee: "Right, Min, don't lose them, and until you find Iri, throw us your eyes!"**
 
@@ -931,18 +1094,6 @@ Asoka's mission on the Gemini, as declared to the Biononymous, is to learn more 
 Min's mission on the Gemini, as declared to the Automata, is to discover just how advanced the proprietary eSyrup research of the Space Consortium has become. As the bearer of a subdermal shield, Min is a living embodiment of the pinnacle of Automata eSyrup research. 
 
 While chasing the mysterious figure through the dark corridors, Min reflects on the choice she must make in order to continue living and studying on Gemini Station - which guild to declare an interest in? Her secret dream is to be a space swimmer, but space swimming is considered too difficult for Earthers, and Orbiters take great pride in their dominance at space swimming, to the point of severe prejudice in the apprenticeship process. Min has also done well enough in several other topics of study that she already has a number of offers from 3rd year trainees to recommend her to their guild. She has no such connection to anyone in the space swimmer guild, and Min wonders if she should go for their qual exam anyway. First-year trainees can take qual exams for up to 3 guilds, and their choices are usually determined by offers of recommendation by 3rd year trainees. 
-
-### relevant writing vomit
-
-Min grins sheepishly at Rhee. 
-
-**Min: "Have you just been polite, or did I actually fool you at all?"**
-
-**Rhee: "You did! But not after we started hanging out a bunch..."**
-
-**Min: "I'm sorry I lied to you."**
-
-**Rhee: "It's ok! I'm sure you had good reason."**
 
 
 ## Chapter 7
