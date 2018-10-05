@@ -615,7 +615,7 @@ During this scene, the panels are focused on Min, who is watching with bored eye
 
 Behind her, a body dressed in the multi-layered clothing of the Biononymous cult appears. The body places a finger onto Min's back. 
 
-*Biononymous teen: "Mini?"*
+*Biononymous teen: "Min?"*
 
 We can see Min's eyes, reflected in the viewing port, grow wide as the reflection shows a vague figure. Min's mouth curves up into a triumphant grin.
 
