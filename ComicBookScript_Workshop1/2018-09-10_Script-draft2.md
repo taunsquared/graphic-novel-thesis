@@ -350,13 +350,17 @@ Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee 
 
 We see a tall, willowy woman, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden. POV is angled slightly up, as if we are viewing from the eyes of a small child. 
 
-Asoka: *"Mom!"*
+Asoka: *"Mom."*
 
 We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of canvas and wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with concern. 
 
 Asoka: *"Mom?"*
 
+We see the willowy woman again, being escorted away by World Government military police. POV is over the shoulder of another adult (João). We see Asoka's hand and arm reaching out towards the willowy woman. 
 
+Asoka: *"Mom!!"*
+
+## Chapter 3
 
 ### Page 1
 
