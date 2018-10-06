@@ -60,15 +60,15 @@ We see Majhee walk past a large research facility, metal and glass architecture 
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. We see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-**Receptionist: "Dr. Suh! How bad is it out there?"**
+Receptionist: **"Dr. Suh! How bad is it out there?"**
 
 Majhee takes off her hood and googles and we see her face - pretty and youthful for her 41 years, if it weren't for the lines of worry and grim determination. She shakes out her hair, cropped short in a bowl pixie cut. Clearly burdened with many troubles, she begins taking off her eSyrup hazmat suit.  
 
-**Majhee: "Still crowded."**
+Majhee: **"Still crowded."**
 
-**Receptionist: "Idiots. Don't they understand we're trying to help?"**
+Receptionist: **"Idiots. Don't they understand we're trying to help?"**
 
-**Majhee: "Well, they're hungry. Can't think when you're hungry."**
+Majhee: **"Well, they're hungry. Can't think when you're hungry."**
 
 Majhee removes her boots and steps into the decontamination chamber.
 
@@ -76,91 +76,111 @@ Majhee removes her boots and steps into the decontamination chamber.
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
-**Off panel: "Majhee, you can't *scoop* the *Space Consortium*..."**
+Off panel: **"Majhee, you can't *scoop* the *Space Consortium*..."**
 
-**Majhee: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"**
+Majhee: **"For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"**
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
 
-**Marcia: "You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."**
+Marcia: **"You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."**
 
-**Majhee: "Exactly."**
+Majhee: **"Exactly."**
 
-**Marcia: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"**
+Marcia: **"But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"**
 
 ### Page 4
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
-**Majhee: "*You* pushed that collaboration through, against my numerous objections!"** 
+Majhee: **"*You* pushed that collaboration through, against my numerous objections!"** 
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger
 
-**Marcia: "I know, I *know*, that was definitely my mistake, and I'm *sorry*."**
+Marcia: **"I know, I *know*, that was definitely my mistake, and I'm *sorry*."**
 
-**Majhee interrupts: "And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"**
+Majhee interrupts: **"And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"**
 
-**Marcia, defeated: "*sigh*. Just...be careful."** 
+Marcia, defeated: **"*sigh*. Just...be careful."** 
 
 Marcia looks over her shoulder, then turns back to Majhee.
 
-**Marcia, low and careful: "There are rumors that the Space Consortium is trying to *weaponize* eSyrup. I know I sound like a conspiracy theorist, but..."**
+Marcia, low and careful: **"There are rumors that the Space Consortium is trying to *weaponize* eSyrup. I know I sound like a conspiracy theorist, but..."**
 
-**Majhee, incredulous: "They wouldn't dare--"**
+Majhee, incredulous: **"They wouldn't dare--"**
 
 Felix, a scientist in Majhee's lab, appears at the doorway, breathless and distraught.
 
-**Felix: "Majhee, my father-- President Netto!"**
+Felix: **"Majhee, my father-- President Netto!"**
 
-**Majhee: "I'm sorry Marcia, we'll have to continue this another time."**
+Majhee: **"I'm sorry Marcia, we'll have to continue this another time."**
 
 ### Page 5
 
 Majhee, Felix, and other members of Majhee's research group sit in a meeting room in an upper floor of the research institute. One wall is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 
-**Majhee: "So. Your father has been diagnosed again."**
+Majhee: **"So. Your father has been diagnosed again."**
 
-The circle of researchers: **Felix Nicolau**, a pale but handsome man in his late 20s, born and raised in São Paulo by Romanian immigrants, his face lined with fear and sadness even as he sits tall in his seat; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Vec Barbosa**, a large, portly man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face kind and sad behind a rather bushy yet neatly-trimmed beard. 
+The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her short life in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an old Brazilian martial arts family but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
-**Vec, to Felix: "Beatriz and I have already contacted your father's medical team, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
+Vec, to Felix: **"Beatriz and I have already contacted your father's medical team in Romania, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
 
-**Beatriz, kindly: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
+Beatriz, kindly: **"We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
 
-Felix covers his face with his hands, furious at the tears that won't stop streaming down his face
+Felix now looks up, straight at Majhee, eyes full of furious determination.
 
-**Felix: "Skin cancer is still one of the most treatable cancers, even after a second diagnosis. We don't want to move the whole family back to Europe just yet, but...that time may come..."**
+Felix: **"But...we need to finish the biofilm project! *Before* Space Consortium can get their filthy hands on another patent!"**
 
-Felix now looks up, straight at Majhee, eyes full of determination behind the tears.
+Felix covers his face with his hands, furious at the tears that have started to stream down his face.
 
-**Felix: "I want to finish the biofilm project, *before* Space Consortium can get their filthy hands on another patent. We're *so* close..."**
-
-**Nova: "I'm sure we could manage without you--"**
+Beatriz: **"I'm sure we could manage--"**
 
 Kai, arms folded, looking down at her lap with hard eyes.
 
-**Kai: "We can't finish this project in time without Felix. We all know that splicing is more art than algorithm, and ever since my hands starting hurting too much, Felix is our *best*."**
+Kai: **"We can't finish this project in time without Felix. We all know splicing's more art than algorithm, and ever since my hands starting hurting too much, Felix is our *best*."**
 
-Kai looks over at Nova.
+Kai: **"But even our best may not be enough...this morning Space Consortium patented photovoltaic cells made of eSyrup-spliced halobacterium, and I got *this*."** 
 
-**Kai: "And you've already been pushing yourself to the limit. I know you've been sleeping under your desk for the last week."** 
+Kai passes up a small card to Majhee. Majhee reads from it.
 
-Nova bursts into tears, and Kai's face falls, looking terribly apologetic but unwilling to admit it. 
+Majhee: **"'You've been slapped on the wrists. Don't make us go for your throat.'"**
+
+Nova, looking terrified: **"What's that supposed to mean??"**
+
+Kai: **"Space Consortium's telling us to stop competing with them. Suing us for exclusive patents on eSyrup fuel was the slap on the wrists."**
 
 ### Page 6
 
-We see the circle of researchers sitting in silence, everyone unable to break the silence, everyone contemplating the difficulties of the current situation. 
+Iara: **"My grandfather also called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."**
 
-**Majhee: "I won't..."**
+Felix: **"What??"**
+
+Iara: **"Apparently that wasn't the first time either...he got a similar offer last year as well, but he thought it wasn't worth mentioning because he knew I wouldn't go for it."**
+
+Nova, aghast: **"10 billion reais...that's more than the institute's endowment..."** 
+
+Vec: **"It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium can manage to patent living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."**
+
+We see Breno's moody, cynical eyes. 
+
+Breno: **"I'm sure 10 billion is nothing to a trust-fund baby like Iara..."**
+
+Felix: **"Breno, how dare you! You know none of us would sell-out to Space Consortium, no matter the price!"**
+
+Breno, smiles ruefully, eyes pitying: **"Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a bribe like that?"**
+
+Felix: **"Well then good thing Majhee is paying those doctors' bribes! If Iara is privileged, then so are you!"**
+
+We see the circle of researchers sitting in silence, betraying varying degrees of discomfort.
+
+### Page 7 
 
 **Majhee: "I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."**
 
-**Majhee: "But I also...personally...can't give up now. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells. If Space Consortium patents living splices, they'll have a monopoly on all medical applications of eSyrup, and many will suffer because they can't pay Space Consortium's price."**
+**Majhee: "But I *personally* can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."**
 
-**Majhee: "So let me be clear. You are all free to do as you wish. If you choose to leave, I will make sure you can live comfortably for at least the next year."**
+**Majhee: "If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."**
 
-**Majhee: "If you stay...I will protect you and your families in any way that I can. And I will forever owe you a debt of gratitude."**
-
-### Page 7
+**Majhee: "If you stay...I will forever owe you a debt of gratitude, and I will protect you and your families in any way that I can."**
 
 **"September 21, 2076: Massachusetts, USA"**
 
@@ -306,7 +326,7 @@ This scene should give clues about the deep-sea silica drilling disaster, which 
 
 **"October 12, 2077: São Paulo, Brazil"**
 
-The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing a breathing mask. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
 **Majhee: "We need to finish packing up NOW."**
 
@@ -316,15 +336,27 @@ One month ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20
 
 Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
-Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride.
+Iúna flees with her son João into caves in Vermont to escape the huge clouds of NO2.
 
 Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
 
-Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. 
+Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. *Check whether this would blow away ionosphere.*
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
 ## Dream: Childhood
+
+### Page 1
+
+We see a tall, willowy woman, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden. POV is angled slightly up, as if we are viewing from the eyes of a small child. 
+
+Asoka: *"Mom!"*
+
+We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of canvas and wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with concern. 
+
+Asoka: *"Mom?"*
+
+
 
 ### Page 1
 
@@ -348,7 +380,7 @@ Min takes Soka's hand gently and beams at Soka with friendly, naive excitement.
 
 **Min: "Like this..."**
 
-Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly. Min then hops down to the ground and croches behind Soka, hands clasped together to create a step for Soka's foot. 
+Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly. Min then hops down to the ground and crouches behind Soka, hands clasped together to create a step for Soka's foot. 
 
 **Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I help Gustavo all the time, and he's much bigger than you."**
 
@@ -450,7 +482,7 @@ Rhee has adjusted the light spheres at her hands, which now give her an x-ray-li
 
 **"bleep!"**
 
-**Rhee: "Interesting...why does a hidden airlock door have an ID scanner? Who else uses this door, besides a bunch of delinquent muskies who are probably ruining their chances of doing well on their qualification exams?"**
+**Rhee: "Interesting...why does a hidden airlock door have an ID scanner? Who else uses this door, besides a bunch of delinquent freshies who are probably ruining their chances of doing well on their qualification exams?"**
 
 **Min: "Do you even have to worry about the quals? I thought you were assigned already?"**
 

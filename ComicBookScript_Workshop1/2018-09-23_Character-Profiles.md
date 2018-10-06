@@ -6,9 +6,9 @@ Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnol
 
 Pronouns: She/her/hers
 
-Phenotype: Korean. Straight, black hair; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
+Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
 
-Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes. Is just starting to need reading glasses, which she is constantly misplacing. 
+Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing. 
 
 ### What does this character want?
 
@@ -72,13 +72,13 @@ Phenotype: Columbian. Shorter than average for an Earther male. Compact body, we
 
 Rajue wants to get educated and rich as fast as possible, so that he never has to dig another tunnel ever again. He hates the World Gov with a fierce rage and deep smoldering resentment. He wants to leave behind all of the painful memories of now-dead loved ones and get as far away from planet Earth as possible. 
 
-## Tross Bitencourt Silva
+## Tross Grael Nicolau
 
-Earther, member of the Automata Clan (Eurasia) and disguised as a member of the **METAL WORKERS OF BLACK SEA AREA** gang. Has a knack for metal working and extremely fond of animals, especially cats. Gentle giant who looks large and intimidating but is actually incredibly averse to violence. Grandson of Felix Silva, research colleague of Majhee Suh. 
+Earther, member of the Automata Clan (Eurasia) and disguised as a member of the **METAL WORKERS OF BLACK SEA AREA** gang. Has a knack for metal working and extremely fond of animals, especially cats. Gentle giant who looks large and intimidating but is actually incredibly averse to violence. Grandson of Felix Grael, research colleague of Majhee Suh. 
 
 Pronouns: He/him/his
 
-Phenotype: Romanian/Dacia, with German and Portuguese influences. Wide nose, large ears, hazel-green eyes with flecks of gold, unruly dirty blonde hair that sticks out in all directions. Full facial hair that he often forgets to trim or keep tidy. Large yet dextrous hands, skin the colour of tea-stained parchment paper, pock-marked with scars and stained with soot. Slim hips, broad shoulders, powerfully-muscled arms and legs. 
+Phenotype: Romanian/Dacia, with Swedish and Portuguese influences. Wide nose, large ears, hazel-green eyes with flecks of gold, unruly dirty blonde hair that sticks out in all directions. Full facial hair that he often forgets to trim or keep tidy. Large yet dextrous hands, skin the colour of tea-stained parchment paper, pock-marked with scars and stained with soot. Slim hips, broad shoulders, powerfully-muscled arms and legs. 
 
 ### What does this character want?
 
