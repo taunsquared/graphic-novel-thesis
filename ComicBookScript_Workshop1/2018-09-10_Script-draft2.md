@@ -166,21 +166,21 @@ Breno: **"I'm sure 10 billion is nothing to a trust-fund baby like Iara..."**
 
 Felix: **"Breno, how dare you! You know none of us would sell-out to Space Consortium, no matter the price!"**
 
-Breno, smiles ruefully, eyes pitying: **"Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a bribe like that?"**
+Breno, smiles ruefully, eyes pitying: **"Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"**
 
-Felix: **"Well then good thing Majhee is paying those doctors' bribes! If Iara is privileged, then so are you!"**
+Felix: **"Well then good thing Majhee is paying those doctors' bribes, yeah?! If Iara is privileged, then so are you!"**
 
-We see the circle of researchers sitting in silence, betraying varying degrees of discomfort.
+We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear.
 
 ### Page 7 
 
 **Majhee: "I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."**
 
-**Majhee: "But I *personally* can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."**
+**Majhee: "But...*personally*...I can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."**
 
 **Majhee: "If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."**
 
-**Majhee: "If you stay...I will forever owe you a debt of gratitude, and I will protect you and your families in any way that I can."**
+**Majhee: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."**
 
 **"September 21, 2076: Massachusetts, USA"**
 
@@ -320,7 +320,7 @@ We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.b
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-This scene should give clues about the deep-sea silica drilling disaster, which suddenly makes the shallow parts of the ocean water column drastically more acidic, combined with a shut down of important ocean current circulations like the Meridional Overturning Circulation - see [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) for more info. 
+These last two scenes should give clues about the deep-sea silica drilling disaster, which suddenly makes the shallow parts of the ocean water column drastically more acidic, combined with a shut down of important ocean current circulations like the Meridional Overturning Circulation - see [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) for more info. 
 
 ### Page 4
 
@@ -348,19 +348,80 @@ Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee 
 
 ### Page 1
 
-We see a tall, willowy woman, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden. POV is angled slightly up, as if we are viewing from the eyes of a small child. 
+We see a tall, willowy woman, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden, brightly lit by artificial light. POV is angled slightly up, as if we are viewing from the eyes of a small child. The walls and ceiling behind the willowy woman are made of carved rock. 
 
-Asoka: *"Mom."*
+Asoka: *"Mom..."*
 
-We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of canvas and wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with concern. 
+We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of beautifully woven canvas and elaborately carved wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with concern. Again, we are inside a rock structure, with no natural light; all lighting comes from the enormous grains of light floating above the desk and many cleanly-burning, gently flickering candles scattered around the room. 
 
 Asoka: *"Mom?"*
 
-We see the willowy woman again, being escorted away by World Government military police. POV is over the shoulder of another adult (João). We see Asoka's hand and arm reaching out towards the willowy woman. 
+We see the willowy woman again, being roughly dragged away by demonic, shadowy, enormous dark gray wolves with glowing eyes, one red and one green. POV is over the shoulder of another adult (João), who is on the ground, leg bloody and twisted behind him in a terrible way. We see Asoka's hand and arm frantically reaching out towards the willowy woman. Furniture is knocked over, dishes and glasses are broken, wall tapestry and clothing are torn. The willowy woman looks furious, but even as she struggles with the demon-wolves she throws a hand towards Asoka and screams "Stay back!!"
 
-Asoka: *"Mom!!"*
+Asoka: *"Mom!!"* 
+
+### Page 2
+
+The dreams swirls into a dark tunnel, greenish lighting revealing crumbling walls, puddles of brackish water along the ground, and occassional stretches of salvaged chain-linked fence. We see a very young Asoka running down this tunnel, sweating, panting, frantic. 
+
+Asoka looks over their shoulder, behind them, terrified.
+
+An enormous demon wolf, fangs bared, eyes flashing, lunges at Asoka.
 
 ## Chapter 3
+
+### Page 1
+
+**"October 5, 2119: International Space Exploration Corps, Gemini Youth Station"**
+
+Small panel, a thin strip across the top of the page: We see dilated eyes in profile, large and golden, framed by long reddish lashes, shocked open by difficult dreams.
+
+The rest of the page: We see a beautiful little forest glade, seemingly in late spring. A tall blue jacaranda tree gently dips its purple flower-laden branches down to two teens lying on their sides on a bed of ferns and blossoms. 
+
+One has long, reddish-dirty-blonde hair that pools out from under their head. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
+
+The other is much smaller and darker skinned. Thick, curly, dark brown hair is cut into a short afro with elaborate patterns shaved into it. This one sleeps topless, wearing only long baggy trousers similar to the other teen's trousers, but dyed a deep saturated red and elaborately embroidered. 
+
+The two teens are curled into complementary fetal positions, the tall pale one spooning the smaller darker one from behind. The tall one's arms wrap around the little one's torso, one arm draped across a set of well-defined abdominal muscles, the other covering the little one's breasts and tangled in a pair of dark arms. 
+
+Asoka: *"Why now?"*
+
+### Page 2
+
+The tall one turns their nose away from the crook of the little one's neck and looks up at the blue jacaranda tree. They lift the arm that was draped over the little one's stomach and reach their hand up towards the branches. 
+
+Asoka: *"Why do I dream of Death Dogs today?"*
+
+We see Asoka's hand backlit against the sunlight filtering through the tree branches, Asoka's long fingers haloed with golden dust. 
+
+Asoka: *"Mom..."*
+
+We see a brief, blurry flash of the willowy woman from Asoka's dreams.
+
+Asoka: *"Am I throwing away my chance to be free? To escape the dirty water, the dirty air, the dirty politicians...?"*
+
+We see Asoka staring up at the tree, arm that was raised now resting across their forehead as they contemplate, face passive. Dappled shadows of the tree leaves and flowers play on Asoka's face.
+
+Asoka: *"No...it's too similar to the Green Havens. The same patterns are here..."*
+
+We see Asoka's eyes, steely with determination. 
+
+Asoka: *"Someone is weaponizing our food **again**."*
+
+### Page 3
+
+**"2 days ago..."**
+
+We see a neat row of clean white tubs, each packed with edible crop plants like lettuce, chives, kale, onions, and radishes. 
+
+Min, off-panel: **"Just *look*."**
+
+
+
+
+
+
+
 
 ### Page 1
 
