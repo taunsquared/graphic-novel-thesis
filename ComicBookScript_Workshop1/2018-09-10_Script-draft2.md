@@ -32,7 +32,7 @@
 
 ### Page 1
 
-**"March 16, 2076: São Paulo, Brazil"**
+**"2076: São Paulo, Brazil"**
 
 **"It was a day of hope and wonder."** 
 
@@ -182,7 +182,7 @@ We see the circle of researchers sitting in silence, betraying varying degrees o
 
 **Majhee: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."**
 
-**"September 21, 2076: Massachusetts, USA"**
+**"6 months later: Massachusetts, USA"**
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
@@ -290,7 +290,7 @@ Iúna ponders for a moment, her face furrowed with grief and concentration.
 
 ### Page 1
 
-**"September 23, 2077: Ushuaia, Argentina"**
+**"2077: Ushuaia, Argentina"**
 
 We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or modern high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
@@ -324,7 +324,7 @@ These last two scenes should give clues about the deep-sea silica drilling disas
 
 ### Page 4
 
-**"October 12, 2077: São Paulo, Brazil"**
+**"São Paulo, Brazil"**
 
 The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
@@ -366,17 +366,17 @@ The dreams swirls into a dark tunnel, greenish lighting revealing crumbling wall
 
 Asoka looks over their shoulder, behind them, terrified.
 
-An enormous demon wolf, fangs bared, eyes flashing, lunges at Asoka.
+An enormous demon wolf, fangs bared, eyes flashing, lunges at Asoka. 
 
 ## Chapter 3
 
 ### Page 1
 
-**"October 5, 2119: International Space Exploration Corps, Gemini Youth Station"**
+**"2119: The International Space Exploration Corps, Gemini Youth Station"**
 
 Small panel, a thin strip across the top of the page: We see dilated eyes in profile, large and golden, framed by long reddish lashes, shocked open by difficult dreams.
 
-The rest of the page: We see a beautiful little forest glade, seemingly in late spring. A tall blue jacaranda tree gently dips its purple flower-laden branches down to two teens lying on their sides on a bed of ferns and blossoms. 
+The rest of the page: We see a beautiful little forest glade, seemingly in late spring, cozily bordered by gentle up-slopes of soft grasses and low-lying succulents. A blue jacaranda tree gently dips its purple flower-laden branches down to two teens and a cuttlefish mechapet cuddled together on a bed of ferns and blossoms. 
 
 One has long, reddish-dirty-blonde hair that pools out from under their head. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
 
@@ -384,17 +384,19 @@ The other is much smaller and darker skinned. Thick, curly, dark brown hair is c
 
 The two teens are curled into complementary fetal positions, the tall pale one spooning the smaller darker one from behind. The tall one's arms wrap around the little one's torso, one arm draped across a set of well-defined abdominal muscles, the other covering the little one's breasts and tangled in a pair of dark arms. 
 
+The cuttlefish mechapet has all of the body parts of a cuttlefish but is rather flatter and more blobulous than a fully biological cuttlefish, which haven't been seen in Earth's oceans for decades. It is flat against the tall teen's back, all 8 arms twining around the tall teen's body. The tips of two arms gently brush back the smaller teen's hair from her forehead. 
+
 Asoka: *"Why now?"*
 
 ### Page 2
 
-The tall one turns their nose away from the crook of the little one's neck and looks up at the blue jacaranda tree. They lift the arm that was draped over the little one's stomach and reach their hand up towards the branches. 
+The tall one turns their nose away from the crook of the little one's neck and looks up at the blue jacaranda tree. The tall teen lifts the arm that was draped over the little one's stomach and reaches their hand up towards the branches. 
 
 Asoka: *"Why do I dream of Death Dogs today?"*
 
-We see Asoka's hand backlit against the sunlight filtering through the tree branches, Asoka's long fingers haloed with golden dust. 
+We see Asoka's hand backlit against the sunlight filtering through the tree branches, Asoka's long fingers haloed with golden dust. The cuttlefish mechapet gently wraps an arm around Asoka's raised arm. 
 
-Asoka: *"Mom..."*
+Asoka: *"Iri...Mom..."*
 
 We see a brief, blurry flash of the willowy woman from Asoka's dreams.
 
@@ -410,11 +412,214 @@ Asoka: *"Someone is weaponizing our food **again**."*
 
 ### Page 3
 
-**"2 days ago..."**
+**"1 week ago..."**
 
-We see a neat row of clean white tubs, each packed with edible crop plants like lettuce, chives, kale, onions, and radishes. 
+We see a neat row of clean white tubs, each packed with edible crop plants like lettuce, chives, kale, onions, carrots, and radishes. The plants grow tall under a greenhouse roof. At the end of the row of tubs, we see an opening, which seems to lead out into a large outdoor field of young corn, beans, and squash, interplanted in large mounds. Everything glows with the exuberance of mid-spring. 
 
 Min, off-panel: **"Just *look*."**
+
+We see Min, Rhee, and Asoka inspecting a pile of gathered fruits and vegetables, each in tubs and buckets of varying shapes and materials. Min is squatting and holding up two carrots - one is large and shiny, bright orange, perfectly straight; the other is small and lumpy, a deep saturated blueish-purple, the misshapen bottom twisting to one side. Rhee and Asoka stand over her; Iri, Asoka's cuttlefish mechapet, peers down from Asoka's shoulder. 
+
+Asoka's clothes morph to read "Yup, definitely different."
+
+Rhee: **"Wow, why is that one so ugly and weird?"**
+
+Min: **"According to the universal scanner that Zalo lent me, it's genetically a carrot! But this carrot is definitely *not* from the same batch of seedlings as the others."**
+
+Asoka's clothes read, "Maybe it's just a mutation of that species?"
+
+The cuttlefish mechapet runs a curious arm over the carrots. 
+
+### Page 4
+
+Min: **"I checked the arboretum database, and it's not any of the standard carrot genomes!!"**
+
+Min holds up the big orange carrot. 
+
+Min: **"*This* species is supposed to reliably generate large, straight, orange carrots, 'with seedlings screened and curated for developmental aberrations'."**
+
+Min: **"And it's not just in this quad. Quad 2 is in full autumn mode, so I started harvesting apples in the orchard - and I found the same thing with the apples!"**
+
+Min gestures towards two buckets of apples, again quite contrasting in appearance. One contains large, plump, blemish-free, reddish-yellow and perfectly round fruit; the other contains very lumpy, reddish-green, and much smaller apples, many of them covered in brown speckles. 
+
+Rhee: **"This is terrible! Why is our food going bad?"**
+
+### Page 5
+
+Asoka shakes their head resignedly as Iri munches on a lumpy apple. Their clothes morph: "Actually, they haven't gone bad. They just don't look as pretty."
+
+Min: **"Yeah, they aren't poisonous or anything. But where are these plants coming from??"**
+
+Asoka contemplatively watches Iri swallow the last of its lumpy apple and happily belch. Asoka then picks up another lumpy apple while unsealing their face veil. 
+
+Rhee: **"Soka, what are you doing?"**
+
+Asoka takes a small bite out of the lumpy apple, then immediately grimaces, turning away from the apple. Rhee covers her mouth in horror. 
+
+Asoka, via clothes-writing: "Augh, sour! You'd love it Min."
+
+Asoka offers the lumpy apple to Min. Min readily reaches for it while rolling her eyes at Rhee. 
+
+Min: **"Oh, Rhee, don't be so horrified. Trust me, it can't be worse than cafeteria mash."**
+
+Min takes a bite. 
+
+Min: **"Wow, so tangy!!"**
+
+### Page 6
+
+Rhee: **"I can't believe you eat cafeteria mash."**
+
+Min continues to eat the lumpy apple, from bottom to stem, eating the whole core and spitting out the seeds. 
+
+Min: **"I can't believe *you* eat Mendeleever molecular gastronomy!"**
+
+Rhee: **"Ha! Even the goats milk mozzarella I made last week was *way* better than cafeteria mash!"**
+
+Min turns to Rhee with starry eyes and enfatuated excitement, hands clasped before her. 
+
+Min: **"Did it work? Is our Capretta a cheese machine?"**
+
+Rhee: **"You have no idea, it's delicious!"**
+
+Min pumps both fists into the air with delighted triumph. 
+
+Rhee: **"Augh, *why* is it so hard to sneak food out of our guild space?! Then we could eat it all together!"**
+
+### Page 7
+
+We are in the personal compartment of Jheri Yoshimura, 3rd year apprentice of the Hippocrates cadet. Jheri's short hair is bright pink, and her limbs are actually quite strong and sturdy for an Orbiter, the rewards of many years of training full-gravity yoga. Jheri is lying flat on her back on her bunk, still wearing her guild's apprentice uniform, booted feet dangling off the edge, face passed-out with exhaustion. 
+
+**"KNOCK KNOCK!"**
+
+Jheri cracks one eye open blearily. 
+
+**"KNOCK KNOCK KNOCKKNOCKKNOCK!"**
+
+Jheri wipes the drool from the corner of her mouth while sitting up. 
+
+Jheri: **"Yes?"**
+
+From the other side of the door: **"Umm, sorry Jheri, but it's Rhee, it's an emergency--"**
+
+We see Jheri stretching, trying to collect herself. 
+
+Jheri: **"It's fine, Rhee, come in, I'm just *(yawn)*--!"**
+
+The door opens and we see Jheri's shocked reaction, no longer sleepy. 
+
+Next panel shows Rhee and Asoka with their shoulders under Min's arms, supporting Min. Iri is wrapped around Min's waist, holding a bucket in front of Min, who can barely stand even while supported. Min looks deliriously naseous, and her nostrils are stained from blood.
+
+Jheri: **"What happened to *you*??"**
+
+### Page 8
+
+They all help Min into a chair. Iri squishes out of the way and continues to hold the bucket for Min. 
+
+Rhee: **"We don't know, she was fine, and then suddenly she wouldn't stop vomiting!"**
+
+Jheri: **"Why didn't you go to the school medic??"**
+
+Rhee: **"She *refused*!!"**
+
+Jheri wipes Min's face clean. 
+
+Min: **"Thanks...Jheri...I'm...sorry..."**
+
+Jheri: **"Stop apologizing and tell me how you feel."**
+
+Asoka supports Min as Min leans forward over the bucket, miserable. 
+
+Min: **"Like...someone...poured *ocean* water...into...my stomach..."**
+
+Jheri: **"So, burning pain? When the pain started, did it happen fast or slow?"**
+
+Min: **"Slow...at first...but then...*really* fast..."**
+
+Min dry heaves terrifically, and her nose starts bleeding again.
+
+### Page 9
+
+Asoka's face mask morphs in a panic: "There's nothing left in her stomach!"
+
+Jheri: **"Merda, where is it...!"**
+
+Jheri reaches into one of many pouches on a shelf to pull out a roll, about 4 inches wide, of thin, transparent, flexible material. She wraps a length of this material around Min's torso, over her clothes, then drums a short, specific rhythm into the material with her fingers. 
+
+**"ba-de-ba-bum-BUM. bum-BUM."**
+
+The material begins to glow, and suddenly Min is surrounded by a 3-D stomach and intestinal system made of light. We see a lump within Min's stomach seething with activity. 
+
+Jheri: **"What is *that*??"**
+
+Jheri crooks her fingers in a gesture, and the stomach made of light zooms in and follows the cluster of activity. We see that the walls of Min's stomach are almost growing tentacles, which then seemingly attack the moving ball of activity. 
+
+Min: **"Get that...*thing*...*OUT*...please!"**
+
+### Page 10
+
+Jheri: **"Wait, you want me to perform *surgery* on you? In my *room*? Are you crazy??"**
+
+Asoka, who has been kneeling to help Min, turns, still on her knees, and clasps her hands in a begging position towards Jheri. Asoka's face mask morphs: "Please, use the LAM!" Rhee, practically in tears out of worry for Min, also assumes a kneeling, pleading position. 
+
+Rhee: **"Please, she won't go to anyone else!"**
+
+Jheri goes utterly pale and stares at Asoka, shocked.
+
+Jheri: **"The LAM...how do *you*...??"**
+
+Asoka's face mask: "I'm sorry...Zalo..."
+
+Jheri immediately snaps out of her shock and into fury.
+
+Jheri: **"Are you *kidding* me?? I'm going to murder him!!"**
+
+Rhee: **"What's the LAM, will it help??"**
+
+Jheri: **"Laser Atomic Manipulator, new toy of the Hippocrates guild. Now everyone shut up so I can concentrate!"**
+
+### Page 11
+
+We see darkness, then blurry grey, then the ceiling of Jheri's private compartment. 
+
+We see Min, eyes open, not sleepy but confused by her surroundings. 
+
+Min sits up. 
+
+Min sees Asoka sitting on the floor near the bed, slumped over with exhaustion. Rhee is wrapped up in a blanket and curled up with her head in Asoka's lap. At the other end of the compartment, Jheri stands at a tiny light desk that has a small platform, on which Jheri has placed a petri-dish with a still moving lump of...something. Jheri speaks without looking away from her analysis of the petri dish.
+
+Jheri: **"You awake? Also faster than normal..."** 
+
+Soka nearly falls over and wakes up instead. Soka looks at Min and their face mask morphs to say: "You're awake!" Soka shakes Rhee awake. 
+
+Rhee: **"Nnnggg...huh?"
+
+### Page 12
+
+Jheri waves a finger at the petri dish.
+
+Jheri: **"Whatever you ate - apple? - it was genetically programmed to build something when it reacts with stomach acid."** 
+
+Jheri turns to stare hard at Min. 
+
+Jheri: **"But your stomach tried to suppress whatever it was building, *by engulfing it in bits of stomach lining*. Now, *that* is an immune reaction I've *never* seen before."**
+
+Min: **"It tried to...*build* something...?"**
+
+Min looks down at her stomach, one hand touching her belly incredulously, then back to Jheri, with wide, fearful eyes. 
+
+Min: **"But wait, Soka also ate some of that apple!"**
+
+Jheri: **"Is that so? And Soka, how do you feel right now?"**
+
+Asoka's face mask reads, "I'm fine."
+
+Jheri stares at Asoka, then decides to solve one mystery at a time. Jheri sits on the edge of her bunk and looks Min hard in the eyes.
+
+Jheri: **"Alright, freshie, what did you eat, and why is your stomach lined with eSyrup?"**
+
+
+
 
 
 
