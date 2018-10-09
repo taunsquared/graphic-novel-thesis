@@ -54,7 +54,7 @@ First Space Barge makes its virgin flight to **THE PEGGY WHITSON MEMORIAL SPACE 
 
 Jina is born in São Paulo, São Paulo, Brazil.
 
-### 2070 
+### 2070
 
 Majhee and her colleagues successfully design a manufacturing process that splices eSyrup into textiles and allows end-users to customize the voltage-treatment of the fabric. 
 
@@ -120,7 +120,7 @@ Massive fluctuations of electromagnetic radiation from sun flares completely dis
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
-### 2078
+### 2079
 
 The Earth's surface environment continues to spiral into drought, extreme weather, and hyper-salination of surface fresh water sources. Those still surviving on the planet, numbering around 4 billion, have taken refuge in caves all over the world, seeking respite from the sun and searching for aquafirs of clean water deep underground. Humans become nocturnal, coming above ground only at night, if at all. 
 
@@ -128,7 +128,7 @@ Majhee and her collective of 67 humans establish a secret fortified community in
 
 Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of nearly 60,000 refugees plus just over 12,000 "Original Orbiters". 
 
-### 2079
+### 2080
 
 The UN declares itself as the World Government. With assistance from the Space Consortium, the World Government commandeers the former UN Green Havens that have survived The Global Water Crisis, which are now the only source of planetside agriculture. They force the people who have either remained in the Green Havens or have sought refuge in the Green Havens to farm for the World Government's agenda of meeting humanity's food needs, both planetside and in orbit. 
 
@@ -140,7 +140,7 @@ Upon hearing the news of the World Government, several members of Majhee's colle
  
 Eithne is born at Green Haven Hibernia. 
 
-### 2081
+### 2082
 
 Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs. Some of these protests escalate into violence. This prompts the Space Consortium to reveal their fleet of orbiting missile-launching satellites, by sending a missile to **NAME OF CITY THAT GETS SPACE BOMBED**, a Green Haven that had been deemed unable to sustain itself against the ravages of the changing climate. 
 
@@ -148,7 +148,7 @@ With the orbit-based strategic advantage and military-grade firepower of the Spa
 
 Historians later come to call the years between 2076 and 2081 "The Global Water Crisis" and **THE GREAT SEPARATION**. Those left on Earth later came to call these years **THE BURNING OCEANS** and **"THE SEVERING"**. 
 
-### 2082 
+### 2083 
 
 The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and fully employs the refugee population on the 2 space arboretums, completely easing the strain on the space arboretums. However, even more laborers are needed for the construction, so nearly 200,000 Earthers from the ISB Corps are assigned to work up in orbit. 
 
@@ -156,13 +156,13 @@ Amadou's father is part of the first cohort of Earthers conscripted to go into o
 
 During this construction project, the Space Consortium organises incoming laborers according to categories of skilled and unskilled labour. Based on these distinctions, communities and loyalties grow and develop. 
 
-### 2083
+### 2084
 
 The Space Barge fleet increases to 114 vessels, allowing the Space Consortium to increase the Space Barge flight schedule from once daily to twice daily. 
 
 Living conditions on the **SPACE UNIVERSITY STATION** construction site are not great, and lack of hygiene and medical facilities alone kills over 5,000 workers in the first year. The work environment is also dangerous, and numerous accidents happen while maneuvering in space - another 1,000 workers die in the first year from accidents in space. 
 
-### 2084 
+### 2085 
 
 Amadou's father dies on the **SPACE UNIVERSITY STATION** construction site - his safety harness, being old and overused, malfunctions and he becomes detached. While floating away slowly from the construction site, he is fatally hit by a large piece of space debris. He is one of approximately 1,500 workers who die during this year of construction due to work accidents. 
 
@@ -172,43 +172,43 @@ A great many protests planetside have become violent during this year. More and 
 
 The Space Welders guild, the first independently organised advocacy group on behalf of space laborers, registers itself under World Government law. They lobby for better working and living conditions on the **SPACE UNIVERSITY STATION** construction site. 
 
-### 2085
+### 2086
 
 By rumors and whispers, word spreads of the Automata, a secret collective hiding out in the Amazon Rainforest and living free from the oppression of the World Government. People from the underground cities wishing to avoid conscription to work in space try to run away and find the Automata, but most are all tracked down and brought back, brutally mutilated, to scare the Earthers into obedience. Those who escape the World Government's hunters more often than not die in the jungle. 
 
-### 2086
+### 2087
 
 The World Government lowers the minimum age for work conscription from 18 to 15. Amadou, now 15, is thrown out of Green Haven Santarém by his mother in an attempt to save him from death in space. Amadou, remembering the rumors about the Automata, survives in the rainforest while hunting for signs of the Automata. 
 
-### 2087 
+### 2088 
 
 After a year of fruitless hunting, and almost giving up, Amadou trespasses on an Automata burial ground and runs into a mourning party. The Automata spare Amadou's life and spend a month learning about him and his ways. Afterwards, they deem him worthy and bring him back to the main clan. 
 
-### 2088
+### 2089
 
 Planetside population: still around 4 billion.
 
 Orbiter population: nearly 100,000. 
 
-### 2089
+### 2090
 
 **SPACE UNIVERSITY STATION** is completed. Space University is flooded with applications from the many young adults whose educations were interrupted ever since planetside started to spiral into chaos around 2076. Competition for acceptance is fierce, and many are rejected. The wait list grows each year, as many of the rejected re-apply year after year.  
 
-### 2090
+### 2091
 
 Jina, who is now 21 and has been helping Majhee research eSyrup, discovers how to use eSyrup to build an ansible receiver, allowing the Automata to intercept interstellar communications by the Space Consortium and World Government. Amadou, now 19 and proving himself to be a math prodigy, helps Jina develop an algorithm for decrypting the messages sent between planetside, orbital, and Mars-based operations. 
 
-### 2097
+### 2098
 
 Construction begins to convert Gemini Arboretum into the Gemini Youth Station, which will serve as home to the **International Space Exploration Corps**. Similar to the International Space Barge Corps, the ISE Corps establishes a pre-university training program for Orbiter youth, meant to prepare them for future work in space exploration and/or further education at Space University. 
 
-### 2098
+### 2099
 
 Jheri is born. 
 
 Orbiter population: 250,000.
 
-### 2099
+### 2101
 
 Eithne travels to Green Haven Kentucky to work as a plant splicer, meaning she takes environmental monitoring data and uses it to genetically engineer plants to be robust to the extreme conditions on the surface. 
 
@@ -217,21 +217,21 @@ Zalo is born.
 Tross is born. 
 
 
-### 2100
+### 2102
 
 Oana is born. 
 
-### 2101
+### 2103
 
 Asoka is born at Green Haven Kentucky. 
 
 Rajue is born. 
 
-### 2102 
+### 2104 
 
 Orbiter population reaches 500,000. 
 
-Construction on the Gemini Youth Station is completed, and the International Space Exploration Corps welcomes its first class of students. The ISE Corps is a year-round pre-university-level training institute for the career class "Interplanetary Travel and Communications". Anyone between the ages of 16 and 19 may apply to attend, and several specialization fields are taught, to be noted on the final certification as an "ISS Corps apprentice-level certification in Interplanetary Travel and Communications, with specializations in ...". Students who excel are recommended for Space University, which gives them a competitive edge in the application process.
+Construction on the Gemini Youth Station is completed, and the International Space Exploration Corps welcomes its first class of students. The ISE Corps is a year-round pre-university-level training institute for the career class "Interplanetary Travel and Communications". Anyone between the ages of 15 and 18 may apply to attend, and several specialization fields are taught, to be noted on the final certification as an "ISS Corps apprentice-level certification in Interplanetary Travel and Communications, with specializations in ...". Students who excel are recommended for Space University, which gives them a competitive edge in the application process.
 
 Min is born. Rhee is born. 
 
@@ -239,19 +239,19 @@ Min is born. Rhee is born.
 
 Eithne realises that a faction in the World Gov and the Space Consortium is secretly using the Green Havens to develop genetically engineered food plants with genes that hijack the body into making nano-scale bio-data sensors, which can collect biochemical data from within the body and then wirelessly transmit that data to a remote database. Unable to decide who to trust and afraid to endanger young Asoka, she and João decide not to expose the plot and instead, Eithne works to sabotage the experiments. 
 
-### 2111
+### 2110
 
 Eithne is caught sabotaging plant splicing experiments and is arrested. João and Asoka flee Green Haven Kentucky. 
 
-### 2113
+### 2112
 
 After 2 years of hiding in the Northern Underground Cities, trying to evade mercenaries sent to hunt them down, João and Asoka are forced to cross the **RED ZONE** into the Southern Hemisphere. They are found by Amadou and brought to the Automata. Not knowing who to trust, João makes no mention of why they left Green Haven Kentucky, and begs for sanctuary with the Automata for the sake of 6-year-old Asoka. The Automata decide to let them stay as long as they renounce the use of any Orbiter products and never speak of the Underground Cities. 
 
-### 2116
+### 2113
 
 Climate change and wars on Earth are still creating refugee populations everywhere on Earth. The Space Consortium convinces the World Government to implement a refugee re-education process that gives Earther refugees the option of joining the ISE Corps as scholarship students, in which their application and tuition fees are waived in exchange for working on the Gemini Arboretum farm and on service crews at Gemini Youth Station during their apprentice-level training. This program, called the **Space Asylum Program**, is seen as a politically suave move and great PR. The Space Asylum Program is advertised as an effort to increase the diversity of the ISE Corps student body and increase the appeal of the ISE Corps mission as a global endeavor. Critics see it as just another flavour of exploitation and social oppression.
 
-### 2117
+### 2116
 
 Jina falls terribly ill, and nothing the Automata do seems to help. João reveals that he has been using a World Gov medical scanner and portable Laser Atomic Manipulator (LAM) to monitor his and Asoka's health and see to their medical needs. They offer both devices to the Automata as a means of saving Jina, revealing their breach of Automata law. 
 

@@ -22,11 +22,11 @@ Born in 2043 in Watertown, Massachusetts, USA.
 
 Pronouns: She/her/hers
 
-Phenotype: Portuguese. Thick, wavy brown hair. Large blue eyes, dark olive skin. Very large ears. 
+Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders. Large blue eyes, dark olive skin. Very large ears. 
 
 ## Minka Oosou
 
-Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of the **NAME OF EARTHER GANG**. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, but very charismatic and able to stir passionate responses in others. Cares deeply for Asoka.
+Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Earther Gang from the Petar Caves in Brazil. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive. Cares deeply for Asoka.
 
 Pronouns: She/her/hers
 
@@ -34,17 +34,21 @@ Phenotype: East Asian/West African. Thick dark brown hair, slightly curled. Dark
 
 ### What does this character want?
 
-Min believes that being free also means that the Automata should be able to move on and off planet as they choose. She is tired of hiding in the jungle and wants to show the Orbiters how strong Earthers can be. Min dreams of becoming a space swimmer, and exploring the universe with her own space vessel and crew. 
+The Automata believe that "autonomous" does not mean "alone" - they believe that true autonomy is the ability to make informed, un-coerced decisions. To the Automata, this implies that every member of their clan be raised with the skills and awareness required to govern themselves while co-existing with other independent, self-governing agents. Most members of the Automata interpret this collective awareness and responsibility to extend only towards other Automata. 
+
+Min, however, believes that to be truly informed and un-coerced in her decisions, she must also learn how to govern herself while co-existing with all of humanity, including the "mole people" (what the Automata sometimes dismissively call the humans living in Underground cities) and the Orbiters. 
 
 ## Asoka Morei
 
-Earther, member of the Biononymous cult. Introverted, very warm and kind and polite to everyone. Has an extremely calm and gentle disposition, is slow to anger, and loves watching the slow, huge patterns of nature. Always wants to make everyone happy, and sometimes forgets to make themselves happy. Very caring and nurturing. Cares deeply for Min.
+Earther, member of the Biononymous cult. Introverted, very warm and kind and polite to everyone. Has an extremely calm and gentle disposition, is slow to anger, and loves watching the slow, huge patterns of nature. Always wants to make everyone happy, and sometimes forgets to make themselves happy. Very caring and nurturing, and very charismatic and able to stir passionate responses in others without really trying. Cares deeply for Min.
 
 Pronouns: They/them/theirs (all Biononymous use gender-neutral pronouns) 
 
 Phenotype: Northern British Isles/Brazilian. Freckles on light olive skin. Reddish-dirty-blonde hair. Long aquiline nose, large golden eyes. Very tall, taller than most Earthers. Long-limbs, delicate shoulders. Strong from a life of farming but not very muscled. 
 
 ### What does this character want?
+
+Soka's mother was taken away by Death Dogs, which are rumoured to be eSyrup mechapets that do the dirty work of the World Government, and perhaps even the Space Consortium. Rumours usually blame Death Dogs for the 
 
 Soka dreams of building organic, living, breathing space vessels. They love farming and the Green Havens. The loss of their mother at such a young age is a source of deep sadness. They are frustrated by the World Gov control of the Green Havens and the distribution of the food grown at the Green Havens, but they empathize with the challenges of governance. As Soka grows older they become more and more troubled and preoccupied by the food production and distribution structure, especially the impact of this structure on the quality of food and nutrition education available to Earthers. At the ISE Corps, Soka realises that even Orbiters suffer from the same, and she becomes passionate about food justice.  
 

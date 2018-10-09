@@ -174,43 +174,43 @@ We see the circle of researchers sitting in silence, betraying varying degrees o
 
 ### Page 7 
 
-**Majhee: "I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."**
+Majhee: **"I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."**
 
-**Majhee: "But...*personally*...I can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."**
+Majhee: **"But...*personally*...I can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."**
 
-**Majhee: "If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."**
+Majhee: **"If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."**
 
-**Majhee: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."**
+Majhee: **"If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."**
 
 **"6 months later: Massachusetts, USA"**
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
-**Off-panel, secretary: "Iúna, the folks from the World Health Organization are here."**
+Off-panel, secretary: **"Iúna, the folks from the World Health Organization are here."**
 
-**Off-panel, Iúna: "Thanks, I'll be with them in a moment."**
+Off-panel, Iúna: **"Thanks, I'll be with them in a moment."**
 
 We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
 
 Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles".
 
-**Iúna: "HELLO! SHALL WE STEP INTO MY OFFICE?"**
+Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
 ### Page 8
 
-**Iúna: "Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
+Iúna: **"Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
 
-**Dr. Kauffmann: "You know, you'd get these updates a lot faster if you'd just get an info-sphere mod..."**
+Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get an info-sphere mod..."**
 
-**Iúna: "Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
+Iúna: **"Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
 
-**Dr. Kauffmann: "Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your MERV filter efficiency ratings, not with sheer fabrics at least. I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your MERV filter efficiency ratings, not with sheer fabrics at least. I've got your organzas in every window of my house."**
 
-**Iúna: "Just doing what we can. What was the emergency conference about?"**
+Iúna: **"Just doing what we can. What was the emergency conference about?"**
 
-**Dr. Kauffmann: "They're preparing themselves for a huge wave of refugees."**
+Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
 
-**Iúna: "Really? From where?"**
+Iúna: **"Really? From where?"**
 
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
 
@@ -308,13 +308,13 @@ We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.b
 
 **"Ocean Acidification Monitoring Station, Roca Redonda, Galapagos Islands"**
 
-**Technician: "Dr. Zambrano! Dr. Zambrano!"**
+Technician: **"Dr. Zambrano! Dr. Zambrano!"**
 
-**Dr. Zambrano: "What is it?"**
+Dr. Zambrano: **"What is it?"**
 
-**Tech: "The pH levels...do you see...!"**
+Tech: **"The pH levels...do you see...!"**
 
-**Dr.Zambrano: "Dios mío...how can it fall so fast??"**
+Dr.Zambrano: **"Dios mío...how can it fall so fast??"**
 
 ### Page 3
 
@@ -326,9 +326,9 @@ These last two scenes should give clues about the deep-sea silica drilling disas
 
 **"São Paulo, Brazil"**
 
-The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators and water boots - the streets are ankle-deep in ocean water. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-**Majhee: "We need to finish packing up NOW."**
+Majhee: **"We need to finish packing up NOW."**
 
 Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. 
 
@@ -352,7 +352,7 @@ We see a tall, willowy woman, long golden-red hair tucked loosely into a hair ne
 
 Asoka: *"Mom..."*
 
-We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of beautifully woven canvas and elaborately carved wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with concern. Again, we are inside a rock structure, with no natural light; all lighting comes from the enormous grains of light floating above the desk and many cleanly-burning, gently flickering candles scattered around the room. 
+We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of beautifully woven canvas and elaborately carved wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with grave concern. Again, we are inside a rock structure, with no natural light; all lighting comes from the enormous grains of light floating above the desk and many cleanly-burning, gently flickering candles scattered around the room. 
 
 Asoka: *"Mom?"*
 
@@ -376,43 +376,43 @@ An enormous demon wolf, fangs bared, eyes flashing, lunges at Asoka.
 
 Small panel, a thin strip across the top of the page: We see dilated eyes in profile, large and golden, framed by long reddish lashes, shocked open by difficult dreams.
 
-The rest of the page: We see a beautiful little forest glade, seemingly in late spring, cozily bordered by gentle up-slopes of soft grasses and low-lying succulents. A blue jacaranda tree gently dips its purple flower-laden branches down to two teens and a cuttlefish mechapet cuddled together on a bed of ferns and blossoms. 
+The rest of the page: We see a beautiful little forest glade, seemingly in late spring and seemingly just barely touched by dawn light, cozily bordered by gentle up-slopes of soft grasses and low-lying succulents. A blue jacaranda tree gently dips its purple flower-laden branches down to two teens and a cuttlefish mechapet cuddled together on a bed of ferns and blossoms. 
 
-One has long, reddish-dirty-blonde hair that pools out from under their head. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
+One has long, reddish-dirty-blonde hair that pools out from under their head. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Chest is broad and flat. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
 
 The other is much smaller and darker skinned. Thick, curly, dark brown hair is cut into a short afro with elaborate patterns shaved into it. This one sleeps topless, wearing only long baggy trousers similar to the other teen's trousers, but dyed a deep saturated red and elaborately embroidered. 
 
-The two teens are curled into complementary fetal positions, the tall pale one spooning the smaller darker one from behind. The tall one's arms wrap around the little one's torso, one arm draped across a set of well-defined abdominal muscles, the other covering the little one's breasts and tangled in a pair of dark arms. 
+The two teens are curled into complementary fetal positions, the tall pale one spooning the smaller darker one from behind. The tall one's arms wrap around the little one's torso, one arm draped across a set of well-defined abdominal muscles, the other covering the little one's full breasts and tangled in a pair of dark arms. 
 
 The cuttlefish mechapet has all of the body parts of a cuttlefish but is rather flatter and more blobulous than a fully biological cuttlefish, which haven't been seen in Earth's oceans for decades. It is flat against the tall teen's back, all 8 arms twining around the tall teen's body. The tips of two arms gently brush back the smaller teen's hair from her forehead. 
 
-Asoka: *"Why now?"*
+Asoka: *"Exam day..."*
 
 ### Page 2
 
 The tall one turns their nose away from the crook of the little one's neck and looks up at the blue jacaranda tree. The tall teen lifts the arm that was draped over the little one's stomach and reaches their hand up towards the branches. 
 
-Asoka: *"Why do I dream of Death Dogs today?"*
+Asoka: *"Why did I dream of Death Dogs today?"*
 
 We see Asoka's hand backlit against the sunlight filtering through the tree branches, Asoka's long fingers haloed with golden dust. The cuttlefish mechapet gently wraps an arm around Asoka's raised arm. 
 
-Asoka: *"Iri...Mom..."*
+Asoka: *"Iri..."*
 
-We see a brief, blurry flash of the willowy woman from Asoka's dreams.
+We see a brief, blurry flash of the willowy woman from Asoka's dreams, smiling with so much love that tears gather in Asoka's eyes.
 
-Asoka: *"Am I throwing away my chance to be free? To escape the dirty water, the dirty air, the dirty politicians...?"*
+Asoka: *"Mom...where are you?"*
 
-We see Asoka staring up at the tree, arm that was raised now resting across their forehead as they contemplate, face passive. Dappled shadows of the tree leaves and flowers play on Asoka's face.
+We see Asoka staring up at the tree, arm still raised, fingers now closed in a fist as they contemplate, face passive. Dappled shadows of the tree leaves and flowers play on Asoka's face.
 
-Asoka: *"No...it's too similar to the Green Havens. The same patterns are here..."*
+Asoka: *"If I grow enough food for everyone to eat, will they let you come home?"*
 
-We see Asoka's eyes, steely with determination. 
+Asoka's eyes, steely and determined, completely awake and focused.
 
-Asoka: *"Someone is weaponizing our food **again**."*
+Asoka: *"If not...I'll fight for you. Don't worry mom, I'm coming."*
 
 ### Page 3
 
-**"1 week ago..."**
+**"1 month ago..."**
 
 We see a neat row of clean white tubs, each packed with edible crop plants like lettuce, chives, kale, onions, carrots, and radishes. The plants grow tall under a greenhouse roof. At the end of the row of tubs, we see an opening, which seems to lead out into a large outdoor field of young corn, beans, and squash, interplanted in large mounds. Everything glows with the exuberance of mid-spring. 
 
@@ -420,11 +420,11 @@ Min, off-panel: **"Just *look*."**
 
 We see Min, Rhee, and Asoka inspecting a pile of gathered fruits and vegetables, each in tubs and buckets of varying shapes and materials. Min is squatting and holding up two carrots - one is large and shiny, bright orange, perfectly straight; the other is small and lumpy, a deep saturated blueish-purple, the misshapen bottom twisting to one side. Rhee and Asoka stand over her; Iri, Asoka's cuttlefish mechapet, peers down from Asoka's shoulder. 
 
-Asoka's clothes morph to read "Yup, definitely different."
+Asoka's clothes morph to read "Definitely different"
 
 Rhee: **"Wow, why is that one so ugly and weird?"**
 
-Min: **"According to the universal scanner that Zalo lent me, it's genetically a carrot! But this carrot is definitely *not* from the same batch of seedlings as the others."**
+Min: **"According to Zalo's universal scanner, it's genetically a carrot! But this carrot is definitely *not* from the same batch of seedlings as the others."**
 
 Asoka's clothes read, "Maybe it's just a mutation of that species?"
 
@@ -456,7 +456,7 @@ Rhee: **"Soka, what are you doing?"**
 
 Asoka takes a small bite out of the lumpy apple, then immediately grimaces, turning away from the apple. Rhee covers her mouth in horror. 
 
-Asoka, via clothes-writing: "Augh, sour! You'd love it Min."
+Asoka, via clothes-writing: "Augh, so sour! You'd love it, Min."
 
 Asoka offers the lumpy apple to Min. Min readily reaches for it while rolling her eyes at Rhee. 
 
@@ -464,7 +464,7 @@ Min: **"Oh, Rhee, don't be so horrified. Trust me, it can't be worse than cafete
 
 Min takes a bite. 
 
-Min: **"Wow, so tangy!!"**
+Min: **"Wow, that's *really* sour!!"**
 
 ### Page 6
 
@@ -484,6 +484,8 @@ Rhee: **"You have no idea, it's delicious!"**
 
 Min pumps both fists into the air with delighted triumph. 
 
+Min: **"Space goats for the win!"**
+
 Rhee: **"Augh, *why* is it so hard to sneak food out of our guild space?! Then we could eat it all together!"**
 
 ### Page 7
@@ -500,7 +502,7 @@ Jheri wipes the drool from the corner of her mouth while sitting up.
 
 Jheri: **"Yes?"**
 
-From the other side of the door: **"Umm, sorry Jheri, but it's Rhee, it's an emergency--"**
+From the other side of the door: **"Sorry Jheri, it's Rhee, I know you're not on duty today but it's an emergency--"**
 
 We see Jheri stretching, trying to collect herself. 
 
@@ -560,15 +562,15 @@ Min: **"Get that...*thing*...*OUT*...please!"**
 
 Jheri: **"Wait, you want me to perform *surgery* on you? In my *room*? Are you crazy??"**
 
-Asoka, who has been kneeling to help Min, turns, still on her knees, and clasps her hands in a begging position towards Jheri. Asoka's face mask morphs: "Please, use the LAM!" Rhee, practically in tears out of worry for Min, also assumes a kneeling, pleading position. 
+Asoka, who has been kneeling to help Min, turns, still on her knees, and clasps her hands in a begging position towards Jheri. Asoka's face mask morphs: "Please use the LAM!" Rhee, practically in tears out of worry for Min, also assumes a kneeling, pleading position. 
 
-Rhee: **"Please, she won't go to anyone else!"**
+Rhee: **"Please, she won't see anyone else!"**
 
 Jheri goes utterly pale and stares at Asoka, shocked.
 
 Jheri: **"The LAM...how do *you*...??"**
 
-Asoka's face mask: "I'm sorry...Zalo..."
+Asoka's face mask: "I'm sorry :( Zalo..."
 
 Jheri immediately snaps out of her shock and into fury.
 
@@ -598,7 +600,7 @@ Rhee: **"Nnnggg...huh?"
 
 Jheri waves a finger at the petri dish.
 
-Jheri: **"Whatever you ate - apple? - it was genetically programmed to build something when it reacts with stomach acid."** 
+Jheri: **"Something you ate was genetically programmed to build...*something*... when it reacts with stomach acid."** 
 
 Jheri turns to stare hard at Min. 
 
@@ -614,95 +616,95 @@ Jheri: **"Is that so? And Soka, how do you feel right now?"**
 
 Asoka's face mask reads, "I'm fine."
 
-Jheri stares at Asoka, then decides to solve one mystery at a time. Jheri sits on the edge of her bunk and looks Min hard in the eyes.
+Jheri stares at Asoka, then shakes her head. Jheri sits on the edge of her bunk and looks Min hard in the eyes.
 
-Jheri: **"Alright, freshie, what did you eat, and why is your stomach lined with eSyrup?"**
+Jheri: **"Alright, freshies, what did you eat, and why is *your* stomach lined with eSyrup?"**
 
+## Chapter 4
 
+### Page 1
 
+We're back in the little forest glade with a blue jacaranda tree. Asoka lies behind Min, one arm curled around Min's chest, other arm bent as Asoka's left wrist rests on Asoka's forehead. Asoka is still looking up into the blue jacaranda tree. 
 
+Asoka: *"Mom...I'm bringing my best warrior..."*
 
+Min: **"Soka?"**
 
+Asoka smiles as Min turns to face Asoka. Min's eyes sparkle with mischief and eager anticipation as she kisses Asoka on the cheek. 
 
+Soka: **"Good morning. Ready for apprentice qualification exams?"**
+
+Against the bright, crisp morning rays of sun, we see Min's silhouette as she stretches hugely, legs up in the air. 
+
+Min: **"You mean, ready to beat the water out of anyone else who tries to graduate at the top of our class?"**
+
+### Page 2
+
+Soka: **"You do remember that *all* of the top *ten* earn 
 
 
 
 
 ### Page 1
 
-We see the enormous trunk of a giant tree in the Amazon Rainforest. A very young Soka, wearing traditional Biononymous clothes, looks up the tree with wonder and awe. 
+It's the next day, first day of classes. We see a large hallway, with many tall double doors, each covered in the name and crest of a guild. One hand made banner above an entrance proudly labels the space as **"Workspace 267: INFRADESTRUCTORS"**. From inside, Zalo's voice can be heard saying: "...so if you gently peel back this layer..."
 
-**Min: "Come ON, Soka!!"**
+Next panel, we are inside the **INFRADESTRUCTORS** workspace, bird's eye view. We see Zalo standing at a large workbench surrounded by first-year trainees, including Min. Zalo is holding up a corkboard to which is pinned a flat, flexible device about the length and width of a short, fat finger. It has been carefully dissected so that the miniscule inner circuitry is visible. 
 
-The beaming face of a very young Min appears from behind one of the dense clusters of leaves. She has already climbed quite high, and looks down at Soka, still on the ground, with unfiltered impatience. 
+Zalo: "You can see how this 2080s standard issue medical scanner has two fixed eSyrup circuits - one for measuring small changes in skin resistance, the other for measuring small concentrations of specific chemicals in bodily fluid samples. Modern medical scanners can detect changes in electrical and chemical properties up to 5 cm below the skin surface."
 
-Soka puts a gloved hand reverently on the tree trunk, and suddenly feeling shy, morphs words into the top of their head covering: "I've...never climbed a tree..."
+POV is now in front of Zalo, who now holds up another corkboard on which is pinned a similarly shaped and sized device, also opened up. The insides of this second device is way more chaotic and rough, definitely looks like a work in progress. 
 
-**Min: "You what?? What do you mean *never*??"**
+Zalo: "This is a prototype for a POCKET UNIVERSAL SCANNER..."
+
+We see numerous panels showing close-ups of the workspace, with tools and materials typical of an electrical workshop, chemistry wet lab, plumbing equipment and tools, field biology equipment, etc. Over these panels, Zalo's voice continues: "...ideally, it can give electrical and chemical readings of other animal species, plants, objects, anything you could possibly want to scan!" 
+
+Zalo: "So today's challenge is to debug this prototype, and learn how to morph eSyrup! Careful though, you only get 2 or 3 morphs out of these eSyrup chips, 4 if you're very lucky!"
 
 ### Page 2
 
-Without waiting for Soka's response, Min quickly and decisively climbs back down to Soka. 
+View of the **INFRADESTRUCTORS** workspace, several hours later. Some trainees are still hunched over their devices, others have taken a break to sit in a comfortable circle of large cushions, rocking chairs, and sitting pillows. 
 
-Min takes Soka's hand gently and beams at Soka with friendly, naive excitement. 
+Min: "I didn't realise so many Orbiter products use semi-hardened eSyrup circuits! They're everywhere!"
 
-**Min: "It's easy! My nanna says that we used to live in trees all the time. You just hug the tree and it will never let you down!"**
+Zalo, Min, and a few other **INFRADESTRUCTOR** trainees are seated together. Most of them have finished working and they are philosophising before dinner. 
 
-**Min: "Like this..."**
+An Earther **NORMIE** trainee, 2nd-year, named **DAMIEN**: "Yeah, it's kinda nice how modular everything can be, with stardardized parts..."
 
-Min guides Soka's arms to wrap around the main tree trunk, climbing onto a low branch in order to the position the much taller Soka correctly. Min then hops down to the ground and crouches behind Soka, hands clasped together to create a step for Soka's foot. 
+Zalo taps a tool on his leg distractedly: "Yes, but I just wish they weren't proprietary! It's a real pain in the ass to be tied to standard issue parts, which rarely have as many morphs as they claim they do." 
 
-**Min: "Now, one foot's gonna step onto my hands, then the other foot will go on my shoulder. Don't worry, I help Gustavo all the time, and he's much bigger than you."**
+Sedii, Orbiter, 2nd-year trainee: "And if you want to do anything besides the exact function that those parts are designed for, you're screwed!"
 
-Soka hesitantly places a foot into Min's hands. 
+**DAMIEN**: "So the semi-hardened circuits are good to prototype quickly, but if you want to make anything custom or complex, you'll need to do it the hard way anyway."
 
-**Min: "Ok, on three! One, two--!"**
+Zalo: "In theory, raw eSyrup can go through an infinite number of morphs, regardless of the material it's spliced with - what we lose in convenience and modularity, we gain in flexibility and expression!"
 
-Min straightens her legs as Soka scrabbles for a branch to hold. 
+An Earther **GANGIE** and first-year trainee named **YOLENA**: "But then who will make sure that the mods are safe?" 
 
-**Min: "Ok, now other foot on my shoulder!"**
-
-Soka complies, and the two children make a wobbly human tower, the short but sturdy Min basing the taller, more willowy Soka. 
-
-**Min: "Hug the tree, hug the tree!!"**
+Zalo, looking meaningfully at the trainee: "Do you really think that every mod we have out now is perfectly safe?"
 
 ### Page 3
 
-Min and Soka have made it to the top of the tree and are lying on a platform, staring up at a sky that seems blue, with clouds that seem puffy and far away. Min reaches up with a finger to poke at the eSyrup bubble separating them from the sky, protecting them from the real sun and atmosphere, both too harsh now for humans to lie under unprotected. Soka's gloved fingers also graze the eSyrup bubble. 
+**DAMIEN**, shivers: "Ugh, definitely not! I've seen people have some CRAZY reactions to capsule stims..."
 
-**Min: "One day, I'll be a real Tree Surfer, and then I'll be able to see the real sky, and feel real wind!"**
+**YOLENA**, grim faced: "True. But THOSE are so dangerous because there's so much money in making chem mods, and the laws about honest labeling have no teeth. No one actually gets punished when their products melt the mod ports or poison you with bad filtering." 
 
-Soka's face mask rearranges to read, "It's not so pretty out there..."
+Sedii: "And because the government forbits basic research into eSyrup, no one even knows enough what they're doing when they make the mods to be able to write accurate labels."
 
-Min lets her fingers intertwine with Soka's. 
+**DAMIEN**, bitter: "Yeah, the blind leading the blind..." 
 
-**Min: "Can we telesense? I want to keep looking up..."**
+Sedii: "Exactly! Isn't it CRAZY how eSyrup circuits seem to be a crucial part of all of our devices, our homes, our transportation systems, in fact, our entire space-faring infrastructure, and yet no one seems to know how the fundamental ingredient works?" 
 
-Min and Soka let their clasped hands fall above their heads onto the platform as they gaze up. 
+Zalo: "I heard that before the Water Crisis, eSyrup was considered a cute biological engineering project, and the original inventors published the entire recipe for raw eSyrup ON THE INTERNET..."
 
-*Soka: "Does it still tickle?"*
+**DAMIEN**: "Ha! Yeah, back when we thought the internet would exist forever..."
 
-*Min: "Haha, a little! But I'm used to it now, I think."*
+Min: "But, Zalo, are you trying to tell us that the **INFRADESTRUCTORS** guild ISN'T trying to research raw eSyrup? That's what I thought you meant by 'opening up all black boxes'..."
 
-### Page 4
+Zalo: "Ok, sure, but no guild is powerful enough to openly defy World Government law..."
 
-*Soka: "Why do you want to go out there so bad? It's so much nicer inside your bubbles."*
 
-*Min: "Because I **know** this is fake. I want reality, no matter how **ugly** it is."*
 
-Min punches the eSyrup bubble. The location of impact swirls with iridescent colors before settling back into a clean, clear blue. 
-
-*Min: "So you don't have trees at the Green Havens?"*
-
-*Soka: "Not big ones like this. We don't have giant, flexible eSyrup bubbles at the Green Havens, just sealed greenhouses made of eGlass and eSteel. So nothing grows taller than 2 meters."*
-
-*Min: "How can you stretch your brain if all of your ceilings are so low?"* 
-
-*Soka: "Ha, I guess we can't. Honestly, most people are so used to being underground, or indoors, I don't think they notice."*
-
-*Min: "That's crazy..."*
-
-## Chapter 3: 
 
 ### Page 1
 
