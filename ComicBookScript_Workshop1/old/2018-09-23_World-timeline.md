@@ -1,36 +1,42 @@
 # World timeline
 
-### 2058
+### 2040
 
 Education is still in crisis, cities are overcrowded, and rural communities are dying. Many of the scientists and engineers who once worked with Elon Musk and SpaceX have gone on to establish The Space Consortium, which has just established a research base on Mars. 
 
-### 2060
+### 2041
+
+A mutant yeast culture that can eat glass is accidentally cultivated by genetics researchers. They make note of the process that produced this yeast mutant in an online, freely accessible publication on "failed" genetically engineered yeast biofactories. 
+
+### 2045
 
 Space Consortium presents the United Nations with a proposal to collaborate with the UN Green Havens, areas of the world set aside to preserve Earth's agricultural traditions and provide biodiversity sanctuaries, in order to conduct research into exo-hydroponics (plants useful for space travel) and permaculture in low gravity. The Space Consortium offers to help fight the global food shortage with food grown in space. The Space Consortium also resurrects the idea of a reusable low Earth orbital spacecraft system, akin to the US Space Shuttle program of late 20th century, in order to transport resources back and forth between orbiting farms and planetside. The UN grants them a 10-year research and development grant. 
 
-Adi is born. 
+### 2048
 
-### 2061
+Space Consortium successfully launches its first reusable space shuttle designed for humans and large cargo, which orbits the Earth once and returns planetside. 
 
-First successful raw eSyrup is cultivated by Majhee, a 26 year old graduate student in molecular biology, while trying to directly interface silicon circuits with biological tissue. Majhee and her collaborators manage to create a yeast mutant that, when cultured with lactic acid bacteria and fed water and sand, decomposes the silicon dioxide found in most sand. The resulting culture can be heat-treated or "voltage-treated" to induce the bacterial culture to self-assemble into tissue-like sections that are able to act as any basic component of an electrical circuit (conductor, resistor, capacitor, transistor, diode, etc) and uses ATP for power (this property is not discovered until later). Some heat treatments allow for the resulting eSyrup product to continue to be independently reconfigurable almost indefinitely (called "flexible eSyrup"), while other heat treatments destroy its ability to reconfigure (called "fixed eSyrup").
-
-### 2062 
+### 2050
 
 The first wave of pollution-related epidemics causes severe population reduction in several densely populated tropical areas in South America, Africa, and Southeast Asia. Ozone hole over Antarctic is measured to be the biggest its ever been.
 
-Space Consortium successfully launches its first reusable space shuttle designed for large cargo, which orbits the Earth once and returns planetside. 
-
-### 2063 
-
-As part of her post-doctoral work, Majhee and her colleagues successfully splice eSyrup with a series of inorganic materials, including steel, aluminum, copper, brass, and glass.
-
-### 2064
+### 2051
 
 The Space Consortium publishes papers on several new species of food plants, genetically modified to thrive in low-gravity. 
 
-### 2065
+### 2053
 
 Space Consortium begins launching pieces of its first Orbital arboretum. 
+
+### 2056
+
+Majhee, a young PhD student in organometallic chemistry, discovers the 2041 publication about the "failed" yeast biofactory that ate its own glass vial. She decides to replicate it, then accidentally cultures it with lactic acid bacteria in the air and synthesizes the first eSyrup. 
+
+Researchers successfully dope eSyrup onto a series of inorganic materials, including steel, aluminum, copper, brass, and glass.
+
+
+
+
 
 Majhee and her colleagues present a proposal to the United Nations to develop affordable and sustainable eSyrup air/water filters, and eSyrup textiles to protect humans from solar radiation. Because eSyrup requires only water and silica, people should be able to harvest what silica that they need from local sand, rocks, recycled glass, and even certain plants. They are awarded a 10-year research and development grant, which earns Majhee a position as research group leader at the Laboratório Nacional de Biociências e Saúde Pública.   
 
@@ -38,15 +44,17 @@ Majhee and her colleagues present a proposal to the United Nations to develop af
 
 Space Consortium's first Orbital arboretum, **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**, is completed. 
 
-Majhee and her colleagues successfully splice eSyrup with non-living organic materials such as wool, cotton, polyester, and rubber. While trying to splice eSyrup with textiles, Majhee and her colleagues discover that eSyrup can provide alternative means for long-distance, wireless communication. 
+Majhee and her colleagues successfully dope eSyrup onto organic materials such as wool, cotton, polyester, and rubber. 
 
 ### 2068 
 
-The Laboratório Nacional de Biociências e Saúde Pública, the publicly-funded research institute where Majhee and her colleagues conduct eSyrup research, is approached by the Space Consortium, who are interested in developing their own products with eSyrup and are looking to collaborate. Based on the recipe for raw eSyrup that Majhee and her colleagues have published online, the Space Consortium believes that eSyrup can also serve as a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
+The Laboratório Nacional de Biociências e Saúde Pública, the publicly-funded research institute where Majhee and her colleagues conduct eSyrup research, is approached by the Space Consortium, who are interested in developing their own products with eSyrup and are looking to collaborate. Based on the freely available, online recipe for raw eSyrup, the Space Consortium believes that eSyrup can also serve as a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
 
 The Space Consortium reports successful harvest of crops grown in low gravity, more than enough to feed the crew aboard **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. 
 
 Majhee and her collaborators begin distributing eSyrup air and water filters via the World Health Organization and Doctor's Without Borders to countries in the "Global South".
+
+While conducting their own research on more efficient ways to dope eSyrup onto textiles, Iúna and her collaborators discover that eSyrup can provide alternative means for long-distance, wireless communication. 
 
 ### 2069 
 
@@ -56,7 +64,7 @@ Jina is born in São Paulo, São Paulo, Brazil.
 
 ### 2070
 
-Majhee and her colleagues successfully design a manufacturing process that splices eSyrup into textiles and allows end-users to customize the voltage-treatment of the fabric. 
+Majhee and her colleagues successfully design a manufacturing process that dopes eSyrup onto textiles and allows end-users to customize the voltage-treatment of the fabric. 
 
 First Orbital home pod is successfully launched from the **PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. Within months, nearly 200 home pods are successfully launched, with residents. 
 
@@ -102,7 +110,7 @@ Raquel Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
 The Space Consortium completes **UPPER ESTATES SPACE ARBORETUM**, their third orbiting arboretum and first space station built entirely in orbit (but still using raw resources refined planetside). 
 
-Majhee and her colleagues successfully create the first eSyrup biofilm, or an aggregate community of prokaryotes encased in slime. 
+Majhee and her colleagues successfully create the first eSyrup biofilm made of eSyrup and the cyanobacteria *Anabaena*. 
 
 The Colorado River dries up completely, which throws North America into chaos. A fire in a large high-rise apartment in an outer slum of San Francisco, ignited during a police raid looking for illegal eSyrup products, escalates into a city-wide blaze, thanks to the severe drought in the area and the huge prevalence of petroleum-based plastic furniture and objects in most homes. The burning city spreads all the way down the Californian coast, which is now one monstrous suburban sprawl, all the way past the border into Mexico. The fire also spreads inland towards the Colorado River Basin area, now parched by drought. 
 
@@ -130,7 +138,7 @@ Up in orbit, the resources of the space arboretums are stretched to their limit,
 
 ### 2080
 
-The UN declares itself as the World Government. With assistance from the Space Consortium, the World Government commandeers the former UN Green Havens that have survived The Global Water Crisis, which are now the only source of planetside agriculture. They force the people who have either remained in the Green Havens or have sought refuge in the Green Havens to farm for the World Government's agenda of meeting humanity's food needs, both planetside and in orbit. 
+The UN declares itself as the World Government. With military support from the Space Consortium, the World Government commandeers the former UN Green Havens that have survived The Global Water Crisis, which are now the only source of planetside agriculture. They force the people who have either remained in the Green Havens or have sought refuge in the Green Havens to farm for the World Government's agenda of meeting humanity's food needs, both planetside and in orbit. 
 
 The **International Space Barge** Corps becomes a required "civil service" for all humans, but many Orbiters find loophoules out of doing their required service (often via medical reasons). ISB Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
 
@@ -192,7 +200,7 @@ Orbiter population: nearly 100,000.
 
 ### 2090
 
-**SPACE UNIVERSITY STATION** is completed. Space University is flooded with applications from the many young adults whose educations were interrupted ever since planetside started to spiral into chaos around 2076. Competition for acceptance is fierce, and many are rejected. The wait list grows each year, as many of the rejected re-apply year after year.  
+**SPACE UNIVERSITY STATION** and Gemini Arboretum are completed. Space University is flooded with applications from the many young adults whose educations were interrupted ever since planetside started to spiral into chaos around 2076. Competition for acceptance is fierce, and many are rejected. The wait list grows each year, as many of the rejected re-apply year after year.  
 
 ### 2091
 

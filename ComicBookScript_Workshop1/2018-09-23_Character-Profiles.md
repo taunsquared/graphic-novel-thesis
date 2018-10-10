@@ -1,42 +1,30 @@
 # Character profiles
 
-## Majhee Suh 
-
-Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and at age 26, coordinates the first successful cultivation of raw, living eSyrup. This eventually leads to her appointment as a research group leader at Laboratório Nacional de Biociências e Saúde Pública. Majhee 
-
-Pronouns: She/her/hers
-
-Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
-
-Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing. 
-
-### What does this character want?
-
-Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after Majhee's husband Cauã dies from skin cancer, and after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
-
-When the Global Water Crisis hits, Majhee decides that São Paulo is no longer safe, not for her family and not for eSyrup research. She decides to relocate to her parents-in-law's farm on the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
-
-## Iúna Serrano Morei
-
-Born in 2043 in Watertown, Massachusetts, USA. 
-
-Pronouns: She/her/hers
-
-Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders. Large blue eyes, dark olive skin. Very large ears. 
-
 ## Minka Oosou
 
-Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Earther Gang from the Petar Caves in Brazil. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive. Cares deeply for Asoka.
+Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Earther Gang from the Petar Caves in Brazil. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Cares deeply for Asoka.
 
 Pronouns: She/her/hers
 
 Phenotype: East Asian/West African. Thick dark brown hair, slightly curled. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
 
+### Where is this character from?
+
+Min is a member of the Automata, a nomadic clan dedicated to reviving the Amazon Rainforest. To do this, they study the soil, water, and air, constantly collecting samples and researching how to re-balance Earth's surface environment. They are mobile, moving in a seasonal cycle throughout the Amazon River Basin, tending groves of trees and wild gardens while avoiding contact with the Underground Cities and the World Government, in order to preserve their autonomy.  
+
+The Automata believe true autonomy is the ability to make informed, un-coerced decisions. To the Automata, this implies that every member of their clan be raised with the skills and awareness required to govern themselves while co-existing with the rest of the world. Most members of the Automata interpret this collective awareness and responsibility to extend only towards other Earthers, and are happy to ignore the Orbiters, whom the Automata speak of dismissively as "the ones who abandoned us out of fear, who hide in their sterile coffins up in the sky."
+
+When Automata children are considered adults by the Clan when they become an Expert in one of their crafts: Tree Surfer (one who studies and cares for trees and plants), Water Cycler (one who studies and cares for the water and waste cycles of the Automata), and Inker (one who studies and cares for the raw eSyrup cultures, secret treasure of the Automata). When an Automata has trained and proven their competence in a craft, they undergo the Rites of the Mother - they must travel, with a single escort, to the sacred burial caves of the Automata, and meditate amongst their dead ancestors for 7 days, with no food and no speech during that time. After 7 days, their escort helps them return to the main body of the Clan, where they receive an injection of raw eSyrup directly into their skin. This injection becomes their **subdermal shield**, a layer of eSyrup in their skin, which connects directly with their nervous system. With guidance, discipline, and much practice, the Automata are able to modify their subdermal shield in order to give themselves protection from harmful solar radiations, to eat directly the fruits and vegetables grown in wild gardens, to drink surface water without intensive treatment and filtration, to filter the current atmosphere with their own sinuses. 
+
+After a year of training on how to use their subdermal shield, Automata are expected to disguise themselves as Underground Earthers and spend a year living in the Underground Cities, to gain perspective on the Automata lifestyle and to generate closer empathy with their fellow planetside humans. 
+
+When Min's mother Jina spent her year in the Underground Cities, she met and fell in love with Amadou, who had run away from a tyrannical governor of a remote cave system. His parents were still living as slaves to this tyrannical governor, so Jina decided to help Amadou return to his home cave and overthrow the tyrannical governor. They succeeded, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, the tyrannical governor was deposed, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou and even train him to be an Expert Crafter. 
+
 ### What does this character want?
 
-The Automata believe that "autonomous" does not mean "alone" - they believe that true autonomy is the ability to make informed, un-coerced decisions. To the Automata, this implies that every member of their clan be raised with the skills and awareness required to govern themselves while co-existing with other independent, self-governing agents. Most members of the Automata interpret this collective awareness and responsibility to extend only towards other Automata. 
+Thanks to growing up with a father who was not born into the Automata, Min grows up with a rather unique perspective, even before becoming an Expert Crafter and living with the Underground Earthers for a year. Amadou once dreamed of going into orbit and becoming a space explorer, and he passes on those dreams to Min. Min and Amadou spend many nights stargazing and pointing out planets and Orbiter structures, many dawns and dusks watching the Space Barges rumble through the atmosphere. Now that Amadou has a bounty on his head, he will never be able to ride a Space Barge without being taken into Peacekeeper custody or killed for money, a fact that causes him great sadness. 
 
-Min, however, believes that to be truly informed and un-coerced in her decisions, she must also learn how to govern herself while co-existing with all of humanity, including the "mole people" (what the Automata sometimes dismissively call the humans living in Underground cities) and the Orbiters. 
+Because of the influence of her father, Min grows to believe that in order to be truly informed and un-coerced in her decisions, she must also be informed about and un-coerced by the Orbiters. Min hates the World Government for punishing her father for killing an evil man, for allowing people to suffer in the name of "law and order". 
 
 ## Asoka Morei
 
@@ -46,11 +34,33 @@ Pronouns: They/them/theirs (all Biononymous use gender-neutral pronouns)
 
 Phenotype: Northern British Isles/Brazilian. Freckles on light olive skin. Reddish-dirty-blonde hair. Long aquiline nose, large golden eyes. Very tall, taller than most Earthers. Long-limbs, delicate shoulders. Strong from a life of farming but not very muscled. 
 
+### Where is this character from?
+
+Asoka was born in a Green Haven somewhere in the former United States of America. The Biononymous have continued to live in strict adherence to their religious principles: always wearing their full religious outfits and vocal silence in public, in order to maintain their anonymity; cultivating cotton, hemp, and flax to transform into eSyrup textiles; and training every member of their cult in the ways of capoeira. By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe, and had pledged themselves to protect and manage the Green Havens, in order to feed themselves and the Earthers still trapped underground. They have also perfected eSyrup mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. 
+
+The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. They struck an uneasy bargain with the Biononymous - the Biononymous would be allowed to keep their stewardship of the Green Havens, if they tithe 30% of their yearly yield to the World Government. At first the Biononymous refused, but then the World Government showed their full hand - they missile-bombed one of the Green Havens from orbit, forcing the Biononymous to surrender. The World Government then upped the tithe to 50%.  
+
+The Biononymous realise they need to become even more subtle and clever, now that they know that the World Government has an orbiting missile launch system. Asoka's parents are part of a secret group of Biononymous who are working on new eSyrup textiles with greater camouflage and anti-surveillance properties. Somehow the World Government must have gotten word, because one day a pack of enormous demonic wolves, later dubbed "Death Dogs", descend upon their Green Haven and massacre the Biononymous population. 13-year-old Asoka, who had been tending the most distant fields, just barely escapes with their mechapet Iri. 
+
+Asoka wanders desperately across the surface of the planet, trying to find another Green Haven. They hide where they can during the day and move about carefully at night, terrified of the reappearance of the Death Dogs. When Asoka does find a Green Haven, after nearly a week, and begs for sanctuary, the Biononymous there hide Asoka because the Green Haven is swarming with World Government Peacekeepers. Asoka realises that the Green Havens are no longer safe, and falls into a deep depression, unsure of what to do next. While at this Green Haven, Asoka befriends a much older Biononymous named Eireena, who is much respected in the Green Haven community. 
+
+Then one day, about 8 months after Asoka first arrived, Asoka overhears several Peacekeepers talking about "The Red Zone" where even the Death Dogs break down, and how the World Government is sending a delegation to The Automata in South America, to buy hardwood and exotic Amazon fruits from them. According to the Peacekeepers' gossip, the Automata are the most powerful Earther group that the World Government has encountered - they can live above ground seemingly in their naked skin, and cultivate giant trees in the deforested graveyard of the former Amazon Rainforest. Asoka decides to seek out the Automata, and the other Biononymous ask Asoka to deliver an offer of alliance, between the Biononymous and the Automata. With the help of the local Biononymous, Asoka sneaks onto the Peacekeeper's military naval vessel, to cross the Red Zone and get to South America. 
+
+The naval vessel takes several weeks to travel across the Gulf of Mexico, along the northern coast of South America, then up the Amazon river to get deep inland into Brazil. The Peacekeepers dock at a Green Haven along the Amazon River, in order to travel the rest of the way over land. Asoka escapes the vessel and sets off on their own, determined to reach the Automata before the Peacekeepers do. Iri has taken a picture of the Peacekeepers' map/directions to the Automata, to guide their way. 
+
+After nearly a week of running through the decimated remains of the Amazon, Asoka reaches the location marked in the Peacekeepers' map and realise that the Peacekeepers must have gotten false information - there seems to be no signs of civilization. Frustrated, lost, and running out of food, Asoka begins searching the surrounding areas, hoping to find the Automata before the Peacekeepers arrive, and hoping to find food to keep themselves alive long enough to do so. 
+
+2 days later, Asoka is looking for food at the foothills of the nearby mountain range when Iri informs Asoka that a small thorny hill is generating a very faint energy signature that is, intriguingly, the complete anti-complement of the energy signature of the Biononymous' anti-surveillance eSyrup cloth. Curious, Asoka and Iri go closer to investigate and through their veil Asoka is able to see beyond the brambles and *inside* the hill - it is full of rows of crops and edible plants, a garden! Asoka is baffled - how to get in? Asoka finds a tiny drainage hole in the "hill" and sends Iri in through that hole in order to investigate, and bring back some food. While crouched by the drainage hole, Asoka is discovered by 14-year-old Min, already a full-fledged Tree Surfer, who immediately engages the stranger in combat. Asoka and Min realise they both know capoeira, and come to a truce long enough for Asoka to explain that World Government Peacekeepers are on their way to a location not far from this strange fake hill that is hiding Min's garden. Min goes with Asoka back to the spot marked in the Peacekeepers' map, where they find the Peacekeepers, who have just arrived at the spot. The Peacekeepers are noisily setting up camp, and loudly talking about how they will make this spot their remote base as they hack their way through the forest to find the Automata. Min decides to bring Asoka to the Automata Elders. 
+
+Asoka presents the Automata Elders with the offer of alliance from the Biononymous, and tell them of the treatment that the Biononymous have received from the World Government. Asoka also tells the Elders all that they overheard from the Peacekeepers about their intentions with the Automata - to wrest from the Automata their ability to live above ground seemingly without protection, and to demand a tithe of hardwood and exotic fruits to provide the Orbiters with even more luxury. After much debate, the Elders decide to reject the offer of alliance from the Biononymous and retreat deeper into the remains of the Amazon forest; some say that staying mobile and completely disconnected from anyone else will eventually make the World Government give up on finding and exploiting the Automata, while others argue that contact with the World Government is inevitable, and that an alliance with the Biononymous could be crucial to surviving that encounter. The Elders offer Asoka asylum with the Automata, and invite Asoka to come with them. Having few other options, Asoka accepts. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that Death Dog sightings have increased to a terrifying frequency, and that the Biononymous believe that the Death Dogs are creations of the World Government, meant to subdue the planetside population into passive obedience. 
+
 ### What does this character want?
 
-Soka's mother was taken away by Death Dogs, which are rumoured to be eSyrup mechapets that do the dirty work of the World Government, and perhaps even the Space Consortium. Rumours usually blame Death Dogs for the 
+After the Elders decide to decline the alliance and go further into hiding, Min finds Asoka and expresses her disappointment with the Elders' decision. Min shares with Asoka her desire to join the International Space Exploration Corps and become a space explorer. This prompts Asoka to share their desire: to figure out a way to defeat the Death Dogs, and free the Biononymous from their subjugation to the World Government. 
 
-Soka dreams of building organic, living, breathing space vessels. They love farming and the Green Havens. The loss of their mother at such a young age is a source of deep sadness. They are frustrated by the World Gov control of the Green Havens and the distribution of the food grown at the Green Havens, but they empathize with the challenges of governance. As Soka grows older they become more and more troubled and preoccupied by the food production and distribution structure, especially the impact of this structure on the quality of food and nutrition education available to Earthers. At the ISE Corps, Soka realises that even Orbiters suffer from the same, and she becomes passionate about food justice.  
+Even though Asoka's parents kept Asoka out of the loop when it came to their research (in order to protect Asoka), Asoka still picked up their distrust of the World Government and their fear that the Biononymous' desire to live private lives, without hyper-documentation by a central authority, may soon be crushed. Reinforced by the insights of Eireena, Asoka realises that although the Biononymous are not trackable or surveillable as individuals, the whole cult is now trapped on the Green Havens, and the Biononymous may lose the leverage they've enjoyed as a religious organization to be free from government oversight. 
+
+Asoka believes that private spaces, safe spaces that by definition must exclude, need to have a place in the future of humanity. The World Government threatens that, and Asoka wants to discover if another form of governance is possible for a humanity now spread so thin, from deep caves to distant orbit. 
 
 ## Rhee 
 
@@ -59,6 +69,10 @@ Orbiter, member of the Seppellitori guild (guild of morticians and provider of d
 Pronouns: She/her/hers
 
 Phenotype: Mediterranean. Long, straight, hair that she keeps coloured purple. Light olive skin. Extremely petite, even smaller than Min. Large dark-green eyes and a slightly upturned nose. 
+
+### Where does this character come from?
+
+Rhee was born in orbit, to mortician parents who work for the Space Consortium. This places Rhee and her family amongst the upper echelon, but because they perform a function that Orbiters would rather not think about, Orbiters consider them to be on the lowest rung of Orbiter society. But Rhee is tired of living a life of perfect convenience, tired of the dull routine on the Orbiter vessels, where everything is sterile and controlled and predictable. 
 
 ### What does this character want?
 
@@ -74,6 +88,8 @@ Phenotype: Columbian. Shorter than average for an Earther male. Compact body, we
 
 ### What does this character want?
 
+Rajue was born in a small underground city ruled by a madman. His parents were one of the many people turned into slaves by their city ruler. When food supplies run short in the city, even after sending 50% of their able-bodied, over 18 population into orbit to work on the Space University Station construction, the madman ruler decides to kill all remaining adult male slaves. Rajue was forced to watch the execution of his father, and the fathers of his friends. After that, the madman ruler takes numerous female slaves and creates a harem. 
+
 Rajue wants to get educated and rich as fast as possible, so that he never has to dig another tunnel ever again. He hates the World Gov with a fierce rage and deep smoldering resentment. He wants to leave behind all of the painful memories of now-dead loved ones and get as far away from planet Earth as possible. 
 
 ## Tross Grael Nicolau
@@ -86,7 +102,29 @@ Phenotype: Romanian/Dacia, with Swedish and Portuguese influences. Wide nose, la
 
 ### What does this character want?
 
+## Majhee Suh 
 
+Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and at age 26, coordinates the first successful cultivation of raw, living eSyrup. This eventually leads to her appointment as a research group leader at Laboratório Nacional de Biociências e Saúde Pública. Majhee 
+
+Pronouns: She/her/hers
+
+Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
+
+Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing. 
+
+### What does this character want?
+
+Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
+
+When the Global Water Crisis hits, Majhee decides that São Paulo is no longer safe, not for her family and not for eSyrup research. She decides to relocate to her parents-in-law's farm on the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
+
+## Iúna Serrano Morei
+
+Born in 2043 in Watertown, Massachusetts, USA. 
+
+Pronouns: She/her/hers
+
+Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders. Large blue eyes, dark olive skin. Very large ears. 
 
 ## Zalo
 

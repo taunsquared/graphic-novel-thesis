@@ -348,7 +348,7 @@ Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee 
 
 ### Page 1
 
-We see a tall, willowy woman, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden, brightly lit by artificial light. POV is angled slightly up, as if we are viewing from the eyes of a small child. The walls and ceiling behind the willowy woman are made of carved rock. 
+We see a tall, willowy figure, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden, brightly lit by artificial light. POV is angled slightly up, as if we are viewing from the eyes of a small child. The walls and ceiling behind the willowy woman are made of carved rock. 
 
 Asoka: *"Mom..."*
 
@@ -378,15 +378,13 @@ Small panel, a thin strip across the top of the page: We see dilated eyes in pro
 
 The rest of the page: We see a beautiful little forest glade, seemingly in late spring and seemingly just barely touched by dawn light, cozily bordered by gentle up-slopes of soft grasses and low-lying succulents. A blue jacaranda tree gently dips its purple flower-laden branches down to two teens and a cuttlefish mechapet cuddled together on a bed of ferns and blossoms. 
 
-One has long, reddish-dirty-blonde hair that pools out from under their head. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Chest is broad and flat. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
+One has long, reddish-dirty-blonde hair that pools out from under their head, eyes still open in post-dream shock. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Chest is broad and flat. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
 
 The other is much smaller and darker skinned. Thick, curly, dark brown hair is cut into a short afro with elaborate patterns shaved into it. This one sleeps topless, wearing only long baggy trousers similar to the other teen's trousers, but dyed a deep saturated red and elaborately embroidered. 
 
 The two teens are curled into complementary fetal positions, the tall pale one spooning the smaller darker one from behind. The tall one's arms wrap around the little one's torso, one arm draped across a set of well-defined abdominal muscles, the other covering the little one's full breasts and tangled in a pair of dark arms. 
 
 The cuttlefish mechapet has all of the body parts of a cuttlefish but is rather flatter and more blobulous than a fully biological cuttlefish, which haven't been seen in Earth's oceans for decades. It is flat against the tall teen's back, all 8 arms twining around the tall teen's body. The tips of two arms gently brush back the smaller teen's hair from her forehead. 
-
-Asoka: *"Exam day..."*
 
 ### Page 2
 
@@ -398,17 +396,48 @@ We see Asoka's hand backlit against the sunlight filtering through the tree bran
 
 Asoka: *"Iri..."*
 
-We see a brief, blurry flash of the willowy woman from Asoka's dreams, smiling with so much love that tears gather in Asoka's eyes.
+We see a brief, blurry flash of the willowy woman from Asoka's dreams, smiling tenderly.
 
 Asoka: *"Mom...where are you?"*
 
-We see Asoka staring up at the tree, arm still raised, fingers now closed in a fist as they contemplate, face passive. Dappled shadows of the tree leaves and flowers play on Asoka's face.
+We see Asoka staring up at the tree, arm still raised, fingers now closed in a fist as they contemplate, mouth clenched with grief as a few slow tears spill down their cheeks. Dappled shadows of the tree leaves and flowers play on Asoka's face.
 
 Asoka: *"If I grow enough food for everyone to eat, will they let you come home?"*
+
+### Page 3  
+
+Min says, off-panel: **"...Soka?"** 
+
+Min is awake, and has turned to face Asoka, propped up on her elbows. 
+
+Min: **"Bad dreams again?"**
+
+Soka lowers her raised hand to cup Min's cheek. Min leans into Soka's hand, closing her eyes and smiling down at Soka encouragingly.
+
+Soka: **"Death Dogs..."**
+
+Min lowers her eyes with sympathy as she pulls Soka's head into her chest. Tears are now freely flowing down Soka's cheeks as Soka clings to Min. 
+
+We see Min's face, backlit and in profile, Soka's head tucked under her chin. 
+
+Soka: **"The plants...exactly like...Green Havens..."**
+
+Min: **"I know..."**
+
+### Page 4
+
+
+
+Min: **"Once we become Space Swimmers, no place will be out of our reach..."**
 
 Asoka's eyes, steely and determined, completely awake and focused.
 
 Asoka: *"If not...I'll fight for you. Don't worry mom, I'm coming."*
+
+
+
+
+
 
 ### Page 3
 
