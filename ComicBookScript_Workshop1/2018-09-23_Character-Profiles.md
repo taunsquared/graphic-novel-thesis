@@ -2,11 +2,11 @@
 
 ## Minka Oosou
 
-Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Earther Gang from the Petar Caves in Brazil. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Cares deeply for Asoka.
+Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Underground Earther. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Cares deeply for Asoka.
 
 Pronouns: She/her/hers
 
-Phenotype: East Asian/West African. Thick dark brown hair, slightly curled. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
+Phenotype: East Asian/West African. Thick dark brown hair, slightly curled, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
 
 ### Where is this character from?
 
@@ -32,7 +32,7 @@ Earther, member of the Biononymous cult. Introverted, very warm and kind and pol
 
 Pronouns: They/them/theirs (all Biononymous use gender-neutral pronouns) 
 
-Phenotype: Northern British Isles/Brazilian. Freckles on light olive skin. Reddish-dirty-blonde hair. Long aquiline nose, large golden eyes. Very tall, taller than most Earthers. Long-limbs, delicate shoulders. Strong from a life of farming but not very muscled. 
+Phenotype: Northern British Isles/Brazilian. Freckles on light olive skin. Reddish-dirty-blonde hair that falls to their shoulders when not under a head wrap and face veil. Long aquiline nose, large golden eyes. Very tall, taller than most Earthers. Long-limbs, delicate shoulders. Strong from a life of farming but not very muscled. 
 
 ### Where is this character from?
 
