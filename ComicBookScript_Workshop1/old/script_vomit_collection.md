@@ -1,8 +1,33 @@
 # old writings
 
+## Min's Rite of the Mothers
+
+### Page 5
+
+View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Majhee gently place the hoop back down in its exact previous position, centering Min again. 
+
+Majhee stands at her original position in the inner circle. 
+
+**Majhee: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"**
+
+View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
+
+Majhee's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
+
+### Page 6
+
+Min closes her eyes, tries to calm her breathing, and struggles to stand. 
+
+**Min: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."**
+
+**Min: "...and to MOVE in any direction with curiosity and grace..."**
+
+Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
+
+**Min: "...even OFF THE PLANET!"**
 
 
-
+## on the Gemini Station
 
 We see a tall, willowy figure, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden, brightly lit by artificial light. POV is angled slightly up, as if we are viewing from the eyes of a small child. The walls and ceiling behind the willowy woman are made of carved rock. 
 
