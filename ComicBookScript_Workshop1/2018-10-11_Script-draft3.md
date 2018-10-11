@@ -1,4 +1,4 @@
-# Script Draft 2
+# Script Draft 3
 
 **NAMES IN BOLD AND ALL CAPS ARE PLACEHOLDERS**
 
@@ -38,7 +38,7 @@
 
 **"It was a day of hope and wonder."** 
 
-**"The Space Consortium had just announced the completion of their third space farm, **THE UPPER ESTATES SPACE ARBORETUM**. The news feeds were drowning in photos of the ribbon-cutting event up in orbit, of beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly morph in response to the lights, the music, their wearers' moods..."**
+**"The Space Consortium had just announced the completion of their third space farm, **THE UPPER ESTATES SPACE ARBORETUM**. The news feeds were drowning in photos of the ribbon-cutting event up in orbit, of beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly change colours in response to the lights, the music, their wearers' moods..."**
 
 **"...of delicate, mouth-watering hors d'oeuvres made from the succulent crops grown and cultivated at the two older space farms, with their carefully filtered water and pristine soil..."**
 
@@ -552,7 +552,7 @@ Serena returns the raspberries to their bowl, and they all sit, Asoka on their b
 
 Eireena: **"Asoka, I want to tell you why the Peacekeepers visited us last night. Is this something you think you can hear right now?"**
 
-Asoka looks at Eireena, suddenly scared. 
+Asoka looks at Eireena, suddenly scared. The raspberries in Asoka's hand have been crushed by Asoka's sudden tension.
 
 Eireena: **"If you hear what I have to say, and all you want is to hide someplace safe for the rest of your life, I guarantee that you will have that place with us. Do you understand?"**
 
@@ -560,11 +560,11 @@ Asoka: **"Yes."**
 
 ### Page 12
 
-Eireena: **"Good. Last night, the Peacekeepers told our Haven Council that they had received multiple reports of Green Havens being attacked by large wolf-like creatures."**
+Eireena: **"Good. Last night, Lieutenant Colonel Santiago Garcia of the World Government Peacekeepers told our Haven Council that he has received multiple reports of the Green Havens being attacked by large wolf-like creatures."**
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
-Eireena: **"The Peacekeepers claim that although they can track these creatures, the creatures move too quickly for the Peacekeepers to hunt them down. Nonetheless, the Peacekeepers offered to station a platoon of 40 Peacekeepers at our Green Haven as protection, in case the creatures try to attack us."**
+Eireena: **"The Colonel claims that although they can track these creatures, the creatures move too quickly for the Peacekeepers to hunt them down. Nonetheless, he offered to station a platoon of 40 Peacekeepers at our Green Haven as protection, in case the creatures try to attack us."**
 
 Eireena lets her cynicism creep onto her face. 
 
@@ -572,9 +572,103 @@ Eireena: **"Though we do not trust their motives in the slightest, we have littl
 
 Eireena now looks hard at Asoka. 
 
-Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous and risky, but potentially greatly rewarding path...there is another option."**
+Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous and risky, but potentially more rewarding path...there is another option."**
 
 ## Chapter 4
+
+Asoka travels to the southern side of the "Red Zone" (Large stretch of equatorial zone of the Earth which is too hot for even the Biononymous to cross, harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka has flashbacks to hearing Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the World Government. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
+
+## Chapter 5
+
+Asoka rushed ahead of the Peacekeepers to the location that the World Government designated as the best spot to search for the mysterious Amazonian people, arriving much faster than the loud, noisy, bulky, slow-moving military troops. From that location, Asoka has been searching in an ever growing spiral, with no success. Just as Asoka is about to pass out from hunger and heatstroke, Iri discovers a cave with a false wall, behind which is a garden, clearly cultivated by *someone*. Asoka and Iri find an opening into the secret garden, which provides Asoka with food, water, and respite from the heat. Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
+
+## Dream 2: Another Tree Surfer is Born
+
+Min remembers her Rite of the Mothers, the ceremony that indicates her passing from childhood to adulthood within the Automata Clan. 
+
+### Page 1
+
+Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
+
+Drum beats keep everyone synchronised.
+
+**"Another Tree Surfer is born tonight."**
+
+Over this backdrop, small close-up panels are scattered, showing different parts of 16 year old Min, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
+* an eye, nose, and ear. The eye is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with eSyrup metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
+* a strong and straight back, dominated by an eSyrup tatoo depicting a shallow coral ocean scene, ever-changing.  
+* shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
+* legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
+
+**"To be reborn, each Expert Crafter of the Automata must first retreat to one of the sacred caves and refrain from both speech and food for 7 days. Then, they must accept an injection of *raw eSyrup*."**
+
+**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
+
+### Page 2
+
+3 panels show close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
+
+* Jina, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield is visible in shadowy patterns under her clan tatoos. Next to her is a tall bucket holding ritual clensing water.  
+* Amadou, no subdermal shield and just a few clan tatoos, but dressed spledidly and unspeakably proud of his daughter.   
+* Majhee, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
+* Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's subdermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
+
+**"DOOOOHM!"** 
+
+The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
+
+Jina, Majhee, Amadou, and Maraba stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
+
+### Page 3
+
+Maraba picks up the syringe as Jina picks up the bucket of water, leaving Majhee and Amadou to hold the hoop with Min inside steady. 
+
+Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then Maraba positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
+
+Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, and into her eyelids. As the subdermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. 
+
+### Page 4
+
+Min's body convulses as her inner circle sets her upright in the very center again. 
+
+The crowd chants **"Be Free! Be FREE! BE FREE!"** as Min finishes integrating the subdermal shield. 
+
+After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
+
+### Page 5
+
+View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Majhee gently place the hoop back down in its exact previous position, centering Min again. 
+
+Majhee stands at her original position in the inner circle. 
+
+**Majhee: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"**
+
+View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
+
+Majhee's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
+
+### Page 6
+
+Min closes her eyes, tries to calm her breathing, and struggles to stand. 
+
+**Min: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."**
+
+**Min: "...and to MOVE in any direction with curiosity and grace..."**
+
+Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
+
+**Min: "...even OFF THE PLANET!"**
+
+## Chapter 6
+
+Asoka tells the Elders of the Automata everything that the Biononymous know about the World Government and present the Biononymous' offer for alliance. The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the World Government indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the World Government is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the Death Dogs. Eireena shares her belief that the Death Dogs are creations of the World Government, meant to create an atmosphere of terror so that the World Government can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
+
+## Chapter 7
+
+Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the World Government, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the World Government. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
+
+
+ 
 
 
 
