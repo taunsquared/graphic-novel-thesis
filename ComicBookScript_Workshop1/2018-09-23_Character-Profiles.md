@@ -6,7 +6,7 @@ Earther, member of the Automata Clan (South America). To apply to the ISE Corps,
 
 Pronouns: She/her/hers
 
-Phenotype: East Asian/West African. Thick dark brown hair, slightly curled, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
+Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
 
 ### Where is this character from?
 
