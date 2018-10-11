@@ -4,6 +4,8 @@
 
 *"Dialogue in italics are thoughts of characters."*
 
+**"*Dialogue in italics and bold are spoken by the Biononymous while wearing the uniforms of their cult, which layers audio effects on their voices such that they cannot be identified by the sound of their speech.*"**
+
 **"Dialogue in bold is without an associated character is narrative text or sound effects, not spoken by any character."**
 
 ## Dream 1: Nostalgia
@@ -216,75 +218,75 @@ Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new sp
 
 ### Page 9
 
-**Dr. Kauffmann: "Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
+Dr. Kauffmann: **"Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
 
-**Iúna: "What?? How many dead??"**
+Iúna: **"What?? How many dead??"**
 
-**Dr. Kauffmann: "Unfortunately we haven't had a chance to count yet. Thousands are already homeless."**
+Dr. Kauffmann: **"Unfortunately we haven't had a chance to count yet. Thousands are already homeless."**
 
-**Iúna: "How does a police raid start a state-wide fire??"**
+Iúna: **"How does a police raid start a state-wide fire??"**
 
-**Dr. Kauffmann: "It's all the plastic furniture - they're basically *solid* petroleum, turns a misplaced candle into a fireball in just *minutes*. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"**
+Dr. Kauffmann: **"It's all the plastic furniture - they're basically *solid* petroleum, turns a misplaced candle into a fireball in just *minutes*. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"**
 
-**Iúna: "Yes, I...I'm sorry I need to make a call..."**
+Iúna: **"Yes, I...I'm sorry I need to make a call..."**
 
-**Dr. Kauffmann: "Of course. I'll see myself out."**
+Dr. Kauffmann: **"Of course. I'll see myself out."**
 
 Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of eSyrup cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
 ### Page 10
 
-*Iúna: "Tahoe, have you been able to contact Joshua Tree?"*
+Iúna: **"*Tahoe, have you been able to contact Joshua Tree?*"**
 
 Iúna is outside, and her baby is no longer strapped to her chest. Instead, her face is covered in a thick veil and she wears what looks like a heavy, full-sleeved and full-length apron. eSyrup circuits flash within the weave of both Iúna's veil and apron. She stands, facing west, arms flung out wide, back straight and tall, legs apart, boots planted wide in the frosty grass. 
 
-*Iúna's Biononymous contact at Green Haven Tahoe: "Negative, Mama Bird."*
+Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
-*Iúna: "How is Tahoe?"*
+Iúna: **"*How is Tahoe?*"**
 
-*Tahoe: "Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary."*
+Tahoe: **"*Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary.*"**
 
-*Iúna: "So...it *was* the body mod."*
+Iúna: **"*So...it *was* the body mod.*"**
 
-*Tahoe: "Looks like it. They didn't even bother going for the decoy."*
+Tahoe: **"*Looks like it. They didn't even bother going for the decoy.*"**
 
 ### Page 11
 
 Iúna ponders for a moment, her face furrowed with grief and concentration.
 
-*Iúna: "Tahoe, I've changed my mind. I vote for registering as a religion."*
+Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"**
 
-*Tahoe: "Wa-wait, seriously?"*
+Tahoe: **"*Wa-wait, seriously?*"**
 
-*Iúna: "Yes. We need all of the protections we can get right now."*
+Iúna: **"*Yes. We need all of the protections we can get right now.*"**
 
-*Tahoe: "You've been thinking about what Pigsah said at our last TeleSensing?"*
+Tahoe: **"*You've been thinking about what Pigsah said at our last TeleSensing?*"**
 
-*Iúna: "Yes. They were right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human **adult** if you don't have a body mod."*
+Iúna: **"*Yes. They were right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod.*"**
 
-*Tahoe: "But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a **cult**."*
+Tahoe: **"*But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*.*"**
 
-*Iúna: "I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it **impossible** to live without constant surveillance."*
+Iúna: **"*I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance.*"**
 
 ### Page 12
 
-*Tahoe: "But we still haven't figured out our own solutions to the really **practical** advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour..."*
+Tahoe: **"*But we still haven't figured out our own solutions to the really *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour...*"**
 
-*Iúna: "That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?"*
+Iúna: **"*That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?*"**
 
-*Tahoe: "What?"*
+Tahoe: **"*What?*"**
 
-*Iúna: "The first successful splice of eSyrup with a living organic compound, a recipe for creating eSyrup **biofilm**!"*
+Iúna: **"*The first successful splice of eSyrup with a living organic compound, a recipe for creating eSyrup *biofilm*!*"**
 
-*Tahoe: "...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?"*
+Tahoe: **"*...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?*"**
 
-*Iúna: "Because that's the **beginning**. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive info-spheres?"*
+Iúna: **"*Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive info-spheres?*"**
 
-*Tahoe: "...yes...?"*
+Tahoe: **"*...yes...?*"**
 
-*Iúna: "**It's possible now.** If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if creating and interacting with these creatures is part of our religious practice..."*
+Iúna: **"It's possible now. *If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if creating and interacting with these creatures is part of our religious practice...*"**
 
-*Iúna: "...then we have much stronger grounds to deny oversight by Space Consortium, or any national government!"*
+Iúna: **"*...then we have much stronger grounds to deny oversight by Space Consortium, or any national government!*"**
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
@@ -344,99 +346,53 @@ Massive fluctuations of electromagnetic radiation from sun flares completely dis
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
-## Dream: Childhood
+## Dream 2
 
 ### Page 1
-
-We see a tall, willowy figure, long golden-red hair tucked loosely into a hair net and falling softly to her shoulders, wearing a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). She is smiling and checking a beautifully laid out home hydroponics garden, brightly lit by artificial light. POV is angled slightly up, as if we are viewing from the eyes of a small child. The walls and ceiling behind the willowy woman are made of carved rock. 
-
-Asoka: *"Mom..."*
-
-We see the same willowy woman, now from the back, as she uses a desk similar to Iúna's desk, but a bit sleeker, elegantly simple, seemingly made of beautifully woven canvas and elaborately carved wood. Above the desk float three enormous grains: rice, wheat, and corn. Each grain is diagramatically labeled with genetic information about the grain, which we cannot read from this distance. POV is from behind a elaborately embroidered tapestry. A mechapet in the shape of a black guillemot perches on the woman's shoulder as the woman examines the grains with grave concern. Again, we are inside a rock structure, with no natural light; all lighting comes from the enormous grains of light floating above the desk and many cleanly-burning, gently flickering candles scattered around the room. 
-
-Asoka: *"Mom?"*
-
-We see the willowy woman again, being roughly dragged away by demonic, shadowy, enormous dark gray wolves with glowing eyes, one red and one green. POV is over the shoulder of another adult (João), who is on the ground, leg bloody and twisted behind him in a terrible way. We see Asoka's hand and arm frantically reaching out towards the willowy woman. Furniture is knocked over, dishes and glasses are broken, wall tapestry and clothing are torn. The willowy woman looks furious, but even as she struggles with the demon-wolves she throws a hand towards Asoka and screams "Stay back!!"
-
-Asoka: *"Mom!!"* 
-
-### Page 2
-
-The dreams swirls into a dark tunnel, greenish lighting revealing crumbling walls, puddles of brackish water along the ground, and occassional stretches of salvaged chain-linked fence. We see a very young Asoka running down this tunnel, sweating, panting, frantic. 
-
-Asoka looks over their shoulder, behind them, terrified.
-
-An enormous demon wolf, fangs bared, eyes flashing, lunges at Asoka. 
 
 ## Chapter 3
 
 ### Page 1
 
-**"2119: The International Space Exploration Corps, Gemini Youth Station"**
+**"By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe."**
 
-Small panel, a thin strip across the top of the page: We see dilated eyes in profile, large and golden, framed by long reddish lashes, shocked open by difficult dreams.
+**"Thanks to the full-body coverage of their clothing, the Biononymous were able to move freely in and out of the Underground Cities, able to interact with the drastically changed surface world without dying in droves..."** 
 
-The rest of the page: We see a beautiful little forest glade, seemingly in late spring and seemingly just barely touched by dawn light, cozily bordered by gentle up-slopes of soft grasses and low-lying succulents. A blue jacaranda tree gently dips its purple flower-laden branches down to two teens and a cuttlefish mechapet cuddled together on a bed of ferns and blossoms. 
+**"So the Biononymous pledged to farm the surface and protect and manage any remaining green spaces  the Green Havens, in order to feed themselves and the Earthers still trapped underground. They have also perfected eSyrup mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. 
 
-One has long, reddish-dirty-blonde hair that pools out from under their head, eyes still open in post-dream shock. Freckles sprinkle a long aquiline nose and light olive cheeks. Though their facial features are delicate, their jaw is strong and their shoulders are broad. Their long limbs and tall, willowy frame are covered in simply cut and un-dyed clothing similar to the woman from the dream, a sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez). The arms are thin but strongly muscled. Chest is broad and flat. Bare feet peek out at the bottom of the trousers. Behind their head is a casually folded pile of fabric - a head veil, gloves, and socks in the style of the traditional korean [beoseon](https://en.wikipedia.org/wiki/Beoseon). 
+The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. They struck an uneasy bargain with the Biononymous - the Biononymous would be allowed to keep their stewardship of the Green Havens, if they tithe 30% of their yearly yield to the World Government. At first the Biononymous refused, but then the World Government showed their full hand - they missile-bombed one of the Green Havens from orbit, forcing the Biononymous to surrender. The World Government then upped the tithe to 50%.  
 
-The other is much smaller and darker skinned. Thick, curly, dark brown hair is cut into a short afro with elaborate patterns shaved into it. This one sleeps topless, wearing only long baggy trousers similar to the other teen's trousers, but dyed a deep saturated red and elaborately embroidered. 
+The Biononymous realise they need to become even more subtle and clever, now that they know that the World Government has an orbiting missile launch system.
 
-The two teens are curled into complementary fetal positions, the tall pale one spooning the smaller darker one from behind. The tall one's arms wrap around the little one's torso, one arm draped across a set of well-defined abdominal muscles, the other covering the little one's full breasts and tangled in a pair of dark arms. 
+**"2116: Green Haven Clarksville, North America"**
 
-The cuttlefish mechapet has all of the body parts of a cuttlefish but is rather flatter and more blobulous than a fully biological cuttlefish, which haven't been seen in Earth's oceans for decades. It is flat against the tall teen's back, all 8 arms twining around the tall teen's body. The tips of two arms gently brush back the smaller teen's hair from her forehead. 
+We see a fist holding a bunch of wheat straws, and another hand reaching for a straw. 
+
+Asoka, off-panel: **"*Aw, *seriously*?*"**
+
+We see a crowd of Biononymous children gathered in a outdoor pavilion with a dirt floor, all wearing the compulsory clothing of their cult: a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez); a light long sleeve jumper; gloves; head veil with identical cartoon schematics of a face embroidered onto it with eSyrup thread; boots, with the trousers tucked in. Each child also has an eSyrup mechapet curled around their arms, legs, necks; sitting on heads, shoulders; or eagerly following their heels. Some of the children have straws of varying lengths in their hands. One child, taller and lankier than most of the other children, a cuttlefish mechapet sitting on their shoulder with some of its arms gently curled around the child's neck, is holding a very short straw, and the face on their head veil looks both sad and angry. 
+
+Asoka: **"*But I did the far hill field *yesterday*!*"**
+
+Another Biononymous child: **"*Maybe someone with a longer straw will pick the far hill field?*"**
+
+Asoka: **"*Does that mean you're volunteering?*"**
+
+Other Biononymous child: **"*No!*"**
 
 ### Page 2
 
-The tall one turns their nose away from the crook of the little one's neck and looks up at the blue jacaranda tree. The tall teen lifts the arm that was draped over the little one's stomach and reaches their hand up towards the branches. 
+We see Asoka carrying a large bucket of water up to a terraced hillside field covered in transparent eSyrup fabric held in place by a metal frame, tall enough for an adult to easily stand up underneath the fabric. The cuttlefish mechapet supports the bucket from underneath as they laboriously climb up a grassy ramp to the hillside greenhouse. Inside the greenhouse is a small grove of trees, bushes, and low-lying plants, growing together in permaculture fashion. 
 
-Asoka: *"Why did I dream of Death Dogs today?"*
+Asoka: *"...and I'm *pretty sure* Pip has *never* done this field."*
 
-We see Asoka's hand backlit against the sunlight filtering through the tree branches, Asoka's long fingers haloed with golden dust. The cuttlefish mechapet gently wraps an arm around Asoka's raised arm. 
+Iri: **"But Pip can't walk!"**
 
-Asoka: *"Iri..."*
+Asoka: *"Yeah, well, whose side are you on anyway??"*
 
-We see a brief, blurry flash of the willowy woman from Asoka's dreams, smiling tenderly.
+We see the bucket pouring water into a filtration and irrigation system. 
 
-Asoka: *"Mom...where are you?"*
-
-We see Asoka staring up at the tree, arm still raised, fingers now closed in a fist as they contemplate, mouth clenched with grief as a few slow tears spill down their cheeks. Dappled shadows of the tree leaves and flowers play on Asoka's face.
-
-Asoka: *"If I grow enough food for everyone to eat, will they let you come home?"*
-
-### Page 3  
-
-Min says, off-panel: **"...Soka?"** 
-
-Min is awake, and has turned to face Asoka, propped up on her elbows. 
-
-Min: **"Bad dreams again?"**
-
-Soka lowers her raised hand to cup Min's cheek. Min leans into Soka's hand, closing her eyes and smiling down at Soka encouragingly.
-
-Soka: **"Death Dogs..."**
-
-Min lowers her eyes with sympathy as she pulls Soka's head into her chest. Tears are now freely flowing down Soka's cheeks as Soka clings to Min. 
-
-We see Min's face, backlit and in profile, Soka's head tucked under her chin. 
-
-Soka: **"The plants...exactly like...Green Havens..."**
-
-Min: **"I know..."**
-
-### Page 4
-
-
-
-Min: **"Once we become Space Swimmers, no place will be out of our reach..."**
-
-Asoka's eyes, steely and determined, completely awake and focused.
-
-Asoka: *"If not...I'll fight for you. Don't worry mom, I'm coming."*
-
-
-
-
+Iri: **"Maybe you're just upset that 
 
 
 ### Page 3
