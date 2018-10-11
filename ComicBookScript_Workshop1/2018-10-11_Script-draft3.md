@@ -32,6 +32,8 @@
 
 ## Chapter 1: Calm Before the Storm
 
+Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Breno Leite, Nova Jatobá, Vec Barbosa
+
 ### Page 1
 
 **"2076: São Paulo, Brazil"**
@@ -122,7 +124,7 @@ Majhee, Felix, and other members of Majhee's research group sit in a meeting roo
 
 Majhee: **"So. Your father has been diagnosed again."**
 
-The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her short life in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an old Brazilian martial arts family but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
+The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an old Brazilian martial arts family but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
 Vec, to Felix: **"Beatriz and I have already contacted your father's medical team in Romania, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
 
@@ -290,6 +292,8 @@ Iúna: **"*...then we have much stronger grounds to deny oversight by Space Cons
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
+Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Breno Leite, Nova Jatobá, Vec Barbosa
+
 ### Page 1
 
 **"2077: Ushuaia, Argentina"**
@@ -347,6 +351,8 @@ Massive fluctuations of electromagnetic radiation from sun flares completely dis
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
 ## Chapter 3
+
+Character designs: Asoka Morei, Iri, Eireena McLeland
 
 ### Page 1
 
@@ -488,7 +494,7 @@ Eireena, off-panel: **"I'm so sorry for your loss, Asoka."**
 
 Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleeveless shirt, but their feet, hands, and head are bare. Asoka's long reddish hair is tied back in a half ponytail, and Iri, now displaying a reddish back and cream coloured bottom to better camouflage from its perch on Asoka's neck, peers out from under Asoka's hair. Before Asoka is a large steaming mug of hot tea, but Asoka hasn't touched it. Tears run down their face, past an upper lip that shows just the tiniest hints of fuzzy hair. 
 
-We see Eireena, an older woman of the Biononymous, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face is one of calm contemplation. 
+We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face is one of calm contemplation. 
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. The figurine is surrounded by candles, incense, and early summer blossoms. 
 
@@ -576,15 +582,19 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 ## Chapter 4
 
+Character designs: Asoka Morei, Iri, Eireena McLeland
+
 Asoka travels to the southern side of the "Red Zone" (Large stretch of equatorial zone of the Earth which is too hot for even the Biononymous to cross, harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka has flashbacks to hearing Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the World Government. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
 
 ## Chapter 5
+
+Character designs: Asoka Morei, Iri, Minka Oosou
 
 Asoka rushed ahead of the Peacekeepers to the location that the World Government designated as the best spot to search for the mysterious Amazonian people, arriving much faster than the loud, noisy, bulky, slow-moving military troops. From that location, Asoka has been searching in an ever growing spiral, with no success. Just as Asoka is about to pass out from hunger and heatstroke, Iri discovers a cave with a false wall, behind which is a garden, clearly cultivated by *someone*. Asoka and Iri find an opening into the secret garden, which provides Asoka with food, water, and respite from the heat. Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
 
 ## Dream 2: Another Tree Surfer is Born
 
-Min remembers her Rite of the Mothers, the ceremony that indicates her passing from childhood to adulthood within the Automata Clan. 
+The Rite of the Mothers, the ceremony that marks the passing from childhood to adulthood within the Automata Clan. 
 
 ### Page 1
 
@@ -635,37 +645,19 @@ The crowd chants **"Be Free! Be FREE! BE FREE!"** as Min finishes integrating th
 
 After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
-### Page 5
-
-View from above: Min is on her knees, curled into a fetal position, cradling her bleeding wrists and ankles while her back tatoo writhes in distress. Jina, Amadou, and Majhee gently place the hoop back down in its exact previous position, centering Min again. 
-
-Majhee stands at her original position in the inner circle. 
-
-**Majhee: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"**
-
-View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
-
-Majhee's eyes, proud, confident, expectant: "WHAT DOES IT MEAN TO BE FREE?"
-
-### Page 6
-
-Min closes her eyes, tries to calm her breathing, and struggles to stand. 
-
-**Min: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."**
-
-**Min: "...and to MOVE in any direction with curiosity and grace..."**
-
-Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
-
-**Min: "...even OFF THE PLANET!"**
-
 ## Chapter 6
+
+Character designs: Asoka Morei, Iri, Majhee Suh, Beatriz Cavalcanti, Breno Leite, Nova Jatobá, Jina Suh Barbosa, Amadou Touré 
 
 Asoka tells the Elders of the Automata everything that the Biononymous know about the World Government and present the Biononymous' offer for alliance. The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the World Government indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the World Government is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the Death Dogs. Eireena shares her belief that the Death Dogs are creations of the World Government, meant to create an atmosphere of terror so that the World Government can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
 ## Chapter 7
 
+Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa, Amadou Touré
+
 Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the World Government, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the World Government. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
+
+
 
 
  
