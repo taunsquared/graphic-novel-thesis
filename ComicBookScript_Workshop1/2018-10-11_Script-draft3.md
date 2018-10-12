@@ -408,7 +408,7 @@ At the top of the path, slightly above the row of greenhouses, is a row of spigo
 
 Pippa: **"*These are always so hard to do with gloves...*"**
 
-Asoka: **"*Here, let me help...*"**
+Asoka: **"*You got this...*"**
 
 ### Page 4
 
@@ -418,7 +418,7 @@ Pippa: **"*Yes!*"**
 
 Asoka: **"*Before picking a straw, or rolling dice, think of the worst possible outcome.*"**
 
-Pippa: **"*What, the worst?!*"**
+Pippa: **"*The worst?!*"**
 
 Asoka: **"*Then think about how you would get what you want even if you had the worst luck, and shout in your head, 'I don't care if the worst happens! I can handle it!'*"**
 
@@ -458,7 +458,7 @@ Iri chirps with happy determination, holding up weeding trowels in its arms in a
 
 Iri: **"Yeah!"**
 
-Panels show Asoka and Iri weeding the plants in the greenhouse. 
+Panels show Asoka and Iri weeding the plants in the greenhouse. Have some nice botany spreads of future plants that have been genetically engineered to deal with a heavy NO2 and CO2 content. The plants need to have ways of reducing their overgrowth thanks to the abundance of CO2 and they need to still sequester enough nutrients for them to be worth growing and eating. What do the 3 sisters (beans, corn, squash) need to change in order to still be a great trio?
 
 ### Page 7
 
