@@ -528,7 +528,7 @@ Fili and Serena both bow: **"Yes, High Priestess."**
 
 ### Page 10
 
-It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Iri tenderly combs Asoka's hair with its arms. 
+It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms. 
 
 Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
 
@@ -562,7 +562,7 @@ Serena returns the raspberries to their bowl, and they all sit, Asoka on their b
 
 Eireena: **"Asoka, I want to tell you why the Peacekeepers visited us last night. Is this something you think you can hear right now?"**
 
-Asoka looks at Eireena, suddenly scared. The raspberries in Asoka's hand have been crushed by Asoka's sudden tension.
+Asoka looks at Eireena, suddenly scared. The raspberries in Asoka's hand have been crushed by their sudden tension.
 
 Eireena: **"If you hear what I have to say, and all you want is to hide some place safe for the rest of your life, I guarantee that you will have that place with us. Do you understand?"**
 
