@@ -132,7 +132,7 @@ Beatriz, kindly: **"We also remember that your father had a liver transplant las
 
 Felix now looks up, straight at Majhee, eyes full of furious determination.
 
-Felix: **"But...we need to finish the biofilm project! *Before* Space Consortium can get their filthy hands on another patent!"**
+Felix: **"There's nothing I can do there anyway...besides, we need to finish the biofilm project! *Before* Space Consortium can get their filthy hands on another patent!"**
 
 Felix covers his face with his hands, furious at the tears that have started to stream down his face.
 
