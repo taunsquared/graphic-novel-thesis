@@ -338,7 +338,7 @@ Majhee: **"We need to finish packing up NOW."**
 
 Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. 
 
-One month ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Romania. 
+One month ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Sweden. 
 
 Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
@@ -346,7 +346,7 @@ Iúna flees with her son João into caves in Vermont to escape the huge clouds o
 
 Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
 
-Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. *Check whether this would blow away ionosphere.*
+Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. *Check whether this would blow away ionosphere. Maybe get rid of this, and just have people loot the physical servers for the materials that can be fed to eSyrup.*
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
@@ -360,17 +360,17 @@ Character designs: Asoka Morei, Iri, Eireena McLeland
 
 Asoka trips, falling face down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves torn, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
-Asoka: *"Mom...Dad...Pippa...Io...Jeshua...why??"*
+Asoka: *"Mom...I sent...Pippa back...WHY??"*
 
-We see Asoka clench their fist, then throw up their head, struggle to stand. 
+We see Asoka clench their fist, then throw up their head, struggle to stand, eyes streaming with tears. 
 
 Asoka: *"Must...reach...the next...Haven!"*
 
 ### Page 2
 
-**"2116: Green Haven Clarksville, North America"**
-
 **"Earlier that morning..."**
+
+**"2116: Green Haven Clarksville, North America"**
 
 We see a fist holding a bunch of wheat straws, and another hand reaching for a straw. 
 
