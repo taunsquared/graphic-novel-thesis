@@ -120,13 +120,13 @@ Majhee: **"I'm sorry Marcia, we'll have to continue this another time."**
 
 ### Page 5
 
-Majhee, Felix, and other members of Majhee's research group sit in a meeting room in an upper floor of the research institute. One wall is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
+Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 
 Majhee: **"So. Your father has been diagnosed again."**
 
 The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an old Brazilian martial arts family but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
-Vec, to Felix: **"Beatriz and I have already contacted your father's medical team in Romania, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
+Vec, to Felix: **"Beatriz and I have already contacted your father's medical team in Sweden, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
 
 Beatriz, kindly: **"We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
 
@@ -332,7 +332,9 @@ These last two scenes should give clues about the deep-sea silica drilling disas
 
 **"São Paulo, Brazil"**
 
-The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators and water boots - the streets are ankle-deep in ocean water. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in acidic ocean water, highly dosed with nitric acid. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+
+Majhee appears in 
 
 Majhee: **"We need to finish packing up NOW."**
 
@@ -588,7 +590,19 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 Character designs: Asoka Morei, Iri, Eireena McLeland
 
-Asoka travels to the southern side of the "Red Zone" (Large stretch of equatorial zone of the Earth which is too hot for even the Biononymous to cross, harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka has flashbacks to hearing Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the World Government. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Asoka is to train the art of controlling this new kind of eSyrup cloth with the help of their mechapet. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
+### Page 1
+
+Asoka: *"Iri, can you hear me?"*
+
+Iri: *"Yup! Loud and clear!"*
+
+Asoka: *"Shhhhh, you're not supposed to *actually* vocalize!"*
+
+Iri: *"Mmmoopssies!!"*
+
+Asoka and Iri are 
+
+Asoka travels to the southern side of the "Red Zone" (wide stretch of equatorial zone circling the Earth, where it is too hot for even the Biononymous to cross; this zone harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka has flashbacks to hearing Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the World Government. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Asoka is to train the art of controlling this new kind of eSyrup cloth with the help of their mechapet Iri. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
 
 ## Chapter 5
 
