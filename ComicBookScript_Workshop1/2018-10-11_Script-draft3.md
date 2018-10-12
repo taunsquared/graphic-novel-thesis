@@ -518,11 +518,11 @@ Eireena: **"It's alright. Charlie, please let the Peacekeepers know I'll be with
 
 Charlie bows and exits. Eireena stands and looks down at Asoka, who is still kneeling with their head down, unable to look up or stand, tears streaming down their face. 
 
-Eireena: **"It seems these days are full of the strange and indecent. Asoka has sanctuary with us, but perhaps it would be best to keep their presence here...discreet."**
+Eireena: **"It seems these days are full of the strange and the indecent. Asoka has sanctuary with us, but perhaps it would be best to keep their presence here...discreet."**
 
 Eireena puts on her face veil. 
 
-Eireena: **"Fili, please escort Asoka to the infirmary and see to their needs. Serena, please come with me."**
+Eireena: **"*Fili, please escort Asoka to the infirmary and see to their needs. Serena, please come with me.*"**
 
 Fili and Serena both bow: **"Yes, High Priestess."**
 
