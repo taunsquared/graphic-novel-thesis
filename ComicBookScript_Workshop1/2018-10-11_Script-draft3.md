@@ -510,13 +510,13 @@ The fabric flap to this room opens, and another Biononymous adult enters. He add
 
 Biononymous man: **"Apologies, High Priestess, but World Government Peacekeepers have just arrived. They request an audience with you immediately."**
 
-The other woman, sitting beside Eireena, raises an eyebrow. 
+The other woman, sitting beside Eireena, raises an eyebrow. Her eye has a hard glint.  
 
 Biononymous woman: **"Immediately? At this indecent hour?"** 
 
 Eireena: **"It's alright. Charlie, please let the Peacekeepers know I'll be with them shortly."**
 
-Charlie bows and exits. Eireena stands, with assistance from the other two Biononymous adults, and looks down at Asoka, who is still kneeling with their head down, unable to look up or stand, tears streaming down their face. 
+Charlie bows and exits. Eireena stands and looks down at Asoka, who is still kneeling with their head down, unable to look up or stand, tears streaming down their face. 
 
 Eireena: **"It seems these days are full of the strange and indecent. Asoka has sanctuary with us, but perhaps it would be best to keep their presence here...discreet."**
 
