@@ -554,7 +554,7 @@ Asoka rushes to pick up the scattered raspberries. Eireena holds up a hand to st
 
 Eireena: **"Please, eat those, and sit."**
 
-Serena returns the raspberries to their bowl, and they all sit, Asoka on their bed futon, the others on sitting cushions. 
+Serena returns the raspberries to their bowl, and they all sit, Asoka on their bed futon and obediently shoving a raspberry into their mouth, the others on sitting cushions. 
 
 Eireena: **"Asoka, I want to tell you why the Peacekeepers visited us last night. Is this something you think you can hear right now?"**
 
