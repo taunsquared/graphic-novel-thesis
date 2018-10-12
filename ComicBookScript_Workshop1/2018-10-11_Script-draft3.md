@@ -358,7 +358,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland
 
 4 jagged panels. 1st POV of running, terrified, through a harsh and rocky landscape. Flash of memory: enormous fangs; cold, blood-red eyes. A farming village in ruins, fires consuming the large interconnected home structures and surrounding greenhouses. Dead bodies, mangled by the monstrous wolf-like creatures that are the size of a small elephant. 
 
-Asoka trips, falling face down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves torn, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
+Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves torn, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
 Asoka: *"Mom...I sent...Pippa back...WHY??"*
 
@@ -398,7 +398,7 @@ Asoka: **"*Come on, Pippa, I'll help you.*"**
 
 Asoka and Pippa roll two large plastic barrels on a grassy path up a steep, terraced hill, towards a long row of tall greenhouses. The barrels are heavy with water and the two children lean their whole bodies into the endeavor. The cuttlefish mechapet holds two large woven shade-fans over the children's heads, while the crow mechapet moves sticks and other obstacles out of their path. 
 
-Pippa: **"*Io was cheating, I know it! They haven't had to work further away than the apple trees ever since we started trying out all of their 'work assignment algorithms'.*"**
+Pippa: **"*No, *Soka-aa*, Io was cheating, I know it! They haven't had to work further away than the apple trees ever since we started trying out all of their 'work assignment algorithms'...*"**
 
 Asoka: **"*It's only been a week...maybe you've just had bad luck?*"**
 
@@ -408,7 +408,9 @@ At the top of the path, slightly above the row of greenhouses, is a row of spigo
 
 Pippa: **"*These are always so hard to do with gloves...*"**
 
-Asoka: **"*You got this...*"**
+Asoka gives Pippa a wink and a thumbs up before tending to their own hose attachment.
+
+Asoka: **"*You got this!*"**
 
 ### Page 4
 
@@ -420,7 +422,7 @@ Asoka: **"*Before picking a straw, or rolling dice, think of the worst possible 
 
 Pippa: **"*The worst?!*"**
 
-Asoka: **"*Then think about how you would get what you want even if you had the worst luck, and shout in your head, 'I don't care if the worst happens! I can handle it!'*"**
+Asoka: **"*Then think about how you would get what you want even if you had the worst luck, and shout in your head, 'I don't care if the worst happens! I can handle it!!'*"**
 
 ### Page 5
 
@@ -428,7 +430,7 @@ Asoka: **"*Then the bad luck gets scared, and knows it can't have fun with you.*
 
 The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse. 
 
-Asoka: **"*I heard Jeshua's making butter buns today...*"**
+Asoka: **"*Smells like Jeshua's making butter buns today...*"**
 
 Pippa looks miserable. 
 
@@ -437,6 +439,8 @@ Pippa: **"*We're so far away, they'll be cold by the time we get back. Why do we
 Asoka smiles kindly via their face veil. 
 
 Asoka: **"*Some of these plants need more sun than they'd get in the valley...*"**
+
+Asoka crouches to be face level with Pippa.
 
 Asoka: **"*If I take care of the weeding, will you run back now and bring me a hot bun?*"**
 
@@ -488,7 +492,7 @@ Iri/Soka's Mom: **"It's the Death Dogs!! Run Soka! *RUN!!*"**
 
 ### Page 8
 
-It's night. A village with a central housing structure identical to Asoka's home village, also surrounded by greenhouses, sleeps tranquilly amongst rolling hills. A faint orange glow is visible in one corner of the central housing structure. 
+It's night. A village with a central housing structure identical to Asoka's home village, also surrounded by greenhouses, sleeps tranquilly amongst rolling hills and a soft, nearly full moon. A faint orange glow is visible in one corner of the central housing structure. 
 
 Eireena, off-panel: **"I'm so sorry for your loss, Asoka."**
 
@@ -496,7 +500,7 @@ Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleev
 
 We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face is one of calm contemplation. 
 
-They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. The figurine is surrounded by candles, incense, and early summer blossoms. 
+They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
 
 Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these 'Death Dogs'."**
 
@@ -560,9 +564,9 @@ Eireena: **"Asoka, I want to tell you why the Peacekeepers visited us last night
 
 Asoka looks at Eireena, suddenly scared. The raspberries in Asoka's hand have been crushed by Asoka's sudden tension.
 
-Eireena: **"If you hear what I have to say, and all you want is to hide someplace safe for the rest of your life, I guarantee that you will have that place with us. Do you understand?"**
+Eireena: **"If you hear what I have to say, and all you want is to hide some place safe for the rest of your life, I guarantee that you will have that place with us. Do you understand?"**
 
-Asoka: **"Yes."**
+Asoka nods: **"Yes"**
 
 ### Page 12
 
@@ -574,7 +578,7 @@ Eireena: **"The Colonel claims that although they can track these creatures, the
 
 Eireena lets her cynicism creep onto her face. 
 
-Eireena: **"Though we do not trust their motives in the slightest, we have little choice...your story confirms the terrifying results of having no protection against these 'Death Dogs'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without World Government military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
+Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these 'Death Dogs'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without World Government military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
 
 Eireena now looks hard at Asoka. 
 
