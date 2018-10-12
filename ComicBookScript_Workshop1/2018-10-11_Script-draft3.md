@@ -142,7 +142,9 @@ Kai, arms folded, looking down at her lap with hard eyes.
 
 Kai: **"We can't finish this project in time without Felix. We all know splicing's more art than algorithm, and ever since my hands starting hurting too much, Felix is our *best*."**
 
-Kai: **"But even our best may not be enough...this morning Space Consortium patented photovoltaic cells made of eSyrup-spliced halobacterium, and I got *this*."** 
+Kai's brow furrows with frustration. 
+
+Kai: **"Although...our best may not be enough...Space Consortium announced a few days ago their eSyrup-spliced halobacterium solar cell, and thus, just patented all eSyrup-based photovoltaic cells. Also, this morning I got *this*."** 
 
 Kai passes up a small card to Majhee. Majhee reads from it.
 
@@ -154,7 +156,9 @@ Kai: **"Space Consortium's telling us to stop competing with them. Suing us for 
 
 ### Page 6
 
-Iara: **"My grandfather also called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."**
+Everyone takes a moment to imagine what it might be like if Space Consortium went for their throats. 
+
+Iara: **"My grandfather called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."**
 
 Felix: **"What??"**
 
@@ -166,13 +170,13 @@ Vec: **"It's worth it. A stable splice with a bacterial colony is the first step
 
 We see Breno's moody, cynical eyes. 
 
-Breno: **"I'm sure 10 billion is nothing to a trust-fund baby like Iara..."**
+Breno: **"I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."**
 
 Felix: **"Breno, how dare you! You know none of us would sell-out to Space Consortium, no matter the price!"**
 
 Breno, smiles ruefully, eyes pitying: **"Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"**
 
-Felix: **"Well then good thing Majhee is paying those doctors' bribes, yeah?! If Iara is privileged, then so are you!"**
+Felix: **"Well then good thing Majhee is paying the doctors' bribes for your mother, yeah?! If Iara is privileged, then so are you!"**
 
 We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear.
 
