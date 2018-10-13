@@ -16,7 +16,7 @@
 
 "before the Orbiters lived in the sky,"
 
-"before we hid underground to survive **THE BURNING OCEANS** and The Severing,"
+"before we hid underground to survive The Burning,"
 
 "we all lived together, on the Earth's surface."
 
@@ -53,14 +53,16 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 Under this narration, we see a young Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air, hoods up, breathing masks and googles on. The air is hazy with smog, the sky a smeared grey-blue, the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
 
 A lot of the news is about the new space arboretum, but most of the individual info-spheres are focused on news about planetside climate disasters: 
-* The Colorado River has dried up completely and the severe drought is causing mass migrations to east, causing massive overcrowding in major inland ("mid-western") cities. 
+* The Colorado River has dried up completely and the severe drought is causing mass migrations to east, causing massive overcrowding in major inland ("mid-western") cities.
 * Last year's total evaporation of the River Niger has heightened ethnic tensions in the area and armed conflict is escalating.
 * An extremely aggressive water-borne disease wipes out several major urban areas in China and India 
 * Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world.
 
+*(cite the above news stories)*
+
 ### Page 2
 
-We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". The front of the research facility is teeming with protesters, who hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!"
+We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". The front of the research facility is teeming with protesters, who hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" *(need to put translations of these phrases in footnotes)*
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. We see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
@@ -310,7 +312,7 @@ We see a bustling harbour town, everything about it small and cute except for th
 
 **"Sand mining was out of the question, given the Space Consortium's concern with their image - wouldn't want their brand tarnished by news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
 
-**"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the Antarctic."**
+**"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
 
 We see close-ups of the [wildlife at Green Haven Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. A tiny plume of smoke, looking both innocent and foreboding, curls up from the rig. 
 
@@ -338,6 +340,14 @@ These last two scenes should give clues about the deep-sea silica drilling disas
 
 The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in acidic ocean water, highly dosed with nitric acid. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
+Majhee: *"2 months ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Sweden..."*
+
+Majhee: *"1 month ago, when the safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, partially distilled volcanic fumes and biogenic silica spewed into the southern ocean currents. The ocean started to give you mild chemical burns if you swam for too long, and Breno moved with his mother back to her hometown, just north of Brasilia..."*
+
+Majhee: *"11 days ago, hours after we celebrated the birth of Nimh, our first live birth of a mouse spliced with raw eSyrup, Iara was found on a rooftop in Centro, seemingly shot through the skull, but the bullet was never found..."*
+
+### Page 5
+
 Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab meeting, last we saw them - now they are frantically packing lab equipment and eSyrup cultures, and copying research notes then deleting/shredding/destroying them. Off to one side is an unfamiliar older man and a teenaged boy keeping two very young children out of the fray. The teenaged boy looks related to Nova. The two young children look related to the unfamiliar older man and Beatriz, one looking about 6 and the other looking about 3. The little one has short hair, tied into a puffy short ponytail at the very top of her head; the older one has long straight hair that just brushes his shoulders; they both stare at the frantic activity with wide eyes. 
 
 Majhee: **"We need to finish packing up NOW."**
@@ -348,13 +358,13 @@ Vec: **"Majhee, what do we with Nimh??"**
 
 Majhee: **"What's her condition?"**
 
-Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I don't think Sonic Hedgehog is a viable vector, too much depends on it, and the range is too small."**
+Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I don't think Sonic Hedgehog*(cite)* is a viable vector, too much depends on it, and the range is too small."**
 
 Majhee: **"What range?"**
 
-Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do."**
+Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do*(cite)*."**
 
-### Page 5
+### Page 6
 
 Majhee: **"How big of a leak? Can we patch it?"**
 
@@ -366,13 +376,13 @@ Vec: **"I said I would help Nova, if you think it's a good idea."**
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy water are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood?"**
+Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood*(cite)*?"**
 
-Majhee: **"Give her 20 microliters of NaP."**
+Majhee: **"Give her 20 microliters of NaP*(cite)*, and send all of our data to Sweden. Felix will have more time to experiment."**
 
-### Page 6
+### Page 7
 
-Majhee greets the older man with a hug and a kiss on the cheek. He gives Majhee a tired smile. 
+Majhee turns back to the rest of the room and greets the older man with a hug and a kiss on the cheek. He gives Majhee a tired smile. 
 
 Majhee: **"Glad you're here, Demetrio, how are you?"**
 
@@ -386,11 +396,11 @@ Amana looks terrified, and nearly crying from the effort of keeping his cool in 
 
 Amana: **"Dr. Suh, where are we going?"**
 
-### Page 5
+### Page 8
 
 Majhee squats to be eye level with the two little children, and gathers them and Amana around her. Demetrio crouches behind the two little ones and places a comforting hand on the boy's shoulder. Majhee smiles extra brightly at the little girl. 
 
-Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to a farm in the mountains! But on the way, the floor is lava, and the rain is lava, so we need to keep the lava *off* of our skin, *no matter what*. Do you understand?"**
+Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to [a farm on a mountain with a flat top, like a table](https://www.britannica.com/place/Mato-Grosso-Plateau)! But on the way, the floor is lava, and the rain is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
 
 Nicola squeels and smiles shyly, raising her arms and hiding her face in her father's knee. Nerio nods somber-faced, one hand on his father's other knee. 
 
@@ -398,14 +408,8 @@ Majhee shifts her attention to Amana.
 
 Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? You're gonna come with me to bring the wetsuits up here."**
 
-### Page 6
+### Page 9
 
-
-Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. 
-
-One month ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Sweden. 
-
-Majhee and her colleagues pack up all of their raw eSyrup cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
 Iúna flees with her son João into caves in Vermont to escape the huge clouds of NO2.
 
