@@ -36,7 +36,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 ### Page 1
 
-**"2076: São Paulo, Brazil"**
+**"2066: São Paulo, Brazil"**
 
 **"It was a day of hope and wonder."** 
 
@@ -302,7 +302,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 ### Page 1
 
-**"2077: Ushuaia, Argentina"**
+**"2067: Ushuaia, Argentina"**
 
 We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or modern high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
@@ -342,7 +342,7 @@ The orderly protest crowds in front of the Laboratório Nacional de Biociências
 
 Majhee: *"2 months ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Sweden..."*
 
-Majhee: *"1 month ago, when the safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, partially distilled volcanic fumes and biogenic silica spewed into the southern ocean currents. The ocean started to give you mild chemical burns if you swam for too long, and Breno moved with his mother back to her hometown, just north of Brasilia..."*
+Majhee: *"1 month ago, when the ocean started to give you mild chemical burns if you swam for too long, Breno moved with his mother back to her hometown, just north of Brasilia..."*
 
 Majhee: *"11 days ago, hours after we celebrated the birth of Nimh, our first live birth of a mouse spliced with raw eSyrup, Iara was found on a rooftop in Centro, seemingly shot through the skull, but the bullet was never found..."*
 
@@ -352,7 +352,7 @@ Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab me
 
 Majhee: **"We need to finish packing up NOW."**
 
-Vec pulls aside Majhee. 
+Vec pulls aside Majhee. Vec looks incredibly troubled.  
 
 Vec: **"Majhee, what do we with Nimh??"**
 
@@ -362,9 +362,11 @@ Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I 
 
 Majhee: **"What range?"**
 
-Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do(cite)."**
+Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do(cite)!!"**
 
 ### Page 6
+
+Majhee places a hand on Vec's shoulder to calm him. 
 
 Majhee: **"How big of a leak? Can we patch it?"**
 
@@ -372,7 +374,7 @@ Vec: **"It's thin but *long*, almost the whole length of the connection. Nova wa
 
 Vec looks emotionally wrecked. 
 
-Vec: **"I said I would help Nova, if you think it's a good idea."**
+Vec: **"I will help Nova, if you think it's a good idea."**
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy water are screaming and bleeding. After a long silence, Majhee speaks softly.
 
@@ -410,13 +412,37 @@ Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? 
 
 ### Page 9
 
-Iúna flees with her son João into caves in Vermont to escape the huge clouds of NO2.
+**"In the year 2067, the safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes and biogenic silica into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and transforming the surrounding ocean into a deadly sea of hydroflouric acid."**
 
-Amadou and his parents flee to the caves beneath Green Haven Santarém, in the Pará province of Brazil. 
+**"The poisonous cloud blinded many of the rig's crew, and the hydroflouric acid boiled anyone who fell into the ocean. The catastrophe claimed the lives of *every* living soul on the harvesting rig, and for weeks, the deep-sea volcanic plumes belched unchecked into the Antarctic Convergence."**
 
-Massive fluctuations of electromagnetic radiation from sun flares completely disrupt digital computing technology infrastructure. The vast majority of servers worldwide are wiped clean. *Check whether this would blow away ionosphere. Maybe get rid of this, and just have people loot the physical servers for the materials that can be fed to eSyrup.*
+### Page 10
 
-Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
+**"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly large and frequent cyclones."**
+
+On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see: 
+* Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the huge clouds of NO2. 
+* Amadou and his parents flee to the caves beneath Santarém, in the Pará province of Brazil. 
+
+### Page 11
+
+**"Amid the chaos, nearly 60,000 planetside humans fled into orbit on the Space Consortium's Space Barges."**
+
+A huge crowd of desperate people try to shove themselves onto three enormous Space Barges, but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Barges have already closed their doors and are firing up its engines. 
+
+There are nearly 10 additional empty launch pads, but they are all empty. 
+
+Person in the crowd: **"Why aren't the other barges coming back???"**
+
+The last Space Barge begins to close its doors. People totally lose their shit. 
+
+PA: **"Please step away from the safety barrier!! Please step AWAY from the safety barrier!!"
+
+**"Afraid to take on more refugees than they could safely host in orbit, the Space Consortium shut down the Space Barge shuttle service, 'until further notice'."**
+
+### Page 12
+
+**"That 'further notice' came 2 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Chapter 3
 
