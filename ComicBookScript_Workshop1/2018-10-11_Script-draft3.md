@@ -358,11 +358,11 @@ Vec: **"Majhee, what do we with Nimh??"**
 
 Majhee: **"What's her condition?"**
 
-Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I don't think Sonic Hedgehog*(cite)* is a viable vector, too much depends on it, and the range is too small."**
+Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I don't think Sonic Hedgehog(cite) is a viable vector, too much depends on it, and the range is too small."**
 
 Majhee: **"What range?"**
 
-Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do*(cite)*."**
+Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do(cite)."**
 
 ### Page 6
 
@@ -376,9 +376,9 @@ Vec: **"I said I would help Nova, if you think it's a good idea."**
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy water are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood*(cite)*?"**
+Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood(cite)?"**
 
-Majhee: **"Give her 20 microliters of NaP*(cite)*, and send all of our data to Sweden. Felix will have more time to experiment."**
+Majhee: **"Give her 20 microliters of NaP(cite), and send all of our data to Sweden. Felix will have more time to experiment."**
 
 ### Page 7
 
@@ -409,7 +409,6 @@ Majhee shifts her attention to Amana.
 Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? You're gonna come with me to bring the wetsuits up here."**
 
 ### Page 9
-
 
 Iúna flees with her son João into caves in Vermont to escape the huge clouds of NO2.
 
