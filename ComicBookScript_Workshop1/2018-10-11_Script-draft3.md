@@ -32,7 +32,7 @@
 
 ## Chapter 1: Calm Before the Storm
 
-Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Breno Leite, Nova Jatobá, Vec Barbosa
+Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa
 
 ### Page 1
 
@@ -296,7 +296,7 @@ Iúna: **"*...then we have much stronger grounds to deny oversight by Space Cons
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
-Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Breno Leite, Nova Jatobá, Vec Barbosa
+Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa, Nicola Cavalcanti
 
 ### Page 1
 
@@ -336,11 +336,70 @@ These last two scenes should give clues about the deep-sea silica drilling disas
 
 **"São Paulo, Brazil"**
 
-The crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, and everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in acidic ocean water, highly dosed with nitric acid. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in acidic ocean water, highly dosed with nitric acid. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-Majhee appears in 
+Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab meeting, last we saw them - now they are frantically packing lab equipment and eSyrup cultures, and copying research notes then deleting/shredding/destroying them. Off to one side is an unfamiliar older man and a teenaged boy keeping two very young children out of the fray. The teenaged boy looks related to Nova. The two young children look related to the unfamiliar older man and Beatriz, one looking about 6 and the other looking about 3. The little one has short hair, tied into a puffy short ponytail at the very top of her head; the older one has long straight hair that just brushes his shoulders; they both stare at the frantic activity with wide eyes. 
 
 Majhee: **"We need to finish packing up NOW."**
+
+Vec pulls aside Majhee. 
+
+Vec: **"Majhee, what do we with Nimh??"**
+
+Majhee: **"What's her condition?"**
+
+Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I don't think Sonic Hedgehog is a viable vector, too much depends on it, and the range is too small."**
+
+Majhee: **"What range?"**
+
+Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do."**
+
+### Page 5
+
+Majhee: **"How big of a leak? Can we patch it?"**
+
+Vec: **"It's thin but *long*, almost the whole length of the connection. Nova wants to try, Kai and Beatriz think it will take too long, and won't buy us much time anyway."**
+
+Vec looks emotionally wrecked. 
+
+Vec: **"I said I would help Nova, if you think it's a good idea."**
+
+Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy water are screaming and bleeding. After a long silence, Majhee speaks softly.
+
+Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood?"**
+
+Majhee: **"Give her 20 microliters of NaP."**
+
+### Page 6
+
+Majhee greets the older man with a hug and a kiss on the cheek. He gives Majhee a tired smile. 
+
+Majhee: **"Glad you're here, Demetrio, how are you?"**
+
+Demetrio: **"As well as one can be, given the situation."**
+
+Majhee hugs the teenaged boy. 
+
+Majhee: **"And Amana, are you alright?"**
+
+Amana looks terrified, and nearly crying from the effort of keeping his cool in front of the smaller children. 
+
+Amana: **"Dr. Suh, where are we going?"**
+
+### Page 5
+
+Majhee squats to be eye level with the two little children, and gathers them and Amana around her. Demetrio crouches behind the two little ones and places a comforting hand on the boy's shoulder. Majhee smiles extra brightly at the little girl. 
+
+Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to a farm in the mountains! But on the way, the floor is lava, and the rain is lava, so we need to keep the lava *off* of our skin, *no matter what*. Do you understand?"**
+
+Nicola squeels and smiles shyly, raising her arms and hiding her face in her father's knee. Nerio nods somber-faced, one hand on his father's other knee. 
+
+Majhee shifts her attention to Amana. 
+
+Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? You're gonna come with me to bring the wetsuits up here."**
+
+### Page 6
+
 
 Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced eSyrup with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first eSyrup-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. 
 
