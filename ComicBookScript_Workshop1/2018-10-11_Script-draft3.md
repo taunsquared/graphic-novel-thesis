@@ -168,11 +168,11 @@ Iara: **"Apparently that wasn't the first time either...he got a similar offer l
 
 Nova, aghast: **"10 billion reais...that's more than the institute's endowment..."** 
 
-Vec: **"It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium can manage to patent living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."**
+Breno: **"It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium can manage to patent living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."**
 
 We see Breno's moody, cynical eyes. 
 
-Breno: **"I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."**
+Breno: **"But I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."**
 
 Felix: **"Breno, how dare you! You know none of us would sell-out to Space Consortium, no matter the price!"**
 
