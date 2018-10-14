@@ -430,15 +430,13 @@ Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? 
 
 **"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly large and frequent cyclones."**
 
-On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see: 
-* Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the huge clouds of NO2. 
-* Amadou and his parents flee to the caves beneath Santarém, in the Pará province of Brazil. 
+On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the poisonous atmosphere. 
 
 ### Page 11
 
 **"Amid the chaos, nearly 60,000 planetside humans fled into orbit on the Space Consortium's Space Barges."**
 
-A huge crowd of desperate people try to shove themselves onto three enormous Space Barges, but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Barges have already closed their doors and are firing up its engines. 
+A huge crowd of desperate people try to shove themselves onto four enormous Space Barges, but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Barges have already closed their doors and are firing up its engines. 
 
 There are nearly 10 additional empty launch pads, but they are all empty. 
 
@@ -696,7 +694,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland
 
 Asoka: *"Iri, can you hear me?"*
 
-Iri: *"Yup! Loud and clear!"*
+Iri: **"Loud and clear!"**
 
 Asoka: *"Shhhhh, you're not supposed to *actually* vocalize!"*
 
