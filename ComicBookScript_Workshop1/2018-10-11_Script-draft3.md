@@ -332,13 +332,13 @@ Dr.Zambrano: **"Dios mío...how can it fall so fast??"**
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. A tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the wider ocean surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
-
-*(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
-
 Woman with powerful thighs: **"Members of the UN, thank you for your time today. The TCO has been tracking the temperature, salinity, and flow rates of the major ocean currents in the North Atlantic Ocean for the last 40 years, and we have incredibly troubling news to share with you today."**
 
 ### Page 3
+
+A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. A tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the wider ocean surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
+
+*(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
 
 Woman with powerful thighs: **"As you can see from the videos of our remote sensor buoy, the influx of fresh water from melting glaciers is shoving an incredible amount of fresh water into the North Sea, enough that it is highly likely to shut down global ocean current circulations. This will trigger very abrupt and very signficant changes to annual average temperatures worldwide, which will in turn strain our food and water resources."**
 
