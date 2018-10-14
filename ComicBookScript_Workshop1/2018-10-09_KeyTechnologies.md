@@ -20,4 +20,10 @@ Before the Global Water Crisis, the Biononymous had already developed eSyrup tex
 
 When the Global Water Crisis drove everyone into caves, the Biononymous prioritized developing eSyrup textiles that would protect them from solar radiations. By the time the World Government made itself known to the Earthers, the Biononymous had not only developed textiles that protected them from the sun, they had also 
 
+## Asoka's special eSyrup clothing
+
+When Eireena gifts
+
+## **INFO-SPHERES**
+
 
