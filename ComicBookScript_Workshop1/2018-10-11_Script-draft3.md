@@ -174,7 +174,7 @@ We see Breno's moody, cynical eyes.
 
 Breno: **"But I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."**
 
-Felix: **"Breno, how dare you! You know none of us would sell-out to Space Consortium, no matter the price!"**
+Felix: **"Come on Breno! You know *none* of us would sell-out to Space Consortium!"**
 
 Breno, smiles ruefully, eyes pitying: **"Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"**
 
