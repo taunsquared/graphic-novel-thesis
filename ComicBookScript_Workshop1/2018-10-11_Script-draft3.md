@@ -52,7 +52,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 Under this narration, we see a young Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air, hoods up, breathing masks and googles on. The air is hazy with smog, the sky a smeared grey-blue, the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
 
-A lot of the news is about the new space arboretum, but most of the individual info-spheres are focused on news about planetside climate disasters: 
+A lot of the news is about the new space arboretum, but most of the individual **INFO-SPHERE**s are focused on news about planetside climate disasters: 
 * The Colorado River has dried up completely and the severe drought is causing mass migrations to east, causing massive overcrowding in major inland ("mid-western") cities.
 * Last year's total evaporation of the River Niger has heightened ethnic tensions in the area and armed conflict is escalating.
 * An extremely aggressive water-borne disease wipes out several major urban areas in China and India 
@@ -210,7 +210,7 @@ Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
 Iúna: **"Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
 
-Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get an info-sphere mod..."**
+Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get an **INFO-SPHERE** mod..."**
 
 Iúna: **"Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
 
@@ -270,7 +270,7 @@ Iúna: **"*Yes. We need all of the protections we can get right now.*"**
 
 Tahoe: **"*You've been thinking about what Pigsah said at our last TeleSensing?*"**
 
-Iúna: **"*Yes. They were right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an info-sphere mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod.*"**
+Iúna: **"*Yes. They were right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an **INFO-SPHERE** mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod.*"**
 
 Tahoe: **"*But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*.*"**
 
@@ -288,7 +288,7 @@ Iúna: **"*The first successful splice of eSyrup with a living organic compound,
 
 Tahoe: **"*...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?*"**
 
-Iúna: **"*Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive info-spheres?*"**
+Iúna: **"*Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive **INFO-SPHERES**?*"**
 
 Tahoe: **"*...yes...?*"**
 
@@ -328,11 +328,21 @@ Tech: **"The pH levels...do you see...!"**
 
 Dr.Zambrano: **"Dios mío...how can it fall so fast??"**
 
-### Page 3
+*Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/).*
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-These last two scenes should give clues about the deep-sea silica drilling disaster, which suddenly makes the shallow parts of the ocean water column drastically more acidic, combined with a shut down of important ocean current circulations like the Meridional Overturning Circulation - see [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) for more info. 
+A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. A tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the wider ocean surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
+
+*(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
+
+Woman with powerful thighs: **"Members of the UN, thank you for your time today. The TCO has been tracking the temperature, salinity, and flow rates of the major ocean currents in the North Atlantic Ocean for the last 40 years, and we have incredibly troubling news to share with you today."**
+
+### Page 3
+
+Woman with powerful thighs: **"As you can see from the videos of our remote sensor buoy, the influx of fresh water from melting glaciers is shoving an incredible amount of fresh water into the North Sea, enough that it is highly likely to shut down global ocean current circulations. This will trigger very abrupt and very signficant changes to annual average temperatures worldwide, which will in turn strain our food and water resources."**
+
+Woman with powerful thighs: **"In short, things are about to get *very* bad."**
 
 ### Page 4
 
@@ -436,7 +446,7 @@ Person in the crowd: **"Why aren't the other barges coming back???"**
 
 The last Space Barge begins to close its doors. People totally lose their shit. 
 
-PA: **"Please step away from the safety barrier!! Please step AWAY from the safety barrier!!"
+PA: **"Please step away from the safety barrier!! Please step AWAY from the safety barrier!!"**
 
 **"Afraid to take on more refugees than they could safely host in orbit, the Space Consortium shut down the Space Barge shuttle service, 'until further notice'."**
 
