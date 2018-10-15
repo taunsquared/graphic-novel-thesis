@@ -9,24 +9,18 @@ Stencila is proving difficult to use for collaborative script writing and sharin
 ## update, 03 June 2018
 I'm now trying out Stencila to write my thesis. However, until Stencila develops a way for people to view and share files without downloading the Stencila Desktop app, I'll export final version of each "progress document" (1st draft, second draft, final draft, etc) into a markdown file, for easy viewing here on Github. 
 
-## timeline update, 06 Sept 2018
+## timeline update, Oct 15 2018
 
-May 1: first draft of detailed plot summary (broken down by chapter) and main character descriptions due
+October 18: workshop with London-based science fiction authors to get feedback on the script
+October 19: Chapter assignments finalized, for Chapter illustrators and Concept Artists
+October 26: first draft of story boards and character designs due  
+October 31: final draft of script due  
 
-June 8: script vomit (1st draft) due  
-
-September 7: all illustrators and concept artists confirmed  
-September 17: second draft of script due  
-
-October 12: 1st draft of story boards and character designs due  
-October 12: 1st proof of concept art due  
-October 15-19: sometime during this week, schedule a workshop #1 asking for feedback on the script, story boards, and concept art proofs  
-October 30: final draft of script due  
-
-November 9: first draft of inked chapter pages due  
-November 9: first draft (black-and-white) of concept art due  
-November 9: first proof of scientific diagrams due  
-November 12-16: sometime during this week schedule workshop #2, asking for feedback on the inked pages, concept art drafts, and scientific diagram proofs  
+November 2: 1st proof of concept art due  
+November 16: first draft (black-and-white) of concept art due  
+November 16: first proof of scientific diagrams due  
+November 16: first draft of inked chapter pages due
+November 19-23: sometime during this week schedule workshop #2, asking for feedback on the inked pages, concept art drafts, and scientific diagram proofs  
 November 30: script frozen  
 
 December 7: inked chapter pages frozen  
