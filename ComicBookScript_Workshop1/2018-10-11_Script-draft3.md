@@ -340,7 +340,7 @@ A room-sized **INFO-SPHERE** creates photonic representations of several governm
 
 *(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
 
-Woman with powerful thighs: **"As you can see from the videos of our remote sensor buoy, the influx of fresh water from melting glaciers is shoving an incredible amount of fresh water into the North Sea, enough that it is highly likely to shut down global ocean current circulations. This will trigger very abrupt and very signficant changes to annual average temperatures worldwide, which will in turn strain our food and water resources."**
+Woman with powerful thighs: **"As you can see from the videos from our remote sensor buoy, the influx of fresh water from melting glaciers is shoving an incredible amount of fresh water into the North Sea, enough that it is highly likely to shut down global ocean current circulations. This will trigger very abrupt and very signficant changes to annual average temperatures worldwide, which will in turn strain our food and water resources."**
 
 Woman with powerful thighs: **"In short, things are about to get *very* bad."**
 
@@ -390,7 +390,7 @@ Majhee stares at the pouring rain outside, the streets below awash with sea wate
 
 Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood(cite)?"**
 
-Majhee: **"Give her 20 microliters of NaP(cite), and send all of our data to Sweden. Felix will have more time to experiment."**
+Majhee: **"Give her 20 microliters of NaP(Sodium Pentobarbital, cite), and send all of our data to Sweden. Felix will have more time to experiment."**
 
 ### Page 7
 
@@ -423,6 +423,8 @@ Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? 
 ### Page 9
 
 **"In the year 2067, the safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes and biogenic silica into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and transforming the surrounding ocean into a deadly sea of hydroflouric acid."**
+
+*In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
 **"The poisonous cloud blinded many of the rig's crew, and the hydroflouric acid boiled anyone who fell into the ocean. The catastrophe claimed the lives of *every* living soul on the harvesting rig, and for weeks, the deep-sea volcanic plumes belched unchecked into the Antarctic Convergence."**
 
@@ -700,7 +702,7 @@ Asoka: *"Shhhhh, you're not supposed to *actually* vocalize!"*
 
 Iri: *"Mmmoopssies!!"*
 
-Asoka and Iri are on a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. The 
+Asoka and Iri are on a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. 
 
 Asoka travels into the "Red Zone" (wide stretch of equatorial zone circling the Earth, where it is too hot for even the Biononymous to cross; this zone harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka remembers Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the **WORLD GOV**. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Asoka is to train the art of controlling this new kind of eSyrup cloth with the help of their mechapet Iri. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
 
