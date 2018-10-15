@@ -5,8 +5,9 @@ This is where I'll be developing the story script for my graphic novel thesis.
 ### October
 **Oct 18:** workshop with London-based science fiction authors to get feedback on the script  
 **Oct 19:** Chapter assignments finalized, for Chapter illustrators and Concept Artists  
-**Oct 26:** first draft of story boards and character designs due  
-**Oct 31:** final draft of script due  
+**Oct 31:** 
+* first draft of story boards and character designs due  
+* final draft of script due  
 
 ### November 
 **Nov 2:** 1st proof of concept art due  
