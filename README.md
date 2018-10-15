@@ -4,7 +4,8 @@ This is where I'll be developing the story script for my graphic novel thesis.
 ## project timeline, last update: Oct 15 2018
 ### October
 **Oct 18:** workshop with London-based science fiction authors to get feedback on the script  
-**Oct 19:** Chapter assignments finalized, for Chapter illustrators and Concept Artists  
+**Oct 19:** Chapter assignments finalized, for Chapter Illustrators and Concept Artists  
+**Oct 26:** Scientific diagram assignments finalized, for Scientific Illustrators
 **Oct 31:** 
 * first draft of story boards and character designs due  
 * final draft of script due  
