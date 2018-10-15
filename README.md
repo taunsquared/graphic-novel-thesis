@@ -22,7 +22,9 @@ This is where I'll be developing the story script for my graphic novel thesis.
 **Dec 7:** inked chapter pages frozen  
 **Dec 14:** uncoloured concept art due  
 **Dec 14:** uncoloured scientific diagrams due  
-**Dec 21:** inked pages with typesetting due  
+
+### January
+**Jan 18:** inked pages with typesetting due  
 
 ### February
 **Feb 1:** first draft of coloured and typeset pages due  
