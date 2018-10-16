@@ -30,4 +30,6 @@ When Eireena gifts
 
 [Biological Monitoring Using Macroinvertebrates as Bioindicators of Water Quality of Maroaga Stream in the Maroaga Cave System, Presidente Figueiredo, Amazon, Brazil](https://www.hindawi.com/journals/ijecol/2014/308149/)
 
+[Major Climate Report Describes a Strong Risk of Crisis as Early as 2040](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html)
+
 
