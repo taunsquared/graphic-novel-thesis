@@ -342,6 +342,8 @@ A room-sized **INFO-SPHERE** creates photonic representations of several governm
 
 Woman with powerful thighs: **"As you can see from the videos from our remote sensor buoy, the influx of fresh water from melting glaciers is shoving an incredible amount of fresh water into the North Sea, enough that it is highly likely to shut down global ocean current circulations. This will trigger very abrupt and very signficant changes to annual average temperatures worldwide, which will in turn strain our food and water resources."**
 
+*Hmm, perhaps the world has switched to using [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation...*
+
 Woman with powerful thighs: **"In short, things are about to get *very* bad."**
 
 ### Page 4
@@ -426,7 +428,7 @@ Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? 
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The poisonous cloud blinded many of the rig's crew, and the hydroflouric acid boiled anyone who fell into the ocean. The catastrophe claimed the lives of *every* living soul on the harvesting rig, and for weeks, the deep-sea volcanic plumes belched unchecked into the Antarctic Convergence."**
+**"The poisonous cloud blinded many of the rig's crew, and the hydroflouric acid boiled anyone who fell into the ocean. The catastrophe claimed the lives of *everyone* on the harvesting rig, and for weeks, the deep-sea volcanic plumes belched unchecked into the Antarctic Convergence."**
 
 ### Page 10
 
