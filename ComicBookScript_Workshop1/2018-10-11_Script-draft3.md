@@ -710,13 +710,9 @@ Character designs: Asoka Morei, Iri, Eireena McLeland
 
 ### Page 1
 
-Asoka: *"Iri, can you hear me?"*
+Asoka: *"Iri, what's going on?"*
 
-Iri: **"Loud and clear!"**
-
-Asoka: *"Shhhhh, you're not supposed to *actually* vocalize!"*
-
-Iri: *"Mmmoopssies!!"*
+Iri: *"The surface team finally came back! We're leaving Florida!"*
 
 Asoka and Iri are on a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. 
 
