@@ -146,7 +146,7 @@ Kai: **"We can't finish this project in time without Felix. We all know splicing
 
 Kai's brow furrows with frustration. 
 
-Kai: **"Although...our best may not be enough...Space Consortium announced a few days ago their eSyrup-spliced halobacterium solar cell, and thus, just patented all eSyrup-based photovoltaic cells. Also, this morning I got *this*."** 
+Kai: **"Although...our best may not be enough...Space Consortium announced a few days ago their eSyrup-spliced [halobacterium solar cell](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08), and thus, just patented all eSyrup-based solar cells. Also, this morning I got *this*."** 
 
 Kai passes up a small card to Majhee. Majhee reads from it.
 
@@ -350,7 +350,7 @@ Dr. Fischmann: **"This is the current view of the Greenland, from remote sensor 
 
 Dr. Fischmann: **"The fresh water freezes more readily than salty sea water, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is extending the West Ice all the way south to the Denmark Strait, thus causing the reduction in ocean currents observed via UN-deployed sea turbines."**
 
-Dr. Fischmann: **"If the ocean currents stop entirely, average annual temperatures in North America and Europe will plummet and potentially freeze the UK and northern Europe."**
+Dr. Fischmann: **"[If the ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), average annual temperatures in North America and Europe will plummet and potentially freeze the UK and northern Europe."**
 
 Gov official: **"Can we clear the pack ice?"**
 
@@ -606,7 +606,7 @@ Asoka grabs Iri, aghast to hear...
 
 Asoka: **"*Mom??!!*"**
 
-Iri/Soka's Mom: **"It's the Death Dogs!! Run Soka! *RUN!!*"**
+Iri/Soka's Mom: **"It's the **DEATH DOGS**!! Run Soka! *RUN!!*"**
 
 ### Page 8
 
@@ -620,7 +620,7 @@ We see Eireena McLeland, High Priestess of the Biononymous and leader of this Gr
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
 
-Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these 'Death Dogs'."**
+Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**DEATH DOGS**'."**
 
 ### Page 9
 
@@ -696,7 +696,7 @@ Eireena: **"The Colonel claims that although they can track these creatures, the
 
 Eireena lets her cynicism creep onto her face. 
 
-Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these 'Death Dogs'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without **WORLD GOV** military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
+Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these '**DEATH DOGS**'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without **WORLD GOV** military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
 
 Eireena now looks hard at Asoka. 
 
@@ -708,11 +708,11 @@ Character designs: Asoka Morei, Iri, Eireena McLeland
 
 ### Page 1
 
-Asoka: *"Iri, what's going on?"*
+Iri: *"Soka, the landing team is back!"*
 
-Iri: *"The surface team finally came back! We're leaving Florida!"*
+We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
 
-Asoka and Iri are on a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. We see a faint outline of Iri camouflaged against the 
+
 
 Asoka travels into the "Red Zone" (wide stretch of equatorial zone circling the Earth, where it is too hot for even the Biononymous to cross; this zone harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka remembers Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the **WORLD GOV**. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Asoka is to train the art of controlling this new kind of eSyrup cloth with the help of their mechapet Iri. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
 
@@ -779,7 +779,7 @@ After a tense moment, Min focuses her subdermal awareness to sprout razor sharp 
 
 Character designs: Asoka Morei, Iri, Majhee Suh, Nicola Cavalcanti, Nova Jatobá, Jina Suh Barbosa, Amadou Touré 
 
-Asoka tells the Elders of the Automata everything that the Biononymous know about the **WORLD GOV** and present the Biononymous' offer for alliance. The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the Death Dogs. Eireena shares her belief that the Death Dogs are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
+Asoka tells the Elders of the Automata everything that the Biononymous know about the **WORLD GOV** and present the Biononymous' offer for alliance. The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **DEATH DOGS**. Eireena shares her belief that the **DEATH DOGS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
 ## Chapter 7: How we evolve
 
