@@ -490,7 +490,7 @@ Asoka: *"Must...reach...the next...Haven!"*
 
 **"Earlier that morning..."**
 
-**"2116: Green Haven Clarksville, North America"**
+**"2116: Green Haven Howes, North America"**
 
 We see a fist holding a bunch of wheat straws, and another hand reaching for a straw. 
 
@@ -594,7 +594,7 @@ Asoka: **"*We must've worked fast if Pippa's still not back--*"**
 
 Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
-Iri: **"*This is an emergency broadcast from Green Haven Clarksville, we are under attack! Repeat, *WE ARE UNDER ATTACK*--Aaaaaaaaahh!!!---(scream cuts off with a sickening gurgle)*"**
+Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack! Repeat, *WE ARE UNDER ATTACK*--Aaaaaaaaahh!!!---(scream cuts off with a sickening gurgle)*"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
@@ -690,7 +690,7 @@ Asoka nods: **"Yes"**
 
 ### Page 12
 
-Eireena: **"Good. Last night, Lieutenant Colonel Santiago Garcia of the **WORLD GOV** Peacekeepers told our Haven Council that he has received multiple reports of the Green Havens being attacked by large wolf-like creatures."**
+Eireena: **"Good. Last night, Lieutenant Colonel Santiago Garcia of the **WORLD GOV** Peacekeepers told the Green Haven Clarksville Council that he has received multiple reports of the Green Havens being attacked by large wolf-like creatures."**
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
@@ -771,6 +771,12 @@ Asoka stares glumly at the pile of food in front of them.
 Asoka: *"This isn't at all what I expected..."*
 
 *--flashback--*
+
+We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
+
+Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He is actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the **WORLD GOV**'s satellites have captured images of what looks like *humans*."**
+
+
 
 
 
