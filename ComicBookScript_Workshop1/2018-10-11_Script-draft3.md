@@ -632,7 +632,7 @@ The other woman, sitting beside Eireena, raises an eyebrow. Her eye has a hard g
 
 Biononymous woman: **"Immediately? At this indecent hour?"** 
 
-Eireena: **"It's alright. Charlie, please let the Peacekeepers know I'll be with them shortly."**
+Eireena: **"It's alright, Serena. Charlie, please let the Peacekeepers know I'll be with them shortly."**
 
 Charlie bows and exits. Eireena stands and looks down at Asoka, who is still kneeling with their head down, unable to look up or stand, tears streaming down their face. 
 
@@ -716,7 +716,7 @@ Cut to -- We see the shimmering outline of a fully camouflaged Asoka is in the s
 
 We see a view of Asoka's wide eyes, on a face somewhat thinner than before, from behind their face veil. The inside of the face veil shows the view that Iri sees, hanging onto the outside of the ship.
 
-Iri: *"Soka, they've reached the ship!"*
+Iri: *"Soka, they've reached the ship!!"*
 
 Asoka runs to a corner of the galley, where they kick open a panel, dump their food into one side of the opening, and squeeze themselves in towards the other side of the opening. They replace the panel and seal the edges with a fabric tape that, after a moment, integrates itself into the surrounding metal, and the panel seemingly disappears. 
 
@@ -724,7 +724,23 @@ Asoka: *"I'm in!"*
 
 ### Page 2
 
-Asoka lies on their back in the interstitial space of the ship, surrounded by canned food, packets of freeze-dried fruits and vegetables, and a pile of institutional white flour bread rolls. They've turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled off their head veil in order to stuff one of the bread rolls into their mouth. 
+Asoka lies on their back in the interstitial space of the ship, surrounded by canned food, packets of freeze-dried fruits and vegetables, and a pile of institutional white flour bread rolls. They've turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled aside their head veil in order to stuff one of the bread rolls into their mouth. Their eyes are full of tears -- of gratitude for the food, of homesickness, of anxiety, of wanting to be free of the metal walls around them. 
+
+Asoka: *"Jeshua's bread was so much better..."*
+
+Iri: *"Don't cry while you eat, you'll choke on your snot!"*
+
+Asoka drags their sleeve across their eyes to clear the tears, then sits up to eat in earnest. Asoka tears open a package of dried fruits and nuts and shovels the food into their mouth. 
+
+Iri: *"Slow down! Do you wanna choke on your food instead?"*
+
+Asoka: *"Where are you anyway?"*
+
+We see Iri clinging invisibly to the ceiling of the command deck. 
+
+Iri: *"I'm trying to figure out where we are..."*
+
+
 
 
 
