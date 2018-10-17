@@ -342,6 +342,8 @@ A room-sized **INFO-SPHERE** creates photonic representations of several governm
 
 Dr. Fischmann: **"These videos are from 10 years ago, when rising global temperatures caused a significant meltdown of the Greenland Ice Sheet. As you all well remember, this drastic phenomena finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions, and members of the Paris Agreement switched to [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation."**
 
+*note: [biggest usage of coal right now is currently for fuel, only 20% is for electricity](https://www.theguardian.com/environment/2016/mar/10/dangerous-global-warming-will-happen-sooner-than-thought-study)*
+
 ### Page 3
 
 The videos switch to another view of the same glacier, but a slightly different coastline. The glacier isn't melting, and instead, enormous, thick chunks of drift ice clog up the sea like a traffic jam. 
@@ -742,7 +744,23 @@ Iri: *"I'm trying to figure out where we are..."*
 
 Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
 
+*Need to consult with someone who knows how a naval vessel works and what kinds of daily activities would happen on board.*
 
+Peacekeeper 1: **"This heat is brutal...I can't believe we're still 10 degrees north of the Red Zone..."**
+
+Peacekeeper 2: **"I'd rather be out here than back in those caves!"**
+
+Peacekeeper 3: **"I feel a little bad about re-supplying off them...they don't seem to have much space to grow food..."**
+
+Peacekeeper 2: **"Well, we either take their food or we starve as soon as we pass the Bahamas!"**
+
+Peacekeeper 1: **"(snort) You'd think the quartermaster would have rationed our food properly..."**
+
+### Page 3
+
+Iri: *"I hope you grabbed enough food to last the rest of the journey...they might be keeping a closer eye on the galley from here on out..."*
+
+Asoka looks at the pile of food in front of them. 
 
 
 
