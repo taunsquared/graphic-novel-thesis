@@ -22,7 +22,7 @@ When the Global Water Crisis drove everyone into caves, the Biononymous prioriti
 
 ## Asoka's special eSyrup clothing
 
-When Eireena gifts
+Eireena gifts Asoka with special clothing that were made by the adults of Asoka's Green Haven for any children of the Green Haven. The parents/adults researched, designed, and created an incredible eSyrup textile process that creates "cuttlefish skin", an eSyrup cloth that let's the wearer train their body to control a cloth that can perfectly camouflage into the surroundings. The parents made one outfit per neighboring Green Haven and delivered one special Biononymous outfit made of "cuttlefish skin" to each neighboring Green Haven, begging the High Priestesses to safeguard these clothes and provide the clothes and their assistance to any of their children, should any of them arrive at their door to beg for sanctuary.
 
 ## **INFO-SPHERES**
 
