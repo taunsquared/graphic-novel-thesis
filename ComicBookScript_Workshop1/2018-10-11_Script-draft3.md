@@ -336,27 +336,25 @@ Dr.Zambrano: **"Dios mío...how can it fall so fast??"**
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-Dr. Fischmann: **"Members of the UN, thank you for your time today. My name is Dr. Geraldine Fischmann, and I'm head of environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been tracking the temperature, salinity, and flow rates of the major ocean currents in the North Atlantic Ocean for the last 40 years, and we think we have an explanation for recent drop in energy production by the UN sea turbines."**
-
-*Members of the Paris agreement have switched to using [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation.*
-
-### Page 3
+Dr. Fischmann: **"Members of the UN, thank you for your time today. My name is Dr. Geraldine Fischmann, and I'm head of environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been tracking the temperature, salinity, and flow rates of the major ocean currents in the North Atlantic Ocean for the last 40 years, and we think we have an explanation for recent drop in energy production by the UN-deployed sea turbines."**
 
 A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. Dr. Fischmann, a tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the fjords surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
 
-Dr. Fischmann: **"These videos are from 10 years ago, when rising global temperatures caused a significant meltdown of the Greenland Ice Sheet. As you all well remember, this drastic phenomena finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions."**
+Dr. Fischmann: **"These videos are from 10 years ago, when rising global temperatures caused a significant meltdown of the Greenland Ice Sheet. As you all well remember, this drastic phenomena finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions, and members of the Paris Agreement switched to [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation."**
+
+### Page 3
 
 The videos switch to another view of the same glacier, but a slightly different coastline. The glacier isn't melting, and instead, enormous, thick chunks of drift ice clog up the sea like a traffic jam. 
 
-Dr. Fischmann: **"This is the current view of the Greenland, from remote sensor buoys in the Denmark Strait. Normally, the patch of sea covered in [pack ice](https://en.wikipedia.org/wiki/Drift_ice) doesn't extend this far south, but we believe the melting 10 years ago triggered a long-term, slow melting of the ice sheet, one that has been slowly but stealthily and steadily dumping massive amounts of fresh water into the Greenland Sea."**
+Dr. Fischmann: **"This is the current view of the Greenland, from remote sensor buoys in the Denmark Strait. Normally, the patch of sea covered in [pack ice](https://en.wikipedia.org/wiki/Drift_ice), called the [West Ice](https://en.wikipedia.org/wiki/West_Ice), doesn't extend this far south, but we believe the melting 10 years ago triggered a long-term, slow melting of the ice sheet, one that has been slowly but stealthily and steadily dumping massive amounts of fresh water into the Greenland Sea."**
 
-Dr. Fischmann: **"The fresh water freezes more readily than salty sea water, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is extending the West Ice, all the way south to the Denmark Strait, and slowing ocean currents."**
+Dr. Fischmann: **"The fresh water freezes more readily than salty sea water, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is extending the West Ice all the way south to the Denmark Strait, thus causing the reduction in ocean currents observed via UN-deployed sea turbines."**
 
 Dr. Fischmann: **"If the ocean currents stop entirely, average annual temperatures in North America and Europe will plummet and potentially freeze the UK and northern Europe."**
 
-Gov official: **"So, how do we clear out all of pack ice?"}"**
+Gov official: **"Can we clear the pack ice?"**
 
-Dr. Fischmann: **"I'm not sure we can..."**
+Dr.Fischmann: **"Even if we do, if the Greenland Ice Sheet is slow-melting, the ice will just keep coming back."**
 
 *(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
 
@@ -714,7 +712,7 @@ Asoka: *"Iri, what's going on?"*
 
 Iri: *"The surface team finally came back! We're leaving Florida!"*
 
-Asoka and Iri are on a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. 
+Asoka and Iri are on a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. We see a faint outline of Iri camouflaged against the 
 
 Asoka travels into the "Red Zone" (wide stretch of equatorial zone circling the Earth, where it is too hot for even the Biononymous to cross; this zone harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka remembers Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the **WORLD GOV**. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Asoka is to train the art of controlling this new kind of eSyrup cloth with the help of their mechapet Iri. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
 
