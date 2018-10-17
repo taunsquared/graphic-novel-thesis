@@ -428,7 +428,7 @@ Amana: **"Dr. Suh, where are we going?"**
 
 Majhee squats to be eye level with the two little children, and gathers them and Amana around her. Demetrio crouches behind the two little ones and places a comforting hand on the boy's shoulder. Majhee smiles extra brightly at the little girl. 
 
-Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to [a mountain with a flat top, like a table](https://www.britannica.com/place/Mato-Grosso-Plateau)! But on the way, the floor is lava, and the rain is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
+Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to a mountain with a *flat top*, like a table! *But*, on the way, the *floor* is *lava*, and the *rain* is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
 
 Nicola squeels and smiles shyly, raising her arms and hiding her face in her father's knee. Nerio nods somber-faced, one hand on his father's other knee. 
 
@@ -448,7 +448,9 @@ Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? 
 
 **"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly large and frequent cyclones."**
 
-On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the poisonous atmosphere. 
+On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see 
+* Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and rubber boots. 
+* Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the poisonous atmosphere. They are both well covered in Iúna's best eSyrup textiles. Other people aren't so lucky. 
 
 ### Page 11
 
@@ -754,7 +756,7 @@ Below Iri, Peacekeepers stand at workstations that look like mega-industrial ver
 
 Peacekeeper 1: **"This heat is brutal...you can tell we're only 6 degrees north of the Red Zone..."**
 
-Peacekeeper 2: **"I'd rather be out here than back in those caves!"**
+Peacekeeper 2: **"I'd rather be out here than back in those marsh caves! Eeugh, the smell!!"**
 
 Peacekeeper 3: **"I feel a little bad about re-supplying off them...they don't seem to have much space to grow food..."**
 
