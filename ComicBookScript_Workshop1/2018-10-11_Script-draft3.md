@@ -449,7 +449,7 @@ Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? 
 **"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly large and frequent cyclones."**
 
 On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see 
-* Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and rubber boots. 
+* Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and breathing masks and rubber boots. 
 * Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the poisonous atmosphere. They are both well covered in Iúna's best eSyrup textiles. Other people aren't so lucky. 
 
 ### Page 11
