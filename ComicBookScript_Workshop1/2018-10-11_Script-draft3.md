@@ -494,7 +494,7 @@ We see a fist holding a bunch of wheat straws, and another hand reaching for a s
 
 Pippa, off-panel: **"*Aw, *seriously*?*"**
 
-We see a crowd of Biononymous children gathered in a outdoor pavilion with a dirt floor, all wearing the compulsory clothing of their cult: a simple sleeveless shirt and baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez); a light long sleeve jacket, loose and fastening up the front, covered in a variety of simple geometric embroidery patterns, sleeves cinched at the wrists; gloves tucked into the sleeves; head veil with identical cartoon schematics of a face embroidered onto each with eSyrup thread; boots, with the trousers tucked in. Each child also has an eSyrup mechapet curled around their arms, legs, necks; sitting on heads, shoulders; or eagerly following their heels. Some of the children have straws of varying lengths in their hands. One child, smaller than the rest of the other children, a mechapet shaped like an American Crow sitting on their shoulder, is holding a very short straw, and the face on their head veil is a definite pout. 
+We see a crowd of Biononymous children gathered in a outdoor pavilion with a dirt floor, all wearing the compulsory clothing of their cult: a simple sleeveless shirt tucked into baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez); a light long sleeve jacket, loose and fastening up the front, covered in a variety of simple geometric embroidery patterns, sleeves cinched at the wrists; gloves tucked into the sleeves; head veil with identical cartoon schematics of a face embroidered onto each with eSyrup thread; boots, with the trousers tucked in. Each child also has an eSyrup mechapet curled around their arms, legs, necks; sitting on heads, shoulders; or eagerly following their heels. Some of the children have straws of varying lengths in their hands. One child, smaller than the rest of the other children, a mechapet shaped like an American Crow sitting on their shoulder, is holding a very short straw, and the face on their head veil is a definite pout. 
 
 Pippa: **"*I did the far hill field *yesterday*!*"**
 
@@ -708,9 +708,23 @@ Character designs: Asoka Morei, Iri, Eireena McLeland
 
 ### Page 1
 
-Iri: *"Soka, the landing team is back!"*
+Iri: *"Soka, the landing team is coming back!"*
 
-We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
+We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. The ship is near the lush, marshy coastline of Florida. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
+
+Cut to -- We see the shimmering outline of a fully camouflaged Asoka is in the ship's galley, stuffing armloads of food into their jacket, which they've tucked into their trousers. 
+
+We see a view of Asoka's wide eyes, on a face somewhat thinner than before, from behind their face veil. The inside of the face veil shows the view that Iri sees, hanging onto the outside of the ship.
+
+Iri: *"Soka, they've reached the ship!"*
+
+Asoka runs to a corner of the galley, where they kick open a panel, dump their food into one side of the opening, and squeeze themselves in towards the other side of the opening. They replace the panel and seal the edges with a fabric tape that, after a moment, integrates itself into the surrounding metal, and the panel seemingly disappears. 
+
+Asoka: *"I'm in!"*
+
+### Page 2
+
+Asoka lies on their back in the interstitial space of the ship, surrounded by canned food, packets of freeze-dried fruits and vegetables, and a pile of institutional white flour bread rolls. They've turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled off their head veil in order to stuff one of the bread rolls into their mouth. 
 
 
 
