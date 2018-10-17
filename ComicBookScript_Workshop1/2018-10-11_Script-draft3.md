@@ -724,7 +724,7 @@ Asoka: *"I'm in!"*
 
 ### Page 2
 
-Asoka lies on their back in the interstitial space of the ship, surrounded by canned food, packets of freeze-dried fruits and vegetables, and a pile of institutional white flour bread rolls. They've turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled aside their head veil in order to stuff one of the bread rolls into their mouth. Their eyes are full of tears -- of gratitude for the food, of homesickness, of anxiety, of wanting to be free of the metal walls around them. 
+Asoka lies on their back in the interstitial space of the ship, surrounded by canned food, packets of freeze-dried fruits and vegetables, and a pile of institutional white flour bread rolls. They've turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled aside their head veil in order to stuff one of the bread rolls into their mouth. Their eyes are full of tears, triggered by gratitude for the food, by homesickness, by anxiety, by wanting to be free of the metal walls around them. 
 
 Asoka: *"Jeshua's bread was so much better..."*
 
@@ -739,6 +739,8 @@ Asoka: *"Where are you anyway?"*
 We see Iri clinging invisibly to the ceiling of the command deck. 
 
 Iri: *"I'm trying to figure out where we are..."*
+
+Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
 
 
 
