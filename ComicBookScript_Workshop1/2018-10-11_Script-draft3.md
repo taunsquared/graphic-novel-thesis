@@ -472,7 +472,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 **"That 'further notice' came 2 years later, when the Orbiters returned to Earth to declare themselves, *'The **WORLD GOV**'*."**
 
-## Chapter 3
+## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jackson
 
@@ -706,7 +706,7 @@ Eireena now looks hard at Asoka.
 
 Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous and risky, but potentially more rewarding path...there is another option."**
 
-## Chapter 4
+## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jackson
 
@@ -896,13 +896,13 @@ Asoka: **"So. That's where we're going."**
 
 Character designs: Asoka Morei, Iri, Minka Oosou
 
-### Page 1
+### Page 1 
+
+**"10 days later..."**
 
 Asoka rushed ahead of the Peacekeepers to the location that the **WORLD GOV** designated as the best spot to search for the mysterious Amazonian people, arriving much faster than the loud, noisy, bulky, slow-moving military troops. From that location, Asoka has been searching in an ever growing spiral, with no success. Just as Asoka is about to pass out from hunger and heatstroke, Iri discovers a cave with a false wall, behind which is a garden, clearly cultivated by *someone*. Asoka and Iri find an opening into the secret garden, which provides Asoka with food, water, and respite from the heat. Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
 
-## Dream 2: Another Tree Surfer is Born
-
-The Rite of the Mothers, the ceremony that marks the passing from childhood to adulthood within the Automata Clan. 
+## Dream 2: Rites of Passage
 
 ### Page 1
 
