@@ -36,4 +36,8 @@ Eireena gifts Asoka with special clothing that were made by the adults of Asoka'
 
 [Global Warming Frequently Asked Questions](https://www.climate.gov/news-features/understanding-climate/global-warming-frequently-asked-questions)
 
+[Climate Change Evidence: 'Unprecedented' Warming is Man-Made (Infographic)](https://www.livescience.com/40006-united-nations-report-calls-global-warming-unprecedented-infographic.html)
+
+[Extreme warmth and heat-stressed plankton in the tropics during the Paleocene-Eocene Thermal Maximum](http://advances.sciencemag.org/content/advances/3/3/e1600891.full.pdf)
+
 
