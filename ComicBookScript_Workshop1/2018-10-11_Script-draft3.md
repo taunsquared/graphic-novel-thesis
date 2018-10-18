@@ -838,25 +838,47 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Fili: **"Many years ago, two members of your Green Haven council visited us, with this magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the faces of the Green Haven Howes children, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Haven should ever have to beg us for sanctuary."**
+Fili: **"Many years ago, two members of your Green Haven council visited us, with this magnificent wooden dresser, and a beautiful child's outfit made of the finest eSyrup cloth we had ever seen. Your Councilors showed us the faces of the Green Haven Howes children, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Haven should ever have to beg us for sanctuary."**
 
-Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
+Eireena: **"It's called 'cuttlefish cloth', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
+
+Serena's eyes twinkle. 
+
+Serena: **"And it's powered by your waste products."**
+
+Asoka: **"Wait, what??"**
 
 ### Page 9
 
-Serena: **"Every year since then, different members of your Council have visited us, each time showing us the faces of a child, or grandchild, and bringing a new outfit, and taking back the old one."**
+Serena's eyes never waver, face inscrutable. 
 
-Eireena: **"And last year, I got a visit from the woman I loved in Vermont, who told me about her grandchild, and showed me *your* face. Iúna told me that, even though she was supposed to be making this outfit for *any* child of Green Haven Howes, she was thinking *most* of *you*."**
+Serena: **"Everything that passes through your gut is processed by your enteric nervous system, a network of *500 million* neurons - that's *5 times* as many as the neurons in your *spine*. You'd do well to respect what you eat, cuz now that's also powering your protective bubble against the world."**
 
-Asoka: **"You knew my Avó Iúna?"**
+Serena grins now. 
 
-Eireena smiles. 
+Serena: **"Besides, the first outfit was for a little one just barely able to walk. It needed to be a diaper too! But then, think about it...it's now part of you, it uses your waste and gives you protection, a poop-powered safety bubble..."**
+
+Asoka looks horrified. Eireena hides her smile. 
+
+Eireena: **"Anyways, every year since then, different members of your Council have visited us, each time showing us the faces of a child, or grandchild, and bringing a new outfit, a little bit larger each time, and taking back the old one."**
+
+Eireena: **"And last year, I got a visit from my old friend, who told me about her grandchild, and showed me *your* face. Iúna told me that, even though she was supposed to be making this outfit for *any* child of Green Haven Howes, she was thinking *most* of *you*."**
+
+Asoka: **"So you knew my Avó Iúna!"**
+
+Eireena smiles broadly. 
 
 Eireena: **"Yes."**
 
-Asoka: **"Why was Avó bringing you a secret outfit? And if it was for all the children in the Haven, how come there's only one?"**
-
 ### Page 10
+
+Asoka stares down at the cuttlefish cloth. 
+
+Asoka: **"Are the.. **DEATH DOGS**, and the Peacekeepers, part of why Avó was bringing you this outfit in secret?"**
+
+Asoka looks pained. 
+
+Asoka: **"And...if it was supposed to *save* the children of Green Haven Howes, how come there's only *one*??"**
 
 Eireena drops the smile, and Serena's face darkens. Fili looks meaningfully at Asoka.
 
@@ -874,7 +896,7 @@ Eireena: **"Like I said before, if you want to live a quiet life in hiding, you 
 
 ### Page 11
 
-Eireena: **"But with an outfit made of cuttlefish skin, you're protected from both the **WORLD GOV** *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
+Eireena: **"But with an outfit made of cuttlefish cloth, you're protected from both the **WORLD GOV** *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
 Eireena: **"If you accept this outfit, the High Council begs you to also accept this diplomatic mission. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
 
@@ -904,9 +926,19 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these jewels of biodiversity were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
-Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
+Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-skin satchel. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
 ### Page 2
+
+**"Nowadays, temperatures in the Red Zone become fatally hot during the day, and any living thing without protection during those hours withers away into dust."**
+
+Asoka: **"Ok Iri, how many hours until sunrise?"**
+
+Iri: **"Probably only 4...it took us too long to get off the ship!"**
+
+Asoka: **"It's alright, we'll manage! So we run for 3 hours and then start looking for a cave, a thicket, anything to hide from the sun."**
+
+
 
 
 
