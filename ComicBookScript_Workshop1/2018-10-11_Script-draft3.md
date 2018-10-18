@@ -622,7 +622,7 @@ Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleev
 
 We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, a tiny woman, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his dark face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face, half-hidden behind long, thick, gently curling dark hair, is one of calm contemplation. 
 
-They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
+They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
 
 Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**DEATH DOGS**'."**
 
@@ -716,7 +716,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 Iri: *"Soka, the landing team is coming back!"*
 
-We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. The ship is near the lush, marshy coastline of Florida. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
+We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. The ship is near the lush, marshy coastline of Florida, haloed in a hazy, late morning sun. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
 
 Cut to -- We see the shimmering outline of a fully camouflaged Asoka is in the ship's galley, stuffing armloads of food into a sack, also shimmering with Biononymous camouflage technology. 
 
@@ -852,7 +852,7 @@ Eireena smiles.
 
 Eireena: **"Yes."**
 
-Asoka: **"Why was Avó Iúna bringing you a secret outfit? And if it was for all the children in the Haven, how come there's only one?"**
+Asoka: **"Why was Avó bringing you a secret outfit? And if it was for all the children in the Haven, how come there's only one?"**
 
 ### Page 10
 
@@ -899,6 +899,10 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 ### Page 1 
 
 **"10 days later..."**
+
+Asoka: *"What I'd do...for one of those *tasteless* rolls from the galley..."*
+
+
 
 Asoka rushed ahead of the Peacekeepers to the location that the **WORLD GOV** designated as the best spot to search for the mysterious Amazonian people, arriving much faster than the loud, noisy, bulky, slow-moving military troops. From that location, Asoka has been searching in an ever growing spiral, with no success. Just as Asoka is about to pass out from hunger and heatstroke, Iri discovers a cave with a false wall, behind which is a garden, clearly cultivated by *someone*. Asoka and Iri find an opening into the secret garden, which provides Asoka with food, water, and respite from the heat. Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
 
