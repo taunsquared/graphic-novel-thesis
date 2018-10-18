@@ -812,9 +812,9 @@ Eireena: **"I used to be a materials engineer, before The Burning. I was working
 
 Eireena: **"So we wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was grand. And we didn't like the government, so we moved to Vermont. And spent many late nights, talking to like-minded friends about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were all very convinced."**
 
-### Page 7
-
 Eireena: **"But there *are* some undeniable advantages to having powerful technology right at your fingertips. And we were discovering that our organzas were capable of so much more than just filtering the water and the air. So we decided that we needed to keep the option for living without body mods on the table by researching an alternative to body mods, and the only way to do *that* was to create a religion, because that would give us the best defense against government interference."**
+
+### Page 7
 
 Eireena: **"But then The Burning happened, and everyone we hated so much abandoned us anyway, on a planet that *they'd* trashed."**
 
@@ -895,6 +895,8 @@ Asoka: **"So. That's where we're going."**
 ## Chapter 5
 
 Character designs: Asoka Morei, Iri, Minka Oosou
+
+### Page 1
 
 Asoka rushed ahead of the Peacekeepers to the location that the **WORLD GOV** designated as the best spot to search for the mysterious Amazonian people, arriving much faster than the loud, noisy, bulky, slow-moving military troops. From that location, Asoka has been searching in an ever growing spiral, with no success. Just as Asoka is about to pass out from hunger and heatstroke, Iri discovers a cave with a false wall, behind which is a garden, clearly cultivated by *someone*. Asoka and Iri find an opening into the secret garden, which provides Asoka with food, water, and respite from the heat. Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
 
