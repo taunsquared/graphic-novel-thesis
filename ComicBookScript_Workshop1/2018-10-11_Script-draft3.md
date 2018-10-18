@@ -726,7 +726,7 @@ Iri: *"Soka, they've reached the ship!!"*
 
 Asoka runs to a corner of the galley, where they kick open a panel in the wall, then squeeze themselves inside, cradeling the food nearly bursting from the invisible sack. They put down the sack and replace the panel in the wall. 
 
-From inside, Asoka hurriedly pulls out what looks like fabric tape that and carefully but quickly tapes the metal panel in place. After a moment, the fabric tape integrates itself into the surrounding metal, and the panel seemingly disappears. 
+From inside, Asoka hurriedly pulls out what looks like fabric tape and carefully but quickly tapes the metal panel in place. After a moment, the fabric tape integrates itself into the surrounding metal, and the panel seemingly disappears. 
 
 Asoka: *"I'm in!"*
 
