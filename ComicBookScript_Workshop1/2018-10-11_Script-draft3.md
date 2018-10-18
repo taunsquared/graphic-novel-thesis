@@ -474,7 +474,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 ## Chapter 3
 
-Character designs: Asoka Morei, Iri, Eireena McLeland
+Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jackson
 
 ### Page 1
 
@@ -508,7 +508,7 @@ Pippa: **"*But it's not fair, Io! I'm the smallest, and it's so far away!*"**
 
 Io: **"*We all agreed!*"**
 
-We see gloved hands try to shove the short straw back into the fist of straws. 
+We see tiny gloved hands try to shove the short straw back into an only slightly larger fist of straws. 
 
 Pippa: **"*Take it back, let me pick again!*"**
 
@@ -602,11 +602,11 @@ Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their
 
 Asoka: **"*Attack?!*"**
 
-Iri suddenly re-animates and broadcasts another voice not its own. 
+Asoka scoops up Iri and begins running down the valley, but Iri suddenly re-animates and broadcasts another voice not its own. 
 
 Iri: **"Soka, stay away, don't come back!!"**
 
-Asoka grabs Iri, aghast to hear...
+Asoka clutches Iri to their chest, looking down the mountainside with terrified eyes at the sight of enormous wolves tearing through their village, aghast to hear...
 
 Asoka: **"*Mom??!!*"**
 
@@ -620,7 +620,7 @@ Eireena, off-panel: **"I'm so sorry for your loss, Asoka."**
 
 Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleeveless shirt, but their feet, hands, and head are bare. Asoka's long reddish hair is tied back in a half ponytail, and Iri, now displaying a reddish back and cream coloured bottom to better camouflage from its perch on Asoka's neck, peers out from under Asoka's hair. Before Asoka is a large steaming mug of hot tea, but Asoka hasn't touched it. Tears run down their face, past an upper lip that shows just the tiniest hints of fuzzy hair. 
 
-We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face is one of calm contemplation. 
+We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, a tiny woman, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his dark face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face, half-hidden behind long, thick, gently curling dark hair, is one of calm contemplation. 
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
 
@@ -708,7 +708,7 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 ## Chapter 4
 
-Character designs: Asoka Morei, Iri, Eireena McLeland
+Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jackson
 
 ### Page 1
 
@@ -734,7 +734,7 @@ Iri: *"Good. I'm gonna go check the bridge for any news."*
 
 ### Page 2
 
-Asoka lies on their back in the interstitial space of the ship, surrounded by the canned food, packets of freeze-dried fruits and vegetables, and institutional white flour bread rolls that have spilled out of the still invisible pack. Asoka has turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled aside their head veil in order to stuff one of the bread rolls into their mouth. Their eyes are full of tears, triggered by gratitude for the food, by homesickness, by anxiety, by wanting to be free of the metal walls around them. 
+Asoka lies on their back in the interstitial space of the ship, surrounded by the canned food, packets of freeze-dried fruits and vegetables, and institutional white flour bread rolls that have spilled out of the still invisible pack. Asoka has turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled aside their face veil in order to stuff one of the bread rolls into their mouth. Their eyes are full of tears, triggered by gratitude for the food, by homesickness, by anxiety, by wanting to be free of the metal walls around them. 
 
 Asoka: *"Jeshua's bread was so much better..."*
 
@@ -746,15 +746,19 @@ Iri: *"Slow down! Do you wanna choke on your food instead?"*
 
 Asoka: *"I gotta eat it before I realise how fake it tastes, otherwise I'll lose my appetite."*
 
-We see Iri clinging invisibly to the ceiling of the command deck. 
+Iri moves invisibly across the flight deck of the dock landing ship.
 
-Iri: *"Ugh, your gut is going through so much abuse right now..."*
+Iri: *"Ugh, your guts are going through so much abuse right now..."*
 
-Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
+### Page 3
+
+We see Iri clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
 
 *Need to consult with someone who knows how a naval vessel works and what kinds of daily activities would happen on board.*
 
 Peacekeeper 1: **"This heat is brutal...you can tell we're only 6 degrees north of the Red Zone..."**
+
+*The Red Zone extends throughout the region between the [Tropic of Cancer](https://en.wikipedia.org/wiki/Tropic_of_Cancer) and the [Tropic of Capricorn](https://en.wikipedia.org/wiki/Tropic_of_Capricorn).*
 
 Peacekeeper 2: **"I'd rather be out here than back in those marsh caves! Eeugh, the smell!!"**
 
@@ -766,23 +770,127 @@ Peacekeeper 1: **"(snort) You'd think the quartermaster would have rationed our 
 
 Iri: *"I hope you grabbed enough food to last the rest of the journey...they might be keeping a closer eye on the galley from here on out..."*
 
-### Page 3
+### Page 4
 
-Asoka stares glumly at the pile of food in front of them. 
+Asoka, kneeling, stares glumly yet resignedly at the pile of food in front of them. 
 
-Asoka: *"This isn't at all what I expected..."*
+Asoka: *"This isn't what I expected..."*
 
 *--flashback--*
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
-Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He is actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the **WORLD GOV**'s satellites have captured images of what looks like *humans*."**
+Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the **WORLD GOV**'s satellites have captured images of what looks like *humans*."** 
 
+Serena: **"They're, apparently, *re-growing* the forest. And instead of showing the appropriate *awe* for *anyone* who could do that, the Peacekeepers were going on about how much 'exotic fruit' they were going to be able to bring back home. *Idiots*. Don't they realise what killed the forest in the first place?"**
 
+### Page 5
 
+Serena: **"They said the humans were *naked*. If an entire amphibious warship, full of pirate-minded soldiers, wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *Naked*, in the Red Zone?? Most of our best textiles can't keep you alive in the Red Zone for much longer than a day, the heat and the poison in the air...it's *crazy*..."**
 
+Serena: **"But if it's true...imagine what powerful allies they could be...!"**
 
-Asoka travels into the "Red Zone" (wide stretch of equatorial zone circling the Earth, where it is too hot for even the Biononymous to cross; this zone harshly separates the Northern and Southern hemispheres) as a stowaway on a World Gov Peacekeeper naval vessel. During the journey, Asoka remembers Eireena's plan - to send Asoka with the Peacekeepers so that they can try to find the mysterious people in the Amazon, warn them of the Peacekeepers' arrival and their questionable motives, and offer these people an alliance with the Biononymous against the **WORLD GOV**. Eireena gifts Asoka with the fruits of a secret Biononymous eSyrup textile research program, which, turns out, Asoka's parents were involved in - eSyrup cloth that can change color and texture to blend into the surroundings perfectly and seamlessly. Asoka is to train the art of controlling this new kind of eSyrup cloth with the help of their mechapet Iri. Eireena then arranged to get Asoka onto the Peacekeeper naval vessel. During the journey, Iri swims in a real ocean for the first time. The Peacekeeper naval vessel finally arrives at the abandoned ruins of the ancient city of Manaus and docks. 
+Eireena coughs discreetly and gives Serena a sharp look, then turns to Asoka.
+
+Eireena: **"This morning, we convened an emergency **COUNCIL OF COUNCILS**, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the **WORLD GOV** does. In the end, we decided to leave the choice up to *you*."**
+
+Asoka and Iri realise that everyone is looking at them. They exchange a glance. 
+
+Asoka: **"Me? Why would you do that?"**
+
+Serena: **"You're the only one allowed to wear it."**
+
+Asoka: **"Wear what?"**
+
+Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the oatcakes and juice."**
+
+### Page 6
+
+Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head. Fili walks behind them. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
+
+Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfectd the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, that had exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
+
+Eireena: **"So we wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was grand. And we didn't like the government, so we moved to Vermont. And spent many late nights, talking to like-minded friends about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were all very convinced."**
+
+### Page 7
+
+Eireena: **"But there *are* some undeniable advantages to having powerful technology right at your fingertips. And we were discovering that our organzas were capable of so much more than just filtering the water and the air. So we decided that we needed to keep the option for living without body mods on the table by researching an alternative to body mods, and the only way to do *that* was to create a religion, because that would give us the best defense against government interference."**
+
+Eireena: **"But then The Burning happened, and everyone we hated so much abandoned us anyway, on a planet that *they'd* trashed."**
+
+Serena: **"Cowards."**
+
+Eireena pulls back a tapestry, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures everyone inside before her. 
+
+Eireena: **"Please"**
+
+Serena opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Asoka looks closer and gasps -- the tiny patterns are in the style of their Green Haven! Asoka reaches with their hand, then hesitates. 
+
+Asoka: **"May I?"**
+
+Serena: **"It's yours."**
+
+### Page 8
+
+Asoka lifts the jacket off the mannequin, reverently running their hands over the stitches, the weave, the hem. As Asoka does this, the cloth responds to their touch. 
+
+Asoka: **"This is *beautiful*. Where did it come from?"**
+
+Serena: **"Many years ago, two members of your Green Haven council visited us, with a magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the face of their child, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Green Haven should ever have to beg us for sanctuary."**
+
+Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, rendering you, practically speaking, *invisible*."**
+
+### Page 9
+
+Serena: **"Every year since then, different members of your Council have visited us, each time showing us the face of a child, or grandchild, and bringing a new outfit, and taking back the old one."**
+
+Eireena: **"And last year, I got a visit from the woman I loved in Vermont, who told me about her grandchild, and showed me *your* face. Iúna told me that, even though she was supposed to be making this outfit for *any* child of Green Haven Howes, she was thinking *most* of *you*."**
+
+Asoka: **"You knew my Avó Iúna?"**
+
+Eireena smiles. 
+
+Eireena: **"Yes."**
+
+Asoka: **"Why was Avó Iúna bringing you a secret outfit? And if it was for all the children in the Haven, how come there's only one?"**
+
+### Page 10
+
+Eireena drops the smile, and Serena's face darkens. 
+
+Serena: **"No one said *all* of the children. They only said *any* of the children."**
+
+Eireena: **"This research would be dangerous in the hands of someone willing to exploit others...if the **WORLD GOV** found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
+
+Asoka suddenly remembers -- the snarls, the screams, the smell of freshly baked bread...
+
+Asoka looks up to see everyone patiently waiting for them to recover from the flashback. 
+
+Eireena turns to Asoka, gentle but grim. 
+
+Eireena: **"Like I said before, if you want to live a quiet life in hiding, you can have that here at Green Haven Clarksville."**
+
+### Page 11
+
+Eireena: **"But with an outfit made of cuttlefish skin, you're protected from both the **WORLD GOV** *and* the harsh surface environment, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
+
+Eireena: **"If you choose to go, we will get you on the Peacekeeper ship traveling to the Amazon, and the Biononymous will trust you with our collective voice."**
+
+*--end flashback--*
+
+We're back in the double-layered hull of the amphibious warship. Asoka kneels, staring down at their satchel of food, lost in thought. 
+
+Iri: *"Soka?"*
+
+Asoka: *"Hmm?"*
+
+Iri: *"It's the location where they expect to find the naked humans in the Amazon! Put up your face veil!"*
+
+### Page 12
+
+Asoka pulls the fabric back across their face, and sees the world through Iri's eyes. Up on the command deck, a large **INFO-SPHERE** displays a map of the Americas, a glowing blue line tracing a the ship's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line becomes a tiny glowing dock landing ship made of light. A blue dotted line extends south from the tiny glowing ship of light, swerving east to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands, to then hug the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the dotted line curved intimately into the continent, curling up the Amazon River until the dotted line terminated in a second, more ghostly little ship made of light, nearly halfway across the continent to the Pacific coast. This little ship of light sprouts a little dark brown line that shoots almost exactly north for a seemingly tiny distance, then this little brown line terminates in a blinking, glowing 'X'. 
+
+Asoka: **"So. That's where we're going."**
 
 ## Chapter 5
 
