@@ -712,8 +712,6 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 ### Page 1
 
-**"2 weeks later..."**
-
 Iri: *"Soka, the landing team is coming back!"*
 
 We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. The ship is near the lush, marshy coastline of Florida, haloed in a hazy, late morning sun. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
@@ -778,6 +776,8 @@ Asoka: *"This isn't what I expected..."*
 
 *--flashback--*
 
+**"2 weeks ago..."**
+
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
 Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the **WORLD GOV**'s satellites have captured images of what looks like *humans*."** 
@@ -808,23 +808,23 @@ Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the
 
 Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head. Fili walks behind them. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
 
-Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfectd the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, that had exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
+Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, that had exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
 
 Eireena: **"So we wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was grand. And we didn't like the government, so we moved to Vermont. And spent many late nights, talking to like-minded friends about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were all very convinced."**
 
-Eireena: **"But there *are* some undeniable advantages to having powerful technology right at your fingertips. And we were discovering that our organzas were capable of so much more than just filtering the water and the air. So we decided that we needed to keep the option for living without body mods on the table by researching an alternative to body mods, and the only way to do *that* was to create a religion, because that would give us the best defense against government interference."**
+Eireena: **"But there *are* some undeniable advantages to having powerful technology right at your fingertips. And we were discovering that our organzas were capable of so much more than just filtering the water and the air. So we decided that we needed to keep the option for living without body mods on the table, by researching *alternatives* to body mods, and the only way to do *that* was to create a religion, because in those days, religions had the best defense against government interference."**
 
 ### Page 7
 
-Eireena: **"But then The Burning happened, and everyone we hated so much abandoned us anyway, on a planet that *they'd* trashed."**
+Eireena: **"But then The Burning happened, and everyone we feared much abandoned us anyway, on a planet that *they'd* trashed."**
 
-Serena: **"Cowards."**
+Serena: **"Until they came back to demand food, and fuel, and whatever the hell they want...not much has changed."**
 
 Eireena pulls back a tapestry, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures everyone inside before her. 
 
-Eireena: **"Please"**
+Eireena: **"Please."**
 
-Fili opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Asoka looks closer and gasps -- the tiny patterns are in the style of their Green Haven! Asoka reaches with their hand, then hesitates. 
+Fili opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Neatly folded in the bottom of the dresser is a utility belt on top of a large cloth satchel. Asoka looks closer and gasps -- the tiny patterns are in the style of their home Haven! Asoka reaches with their hand, then hesitates. 
 
 Asoka: **"May I?"**
 
@@ -836,13 +836,13 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Fili: **"Many years ago, two members of your Green Haven council visited us, with a magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the face of their child, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Green Haven should ever have to beg us for sanctuary."**
+Fili: **"Many years ago, two members of your Green Haven council visited us, with this magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the faces of the Green Haven Howes children, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Haven should ever have to beg us for sanctuary."**
 
-Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, rendering you, practically speaking, *invisible*."**
+Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
 ### Page 9
 
-Serena: **"Every year since then, different members of your Council have visited us, each time showing us the face of a child, or grandchild, and bringing a new outfit, and taking back the old one."**
+Serena: **"Every year since then, different members of your Council have visited us, each time showing us the faces of a child, or grandchild, and bringing a new outfit, and taking back the old one."**
 
 Eireena: **"And last year, I got a visit from the woman I loved in Vermont, who told me about her grandchild, and showed me *your* face. Iúna told me that, even though she was supposed to be making this outfit for *any* child of Green Haven Howes, she was thinking *most* of *you*."**
 
@@ -856,39 +856,39 @@ Asoka: **"Why was Avó bringing you a secret outfit? And if it was for all the c
 
 ### Page 10
 
-Eireena drops the smile, and Serena's face darkens. 
+Eireena drops the smile, and Serena's face darkens. Fili looks meaningfully at Asoka.
 
 Fili: **"No one said *all* of the children. They only said *any* of the children."**
 
-Eireena: **"This research would be dangerous in the hands of someone willing to exploit others...if the **WORLD GOV** found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
+Eireena: **"This research would be incredibly dangerous in the hands of someone willing to exploit others...if the **WORLD GOV** found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
 
 Asoka suddenly remembers -- the snarls, the screams, the smell of freshly baked bread...
 
 Asoka looks up to see everyone patiently waiting for them to recover from the flashback. 
 
-Eireena turns to Asoka, gentle but grim. 
+Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
 Eireena: **"Like I said before, if you want to live a quiet life in hiding, you can have that here at Green Haven Clarksville."**
 
 ### Page 11
 
-Eireena: **"But with an outfit made of cuttlefish skin, you're protected from both the **WORLD GOV** *and* the harsh surface environment, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
+Eireena: **"But with an outfit made of cuttlefish skin, you're protected from both the **WORLD GOV** *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
-Eireena: **"If you choose to go, we will get you on the Peacekeeper ship traveling to the Amazon, and the Biononymous will trust you with our collective voice."**
+Eireena: **"If you accept this outfit, the High Council begs you to also accept this diplomatic mission. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
 
 *--end flashback--*
 
-We're back in the double-layered hull of the amphibious warship. Asoka kneels, staring down at their satchel of food, lost in thought. 
+We're back in the double-layered hull of the amphibious warship. Asoka kneels, staring down at the food spilling out of their invisible satchel, lost in thought. 
 
 Iri: *"Soka?"*
 
 Asoka: *"Hmm?"*
 
-Iri: *"It's the location where they expect to find the naked humans in the Amazon! Put up your face veil!"*
+Iri: *"I'm on the bridge, they're discussing the location where they expect to find the naked humans in the Amazon! Put up your face veil!"*
 
 ### Page 12
 
-Asoka pulls the fabric back across their face, and sees the world through Iri's eyes. Up on the command deck, a large **INFO-SPHERE** displays a map of the Americas, a glowing blue line tracing a the ship's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line becomes a tiny glowing dock landing ship made of light. A blue dotted line extends south from the tiny glowing ship of light, swerving east to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands, to then hug the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the dotted line curved intimately into the continent, curling up the Amazon River until the dotted line terminated in a second, more ghostly little ship made of light, nearly halfway across the continent to the Pacific coast. This little ship of light sprouts a little dark brown line that shoots almost exactly north for a seemingly tiny distance, then this little brown line terminates in a blinking, glowing 'X'. 
+Asoka pulls the fabric back across their face, and sees the world through Iri's eyes. Up on the command deck, a large **INFO-SPHERE** displays a map of the Americas, a glowing blue line tracing a the ship's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line becomes a tiny glowing dock landing ship made of light. A blue dotted line extends south from the tiny glowing ship of light, swerving east to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands, to then hug the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the dotted line curves intimately inland, wiggling up the Amazon River until it terminates in a second, more ghostly little ship made of light, nearly halfway across the continent to the Pacific coast. This little ship of light sprouts a dark brown line that shoots almost exactly north for a seemingly tiny distance, then terminates in a blinking, glowing 'X'. 
 
 Asoka: **"So. That's where we're going."**
 
