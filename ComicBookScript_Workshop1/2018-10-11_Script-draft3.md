@@ -824,11 +824,11 @@ Eireena pulls back a tapestry, which, to a naive eye looks no different from any
 
 Eireena: **"Please"**
 
-Serena opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Asoka looks closer and gasps -- the tiny patterns are in the style of their Green Haven! Asoka reaches with their hand, then hesitates. 
+Fili opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Asoka looks closer and gasps -- the tiny patterns are in the style of their Green Haven! Asoka reaches with their hand, then hesitates. 
 
 Asoka: **"May I?"**
 
-Serena: **"It's yours."**
+Fili: **"It's yours."**
 
 ### Page 8
 
@@ -836,7 +836,7 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Serena: **"Many years ago, two members of your Green Haven council visited us, with a magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the face of their child, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Green Haven should ever have to beg us for sanctuary."**
+Fili: **"Many years ago, two members of your Green Haven council visited us, with a magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the face of their child, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Green Haven should ever have to beg us for sanctuary."**
 
 Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, rendering you, practically speaking, *invisible*."**
 
@@ -858,7 +858,7 @@ Asoka: **"Why was Avó Iúna bringing you a secret outfit? And if it was for all
 
 Eireena drops the smile, and Serena's face darkens. 
 
-Serena: **"No one said *all* of the children. They only said *any* of the children."**
+Fili: **"No one said *all* of the children. They only said *any* of the children."**
 
 Eireena: **"This research would be dangerous in the hands of someone willing to exploit others...if the **WORLD GOV** found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
 
