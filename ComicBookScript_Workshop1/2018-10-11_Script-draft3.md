@@ -778,7 +778,7 @@ Asoka: *"This isn't what I expected..."*
 
 *--flashback--*
 
-**"2 weeks ago..."**
+**"12 days ago..."**
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
@@ -794,7 +794,7 @@ Serena: **"But if it's true...imagine what powerful allies they could be...!"**
 
 Eireena coughs discreetly and gives Serena a sharp look, then turns to Asoka.
 
-Eireena: **"This morning, we convened an emergency **COUNCIL OF COUNCILS**, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the **WORLD GOV** does. In the end, we decided to leave the choice up to *you*."**
+Eireena: **"This morning, we convened an emergency High Council, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the **WORLD GOV** does. In the end, we decided to leave the choice up to *you*."**
 
 Asoka and Iri realise that everyone is looking at them. They exchange a glance. 
 
@@ -808,7 +808,7 @@ Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the
 
 ### Page 6
 
-Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head. Fili walks behind them. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
+Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head, who dutifully eats oatcakes and drinks juice. Fili walks behind them. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
 
 Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, that had exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
 
@@ -874,15 +874,13 @@ Eireena: **"Yes."**
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Are the.. **DEATH DOGS**, and the Peacekeepers, part of why Avó was bringing you this outfit in secret?"**
+Asoka: **"Are the...**DEATH DOGS**, and the Peacekeepers, part of why Avó was bringing you this outfit in secret?"**
 
 Asoka looks pained. 
 
-Asoka: **"And...if it was supposed to *save* the children of Green Haven Howes, how come there's only *one*??"**
+Asoka: **"And...if it was supposed to save the children of Green Haven Howes, how come there's only *one*??"**
 
-Eireena drops the smile, and Serena's face darkens. Fili looks meaningfully at Asoka.
-
-Fili: **"No one said *all* of the children. They only said *any* of the children."**
+Eireena drops the smile, and Serena's face darkens. Fili has tears in his eyes, jaw clenched.
 
 Eireena: **"This research would be incredibly dangerous in the hands of someone willing to exploit others...if the **WORLD GOV** found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
 
@@ -898,7 +896,7 @@ Eireena: **"Like I said before, if you want to live a quiet life in hiding, you 
 
 Eireena: **"But with an outfit made of cuttlefish cloth, you're protected from both the **WORLD GOV** *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
-Eireena: **"If you accept this outfit, the High Council begs you to also accept this diplomatic mission. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
+Eireena: **"If you accept this outfit, the High Council beg you to also accept this diplomatic mission: to warn the people in the Amazon of the Peacekeeper's intentions, and offer them alliance with the Biononymous. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
 
 *--end flashback--*
 
@@ -908,7 +906,7 @@ Iri: *"Soka?"*
 
 Asoka: *"Hmm?"*
 
-Iri: *"I'm on the bridge, they're discussing the location where they expect to find the naked humans in the Amazon! Put up your face veil!"*
+Iri: *"I'm on the bridge, they're discussing the location! Put up your face veil!"*
 
 ### Page 12
 
@@ -938,6 +936,45 @@ Iri: **"Probably only 4...it took us too long to get off the ship!"**
 
 Asoka: **"It's alright, we'll manage! So we run for 3 hours and then start looking for a cave, a thicket, anything to hide from the sun."**
 
+Iri: **"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days -- that's almost a month!"**
+
+Asoka is running, breathless. 
+
+Asoka: **"Yeah, so?"**
+
+Iri: **"I just hadn't realised how much time had passed!"**
+
+As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
+
+### Page 3
+
+It's the earliest part of dawn - [astronomical dawn](https://en.wikipedia.org/wiki/Dawn#Astronomical_dawn). Asoka leans against a rock to catch their breath. 
+
+Asoka: *"How...far...??"*
+
+Iri brings up the map they image-captured from the bridge of **WARSHIP**. 
+
+Iri: **"Ummmmm...there!"**
+
+A bright blue ball appears, far less than halfway to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. 
+
+Asoka: *"Seriously?? That's it??"*
+
+Iri: *"Sokaaa, don't push yourself too much..."*
+
+Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. 
+
+Asoka: *"My guts don't feel completely empty yet..."*
+
+Asoka: **"Iri, when do you predict the temperature will hit 37.5?"**
+
+Iri: **"In about...3 hours? But..."**
+
+
+
+Iri: **"Yes, good! Ok, so, ummmmm, go left! There's a really low temperature area over there, maybe it's a cave!"**
+
+### Page 4
 
 
 
