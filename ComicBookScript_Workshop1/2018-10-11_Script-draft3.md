@@ -900,9 +900,9 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 ### Page 1 
 
-**"The Red Zone was once called 'the tropics', a band of the Earth's surface bounded at its northern edge by a boundary once called the Tropic of Cancer, and at its southern edge by a similarly outdated name, the Tropic of Capricorn. Even in the heart of winter, 'the tropics' had over 10 hours of daylight, something that made it irresistable to conquerers, colonists, imperialists, and ex-pats alike."**
+**"The Red Zone was once called 'the tropics', a band of the Earth's surface bounded in the north by the Tropic of Cancer, and at its southern edge by a similarly outdated name, the Tropic of Capricorn. Even in the heart of winter, 'the tropics' had over 10 hours of daylight, something that, at one time, made it irresistable to conquerers, colonists, imperialists, and ex-pats alike."**
 
-**"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these jewels of biodiversity were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
+**"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these jewels of biodiversity were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
 Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
