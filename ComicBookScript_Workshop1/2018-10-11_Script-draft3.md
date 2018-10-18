@@ -838,7 +838,7 @@ Asoka: **"This is *beautiful*. Where did it come from?"**
 
 Fili: **"Many years ago, two members of your Green Haven council visited us, with a magnificent wooden dresser, and a beautiful outfit made of the finest eSyrup cloth we had ever seen. It was just the right size for a child barely old enough to run. Your Councilors showed us the face of their child, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Green Haven should ever have to beg us for sanctuary."**
 
-Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, rendering you, practically speaking, *invisible*."**
+Eireena: **"The cloth called 'cuttlefish skin', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, rendering you, practically speaking, *invisible*."**
 
 ### Page 9
 
