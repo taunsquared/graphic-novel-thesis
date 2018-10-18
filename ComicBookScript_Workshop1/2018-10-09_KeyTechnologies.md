@@ -32,4 +32,8 @@ Eireena gifts Asoka with special clothing that were made by the adults of Asoka'
 
 [Major Climate Report Describes a Strong Risk of Crisis as Early as 2040](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html)
 
+[A two-fold increase of carbon cycle sensitivity to tropical temperature variations](https://www.nature.com/articles/nature12915.epdf)
+
+[Global Warming Frequently Asked Questions](https://www.climate.gov/news-features/understanding-climate/global-warming-frequently-asked-questions)
+
 
