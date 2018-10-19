@@ -1,5 +1,7 @@
 # graphic-novel-thesis
-This is where I'll be developing the story script for my graphic novel thesis. 
+This is where I'll be developing the story script for my graphic novel thesis. The most current draft of the script can be found here: 
+
+https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md
 
 ## project timeline, last update: Oct 15 2018
 ### October
