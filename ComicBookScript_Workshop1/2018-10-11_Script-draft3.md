@@ -920,7 +920,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these [jewels of biodiversity](https://www.theguardian.com/environment/gallery/2013/oct/23/new-species-amazon-rainforest-in-pictures) were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
-Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
+Under this narration, we see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
 ### Page 2
 
