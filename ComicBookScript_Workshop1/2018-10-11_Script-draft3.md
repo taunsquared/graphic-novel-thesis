@@ -974,67 +974,63 @@ Asoka: *"We have to get there *first*, Iri!"*
 
 It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are mostly [papaya trees](https://www.instagram.com/p/BWs7J_xBYvP/) and other [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
-Iri: *"Wow...outside temperature is 38, but the temperature inside your outfit is a steady 24!"*
+In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temperature reads 38 deg celsius, while the inside temperature reads 24 deg celsius. 
 
-Asoka: *"How are *you* doing, then?"*
+Iri stares open mouthed at the jungle around them.
 
-Iri: *"Me? *I'm* fine. But you've been running for nearly 7 hours, don't you think we should at least take a break?"*
+Iri: *"Wow...!"*
 
 Asoka: *"How far are we now?"*
 
 The bright blue ball has moved further north, a little past a quarter of the way to the 'X'. 
 
-Asoka: *"I'll take a break if you can find me a place to eat. But given how well this outfit is dealing with the heat, I want to keep walking...I won't run during the day."*
+Iri gives Asoka a look. 
 
-Iri: **"Yes, good! Ok, so, ummmmm, go left! There's a really low temperature area over there, maybe it's a cave!"**
+Iri: *"Do you think...maybe you should eat soon?"*
+
+Asoka: *"If you can find me a place to eat, sure. But I want to keep walking...I won't run in this heat, but we **have** to keep going."*
 
 ### Page 5
 
 The sun is now at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
 
-Iri: *"Soka, I think the outfit is running low on power...the temperature inside your clothes is now 27...also, you need to **sleep**..."*
+Iri: *"Soka, I think you're running low on power..." 
+
+On Asoka's face veil, outside temperature reads 48 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
 Asoka: *"Where are we now?"*
 
-The bright blue ball is now just a bit before the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their water canteen. They carefully pour water into their mouth through their face veil. 
+The bright blue ball is now just a bit before the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
-Asoka: *"What's the outside temp?"*
-
-Iri: *"48. But I think, if you rest for a bit, in about 3 hours it'll be back down below 45."*
+Iri: *"I think in a few hours it'll be back down below 45."*
 
 Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
 
-Asoka falls asleep where they sit. Iri checks Asoka's vitals, then starts to gather leaves from the forest floor to make into a makeshift sun canopy. 
+Asoka falls asleep where they sit. Iri checks Asoka's vitals by running its arms along Asoka's outfit above their heart, lungs, stomach, and kidneys, then starts to gather [Babassu](https://en.wikipedia.org/wiki/Attalea_speciosa) palm leaves from the forest floor to make into a makeshift sun canopy. 
 
 ### Page 6
 
-The sun is now low in the sky, light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. Iri has been collecting fruit and nuts from nearby trees into a pile, including [bananas](https://www.rainforest-alliance.org/species/banana) and [nightshades](https://en.wikipedia.org/wiki/Solanaceae#Distribution). 
+The sun is now low in the sky, light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. 
 
 *More references for pioneer species in the rainforest and forest restoration: https://globalforestatlas.yale.edu/amazon/conservation-initiatives/forest-restoration*
 
-Asoka suddenly jerks awake. 
+Asoka suddenly jerks awake, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look.
 
-Asoka: *"Iri!"*
+Asoka: *"You let me sleep more than a few hours."*
 
-Iri: *"I'm here!"*
+Iri hands Asoka their canteen. 
 
-Asoka: *"What time is it? How long did I sleep?"*
-
-Iri: *"Almost 5 hours -- don't be upset! You really needed to sleep!!"*
-
-Asoka sits up and groggily holds their head in their hands.
-
-Asoka: *"unnnnngg...yeah I think you're right..."*
-
-Iri: *"Here, drink. I found a stream with decent water quality, so I refilled your canteen."*
+Iri: *"Drink. I found a stream nearby."*
 
 Asoka: *"Thanks..."*
 
+Asoka carefully opens the now completely full canteen. 
+
 ### Page 7
 
-Asoka notices the pile of fruits and nuts. 
+Asoka notices the bananas. Their face veil labels the fruit and gives some metadata on its nutrients.  
 
-Asoka: *"What did you find?"*
+Asoka: *"Wow, real food...!"*
 
 Iri: *"
 
