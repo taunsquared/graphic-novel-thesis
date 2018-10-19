@@ -1008,7 +1008,9 @@ Asoka falls asleep where they sit. Iri checks Asoka's vitals, then starts to gat
 
 ### Page 6
 
-The sun is now low in the sky, light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. Iri has been collecting fruit and nuts from nearby trees and standing watch. 
+The sun is now low in the sky, light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. Iri has been collecting fruit and nuts from nearby trees into a pile, including [bananas](https://www.rainforest-alliance.org/species/banana) and [nightshades](https://en.wikipedia.org/wiki/Solanaceae#Distribution). 
+
+*More references for pioneer species in the rainforest and forest restoration: https://globalforestatlas.yale.edu/amazon/conservation-initiatives/forest-restoration*
 
 Asoka suddenly jerks awake. 
 
