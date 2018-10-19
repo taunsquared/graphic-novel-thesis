@@ -998,7 +998,7 @@ The sun is at its zenith. The air sizzles with heat, but Asoka and Iri are about
 
 Asoka quickly trudges into a dense grove, clearly uncomfortable and at the end of their strength. 
 
-Iri: *"Soka, maybe you should rest a bit..." 
+Iri: *"Wow, that is **hot!!!**"*
 
 On Asoka's face veil, outside temperature reads 52 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
@@ -1006,7 +1006,7 @@ Asoka: *"Where are we now?"*
 
 The bright blue ball is now just about at the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
-Iri: *"This is insane, we have to stay in the shade!"*
+Iri: *"This is insane, we **have** to stay in the shade!"*
 
 Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
 
