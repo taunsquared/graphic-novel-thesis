@@ -1072,20 +1072,32 @@ Asoka runs to the base of a papaya tree as Iri shimmies up the trunk. Iri brings
 
 Iri: *"You can double-check me, but I think the air in here is actually **breathable**..."*
 
-Asoka's face veil confirms Iri's analysis, and Asoka tears off their face veil in order to ravenously tear into the papaya. 
+Asoka's face veil confirms Iri's analysis, and Asoka tears off their face veil in order to ravenously tear into the papaya. Iri joyfully runs up the tree for more of the ripe fruits. 
 
 Asoka: **"Mmmmmm!!!"**
 
 ### Page 8
 
-Asoka has finished the papaya, looking euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Outside temperature has now dropped to 35 deg celsius, and the temperature inside Asoka's suit is back to 
+Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. The outside temperature has now dropped to 35 deg celsius, and the temperature inside Asoka's suit is back to 23 deg C. 
+
+Asoka claps their hands and wipes their mouth, rapidly focusing on the cooling night. They put on their face veil and see a view of the world that showed the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. 
+
+Asoka: *"All right, Iri! Let's do this."*
+
+Asoka crouches, ready to run. They are caught completely unawares by a blurry figure kicking them in the back of the head with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs).  
+
+The figure squeals with terror. 
+
+Figure: **"Aaauuuuuuggh, I hit something!!!"**
+
+### Page 9
 
 
 
 
 
 
-Asoka rushed ahead of the Peacekeepers to the location that the **WORLD GOV** designated as the best spot to search for the mysterious Amazonian people, arriving much faster than the loud, noisy, bulky, slow-moving military troops. From that location, Asoka has been searching in an ever growing spiral, with no success. Just as Asoka is about to pass out from hunger and heatstroke, Iri discovers a cave with a false wall, behind which is a garden, clearly cultivated by *someone*. Asoka and Iri find an opening into the secret garden, which provides Asoka with food, water, and respite from the heat. Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
+Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
 
 ## Dream 2: Rites of Passage
 
