@@ -942,7 +942,7 @@ Iri: *"So you might be out of shape!"*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
 
-In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 33 deg celsius, while the temp inside Asoka's clothes is 26. 
+In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 33 deg celsius, while the temp inside Asoka's clothes is 23. 
 
 ### Page 3
 
@@ -954,15 +954,15 @@ Iri brings up the map they image-captured from the bridge of **WARSHIP**.
 
 Iri: *"Ummmmm...there!"*
 
-A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 24. 
+A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 23. 
 
 Asoka: *"Seriously?? That's it??"*
 
 Iri: *"Sokaaa, don't push yourself too much..."*
 
-Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. 
+Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. They place their hand on their belly, and a view of their intestines shows up on their face veil. 
 
-Asoka: *"My guts don't feel completely empty yet..."*
+Asoka: *"My guts aren't completely empty yet..."*
 
 Iri: *"But..."*
 
@@ -994,9 +994,9 @@ Asoka: *"If you can find me a cave to eat in, sure. But I want to keep walking..
 
 ### Page 5
 
-The sun is at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
+The sun is at its zenith. The air sizzles with heat, but Asoka and Iri are about to reach much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
 
-Asoka trudges into a dense grove, clearly at the end of their strength. 
+Asoka quickly trudges into a dense grove, clearly uncomfortable and at the end of their strength. 
 
 Iri: *"Soka, maybe you should rest a bit..." 
 
@@ -1006,15 +1006,15 @@ Asoka: *"Where are we now?"*
 
 The bright blue ball is now just about at the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
-Iri: *"I think in a few hours it'll be back down below 45."*
+Iri: *"This is insane, we have to stay in the shade!"*
 
 Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
 
-Asoka immediately falls asleep where they sit. Iri checks Asoka's vitals by running its arms along Asoka's outfit above their heart, lungs, stomach, and kidneys, as the eSyrup cloth gives Iri readouts of the organs' functional well-being. Iri then starts to gather [Babassu](https://en.wikipedia.org/wiki/Attalea_speciosa) palm leaves from the forest floor to make into a makeshift sun canopy. 
+Asoka immediately falls asleep where they sit. Iri dashes over and checks Asoka's vitals by running its arms along Asoka's outfit above their heart, lungs, stomach, and kidneys. As they do, the eSyrup cloth gives Iri readouts of each organs' functional well-being. Satisfied, Iri then starts to gather [Babassu](https://en.wikipedia.org/wiki/Attalea_speciosa) palm leaves from the forest floor to make into a makeshift sun canopy. 
 
 ### Page 6
 
-The sun is setting in the sky, deep red light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. 
+The sun is setting in the sky, deep red light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. Several large leaves are drenched in water and wrapped around Asoka.  
 
 *More references for pioneer species in the rainforest and forest restoration: https://globalforestatlas.yale.edu/amazon/conservation-initiatives/forest-restoration*
 
