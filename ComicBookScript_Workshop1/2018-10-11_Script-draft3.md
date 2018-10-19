@@ -918,7 +918,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"The Red Zone was once called 'the tropics', a band of the Earth's surface bounded in the north by the Tropic of Cancer, and at its southern edge by a similarly outdated name, the Tropic of Capricorn. Even in the heart of winter, 'the tropics' had over 10 hours of daylight, something that, at one time, made it irresistable to conquerers, colonists, imperialists, and ex-pats alike."**
 
-**"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these jewels of biodiversity were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
+**"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these [jewels of biodiversity](https://www.theguardian.com/environment/gallery/2013/oct/23/new-species-amazon-rainforest-in-pictures) were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
 Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-skin satchel. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
@@ -926,31 +926,31 @@ Under this narration, we see Asoka and Iri looking back over a rocky outcrop to 
 
 **"Nowadays, temperatures in the Red Zone become fatally hot during the day, and any living thing without protection during those hours withers away into dust."**
 
-Asoka: **"Ok Iri, how many hours until sunrise?"**
+Asoka: *"Ok Iri, how many hours until sunrise?"*
 
-Iri: **"Probably only 4...it took us too long to get off the ship!"**
+Iri: *"Probably only 4...it took us too long to get off the ship!"*
 
-Asoka: **"It's alright, we'll manage! So we run for 3 hours and then start looking for a cave, a thicket, anything to hide from the sun."**
+Asoka: *"It's alright, we'll manage! So we run for 3 hours and then start looking for a cave, a thicket, anything to hide from the sun."*
 
-Iri: **"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days -- that's almost a month!"**
+Iri: *"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days -- that's almost a month!"*
 
 Asoka is running, breathless. 
 
-Asoka: **"Yeah, so?"**
+Asoka: *"Yeah, so?"*
 
-Iri: **"I just hadn't realised how long you were in there..."**
+Iri: *"I just hadn't realised how long you were in there..."*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
 
 ### Page 3
 
-It's the earliest part of dawn - [astronomical dawn](https://en.wikipedia.org/wiki/Dawn#Astronomical_dawn). Asoka leans against a rock to catch their breath. 
+It's the earliest part of dawn - [astronomical dawn](https://en.wikipedia.org/wiki/Dawn#Astronomical_dawn). Asoka leans against a rock to catch their breath. A few scattered groves of [*Vismia guianensis*](https://cloudfront.escholarship.org/dist/prd/content/qt8xs2c9h8/qt8xs2c9h8.pdf?t=ovirno) trees break up the bleak landscape. 
 
 Asoka: *"How...far...??"*
 
 Iri brings up the map they image-captured from the bridge of **WARSHIP**. 
 
-Iri: **"Ummmmm...there!"**
+Iri: *"Ummmmm...there!"*
 
 A bright blue ball appears, far less than halfway to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. 
 
@@ -960,24 +960,39 @@ Iri: *"Sokaaa, don't push yourself too much..."*
 
 Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. 
 
-Asoka: *"My guts don't feel completely empty yet..."*
+Asoka: *"My guts don't feel completely empty yet...Iri, when do you predict the temperature will hit 37.5?"*
 
-Asoka: **"Iri, when do you predict the temperature will hit 37.5?"**
-
-Iri: **"In about...3 hours? But..."**
+Iri: *"In about...3 hours? But..."*
 
 Zoom in on Asoka's eyes, fiercely determined. 
 
-Asoka: **"We have to get there *first*, Iri!"**
+Asoka: *"We have to get there *first*, Iri!"*
 
 ### Page 4
 
 **"Human body cells start to die in temperatures above 41 deg celsius, but in dry air, humans can survive much higher temperatures, such as 70 deg C, as long as we can stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
 
+It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are mostly [papaya trees](https://www.instagram.com/p/BWs7J_xBYvP/) and other [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
+Iri: *"Wow...outside temperature is 38, but the temperature inside your outfit is a steady 24!"*
 
+Asoka: *"How are *you* doing, then?"*
+
+Iri: *"Me? *I'm* fine. But you've been running for nearly 7 hours, don't you think we should at least take a break?"*
+
+Asoka: *"How far are we now?"*
+
+The bright blue ball has moved further north, a little past a quarter of the way to the 'X'. 
+
+Asoka: *"I'll take a break if you can find me a place to eat. But given how well this outfit is dealing with the heat, I want to keep walking...I won't run during the day."*
 
 Iri: **"Yes, good! Ok, so, ummmmm, go left! There's a really low temperature area over there, maybe it's a cave!"**
+
+### Page 5
+
+The sun is now at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
+
+Iri: *"Soka, you need to **sleep**..."*
 
 
 
