@@ -920,7 +920,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these [jewels of biodiversity](https://www.theguardian.com/environment/gallery/2013/oct/23/new-species-amazon-rainforest-in-pictures) were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
-Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-skin satchel. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
+Under this narration, we see Asoka and Iri looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, the Peacekeepers unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
 ### Page 2
 
@@ -930,17 +930,19 @@ Asoka: *"Ok Iri, how many hours until sunrise?"*
 
 Iri: *"Probably only 4...it took us too long to get off the ship!"*
 
-Asoka: *"It's alright, we'll manage! So we run for 3 hours and then start looking for a cave, a thicket, anything to hide from the sun."*
+Asoka: *"It's alright, we'll manage! So we run for 3 hours and then start looking for someplace to hide from the sun."*
 
-Iri: *"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days -- that's almost a month!"*
+Iri: *"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days--"*
 
-Asoka is running, breathless. 
+Asoka is already running, Iri clinging to their neck for dear life. 
 
 Asoka: *"Yeah, so?"*
 
-Iri: *"I just hadn't realised how long you were in there..."*
+Iri: *"So you might be out of shape!"*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
+
+In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 33 deg celsius, while the temp inside Asoka's clothes is 26. 
 
 ### Page 3
 
@@ -952,7 +954,7 @@ Iri brings up the map they image-captured from the bridge of **WARSHIP**.
 
 Iri: *"Ummmmm...there!"*
 
-A bright blue ball appears, far less than halfway to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. 
+A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 24. 
 
 Asoka: *"Seriously?? That's it??"*
 
@@ -960,9 +962,9 @@ Iri: *"Sokaaa, don't push yourself too much..."*
 
 Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. 
 
-Asoka: *"My guts don't feel completely empty yet...Iri, when do you predict the temperature will hit 37.5?"*
+Asoka: *"My guts don't feel completely empty yet..."*
 
-Iri: *"In about...3 hours? But..."*
+Iri: *"But..."*
 
 Zoom in on Asoka's eyes, fiercely determined. 
 
@@ -970,17 +972,17 @@ Asoka: *"We have to get there *first*, Iri!"*
 
 ### Page 4
 
-**"Human body cells start to die in temperatures above 41 deg celsius, but in dry air, humans can survive much higher temperatures, such as 70 deg C, as long as we can stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
+**"Human body cells start to die when body temperatures go above 41 deg celsius, but externally, humans can survive much higher temperatures, even up to 70 deg C, as long as we can stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
 
 It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
-In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temperature reads 38 deg celsius, while the inside temperature reads 24 deg celsius. 
+The outside temperature now reads 44 deg celsius, while the inside temperature has only gone up to 26 deg celsius. 
 
 Iri stares open mouthed at the jungle around them.
 
 Iri: *"Wow...!"*
 
-Asoka: *"How far are we now?"*
+Asoka: *"Cuttlefish cloth is **awesome**! How far are we now?"*
 
 The bright blue ball has moved further north, a little past a quarter of the way to the 'X'. 
 
@@ -988,37 +990,37 @@ Iri gives Asoka a look.
 
 Iri: *"Do you think...maybe you should eat soon?"*
 
-Asoka: *"If you can find me a place to eat, sure. But I want to keep walking...I won't run in this heat, but we **have** to keep going."*
+Asoka: *"If you can find me a cave to eat in, sure. But I want to keep walking...I won't run in this heat, but we **have** to keep going."*
 
 ### Page 5
 
-The sun is now at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
+The sun is at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
 
 Asoka trudges into a dense grove, clearly at the end of their strength. 
 
 Iri: *"Soka, maybe you should rest a bit..." 
 
-On Asoka's face veil, outside temperature reads 48 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
+On Asoka's face veil, outside temperature reads 52 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
 Asoka: *"Where are we now?"*
 
-The bright blue ball is now just a bit before the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
+The bright blue ball is now just about at the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
 Iri: *"I think in a few hours it'll be back down below 45."*
 
 Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
 
-Asoka falls asleep where they sit. Iri checks Asoka's vitals by running its arms along Asoka's outfit above their heart, lungs, stomach, and kidneys, then starts to gather [Babassu](https://en.wikipedia.org/wiki/Attalea_speciosa) palm leaves from the forest floor to make into a makeshift sun canopy. 
+Asoka immediately falls asleep where they sit. Iri checks Asoka's vitals by running its arms along Asoka's outfit above their heart, lungs, stomach, and kidneys, as the eSyrup cloth gives Iri readouts of the organs' functional well-being. Iri then starts to gather [Babassu](https://en.wikipedia.org/wiki/Attalea_speciosa) palm leaves from the forest floor to make into a makeshift sun canopy. 
 
 ### Page 6
 
-The sun is now low in the sky, light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. 
+The sun is setting in the sky, deep red light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. 
 
 *More references for pioneer species in the rainforest and forest restoration: https://globalforestatlas.yale.edu/amazon/conservation-initiatives/forest-restoration*
 
 *More on plants native to the Amazon: http://www.pbs.org/journeyintoamazonia/plants.html*
 
-Asoka suddenly jerks awake, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look.
+Asoka suddenly jerks awake, briefly becomes invisible, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38 deg celsius.
 
 Asoka: *"You let me sleep more than a few hours."*
 
@@ -1041,6 +1043,18 @@ Asoka runs their eyes over the trees around them and their face veil labels them
 Asoka: *"[Papaya](https://www.instagram.com/p/BWs7J_xBYvP/)!"*
 
 *More info on papaya: https://en.wikipedia.org/wiki/Papaya*
+
+Asoka runs to the base of a papaya tree as Iri shimmies up the trunk. Iri brings down a large, bulbous fruit, and Asoka holds it reverently as their outfit scans the fruit to check its radiation content and ripeness. Simultaneously, Asoka's outfit checks the atmospheric content of the grove in which Asoka and Iri currently sit. Iri also takes in a huge breath of the air and does an independent analysis. 
+
+Iri: *"You can double-check me, but I think the air in here is actually **breathable**..."*
+
+Asoka's face veil confirms Iri's analysis, and Asoka tears off their face veil in order to ravenously tear into the papaya. 
+
+Asoka: **"Mmmmmm!!!"**
+
+### Page 8
+
+Asoka has finished the papaya, looking euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Outside temperature has now dropped to 35 deg celsius, and the temperature inside Asoka's suit is back to 
 
 
 
