@@ -992,7 +992,49 @@ Iri: **"Yes, good! Ok, so, ummmmm, go left! There's a really low temperature are
 
 The sun is now at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
 
-Iri: *"Soka, you need to **sleep**..."*
+Iri: *"Soka, I think the outfit is running low on power...the temperature inside your clothes is now 27...also, you need to **sleep**..."*
+
+Asoka: *"Where are we now?"*
+
+The bright blue ball is now just a bit before the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their water canteen. They carefully pour water into their mouth through their face veil. 
+
+Asoka: *"What's the outside temp?"*
+
+Iri: *"48. But I think, if you rest for a bit, in about 3 hours it'll be back down below 45."*
+
+Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
+
+Asoka falls asleep where they sit. Iri checks Asoka's vitals, then starts to gather leaves from the forest floor to make into a makeshift sun canopy. 
+
+### Page 6
+
+The sun is now low in the sky, light rays cutting horizontally once more through the trees. Asoka is now sprawled on the ground, fully horizontal underneath Iri's makeshift sun canopy, which is large enough to cover Asoka's full body-length in shade. Iri has been collecting fruit and nuts from nearby trees and standing watch. 
+
+Asoka suddenly jerks awake. 
+
+Asoka: *"Iri!"*
+
+Iri: *"I'm here!"*
+
+Asoka: *"What time is it? How long did I sleep?"*
+
+Iri: *"Almost 5 hours -- don't be upset! You really needed to sleep!!"*
+
+Asoka sits up and groggily holds their head in their hands.
+
+Asoka: *"unnnnngg...yeah I think you're right..."*
+
+Iri: *"Here, drink. I found a stream with decent water quality, so I refilled your canteen."*
+
+Asoka: *"Thanks..."*
+
+### Page 7
+
+Asoka notices the pile of fruits and nuts. 
+
+Asoka: *"What did you find?"*
+
+Iri: *"
 
 
 
