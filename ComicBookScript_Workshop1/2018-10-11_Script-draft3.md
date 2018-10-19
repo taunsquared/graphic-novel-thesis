@@ -52,7 +52,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 Under this narration, we see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air, hoods up, breathing masks and googles on. The air is hazy with smog, the sky a smeared grey-blue, the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
 
-A lot of the news is about the new space arboretum, but most of the individual **INFO-SPHERE**s are focused on news about planetside climate disasters: 
+A lot of the news is about the new space arboretum, but a few mention the new research base recently established on Mars, and most of the individual **INFO-SPHERE**s are focused on news about planetside climate disasters: 
 * The Colorado River has dried up completely and the severe drought is causing mass migrations to east, causing massive overcrowding in major inland ("mid-western") cities.
 * Last year's total evaporation of the River Niger has heightened ethnic tensions in the area and armed conflict is escalating.
 * An extremely aggressive water-borne disease wipes out several major urban areas in China and India 
@@ -238,7 +238,7 @@ Dr. Kauffmann: **"It's all the plastic furniture - they're basically *solid* pet
 
 Iúna: **"Yes, I...I'm sorry I need to make a call..."**
 
-Dr. Kauffmann: **"Of course. I'll see myself out."**
+Dr. Kauffmann: **"Of course. We'll see ourselves out."**
 
 Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of eSyrup cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
@@ -280,7 +280,7 @@ Iúna: **"*I know, and that's why I intially voted against it. But if we want de
 
 Tahoe: **"*But we still haven't figured out our own solutions to the really *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour...*"**
 
-Iúna: **"*That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, you know what that research group in Brazil published last month?*"**
+Iúna: **"*That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, do you know what that research group in Brazil published last month?*"**
 
 Tahoe: **"*What?*"**
 
@@ -320,7 +320,7 @@ We see close-ups of the [wildlife at Cabo de Hornos](https://youtu.be/06LcgVQg7Y
 
 **"Ocean Acidification Monitoring Station, Roca Redonda, Galapagos Islands"**
 
-Researchers stare in horror at the read-outs of their remote monitoring systems, displayed using a room-sized **INFO-SPHERE**. 
+Researchers stare in horror at the read-outs of their remote monitoring systems, displayed using a room-sized **INFO-SPHERE**. A hurricane rages outside. 
 
 Technician: **"Dr. Zambrano! Dr. Zambrano!"**
 
@@ -328,11 +328,13 @@ Dr. Zambrano, already looking harried, sticks their head into the room.
 
 Dr. Zambrano: **"What is it?"**
 
-Tech: **"The pH levels...do you see...!"**
+Tech: **"The pH levels at the ocean's surface...do you see...because of the rain!!"**
 
-Dr.Zambrano: **"Dios mío...how can it fall so fast??"**
+Dr.Zambrano: **"Dios mío...we've slipped down to 8.0..."**
 
 *Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/).*
+
+### Page 3
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
@@ -344,7 +346,7 @@ Dr. Fischmann: **"These videos are from 15 years ago, when intensely hot global 
 
 *note: [biggest usage of coal right now is currently for fuel, only 20% is for electricity](https://www.theguardian.com/environment/2016/mar/10/dangerous-global-warming-will-happen-sooner-than-thought-study)- did the world switch to renewables in time?*
 
-### Page 3
+### Page 4
 
 The videos switch to another view of the same glacier, but a slightly different coastline. The glacier isn't melting, and instead, enormous, thick chunks of [drift ice](https://en.wikipedia.org/wiki/Drift_ice) clog up the sea like a traffic jam. 
 
@@ -352,27 +354,23 @@ Dr. Fischmann: **"This is the current view of the Greenland, from remote sensor 
 
 Dr. Fischmann: **"The fresh water freezes more readily than salty sea water, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is extending the West Ice so far south that it may block major ocean currents that run through the Denmark Strait, causing the reduction in electricity generated by the UN's sea turbines."**
 
-Dr. Fischmann: **"[If the ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), average annual temperatures in North America and Europe will plummet and potentially freeze the UK and northern Europe."**
-
-Gov official: **"Can we clear the pack ice?"**
-
-Dr.Fischmann: **"Even if we do, if the Greenland Ice Sheet is slow-melting, the ice will just keep coming back."** *Is this true? NEED TO FACT CHECK.*
+Dr. Fischmann: **"[If the ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), the UK and northern Europe may *freeze*."**
 
 *(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
 
-### Page 4
+### Page 5
 
 **"São Paulo, Brazil"**
 
-The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in acidic ocean water, highly dosed with nitric acid. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
+The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in polluted, acidic ocean water. Rain, highly dosed with nitric acid, pours from the sky. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-Majhee: *"2 months ago, when NO2 (nitrogen dioxide) levels in São Paulo were declared 20 times above the World Health Organisation's most recent recommended thresholds for outdoor air quality, Felix and his family moved back to Sweden..."*
+Majhee: *"2 months ago, when an epidemic of [nitrogen dioxide poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	 landed half of the city in hospitals and on oxygen tanks, Felix and his family moved back to Sweden..."*
 
-Majhee: *"1 month ago, when the ocean started to give you mild chemical burns if you swam for too long, Breno moved with his mother back to her hometown, just north of Brasilia..."*
+Majhee: *"1 month ago, when all the supermarkets started opening just once a week instead of every day, Breno moved with his mother back to her hometown, just north of Brasilia..."*
 
 Majhee: *"11 days ago, hours after we celebrated the birth of Nimh, our first live birth of a mouse spliced with raw eSyrup, Iara was found on a rooftop in Centro, seemingly shot through the skull, but the bullet was never found..."*
 
-### Page 5
+### Page 6
 
 Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab meeting, last we saw them - now they are frantically packing lab equipment and eSyrup cultures, and copying research notes then deleting/shredding/destroying them. Off to one side is an unfamiliar older man and a teenaged boy keeping two very young children out of the fray. The teenaged boy looks related to Nova. The two young children look related to the unfamiliar older man and Beatriz, one looking about 6 and the other looking about 3. The little one has short hair, tied into a puffy short ponytail at the very top of her head; the older one has long straight hair that just brushes his shoulders; they both stare at the frantic activity with wide eyes. 
 
@@ -390,25 +388,25 @@ Majhee: **"What range?"**
 
 Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do(cite)!!"**
 
-### Page 6
+### Page 7
 
 Majhee places a hand on Vec's shoulder to calm him. 
 
 Majhee: **"How big of a leak? Can we patch it?"**
 
-Vec: **"It's thin but *long*, almost the whole length of the connection. Nova wants to try, Kai and Beatriz think it will take too long, and won't buy us much time anyway."**
+Vec: **"It's thin but *long*, almost the whole length of the connection. Nova wants to try, but Kai and Beatriz think it will take too long, and won't buy us much time anyway."**
 
 Vec looks emotionally wrecked. 
 
 Vec: **"I will help Nova, if you think it's a good idea."**
 
-Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy water are screaming and bleeding. After a long silence, Majhee speaks softly.
+Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through nitric acid rain and flood(cite)?"**
+Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through acid rain and flood(cite)?"**
 
-Majhee: **"Give her 20 microliters of NaP(Sodium Pentobarbital, cite), and send all of our data to Sweden. Felix will have more time to experiment."**
+Majhee: **"Give her 20 microliters of Sodium Pentobarbital(cite), and send all of our data to Sweden. Felix will have more time to experiment."**
 
-### Page 7
+### Page 8
 
 Majhee turns back to the rest of the room and greets the older man with a hug and a kiss on the cheek. He gives Majhee a tired smile. 
 
@@ -424,11 +422,11 @@ Amana looks terrified, and nearly crying from the effort of keeping his cool in 
 
 Amana: **"Dr. Suh, where are we going?"**
 
-### Page 8
+### Page 9
 
 Majhee squats to be eye level with the two little children, and gathers them and Amana around her. Demetrio crouches behind the two little ones and places a comforting hand on the boy's shoulder. Majhee smiles extra brightly at the little girl. 
 
-Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to a mountain with a *flat top*, like a table! *But*, on the way, the *floor* is *lava*, and the *rain* is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
+Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to a mountain with a *flat top*, like a table! *But*, on the way, the *rain* is *lava*, and the *air* is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
 
 Nicola squeels and smiles shyly, raising her arms and hiding her face in her father's knee. Nerio nods somber-faced, one hand on his father's other knee. 
 
@@ -436,15 +434,13 @@ Majhee shifts her attention to Amana.
 
 Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? You're gonna come with me to bring the wetsuits up here."**
 
-### Page 9
+### Page 10
 
-**"In the year 2067, the safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes and biogenic silica into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and transforming the surrounding ocean into a deadly sea of hydroflouric acid."**
+**"In the year 2067, the safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes and biogenic silica, heavy with silicon tetraflouride, into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and lowering the pH of an already fatally acidic ocean."**
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The poisonous cloud blinded many of the rig's crew, and the hydroflouric acid boiled anyone who fell into the ocean. The catastrophe claimed the lives of *everyone* on the harvesting rig, and for weeks, the deep-sea volcanic plumes belched unchecked into the Antarctic Convergence."**
-
-### Page 10
+**"The poisonous cloud choked and blinded most of the rig's crew, and the hydroflouric acid burned anyone who fell into the ocean. The catastrophe killed 32 people and sank the harvesting rig into the sea. For weeks, the silican tetraflouride plumes belched unchecked into the Antarctic Convergence."**
 
 **"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly large and frequent cyclones."**
 
@@ -942,7 +938,7 @@ Asoka is running, breathless.
 
 Asoka: **"Yeah, so?"**
 
-Iri: **"I just hadn't realised how much time had passed!"**
+Iri: **"I just hadn't realised how long you were in there..."**
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
 
@@ -969,6 +965,12 @@ Asoka: *"My guts don't feel completely empty yet..."*
 Asoka: **"Iri, when do you predict the temperature will hit 37.5?"**
 
 Iri: **"In about...3 hours? But..."**
+
+Zoom in on Asoka's eyes, fiercely determined. 
+
+Asoka: **"We have to get there *first*, Iri!"**
+
+### Page 4
 
 
 
@@ -1022,7 +1024,7 @@ Jina, Majhee, Amadou, and Maraba stand up and pick up the metal hoop. They hold 
 
 Maraba picks up the syringe as Jina picks up the bucket of water, leaving Majhee and Amadou to hold the hoop with Min inside steady. 
 
-Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its precies, previous location in the circle. Then Maraba positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
+Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its previous location in the circle. Then Maraba positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
 
 Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, and into her eyelids. As the subdermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. 
 
