@@ -972,7 +972,7 @@ Asoka: *"We have to get there *first*, Iri!"*
 
 **"Human body cells start to die in temperatures above 41 deg celsius, but in dry air, humans can survive much higher temperatures, such as 70 deg C, as long as we can stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
 
-It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are mostly [papaya trees](https://www.instagram.com/p/BWs7J_xBYvP/) and other [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
+It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
 In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temperature reads 38 deg celsius, while the inside temperature reads 24 deg celsius. 
 
@@ -994,9 +994,11 @@ Asoka: *"If you can find me a place to eat, sure. But I want to keep walking...I
 
 The sun is now at its zenith. The air sizzles with heat, but Asoka and Iri are now in much denser tree cover. The re-growing forest here is dominated by [slower-growing pioneer species](https://e-reports-ext.llnl.gov/pdf/366224.pdf), including medicinal trees such as [*Vismia baccifera*](https://en.wikipedia.org/wiki/Vismia_baccifera). 
 
-Iri: *"Soka, I think you're running low on power..." 
+Asoka trudges into a dense grove, clearly at the end of their strength. 
 
-On Asoka's face veil, outside temperature reads 48 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
+Iri: *"Soka, maybe you should rest a bit..." 
+
+On Asoka's face veil, outside temperature reads 48 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
 Asoka: *"Where are we now?"*
 
@@ -1014,6 +1016,8 @@ The sun is now low in the sky, light rays cutting horizontally once more through
 
 *More references for pioneer species in the rainforest and forest restoration: https://globalforestatlas.yale.edu/amazon/conservation-initiatives/forest-restoration*
 
+*More on plants native to the Amazon: http://www.pbs.org/journeyintoamazonia/plants.html*
+
 Asoka suddenly jerks awake, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look.
 
 Asoka: *"You let me sleep more than a few hours."*
@@ -1024,15 +1028,19 @@ Iri: *"Drink. I found a stream nearby."*
 
 Asoka: *"Thanks..."*
 
-Asoka carefully opens the now completely full canteen. 
+Asoka carefully opens the now completely full canteen and takes a long, grateful sip through their face veil. 
 
 ### Page 7
 
-Asoka notices the bananas. Their face veil labels the fruit and gives some metadata on its nutrients.  
+Iri: *"Also, Soka...look around you..."*
 
-Asoka: *"Wow, real food...!"*
+Asoka: *"Hmm?"*
 
-Iri: *"
+Asoka runs their eyes over the trees around them and their face veil labels them as...
+
+Asoka: *"[Papaya](https://www.instagram.com/p/BWs7J_xBYvP/)!"*
+
+*More info on papaya: https://en.wikipedia.org/wiki/Papaya*
 
 
 
