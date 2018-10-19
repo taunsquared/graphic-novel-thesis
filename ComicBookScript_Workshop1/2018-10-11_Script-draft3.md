@@ -784,7 +784,7 @@ Serena: **"They're, apparently, *re-growing* the forest. And instead of showing 
 
 ### Page 5
 
-Serena: **"They said the humans were *naked*. If an entire amphibious warship, full of pirate-minded soldiers, wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *Naked*, in the Red Zone?? Most of our best textiles can't keep you alive in the Red Zone for much longer than a day, the heat and the poison in the air...it's *crazy*..."**
+Serena: **"They said the humans were *naked*. If an entire amphibious warship, full of pirate-minded soldiers, wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *Naked*, in the Red Zone?? Most of our best textiles can't keep you alive in the Red Zone for much longer than a day, there's so much heat and poison in the air...it's *crazy*..."**
 
 Serena: **"But if it's true...imagine what powerful allies they could be...!"**
 
@@ -816,7 +816,7 @@ Eireena: **"But there *are* some undeniable advantages to having powerful techno
 
 Eireena: **"But then The Burning happened, and everyone we feared much abandoned us anyway, on a planet that *they'd* trashed."**
 
-Serena: **"Until they came back to demand food, and fuel, and whatever the hell they want...not much has changed."**
+Serena: **"Until they came back to demand food, fuel, and whatever the hell they wanted...not much has changed."**
 
 Eireena pulls back a tapestry, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures everyone inside before her. 
 
@@ -852,7 +852,7 @@ Serena: **"Everything that passes through your gut is processed by your enteric 
 
 Serena grins now. 
 
-Serena: **"Besides, the first outfit was for a little one just barely able to walk. It needed to be a diaper too! But then, think about it...it's now part of you, it uses your waste and gives you protection, a poop-powered safety bubble..."**
+Serena: **"Besides, the first outfit was for a little one just barely able to walk -- it needed to be a diaper too! It's basically a body-diaper! It uses your waste and gives you protection, a poop-powered safety bubble..."**
 
 Asoka looks horrified. Eireena hides her smile. 
 
@@ -860,7 +860,7 @@ Eireena: **"Anyways, every year since then, different members of your Council ha
 
 Eireena: **"And last year, I got a visit from my old friend, who told me about her grandchild, and showed me *your* face. Iúna told me that, even though she was supposed to be making this outfit for *any* child of Green Haven Howes, she was thinking *most* of *you*."**
 
-Asoka: **"So you knew my Avó Iúna!"**
+Asoka: **"So you knew my avó Iúna!"**
 
 Eireena smiles broadly. 
 
@@ -870,11 +870,11 @@ Eireena: **"Yes."**
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Are the...**DEATH DOGS**, and the Peacekeepers, part of why Avó was bringing you this outfit in secret?"**
+Asoka: **"Are the...**DEATH DOGS**...and the Peacekeepers...part of why avó was bringing you this outfit in secret?"**
 
 Asoka looks pained. 
 
-Asoka: **"And...if it was supposed to save the children of Green Haven Howes, how come there's only *one*??"**
+Asoka: **"And...if it was supposed to save the children of Green Haven Howes...how come there's only *one*??"**
 
 Eireena drops the smile, and Serena's face darkens. Fili has tears in his eyes, jaw clenched.
 
@@ -972,11 +972,12 @@ Asoka: **"We have to get there *first*, Iri!"**
 
 ### Page 4
 
+**"Human body cells start to die in temperatures above 41 deg celsius, but in dry air, humans can survive much higher temperatures, such as 70 deg C, as long as we can stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
+
+
 
 
 Iri: **"Yes, good! Ok, so, ummmmm, go left! There's a really low temperature area over there, maybe it's a cave!"**
-
-### Page 4
 
 
 
