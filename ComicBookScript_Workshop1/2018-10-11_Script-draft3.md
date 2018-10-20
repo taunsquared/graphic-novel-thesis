@@ -20,7 +20,7 @@
 
 [Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
 
-[Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5)
+[Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5-lilacs-out-of-the-dead-land)
 
 [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-2-rites-of-passage)
 
