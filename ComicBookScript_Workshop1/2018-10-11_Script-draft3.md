@@ -356,11 +356,17 @@ Technician: **"Dr. Zambrano! Dr. Zambrano!"**
 
 Dr. Zambrano, already looking harried, sticks their head into the room. 
 
-Dr. Zambrano: **"What is it?"**
+Dr. Zambrano: **"¿Qué es?"**
 
-Tech: **"The pH levels at the ocean's surface...do you see...because of the rain!!"**
+*translation: "What is it?"*
 
-Dr.Zambrano: **"Dios mío...we've slipped down to 7.9..."**
+Tech: **"Los niveles de pH en la superficie del océano ... debido a la lluvia!"**
+
+*translation: "The pH levels at the ocean's surface...because of the rain!!"*
+
+Dr.Zambrano: **"Dios mío...se ha deslizado a 7.9..."**
+
+*translation: "My god...it's slipped down to 7.9..."*
 
 *Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/).*
 
