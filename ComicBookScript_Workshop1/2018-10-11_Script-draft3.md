@@ -250,7 +250,7 @@ Everyone takes a moment to imagine what it might be like if Space Consortium wen
 
 Iara: **"Meu avô ligou esta manhã... ele me disse que ele foi oferecido 10 billian reais na semana passada para me convencer a relatar o nosso trabalho não publicado."**
 
-*translate: "My grandfather called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."*
+*translation: "My grandfather called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."*
 
 Felix: **"Que??"**
 
@@ -304,7 +304,7 @@ Majhee: **"Se você acha que deve sair, eu farei o que puder para ajudar você e
 
 Majhee: **"Se você ficar... Eu sempre lhe devo uma dívida de gratidão... e eu juro, vou proteger você e suas famílias de qualquer maneira que eu puder."**
 
-*translate: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."*
+*translation: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."*
 
 **"6 months later: Massachusetts, USA"**
 
@@ -564,7 +564,7 @@ Amana looks terrified, and nearly crying from the effort of keeping his cool in 
 
 Amana: **"Dr. Suh, onde estamos indo?"**
 
-*translate: "Dr. Suh, where are we going?"*
+*translation: "Dr. Suh, where are we going?"*
 
 ### Page 9
 
