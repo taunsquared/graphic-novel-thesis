@@ -486,75 +486,101 @@ Dr. Fischmann: **"It's not so simple. Our [original predictions](https://tethys.
 
 The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in polluted, acidic ocean water. Rain, highly dosed with nitric acid, pours from the sky. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-Majhee: *"2 months ago, when an epidemic of [nitrogen dioxide poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	 landed half of the city in hospitals and on oxygen tanks, Felix and his family moved back to Sweden..."*
+**"2 months ago, when an epidemic of [nitrogen dioxide poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	 landed half of the city in hospitals and on oxygen tanks, Felix moved back to Sweden to be with his dying father..."**
 
-Majhee: *"1 month ago, when all the supermarkets started opening just once a week instead of every day, Breno moved with his mother back to her hometown, just north of Brasilia..."*
+**"1 month ago, when all the supermarkets started opening just once a week instead of every day, Breno moved with his mother back to her hometown, just north of Brasilia..."**
 
-Majhee: *"11 days ago, hours after we celebrated the birth of Nimh, our first live birth of a mouse spliced with raw eSyrup, Iara was found on a rooftop in Centro, seemingly shot through the skull, but the bullet was never found..."*
+**"11 days ago, hours after celebrating the birth of Nimh, the first full mouse spliced with raw eSyrup, Iara was found on a rooftop in Centro, seemingly shot through the skull, but the bullet was never found..."**
 
 ### Page 6
 
 Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab meeting, last we saw them - now they are frantically packing lab equipment and eSyrup cultures, and copying research notes then deleting/shredding/destroying them. Off to one side is an unfamiliar older man and a teenaged boy keeping two very young children out of the fray. The teenaged boy looks related to Nova. The two young children look related to the unfamiliar older man and Beatriz, one looking about 6 and the other looking about 3. The little one has short hair, tied into a puffy short ponytail at the very top of her head; the older one has long straight hair that just brushes his shoulders; they both stare at the frantic activity with wide eyes. 
 
-Majhee: **"We need to finish packing up NOW."**
+Majhee: **"Precisamos terminar de empacotar AGORA."**
+
+*translation: "We need to finish packing up NOW."*
 
 Vec pulls aside Majhee. Vec looks incredibly troubled.  
 
-Vec: **"Majhee, what do we with Nimh??"**
+Vec: **"Majhee, o que fazemos com Nimh??"**
 
-Majhee: **"What's her condition?"**
+*translation: "Majhee, what do we with Nimh??"*
 
-Vec: **"Her esophogus and trachea. They didn't join properly, there's a leak. I don't think Sonic Hedgehog(cite) is a viable vector, too much depends on it, and the range is too small."**
+Majhee: **"Qual é a condição dela?"**
 
-Majhee: **"What range?"**
+*translation: "What's her condition?"*
 
-Vec: **"Of variation from the normal molecular structure that we can induce on it and *still* end up with a molecule that can do *everything* that Sonic Hedgehog *needs* to do(cite)!!"**
+Vec: **"Seu esofagus e traqueia. Não se juntam corretamente, há um vazamento. Eu não acho que [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) é um vetor viável, é apenas muito importante, e muito *sensível*!"**
+
+*translation: "Her esophogus and trachea. They didn't join properly, there's a leak. I don't think [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) is a viable vector, it's just too important, and too **sensitive**!"*
 
 ### Page 7
 
 Majhee places a hand on Vec's shoulder to calm him. 
 
-Majhee: **"How big of a leak? Can we patch it?"**
+Majhee: **"Que grande vazamento? Podemos remendá-lo?"**
 
-Vec: **"It's thin but *long*, almost the whole length of the connection. Nova wants to try, but Kai and Beatriz think it will take too long, and won't buy us much time anyway."**
+*translation: "How big of a leak? Can we patch it?"*
+
+Vec: **"É fino, mas *longo*, quase todo o comprimento da conexão. Nova quer tentar, mas Kai e Beatriz acho que vai demorar muito tempo, e não vai nos comprar muito tempo de qualquer maneira."**
+
+*translation: "It's thin but *long*, almost the whole length of the connection. Nova wants to try, but Kai and Beatriz think it will take too long, and won't buy us much time anyway."*
 
 Vec looks emotionally wrecked. 
 
-Vec: **"I will help Nova, if you think it's a good idea."**
+Vec: **"Eu vou ajudar a nova, se *você* acha que é uma boa idéia.
+
+*translation: "I will help Nova, if **you** think it's a good idea."*
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through acid rain and flood(cite)?"**
+Majhee: **"Não há mais tempo sobrando para comprar. Mesmo que consertemos o vazamento, como vamos transportar um rato transgênico morrendo através de chuva ácida e inundação?(citation?)"**
 
-Majhee: **"Give her 20 microliters of Sodium Pentobarbital(cite), and send all of our data to Sweden. Felix will have more time to experiment."**
+*translation: "There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through acid rain and flood?(citation?)"*
+
+Majhee: **"Dê a ela 20 microlitros de [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), e enviar todos os nossos dados para a Suécia. Felix terá mais tempo para experimentar."**
+
+*translation: "Give her 20 microliters of [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), and send all of our data to Sweden. Felix will have more time to experiment."*
 
 ### Page 8
 
 Majhee turns back to the rest of the room and greets the older man with a hug and a kiss on the cheek. He gives Majhee a tired smile. 
 
-Majhee: **"Glad you're here, Demetrio, how are you?"**
+Majhee: **"Que bom que está aqui, Demetrio, como está?"**
 
-Demetrio: **"As well as one can be, given the situation."**
+*translation: "Glad you're here, Demetrio, how are you?"*
+
+Demetrio: **"Assim como um pode ser, dada a situação."**
+
+*translation: "As well as one can be, given the situation."*
 
 Majhee hugs the teenaged boy. 
 
-Majhee: **"And Amana, are you alright?"**
+Majhee: **"E Amana, todo bem?"**
+
+*translation: "And Amana, you alright?"*
 
 Amana looks terrified, and nearly crying from the effort of keeping his cool in front of the smaller children. 
 
-Amana: **"Dr. Suh, where are we going?"**
+Amana: **"Dr. Suh, onde estamos indo?"**
+
+*translate: "Dr. Suh, where are we going?"*
 
 ### Page 9
 
 Majhee squats to be eye level with the two little children, and gathers them and Amana around her. Demetrio crouches behind the two little ones and places a comforting hand on the boy's shoulder. Majhee smiles extra brightly at the little girl. 
 
-Majhee: **"Right! Nicola, Nerio, we are going walk *very far*, to a mountain with a *flat top*, like a table! *But*, on the way, the *rain* is *lava*, and the *air* is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
+Majhee: **"Então! Nicola, Nerio, vamos caminhar *muito longe*, para uma montanha com um *parte superior lisa*, como uma mesa! *Mas*, no caminho, a *chuva* é *lava*, eo *ar* é lava, por isso precisamos manter a lava *fora* de nossas peles, *não importa o que*. Me entende?"**
+
+*translation: "So! Nicola, Nerio, we are going walk *very far*, to a mountain with a *flat top*, like a table! *But*, on the way, the *rain* is *lava*, and the *air* is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
 
 Nicola squeels and smiles shyly, raising her arms and hiding her face in her father's knee. Nerio nods somber-faced, one hand on his father's other knee. 
 
 Majhee shifts her attention to Amana. 
 
-Majhee: **"Do you remember our last lab retreat, when we all went SCUBA diving? You're gonna come with me to bring the wetsuits up here."**
+Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos mergulhar? Você vai vir comigo para trazer as roupas de mergulho aqui."**
+
+*translation: "Do you remember our last lab retreat, when we all went SCUBA diving? You're gonna come with me to bring the wetsuits up here."*
 
 ### Page 10
 
