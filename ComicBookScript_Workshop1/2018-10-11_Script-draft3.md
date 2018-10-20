@@ -36,23 +36,23 @@
 
 ### Page 1
 
-"A long time ago..."
+**"A long time ago..."**
 
-"before the Orbiters lived in the sky,"
+**"before the Orbiters lived in the sky,"**
 
-"before we hid underground to survive The Burning,"
+**"before we hid underground to survive The Burning,"**
 
-"we all lived together, on the Earth's surface."
+**"we all lived together, on the Earth's surface."**
 
-"We could all breathe the air,"
+**"We could all breathe the air,"**
 
-"drink the water,"
+**"drink the water,"**
 
-"feel the sun."
+**"feel the sun."**
 
-"We were all... 
+**"We were all..."**
 
-"FREE."
+**"FREE."**
 
 ## Chapter 1: Calm Before the Storm
 
