@@ -1194,7 +1194,7 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 
 **"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
 
-**"The eSyrup 'infects' these cells, hijacking the existing cellular machinery to modify these cells membranes and grant the person a 'subdermal shield'."**
+**"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'subdermal shield'."**
 
 ### Page 2
 
