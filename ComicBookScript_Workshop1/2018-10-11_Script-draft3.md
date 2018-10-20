@@ -952,9 +952,9 @@ Under this narration, we see Asoka and Iri, shimmering with invisibility, lookin
 
 Asoka: *"Ok Iri, how many hours until sunrise?"*
 
-Iri: *"Probably only 4...it took us too long to get off the ship!"*
+Iri: *"Probably only 4...I wish we'd had a chance to grab more food..."*
 
-Asoka: *"It's alright, we'll manage! So we run for 3 hours and then start looking for someplace to hide from the sun."*
+Asoka: *"We're just gonna have to manage. So! I say we run for at least 3 hours before looking for someplace to hide from the sun."*
 
 Iri: *"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days--"*
 
@@ -966,7 +966,7 @@ Iri: *"So you might be out of shape!"*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
 
-In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 33 deg celsius, while the temp inside Asoka's clothes is 23. 
+In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36 deg celsius, while the temp inside Asoka's clothes is 23. 
 
 ### Page 3
 
@@ -978,7 +978,7 @@ Iri brings up the map they image-captured from the bridge of **WARSHIP**.
 
 Iri: *"Ummmmm...there!"*
 
-A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric is damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 23. 
+A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric gets damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 23. 
 
 Asoka: *"Seriously?? That's it??"*
 
@@ -996,7 +996,7 @@ Asoka: *"We have to get there *first*, Iri!"*
 
 ### Page 4
 
-**"Human body cells start to die when body temperatures go above 41 deg celsius, but externally, humans can survive much higher temperatures, even up to 70 deg C, as long as we can stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
+**"Human body cells start to die when body temperatures go above 41 deg celsius, but externally, humans can survive much higher temperatures, even up to 70 deg C, as long as the air is dry and our insides stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
 
 It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
@@ -1080,7 +1080,7 @@ Asoka: **"Mmmmmm!!!"**
 
 Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. The outside temperature has now dropped to 35 deg celsius, and the temperature inside Asoka's suit is back to 23 deg C. 
 
-Asoka claps their hands and wipes their mouth, rapidly focusing on the cooling night. They put on their face veil and see a view of the world that showed the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. 
+Asoka claps their hands and wipes their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. 
 
 Asoka: *"All right, Iri! Let's do this."*
 
@@ -1088,22 +1088,89 @@ Asoka crouches, ready to run. They are caught completely unawares by a blurry fi
 
 The figure squeals with terror. 
 
-Figure: **"Aaauuuuuuggh, I hit something!!!"**
+Figure: **"Aaauuuuuuggh, está realmente lá!!!"**
+
+*translation: "Aaauuuuuuggh, it's really there!!!"*
 
 ### Page 9
 
+Asoka's entire head scarf and veil have been kicked off entirely, and Asoka is frantically trying to put their head gear back on while hiding their face behind their arms and hair. Iri jumps up onto Asoka to cover their face with its body, becoming visible and puffing itself up as big as it can go, glowing an eery, ghostly white. Iri's belly, smashed up against Asoka's face, displays what Iri sees so that Asoka isn't left blind. 
 
+The figure facing Asoka and Iri is small, dark-skinned, and dressed only in loose, flowing trousers that cinch at the knees and have large open slits down the sides. They crouch in battle-ready pose, menacing Iri with what looks like a short, broad spike of metal curved wickedly at its jagged end. Their eyes are tightly shut, yet they seem to know exactly where Iri seemingly floated above the forest floor. They are sweating and trembling with terror. 
 
+Figure: **"Espírito maligno, fique longe de meus mamões!!"**
 
+*translation: "Evil spirit, stay away from my papaya trees!!"*
 
+Iri: *"They think we're an evil spirit?!"*
 
-Asoka is so grateful to be alive that they are completely caught unawares by Min, who doesn't recognise the Biononymous clothing and thinks that a ghost or evil spirit is raiding her garden. Min engages the stranger in combat, and knocks off Asoka's head veil. After realising that the evil spirit is actually a human, Min listens to Asoka as Asoka tells Min about the World Gov Peacekeepers. After Asoka has recovered enough to venture back out into the heat, Asoka shows Min the Peacekeepers as they noisily set up base camp and plow through the forest with no regard for the flora and fauna they are destroying. Furious, Min agrees to present Asoka to the Elders of her clan, the Automata. 
+Asoka: **"I'm not a spirit, I'm a human!"** 
+
+Asoka holds up their invisible hands in surrender, completely forgetting their camouflage.
+
+Iri: *"Not English, they were speaking Portuguese!"*
+
+The small dark figure rushes at Iri with a blood-curdling yell.
+
+### Page 10
+
+Asoka tries to dodge the dark figure's rush towards them as Iri hardens its arms to parry the metal spike, thrust at it by the dark figure. Undaunted, the dark figure twists their body to deliver an [escorpião kick](https://en.wikipedia.org/wiki/List_of_capoeira_techniques#/media/File:Capoeira_Scorpion_kick.gif) and knocks Iri off of Asoka's face. Iri goes flying into a tree trunk and crumples at its base. Asoka completely forgets to hide their face and runs over to check on Iri. 
+
+Asoka: **"Iri!!!"**
+
+The dark figure now has an unobstructed view of Asoka's head, seemingly floating without any body attached to it. They *freak* out. 
+
+Figure: **"Aaaaaaaahhhh!!"**
+
+Iri is dazed but alright. They shakily climb up Asoka's arm onto their shoulders and places two arms over Asoka's ears. 
+
+Iri: *"You need...Portuguese!"*
+
+Asoka turns off their camou and now, finally fully visible, turns to the dark figure and puts both hands up in a gesture pleading for mercy. 
+
+Asoka: **"Please! Eu sou humano! Eu sou humano!!"**
+
+*translation: "I'm human! I'm human!!"*
+
+The dark figure, eyes still tightly closed, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
+
+Figure: **"O que você quer?!"**
+
+*translation: "What do you want?!"*
+
+### Page 11
+
+Asoka: **"Por favor, há um exército chegando! Eles querem roubar de você e fazer seus escravos!"**
+
+*translation: "Please, there is an army coming! They want to steal from you and make your their slaves!"*
+
+Figure: **"Mentiroso!!"**
+
+*translation: "Liar!!"*
+
+Asoka: **"No! Por favor--"**
+
+Suddenly Asoka notices the ground rumbling gently. 
+
+Figure: **"O que é isso?"**
+
+*translation: "What is it?"*
+
+The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
+
+Figure: **"Merda--!!"**
+
+*translation: "Shit--!!"*
+
+### Page 12
+
+Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
 ## Dream 2: Rites of Passage
 
 ### Page 1
 
-Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
+Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
 
 Drum beats keep everyone synchronised.
 
