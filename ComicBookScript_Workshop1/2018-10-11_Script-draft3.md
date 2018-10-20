@@ -1425,7 +1425,7 @@ Maraba: **"Why are you so determined to demonize this child? Min saw the soldier
 
 ### Page 4
 
-Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your daughter. All I'm saying is, we are not yet informed enough to make an un-coerced decision!"**
+Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your best friend. All I'm saying is, we are not yet informed enough to make an un-coerced decision!"**
 
 Maraba: **"Are you volunteering to handle a diplomatic encounter with the Orbiters? I wouldn't vote for you anyway, I'm sure you'd run away at the first sign of trouble."**
 
