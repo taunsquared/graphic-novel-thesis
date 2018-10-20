@@ -1058,7 +1058,7 @@ Asoka pulls the fabric back across their face, and sees the world through Iri's 
 
 Asoka: **"So. That's where we're going."**
 
-## Chapter 5
+## Chapter 5: Lilacs Out Of The Dead Land
 
 Character designs: Asoka Morei, Iri, Minka Oosou
 
