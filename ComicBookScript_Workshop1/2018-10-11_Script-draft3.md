@@ -1223,27 +1223,39 @@ Min's cousin pulls out the syringe and places it back on the basket. Then Jina, 
 
 Min's body convulses as her inner circle sets her upright in the very center again. 
 
-The crowd chants **"Be Free! Be FREE! BE FREE!"** as Min finishes integrating the subdermal shield. 
+The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the subdermal shield. 
+
+*translation: "Be free! Be FREE! BE FREE!"*
 
 ### Page 4
 
 After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
-Majhee: **"Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"**
+Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
+
+*translation: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
 
 View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
 
-Majhee's eyes, proud, confident, expectant: **"WHAT DOES IT MEAN TO BE FREE?"**
+Majhee's eyes, proud, confident, expectant: **"O QUE SIGNIFICA SER LIVRE?"**
+
+*translation: "WHAT DOES IT MEAN TO BE FREE?"*
 
 Min closes her eyes, tries to calm her breathing, and struggles to stand. 
 
-Min: **"To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."**
+Min: **"Beber sem sangrar, respirar sem engasgar, ver o céu e saudar o dia em minha própria pele..."**
 
-Min: **"...and to MOVE in any direction with curiosity and grace..."**
+*translation: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."*
+
+Min: **"...e MOVER em qualquer direção com curiosidade e graça..."**
+
+*translation: "...and to MOVE in any direction with curiosity and grace..."*
 
 Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
 
-Min: **"...even OFF THE PLANET!"**
+Min: **"...mesmo FORA DO PLANETA!"**
+
+*translation: "...even OFF THE PLANET!"*
 
 ## Chapter 6
 
