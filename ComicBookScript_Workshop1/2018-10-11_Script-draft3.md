@@ -96,15 +96,23 @@ The front of the research facility is teeming with protesters, who hold signs an
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. We see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-Receptionist: **"Dr. Suh! How bad is it out there?"**
+Receptionist: **"Dr. Suh! Quão ruim é isso lá fora?"**
+
+*translation: "Dr. Suh! How bad is it out there?"**
 
 Majhee takes off her hood and googles and we see her face - pretty and youthful for her 37 years, if it weren't for the lines of worry and grim determination on her face. She shakes out her hair, cropped short in a bowl pixie cut. Clearly burdened with many troubles, she begins taking off her eSyrup hazmat suit.  
 
-Majhee: **"Still crowded."**
+Majhee: **"Ainda lotado."**
 
-Receptionist: **"Idiots. Don't they understand we're trying to help?"**
+*translation: "Still crowded."*
 
-Majhee: **"Well, they're hungry. Can't think when you're hungry."**
+Receptionist: **"Idiotas. Eles não entendem que estamos tentando ajudar?"**
+
+*translation: "Idiots. Don't they understand we're trying to help?"*
+
+Majhee: **"Bem, eles estão com fome. Não consigo pensar quando você está com fome."**
+
+*translation: "Well, they're hungry. Can't think when you're hungry."*
 
 Majhee removes her boots and steps into the decontamination chamber.
 
@@ -112,115 +120,191 @@ Majhee removes her boots and steps into the decontamination chamber.
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
-Off panel: **"Majhee, you can't *scoop* the *Space Consortium*..."**
+Off panel: **"Majhee, você não pode *colher* o *Space Consortium*..."**
 
-Majhee: **"For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"**
+*translation: "Majhee, you can't *scoop* the *Space Consortium*..."*
+
+Majhee: **"Pela última vez, Márcia, não é escavar se estou fazendo tudo livremente acessível!"**
+
+*translation: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"*
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
 
-Marcia: **"You know what I mean. They are *determined* to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech *unpatentable*."**
+Marcia: **"Você sabe o que eu quero dizer. Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e quando você publica os desenvolvimentos do seu laboratório online sob uma licença Creative Commons, você torna essa aplicação da eSyrup tech *não patenteável*."**
 
-Majhee: **"Exactly."**
+*translation: "You know what I mean. They are **determined** to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech **unpatentable**."*
 
-Marcia: **"But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"**
+Majhee: **"Exactamente."**
+
+*translation: "Exactly."*
+
+Marcia: **"Mas você viu o que eles fizeram depois da nossa colaboração para desenvolver o combustível eSyrup! Este instituto não pode permitir outra rodada de ações legais como essa!"**
+
+*translation: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"*
 
 ### Page 4
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
-Majhee: **"*You* pushed that collaboration through, against my numerous objections!"** 
+Majhee: **"*Você* empurrou essa colaboração, contra minhas inúmeras objeções!"**
+
+*translation: "**You** pushed that collaboration through, against my numerous objections!"* 
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger
 
-Marcia: **"I know, I *know*, that was definitely my mistake, and I'm *sorry*."**
+Marcia: **"Eu sei, eu *sei*, isso foi definitivamente meu erro, e eu sinto *muito*."**
 
-Majhee interrupts: **"And stop talking like you actually *believe* in propriatary health research! How is it possible that *anyone* can still hold such *archaic* views?"**
+*translation: "I know, I **know**, that was definitely my mistake, and I'm **sorry**."*
 
-Marcia, defeated: **"*sigh*. Just...be careful."** 
+Majhee interrupts: **"E pare de falar como você *realmente* acredita em pesquisas de saúde proprietárias! Como é possível que *alguém* ainda possa ter essas visões *arcaicas*?"**
 
-Marcia looks over her shoulder, then turns back to Majhee.
+*translation: "And stop talking like you **actually** believe in propriatary health research! How is it possible that **anyone** can still hold such **archaic** views?"*
 
-Marcia, low and careful: **"There are rumors that the Space Consortium is trying to *weaponize* eSyrup. I know I sound like a conspiracy theorist, but..."**
+Marcia, defeated: **"*Sigh*. Só...tenha cuidado."**
 
-Majhee, incredulous: **"They wouldn't dare--"**
+*translation: "**Sigh**. Just...be careful."*
+
+Marcia glances over her shoulder, then leans in to Majhee.
+
+Marcia, low and careful: **"Há rumores que Space Consortium estão tentando *armar* eSyrup. Eu sei, eu soar como um teórico da conspiração, mas..."**
+
+*translation: "There are rumors that Space Consortium is trying to **weaponize** eSyrup. I know I sound like a conspiracy theorist, but..."*
+
+Majhee, incredulous: **"Eles não ousariam--"**
+
+*translation: "They wouldn't dare--"*
 
 Felix, a scientist in Majhee's lab, appears at the doorway, breathless and distraught.
 
-Felix: **"Majhee, my father-- President Netto!"**
+Felix: **"Majhee, meu pai-- Presidente Netto!"**
 
-Majhee: **"I'm sorry Marcia, we'll have to continue this another time."**
+*translation: "Majhee, my father-- President Netto!"*
+
+Majhee: **"Sinto muito, Marcia, vamos ter que continuar isso outra hora."**
+
+*translation: "I'm sorry Marcia, we'll have to continue this another time."*
 
 ### Page 5
 
 Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 
-Majhee: **"So. Your father has been diagnosed again."**
+Majhee: **"Entou. Seu pai foi diagnosticada otra vez."**
+
+*translation: "So. Your father has been diagnosed again."*
 
 The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an old Brazilian martial arts family but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
-Vec, to Felix: **"Beatriz and I have already contacted your father's medical team in Sweden, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."**
+Vec, to Felix: **"Já contactamos equipe médica de seu pai em Suécia, e demos-lhes acesso ao nosso banco de dados sobre pacientes com câncer de cutânea repetido. Isso melhorará consideravelmente dele chances de recuperação, mas..."**
 
-Beatriz, kindly: **"We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."**
+*translation: "We've already contacted your father's medical team in Sweden, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."*
 
-Felix now looks up, straight at Majhee, eyes full of furious determination.
+Beatriz, kindly: **"Tamben lembramos que seu pai teve um transplante de fígado. Se queres ir casa para estar com sua família, todo mundo vai entender."**
 
-Felix: **"There's nothing I can do there anyway...besides, we need to finish the biofilm project! *Before* Space Consortium can get their filthy hands on another patent!"**
+*translation: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."*
+
+Felix: **"Não há nada que eu possa fazer lá de qualquer maneira..."**
+
+*translation: "There's nothing I can do there anyway..."*
+
+Felix now looks up, straight at Majhee, eyes furious, red, and glistening with held-back tears.
+
+Felix: **"E precisamos terminar projecto biofilme! *Antes* Space Consortium patenteiam qualquer outra coisa!"**
+
+*translation: "And we **need** to finish the biofilm project! **Before** Space Consortium patent anything else!"*
 
 Felix covers his face with his hands, furious at the tears that have started to stream down his face.
 
-Beatriz: **"I'm sure we could manage--"**
+Beatriz: **"Tenho a *certeza* podemos gerenciar--"**
+
+*translation: "I'm **sure** we can manage--"*
 
 Kai, arms folded, looking down at her lap with hard eyes.
 
-Kai: **"We can't finish this project in time without Felix. We all know splicing's more art than algorithm, and ever since my hands starting hurting too much, Felix is our *best*."**
+Kai: **"Não podemos terminar este projecto a tempo sem o Felix. Nós todos sabemos emenda é mais arte do que o algoritmo, e desde que minhas mãos começando a doer muito, Felix é o nosso *melhor*."**
+
+*translation: "We can't finish this project in time without Felix. We all know splicing's more art than algorithm, and ever since my hands starting hurting too much, Felix is our **best**."*
 
 Kai's brow furrows with frustration. 
 
-Kai: **"Although...our best may not be enough...Space Consortium announced a few days ago their eSyrup-spliced [halobacterium solar cell](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08), and thus, just patented all eSyrup-based solar cells. Also, this morning I got *this*."** 
+Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou há alguns dias a sua eSyrup-emendado [halobacterium célula solar](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08), e assim, apenas patenteou todas as células solares baseadas em eSyrup. Além disso, esta manhã eu tenho *isso*."**
+
+*translation: "Although...our best may not be enough...Space Consortium announced a few days ago their eSyrup-spliced [halobacterium solar cell](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08), and thus, just patented all eSyrup-based solar cells. Also, this morning I got **this**."*
 
 Kai passes up a small card to Majhee. Majhee reads from it.
 
-Majhee: **"'You've been slapped on the wrists. Don't make us go for your throat.'"**
+Majhee: **"Você foi esbofeteado nos pulsos. Não nos faças ir para a tua garganta."**
 
-Nova, looking terrified: **"What's that supposed to mean??"**
+*translation: "You've been slapped on the wrists. Don't make us go for your throat."*
 
-Kai: **"Space Consortium's telling us to stop competing with them. Suing us for exclusive patents on eSyrup fuel was the slap on the wrists."**
+Nova, looking terrified: **"O que isso quer dizer?"**
+
+*translation: "What's that supposed to mean??"*
+
+Kai: **"Space Consortium estão nos dizendo para parar de competir com eles. Processar-nos por patentes exclusivas no eSyrup foi o tapa nos pulsos."**
+
+*translation: "Space Consortium's telling us to stop competing with them. Suing us for exclusive patents on eSyrup fuel was the slap on the wrists."*
 
 ### Page 6
 
 Everyone takes a moment to imagine what it might be like if Space Consortium went for their throats. 
 
-Iara: **"My grandfather called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."**
+Iara: **"Meu avô ligou esta manhã... ele me disse que ele foi oferecido 10 billian reais na semana passada para me convencer a relatar o nosso trabalho não publicado."**
 
-Felix: **"What??"**
+*translate: "My grandfather called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."*
 
-Iara: **"Apparently that wasn't the first time either...he got a similar offer last year as well, but he thought it wasn't worth mentioning because he knew I wouldn't go for it."**
+Felix: **"Que??"**
 
-Nova, aghast: **"10 billion reais...that's more than the institute's endowment..."** 
+*translation: "What??"*
 
-Breno: **"It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium can manage to patent living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."**
+Iara: **"Aparentemente, não foi a primeira vez que ele tem uma oferta semelhante no ano passado, bem, mas ele pensou que não valia a pena mencionar porque ele sabia que eu não iria para ele."**
+
+*translation: "Apparently that wasn't the first time either...he got a similar offer last year as well, but he thought it wasn't worth mentioning because he knew I wouldn't go for it."*
+
+Nova, aghast: **"10.000.000.000 reais... isso é mais do que a *investidura do Instituto*..."**
+
+*translation: "10 billion reais...that's more than the **institute's endowment**..."*
+
+Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o primeiro passo para a emenda de eSyrup com células humanas, e se o consórcio Space puder conseguir patentear emendas vivas, eles terão o monopólio de todas as futuras aplicações clínicas e médicas da eSyrup."**
+
+*translation: "It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium can manage to patent living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."*
 
 We see Breno's moody, cynical eyes. 
 
-Breno: **"But I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."**
+Breno: **"Mas tenho certeza que 10.000.000.000 não é nada para um bebê de fundo de confiança como você, Iara..."**
 
-Felix: **"Come on Breno! You know *none* of us would sell-out to Space Consortium!"**
+*translation: "But I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."*
 
-Breno, smiles ruefully, eyes pitying: **"Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"**
+Felix: **"Vamos, Breno! Você sabe que *nenhum* de nós venderia para Space Consortium."**
 
-Felix: **"Well then good thing Majhee is paying the doctors' bribes for your mother, yeah?! If Iara is privileged, then so are you!"**
+*translation: "Come on Breno! You know *none* of us would sell-out to Space Consortium!"**
+
+Breno, smiles ruefully, eyes pitying: **"Verdadeiramente? Esse tipo de dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia. O que te faz pensar que eu não desisti de uma tentação como essa?"**
+
+*translation: "Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"*
+
+Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, sim?! Se Iara é privilegiada, então você também é!"**
+
+*translation: "So then good thing Majhee is paying the doctors' bribes for your mother, yeah?! If Iara is privileged, then so are you!"*
 
 We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear.
 
 ### Page 7 
 
-Majhee: **"I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."**
+Majhee: **"Eu não posso... *pedir* qualquer pessoa para ficar. Todos nós sabemos os riscos que vêm com o trabalho neste projeto, com o trabalho nesta cidade agora. Todos temos família para proteger."**
 
-Majhee: **"But...*personally*...I can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."**
+*translation: "I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."*
 
-Majhee: **"If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."**
+Majhee: **"Mas...*pessoalmente*...não posso desistir agora. Se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
 
-Majhee: **"If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."**
+*translation: "But...*personally*...I can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
+
+Majhee: **"Se você acha que deve sair, eu farei o que puder para ajudar você e sua família a saírem desta cidade, e fora do radar do Space Consortium."**
+
+*translation: "If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."*
+
+Majhee: **"Se você ficar... Eu sempre lhe devo uma dívida de gratidão... e eu juro, vou proteger você e suas famílias de qualquer maneira que eu puder."**
+
+*translate: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."*
 
 **"6 months later: Massachusetts, USA"**
 
