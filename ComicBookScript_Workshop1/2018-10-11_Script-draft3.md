@@ -1239,7 +1239,7 @@ Min: **"...even OFF THE PLANET!"**
 
 ## Chapter 6
 
-Character designs: Asoka Morei, Iri, Majhee Suh, Nicola Cavalcanti, Nova Jatobá, Jina Suh Barbosa, Amadou Touré 
+Character designs: Asoka Morei, Iri, Majhee Suh, Nicola Cavalcanti, Nova Jatobá, Jina Suh Barbosa
 
 ### Page 1
 
@@ -1249,13 +1249,13 @@ Nova: **"Entou...'WORLD GOV Pacificadores'...um nome mais irônico..."**
 
 Asoka and Iri kneel before a large semi-circle of Automata Elders. Nova Jatobá, currently serving as head of the Council of Elders, sits directly in front of Asoka and Iri. Nova is now in her 70s, still plump but now strengthened by decades of living in the rainforest. Her eyes, the faintest of crow's feet at their edges, stare thoughtfully and fearlessly at Asoka and Iri. 
 
-Behind Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. 
+Behind Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. We see Majhee Suh, soon to be in her 90s -- she is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and her sharp mind still pierces the world through clear eyes. We also see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s. 
 
 Asoka tells the Elders of the Automata everything that the Biononymous know about the **WORLD GOV** and present the Biononymous' offer for alliance. The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **DEATH DOGS**. Eireena shares her belief that the **DEATH DOGS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
 ## Chapter 7: How we evolve
 
-Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa, Amadou Touré
+Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa
 
 Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
 
