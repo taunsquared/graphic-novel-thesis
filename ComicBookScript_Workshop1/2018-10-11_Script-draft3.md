@@ -1277,9 +1277,9 @@ Asoka and Iri kneel before a large semi-circle of Automata Elders. Nova Jatobá,
 
 Behind Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. We see Majhee Suh, soon to be in her 90s -- she is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and her sharp mind still pierces the world through clear eyes. We also see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s. 
 
-Majhee: **"Nova, fomos fluentes em inglês uma vez...vamos falar na língua nativa deste pequenino, e deixar o Conselho usar nossos ouvidos babelfish."**
+Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little one's native tongue, and let the Council use our babelfish ears."**
 
-*translation: "Nova, we were fluent in english once...let's speak in this little one's native tongue, and let the Council use our babelfish ears."*
+*translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e deixar o Conselho usar nossos ouvidos babelfish."*
 
 ### Page 2
 
