@@ -534,7 +534,7 @@ Vec: **"Eu vou ajudar a nova, se *você* acha que é uma boa idéia.
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"Não há mais tempo sobrando para comprar. Mesmo que consertemos o vazamento, como vamos transportar um rato transgênico morrendo através de chuva ácida e inundação?(citation?)"**
+Majhee: **"Não há mais tempo sobrando para comprar. Mesmo que consertemos o vazamento, como vamos transportar um rato transgênico morrendo através de chuva e inundação de ácida?(citation?)"**
 
 *translation: "There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through acid rain and flood?(citation?)"*
 
