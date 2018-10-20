@@ -1387,19 +1387,31 @@ Asoka and Iri kneel before a large semi-circle of Automata Elders. Nova Jatobá,
 
 Behind Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. We see Majhee Suh, soon to be in her 90s -- she is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and her sharp mind still pierces the world through clear eyes. We also see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s. 
 
-Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little one's native tongue, and let the Council use our babelfish ears."**
+Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little one's native tongue, and let the Council use our [babelfish](https://en.wikipedia.org/wiki/Babel_fish)."**
 
-*translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e deixar o Conselho usar nossos ouvidos babelfish."*
+*translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e deixar o Conselho usar nossos [babelfish](https://en.wikipedia.org/wiki/Babel_fish)."*
 
 ### Page 2
 
 Nova: **"Very well."**
 
+Majhee: **"Well, this is *exciting*!"**
 
+Another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), shoots Majhee an annoyed look: **"Don't tell me you want to accept the alliance!"**
 
-Asoka tells the Elders of the Automata everything that the Biononymous know about the **WORLD GOV** and present the Biononymous' offer for alliance. The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **DEATH DOGS**. Eireena shares her belief that the **DEATH DOGS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
+The elder turns a scornful eye onto Asoka. 
 
-## Chapter 7: How we evolve
+Elder: **"We have no way to check the facts of the story we were just told."**
+
+Majhee: **"Oh, don't be so heartless, Osiel. No matter the story, we have a human child, lost and without a family. Let us at least give the benefit of the doubt."**
+
+Nova: **"I'd like to hear the thoughts of our newest Elder first. Terena?"**
+
+### Page 3
+
+The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **DEATH DOGS**. Eireena shares her belief that the **DEATH DOGS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
+
+## Chapter 7: Mistakes Are How We Evolve
 
 Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa
 
