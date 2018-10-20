@@ -1188,7 +1188,7 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 
 ### Page 2
 
-3 panels show close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
+We see close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
 
 * Jina, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield is visible in shadowy patterns under her clan tatoos. Next to her is a tall bucket holding ritual clensing water.  
 * Amadou, no subdermal shield and just a few clan tatoos, but dressed spledidly and unspeakably proud of his daughter.   
@@ -1209,13 +1209,29 @@ Jina pours the bucket of water slowly over Min until Min is drenched, then retur
 
 Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, and into her eyelids. As the subdermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. 
 
-### Page 4
-
 Min's body convulses as her inner circle sets her upright in the very center again. 
 
 The crowd chants **"Be Free! Be FREE! BE FREE!"** as Min finishes integrating the subdermal shield. 
 
+### Page 4
+
 After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
+
+Majhee: **"Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"**
+
+View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
+
+Majhee's eyes, proud, confident, expectant: **"WHAT DOES IT MEAN TO BE FREE?"**
+
+Min closes her eyes, tries to calm her breathing, and struggles to stand. 
+
+Min: **"To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."**
+
+Min: **"...and to MOVE in any direction with curiosity and grace..."**
+
+Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
+
+Min: **"...even OFF THE PLANET!"**
 
 ## Chapter 6
 
