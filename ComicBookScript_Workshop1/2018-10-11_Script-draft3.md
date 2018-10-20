@@ -1088,9 +1088,9 @@ Asoka crouches, ready to run. They are caught completely unawares by a blurry fi
 
 The figure squeals with terror. 
 
-Figure: **"Aaauuuuuuggh, está realmente lá!!!"**
+Figure: **"Aaauuuuuuggh, é real!!!"**
 
-*translation: "Aaauuuuuuggh, it's really there!!!"*
+*translation: "Aaauuuuuuggh, it's real!!!"*
 
 ### Page 9
 
