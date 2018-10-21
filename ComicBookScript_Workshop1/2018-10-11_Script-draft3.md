@@ -448,11 +448,11 @@ Tech: **"Los niveles de pH en la superficie del océano ... debido a la lluvia!"
 
 *translation: "The pH levels at the ocean's surface...because of the rain!!"*
 
-Dr.Zambrano: **"Dios mío...se ha deslizado a 7.9..."**
+Dr.Zambrano: **"Dios mío...se ha deslizado a 7.4..."**
 
-*translation: "My god...it's slipped down to 7.9..."*
+*translation: "My god...it's slipped down to 7.4..."*
 
-*Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/).*
+*Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and personal communication with Eduardo Sampaio.*
 
 ### Page 3
 
@@ -1421,15 +1421,17 @@ Maraba: **"But if Asoka's story is true, and the Peacekeepers intend to once aga
 
 Osiel: **"So you admit that the validity of this story cannot be assumed!"**
 
-Maraba: **"Why are you so determined to demonize this child? Min saw the soldiers and their tanks *with her own eyes*. She may not yet be an Elder, but she has already been inked as an Expert Crafter. Will you not trust the word of your own clanmate?"**
+Maraba: **"Why are you so determined to demonize this stranger? Min also saw the soldiers and their tanks, *with her own eyes*. She may not yet be an Elder, but she has already been inked as an Expert Crafter. Will you not trust the word of your own clanmate?"**
 
 ### Page 4
 
-Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your best friend. All I'm saying is, we are not yet informed enough to make an un-coerced decision!"**
+Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your best friend. Besides, you forgot a third option -- approach the Peacekeepers diplomatically, and see if we can come to some mutually beneficial agreement. "**
 
-Maraba: **"Are you volunteering to handle a diplomatic encounter with the Orbiters? I wouldn't vote for you anyway, I'm sure you'd run away at the first sign of trouble."**
+Maraba: **"Ooooh, so are you volunteering to handle a diplomatic encounter with these forest destroyers? I wouldn't vote for you anyway, I'm sure you'd run away at the first sign of trouble."**
 
 Nova: **"Maraba!"**
+
+Terena, a younger male Elder, with piercings all along their left ear: "
 
 The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **BEASTS**. Eireena shares her belief that the **BEASTS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
