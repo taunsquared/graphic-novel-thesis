@@ -432,15 +432,15 @@ We see close-ups of the [wildlife at Cabo de Hornos](https://youtu.be/06LcgVQg7Y
 
 ### Page 2
 
-**"Ocean Acidification Monitoring Station, Roca Redonda, Galapagos Islands"**
+**"Ocean Acidification Monitoring Station, Havana, Cuba"**
 
 Researchers stare in horror at the read-outs of their remote monitoring systems, displayed using a room-sized **INFO-SPHERE**. A hurricane rages outside. 
 
-Technician: **"Dr. Zambrano! Dr. Zambrano!"**
+Technician: **"Dr. Molina! Dr. Molina!"**
 
-Dr. Zambrano, already looking harried, sticks their head into the room. 
+Dr. Molina, already looking harried, sticks their head into the room. 
 
-Dr. Zambrano: **"¿Qué es?"**
+Dr. Molina: **"¿Qué es?"**
 
 *translation: "What is it?"*
 
@@ -448,9 +448,9 @@ Tech: **"Los niveles de pH en la superficie del océano ... debido a la lluvia!"
 
 *translation: "The pH levels at the ocean's surface...because of the rain!!"*
 
-Dr.Zambrano: **"Dios mío...se ha deslizado a 7.1..."**
+Dr. Molina: **"Dios mío...se ha deslizado a 6.9..."**
 
-*translation: "My god...it's slipped down to 7.1..."*
+*translation: "My god...it's slipped down to 6.9..."*
 
 *Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this paper](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_cod101608/Tema_8-acidificaciÃ³n/hypoxia%20%26%20OA%20Melzner.pdf).*
 
