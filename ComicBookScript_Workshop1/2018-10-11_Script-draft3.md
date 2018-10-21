@@ -750,11 +750,11 @@ Asoka scoops up Iri and begins running down the valley, but Iri suddenly re-anim
 
 Iri: **"Soka, stay away, don't come back!!"**
 
-Asoka clutches Iri to their chest, looking down the mountainside with terrified eyes at the sight of enormous wolves tearing through their village, aghast to hear...
+Asoka clutches Iri to their chest, looking down the mountainside with terrified eyes at the sight of enormous beasts, moving impossibly fast, tearing through their village, aghast to hear...
 
 Asoka: **"*Mom??!!*"**
 
-Iri/Soka's Mom: **"It's the **DEATH DOGS**!! Run Soka! *RUN!!*"**
+Iri/Soka's Mom: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 ### Page 8
 
@@ -768,7 +768,7 @@ We see Eireena McLeland, High Priestess of the Biononymous and leader of this Gr
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
 
-Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**DEATH DOGS**'."**
+Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
 
 ### Page 9
 
@@ -844,7 +844,7 @@ Eireena: **"The Colonel claims that although they can track these creatures, the
 
 Eireena lets her cynicism creep onto her face. 
 
-Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these '**DEATH DOGS**'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without **WORLD GOV** military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
+Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these '**BEASTS**'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without **WORLD GOV** military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
 
 Eireena now looks hard at Asoka. 
 
@@ -1018,7 +1018,7 @@ Eireena: **"Yes."**
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Are the...**DEATH DOGS**...and the Peacekeepers...part of why avó was bringing you this outfit in secret?"**
+Asoka: **"Are the...**BEASTS**...and the Peacekeepers...part of why avó was bringing you this outfit in secret?"**
 
 Asoka looks pained. 
 
@@ -1431,7 +1431,7 @@ Maraba: **"Are you volunteering to handle a diplomatic encounter with the Orbite
 
 Nova: **"Maraba!"**
 
-The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **DEATH DOGS**. Eireena shares her belief that the **DEATH DOGS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
+The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **BEASTS**. Eireena shares her belief that the **BEASTS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
 ## Chapter 7: Mistakes Are How We Evolve
 
