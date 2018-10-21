@@ -448,11 +448,11 @@ Tech: **"Los niveles de pH en la superficie del océano ... debido a la lluvia!"
 
 *translation: "The pH levels at the ocean's surface...because of the rain!!"*
 
-Dr.Zambrano: **"Dios mío...se ha deslizado a 7.4..."**
+Dr.Zambrano: **"Dios mío...se ha deslizado a 7.1..."**
 
-*translation: "My god...it's slipped down to 7.4..."*
+*translation: "My god...it's slipped down to 7.1..."*
 
-*Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and personal communication with Eduardo Sampaio.*
+*Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this paper](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_cod101608/Tema_8-acidificaciÃ³n/hypoxia%20%26%20OA%20Melzner.pdf).*
 
 ### Page 3
 
