@@ -1427,13 +1427,17 @@ Maraba: **"Why are you so determined to demonize this stranger? Min also saw the
 
 ### Page 4
 
-Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your best friend. Besides, you forgot a third option -- approach the Peacekeepers diplomatically, and see if we can come to some mutually beneficial agreement. "**
+Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your best friend. Besides, you forgot a third option -- approach the Peacekeepers diplomatically, hear their intentions from *their* mouths to *our* ears, and see if we can come to some mutually beneficial agreement."**
 
 Maraba: **"Ooooh, so are you volunteering to handle a diplomatic encounter with these forest destroyers? I wouldn't vote for you anyway, I'm sure you'd run away at the first sign of trouble."**
 
 Nova: **"Maraba!"**
 
-Terena, a younger male Elder, with piercings all along their left ear: "
+Nicola: **"Osiel, history shows the success rate of your third option, and it's depressingly low. I'd rather just hide deeper in the forest. We can't even communicate or travel to the Northern Hemisphere...so how will we have an alliance with a cult in the Northern Hemisphere, in a war against oppressors from space?"**
+
+Terena, a younger male Elder, with piercings all along their left ear: **"But because they are based in orbit, Maraba's right -- it really is only a matter of time before the WORLD GOV finds us."**
+
+### Page 5
 
 The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **BEASTS**. Eireena shares her belief that the **BEASTS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
