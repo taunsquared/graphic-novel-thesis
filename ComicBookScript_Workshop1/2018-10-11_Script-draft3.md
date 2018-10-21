@@ -728,7 +728,7 @@ Iri chirps with happy determination, holding up weeding trowels in its arms in a
 
 Iri: **"Yeah!"**
 
-Panels show Asoka and Iri weeding the plants in the greenhouse. Have some nice botany spreads of future plants that have been genetically engineered to deal with a heavy NO2 and CO2 content. The plants need to have ways of reducing their overgrowth thanks to the abundance of CO2 and they need to still sequester enough nutrients for them to be worth growing and eating. What do the 3 sisters (beans, corn, squash) need to change in order to still be a great trio?
+Panels show Asoka and Iri weeding the plants in the greenhouse. Have some nice botany spreads of future plants that have been genetically engineered to deal with a heavy NO2, CO2, and CH4 (Methane) content. The plants need to have ways of reducing their overgrowth thanks to the abundance of CO2 and they need to still sequester enough nutrients for them to be worth growing and eating. What do the 3 sisters (beans, corn, squash) need to change in order to still be a great trio?
 
 ### Page 7
 
