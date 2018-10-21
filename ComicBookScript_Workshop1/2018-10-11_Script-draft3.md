@@ -440,6 +440,8 @@ Technician: **"Dr. Molina! Dr. Molina!"**
 
 Dr. Molina, already looking harried, sticks their head into the room. 
 
+*Hat tip to [Hilda Molina](https://en.wikipedia.org/wiki/Hilda_Molina).*
+
 Dr. Molina: **"¿Qué es?"**
 
 *translation: "What is it?"*
