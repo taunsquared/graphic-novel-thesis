@@ -1385,41 +1385,51 @@ Nova: **"Entou...'WORLD GOV Pacificadores'...um nome mais irônico..."**
 
 *translation: "So...'**WORLD GOV** Peacekeepers...a most ironic name..."*
 
-Asoka and Iri sit on floor mats at a low and enormous banquet table, flanked on all sides by the Automata Elders. Nova Jatobá, currently serving as head of the Council of Elders, sits directly across from Asoka and Iri. Nova is now in her 70s, still plump but now strengthened by decades of living in the rainforest. Her eyes, the faintest of crow's feet at their edges, stare thoughtfully at Asoka and Iri as she takes a big bite of [pirarucu steak](https://en.wikipedia.org/wiki/Arapaima). 
+Asoka and Iri sit on floor mats at a low and enormous banquet table, flanked on all sides by the Automata Elders. It's midday, and bright natural light floods the Central Hearth, but the temperature is comfortable. Asoka and Iri look up and marvel at the enormous eSyrup bubble that protects the Central Hearth from the harsh sun and poisonous air, like a giant cell membrane. 
 
-Around Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. We see Majhee Suh, soon to be in her 90s -- she is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and she still eats everything with metal chopsticks. We see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s, bring out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). 
+Nova Jatobá, currently serving as head of the Council of Elders, sits directly across from Asoka and Iri. Nova is now in her 70s, still plump but now strengthened by decades of living in the rainforest. Her eyes, the faintest of crow's feet at their edges, stare thoughtfully at Asoka and Iri as she takes a big bite of [pirarucu steak](https://en.wikipedia.org/wiki/Arapaima). 
+
+Around Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. We see Majhee Suh, soon to be in her 90s -- she is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and she still eats everything with metal chopsticks. We see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s, bring out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). Majhee waves over the man. 
+
+Nova: **"Oi, Osiel! Traga o kkakdugi dessa maneira!"**
+
+*translation: "Bring the kkakdugi this way!"*
 
 Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little one's native tongue, and give our [babelfish](https://en.wikipedia.org/wiki/Babel_fish) some user data."**
 
 *translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e dar nosso [babelfish](https://en.wikipedia.org/wiki/Babel_fish) alguns dados do usuário."*
 
+All throughout the Central Hearth, conversation buzzes with discussion, debate, and speculation over Asoka's news of the **WORLD GOV** Peacekeepers and the offer of alliance from the Biononymous. 
+
 ### Page 2
 
 Nova: **"Very well."**
 
-Nova begins to eat her escabeche with delicate precision. Majhee fiendishly wields her chopsticks while wrapping [gim](https://en.wikipedia.org/wiki/Gim_(food)) around sticky brown rice and [wild rice](https://en.wikipedia.org/wiki/Rice#Caribbean_and_Latin_America) and various side dishes. Majhee wraps her most recent [gimbap](https://en.wikipedia.org/wiki/Gimbap), created with the kkakdugi, stir-fried spinach, and fried slices of plantain distributed around the tables throughout the Central Hearth. 
+Nova begins to eat her escabeche and kkakdugi with delicate precision. Majhee fiendishly wields her chopsticks while wrapping [roasted and salted bijao leaves](https://en.wikipedia.org/wiki/Heliconia_bihai) around sticky brown rice and [wild rice](https://en.wikipedia.org/wiki/Rice#Caribbean_and_Latin_America) and various side dishes. Majhee wraps her most recent [modified gimbap](https://en.wikipedia.org/wiki/Gimbap), including the radish stems in the kkakdugi, stir-fried spinach, and fried slices of plantain distributed in serving bowls around all of the tables throughout the Central Hearth. 
 
 Majhee: **"Well, this is *exciting*!"**
 
-Osiel shoots Majhee an annoyed look: **"Don't try to prime people."**
+Osiel looks up from opening up the [juane](https://en.wikipedia.org/wiki/Juane) on his plate and shoots Majhee an annoyed look.
 
+Osiel: **"Don't tell me you want to accept the alliance!"**
 
+The elder turns a skeptical eye onto Asoka. 
 
+Osiel: **"We have no way to check the facts of the story we were just told."**
 
+Majhee: **"Oh, don't be so heartless, Osiel. No matter the story, we have a human child, lost and without a family."**
 
-tell me you want to accept the alliance!"**
+Majhee turns to Asoka. 
 
-The elder turns a scornful eye onto Asoka. 
+Majhee: **"*Eat*."**
 
-Elder: **"We have no way to check the facts of the story we were just told."**
+Murmurs of sympathetic agreement rise from nearby Elders. Osiel grumpily focuses on his juane and looks only a little less troubled. Asoka focuses on how delicious they are finding fried plantains to be. 
 
-Majhee: **"Oh, don't be so heartless, Osiel. No matter the story, we have a human child, lost and without a family. Let us at least give the benefit of the doubt."**
-
-Murmurs of sympathetic agreement rise from the gathered Elders. Osiel grumpily crosses his arms and looks a little less scornful. 
-
-Nova: **"I'd like to hear the thoughts of our newest Elder first. Maraba?"**
+Nova: **"Maraba, as our newest Elder, what do you think?"**
 
 ### Page 3
+
+Maraba swallows a bite of [pirarucu](https://en.wikipedia.org/wiki/Arapaima) [à_Gomes_de_Sá](https://en.wikipedia.org/wiki/Bacalhau_à_Gomes_de_Sá) and takes a long sip of water before answering. 
 
 Maraba: **"The way I see it, we have 2 options..."**
 
@@ -1431,39 +1441,64 @@ Nova: **"Yes, those are both reasonable options in this situation."**
 
 Maraba: **"But if Asoka's story is true, and the Peacekeepers intend to once again exploit the forest for its resources, then we should fight to defend what we've worked so hard to regain!!"**
 
-We see other Elders nodding, or looking contemplative, or arguing in small clumps, or looking skeptical, including Osiel. 
+We see other Elders nodding, or looking contemplative, including Osiel. 
 
 Osiel: **"So you admit that the validity of this story cannot be assumed!"**
 
 Maraba: **"The validity of the stranger's story cannot be assumed, but Min also saw the soldiers and their tanks, *with her own eyes*. She may not yet be an Elder, but she has already been inked as an Expert Crafter. Will you not trust the word of your own clanmate?"**
 
-Osiel: **"Clanmate? Ha! Don't pretend like Min isn't your best friend!"** 
+Osiel: **"'Trust'? Ha! I've never met a better storyteller than Min -- she could convince a fish that it was a bird in the sky!"** 
 
-Maraba and Osiel glare at each other. More murmurs from the gathered Elders. Some look disapprovingly at Osiel, others look fearfully at Maraba, still others have inscrutable facial expressions. 
+Maraba glares at Osiel over spoonful of pirarucu and rice, as nearby Elders at the table chuckle. 
+
+Maraba: **"You know that's not what I mean!"**
 
 ### Page 4
 
-A clump of Elders are debating hotly in whispers. One of them, another female Elder named Terena, looks up at Maraba. 
+A clump of Elders are debating hotly in another corner of Asoka's table. One of them, a middle-aged female Elder named Terena, looks up at Maraba. 
 
 Terena: **"You forgot a third option -- approach the Peacekeepers diplomatically, hear their intentions from *their* mouths to *our* ears, and see if we can come to some mutually beneficial agreement."**
 
-Panaro, a younger male Elder, with piercings all along their left ear: **"Terena, history shows the success rate of your third option, and it's depressingly low. I'd rather just hide deeper in the forest."**
+Panaro, a younger male Elder who was also in the smaller clump of debating Elders, the entire curve of his left ear pierces in many fine hoops of eSyrup metal, delicately picks out the eyeball of the whole grilled tambaqui in front of him. 
 
-Terena: **"History also shows that refusing to have any contact with the outside world can destroy a society as well."**
+Panaro: **"Terena, history shows the success rate of your third option, and it's depressingly low. I'd rather just hide deeper in the forest."**
 
-Nicola: **"But because they are based in orbit, Maraba's second option is also very plausible -- it may really only be a matter of time before the WORLD GOV finds us."**
+Terena: **"A lot of that had to do with lack of immunity to the oppressor's germs, and we have subdermal shields! What are we afraid of?"**
 
-Panaro: **"We can't even communicate or travel to the Northern Hemisphere...so how will we have an alliance with a cult in the Northern Hemisphere, in a war against oppressors from space?"**
+Nicola: **"It's a good point...so why not just accept the alliance? We all know our history -- the big players in the WORLD GOV are very likely to be part of Space Consortium, and we have no love for them."**
 
-Loud murmurs take over the room. Terena and Panaro argue hotly with each other, while Nicola, Maraba, and a few others debate the power dynamic between Orbiters and Earthers. 
+Terena: **"But I'd like to avoid going to war..."**
+
+Panaro: **"We can't even *communicate* or *travel* to the Northern Hemisphere...so how will we have an alliance with a cult in the Northern Hemisphere, in a war against oppressors from space?"**
+
+Everyone comptemplates over mouthfuls of food.  
 
 ### Page 5
 
-Osiel: **"In the end, it's really down to one question -- do we want to get involved in a war, or not?"**
+Osiel: **"In the end, I guess that's the real question -- do we want to get involved in a war, or not?"**
 
-This quiets the room. Osiel looks down, sad and thoughtful, picking his words carefully. 
+This quiets the table even more. Terena looks down, sad and thoughtful, picking her words carefully. 
 
-Osiel: **"
+Terena: **"If we don't want to repeat the mistakes of humans from before The Burning, we need to keep healing this forest. To make sure the WORLD GOV will not interfere with that goal, we need to figure out how to negotiate with them. Hiding from them will not last very long, no matter how well we hide."**
+
+Nicola: **"Unfortunately, that logic also justifies accepting the alliance...the votes are going to be close!"**
+
+Terena nods as she digs into her juane. Asoka turns questioningly towards Nicola. 
+
+Asoka: **"Vote?"**
+
+Nicola: **"After we eat, we'll all write down our thoughts and opinions on anonymized eSyrup paper. Then we'll put all of the papers in a basket, shake up the basket, and pass the basket around. Each Elder will take out a paper and read what's written on it, and then we'll discuss the point raised by that paper. Once we've done this for every paper, any Elder can make a recommendation of action. We then vote on the suggested actions! It's super simple, really..."**
+
+Asoka: **"Simple?!"**
+
+Nova looks at Asoka and puts a comforting hand on Asoka's.
+
+Nova: **"You are not required to come to the debates after lunch. You wouldn't be able to vote anyway, since all 
+
+### Page 6
+
+
+
 
 The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **BEASTS**. Eireena shares her belief that the **BEASTS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
 
