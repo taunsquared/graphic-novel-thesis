@@ -40,4 +40,6 @@ Eireena gifts Asoka with special clothing that were made by the adults of Asoka'
 
 [Extreme warmth and heat-stressed plankton in the tropics during the Paleocene-Eocene Thermal Maximum](http://advances.sciencemag.org/content/advances/3/3/e1600891.full.pdf)
 
+[Forest restoration in the Amazon region](https://globalforestatlas.yale.edu/amazon/conservation-initiatives/forest-restoration)
+
 
