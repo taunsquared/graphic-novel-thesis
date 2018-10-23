@@ -1587,7 +1587,7 @@ Maraba: **"(Gasp!) I love water!"**
 
 Maraba then turns to Min and Asoka. 
 
-Maraba: **"You know, I think we can safely assume that eventually, the **WORLD GOV** will find us, given that they're in orbit, and they've already seen enough of us to send one warship. So we might as well take action now, and join our strength with the Biononymous!"**
+Maraba: **"You know, I think we can safely assume that eventually, the WORLD GOV *will* find us, given that they're in orbit, and they've already seen enough of us to send one warship. So we might as well take action now, and join our strength with the Biononymous!"**
 
 Min: **"And the Peacekeeper's actions have proven their ignorant and evil intentions! We should fight to defend what we've worked so hard to regain!!"**
 
@@ -1607,7 +1607,7 @@ Nicola: **"Stop being such a grumpy old man!"**
 
 Nova, who has been listening and watching the many conversations around her, sighs. 
 
-Nova: **"Consensus might be difficult..."**
+Nova: **"Sounds like [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making#Quaker-based_model) will be difficult..."**
 
 Asoka: **"Consensus?"**
 
