@@ -1092,7 +1092,7 @@ Iri: *"So you might be out of shape!"*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
 
-In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36 deg celsius, while the temp inside Asoka's clothes is 23. 
+In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36.2 deg celsius, while the temp inside Asoka's clothes is 23.1. 
 
 ### Page 3
 
@@ -1126,7 +1126,7 @@ Asoka: *"We have to get there *first*, Iri!"*
 
 It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
-The outside temperature now reads 44 deg celsius, while the inside temperature has only gone up to 26 deg celsius. 
+The outside temperature now reads 44.6 deg celsius, while the inside temperature has only gone up to 26.3 deg celsius. 
 
 Iri stares open mouthed at the jungle around them.
 
@@ -1150,7 +1150,7 @@ Asoka quickly trudges into a dense grove, clearly uncomfortable and at the end o
 
 Iri: *"Wow, that is **hot!!!**"*
 
-On Asoka's face veil, outside temperature reads 52 deg celsius, and the temperature inside their outfit now reads 27 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
+On Asoka's face veil, outside temperature reads 52.8 deg celsius, and the temperature inside their outfit now reads 27.7 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
 Asoka: *"Where are we now?"*
 
@@ -1170,7 +1170,7 @@ The sun is setting in the sky, deep red light rays cutting horizontally once mor
 
 *More on plants native to the Amazon: http://www.pbs.org/journeyintoamazonia/plants.html*
 
-Asoka suddenly jerks awake, briefly becomes invisible, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38 deg celsius.
+Asoka suddenly jerks awake, briefly becomes invisible, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38.2 deg celsius, and Asoka's suit temperature is 23.0.
 
 Asoka: *"You let me sleep more than a few hours."*
 
@@ -1204,7 +1204,7 @@ Asoka: **"Mmmmmm!!!"**
 
 ### Page 8
 
-Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. The outside temperature has now dropped to 35 deg celsius, and the temperature inside Asoka's suit is back to 23 deg C. 
+Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. 
 
 Asoka claps their hands and wipes their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. 
 
@@ -1316,6 +1316,8 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 
 ### Page 2
 
+**"This subdermal shield allows the Automata to exist above ground, and fulfill the prime directive of their clan -- to restore the Amazon Rainforest."**
+
 We see close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
 
 * Jina, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield is visible in shadowy patterns under her clan tatoos. Next to her is a tall bucket holding ritual clensing water.  
@@ -1328,8 +1330,6 @@ We see close-up views of the people in the inner most circle, just on the outsid
 The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
 
 Jina, Majhee, Amadou, and Maraba stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
-
-**"Once a member of the Automata has earned their subdermal shield, they must spend at least a year living in the Underground Cities to the south of the Red Zone, amongst the over-crowded, under-educated, poorly fed 'mole people', in order to understand why the Automata risk life and limb re-growing the once great Amazon Rainforest."**
 
 ### Page 3
 
@@ -1377,47 +1377,201 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 ## Chapter 6
 
-Character designs: Asoka Morei, Iri, Majhee Suh, Nicola Cavalcanti, Nova Jatobá, Jina Suh Barbosa
+Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nicola Cavalcanti, Nova Jatobá, Jina Suh Barbosa
 
 ### Page 1
+
+Min, Asoka, and Iri are in a tall tree, watching the Peacekeepers set up camp as the sky lightens. Min is standing out in the middle of a large branch and grips a smaller branch with so much fury that it breaks in her hand. Face streaming in tears, heart full of rage, she screams as she flings the broken stick in her hand down at the soldiers with all her might, growing spikes in her feet to keep herself locked to the tree branch, but the Peacekeepers have caused so much damage to the surrounding forest that no one notices that yet another broken branch falling violently onto their campsite; and the sounds of their generators drown out her furious cries. Asoka, head gear properly back on and once again fully camouflaged, clings fearfully to the main trunk of the tree, watching Asoka with wide eyes -- they see a beast, and they are afraid. Iri, also camouflaged, clings to Asoka's neck. 
+
+### Page 2
+
+Min, dead-eyed and haggard after screaming herself hoarse, sits across from Asoka, on the out edge of a branch, leaning into the tree and letting spikes in her back lock her in. She stares grudgingly at Asoka. 
+
+Min: **"Entou, estranho, por que você traz esses bárbaros para minha floresta?"**
+
+*translation: "So, stranger, why do you bring these barbarians to my forest?"*
+
+Asoka's face is earnest, pleading. 
+
+Asoka: **"I didn't bring them! I mean..."**
+
+Iri once again places 2 arms on Asoka's ears. 
+
+Asoka: **"Eu não trouxe eles. Eu vim para avisá-lo!"**
+
+*translation: "I didn't bring them. I came to warn you!"* 
+
+Min: **"E por que você faria isso?"**
+
+*translation: "And why would you do that?"*
+
+Suddenly, Asoka's face also falls dark. 
+
+Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Portos Verdes há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos..."**
+
+*translation: "The WORLD GOV has been after the Green Havens for years...at first they wanted 30% of our yearly crop. We refused. Then, a few years later, roaming bands of enormous, demonic beasts began appearing in the North. They were huge and impossibly fast and killed everyone in a Green Haven in a matter of minutes.."*
+
+### Page 2
+
+Asoka's fists clench. We see Asoka's eyes from behind their face veil, angry tears streaming down their face. 
+
+Asoka: **"O Alto Conselho Biononimo acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Guardiões da Paz em cada Porto Verde ... agora, o WORLD GOV colocou pelo menos 40 soldados da Paz em cada Haven, e estão *forçosamente* tomando 50% da nossa comida!"**
+
+*translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, the WORLD GOV has stationed at least 40 Peacekeepers at each Haven, and are **forcibly** taking 50% of our food!"*
+
+The scene has transitioned to the Central Hearth of the Automata, an enormous tree-house structure with an eSyrup-bubble ceiling. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka is kneeling and facing the gathered crowd of Automata with desperate supplication, as Iri peers out from its perch on Asoka's shoulders where it is half-hidden by Asoka's hair. Children openly stare at Iri and Asoka's strange clothing. Elders look troubled or angry, or both.
+
+Min addresses Nova Jatobá, currently serving as Head Councilor of Elders, around whom the curious crowd has gathered. 
+
+Min: **"Eu vi esses Pacificadores, com meus próprios olhos. Eles não sabem, ou *não se importam*, que sua busca por 'frutas exóticas' e humanos mágicos está destruindo a floresta que é muito *delicada* para essa *merda*!"**
+
+*translation: "I saw these Peacekeepers, with my own eyes. They don't know, or **don't care**, that their search for 'exotic fruits' and magical humans is destroying a forest that is too **delicate** for this shit!"*
+
+### Page 3
+
+Nova gives Min a sharp look. Nova is now in her 70s, still plump but now strengthened by decades of living in the rainforest. 
+
+Nova: **"Tsk! *Min*ka, tenha cuidado..."**
+
+*translation: "Tsk! **Min**ka, you watch yourself..."*
+
+Min stubbornly glares back at Nova. 
+
+Min: **"Eu solicito um conselho pelos Anciãos, para considerar esta aliança com os Biononymous!"**
+
+*translation: "I request a Council of the Elders, to consider this alliance with the Biononymous!"*
+
+Nova raises an eyebrow. 
+
+Nova: **"Embora não tenhamos motivos para amar os Peacekeepers, por que nos aliamos a um povo muito longe para ver, ouvir ou tocar?"**
+
+*translation: "While we have no reason to love the Peacekeepers, why would we ally ourselves to a people too far away to see, hear, or touch?"*
+
+Min, furious, gets right in Nova's stony, unmoved face. 
+
+Min: **"Entou, você não se importa com eles?? Eles também são Earthers!"**
+
+*translation: "So, you don't care about them?? They're also Earthers!"*
+
+Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
+
+*translation: "Aiii, little Minka, when will you learn **a little bit of patience**?"*
+
+### Page 4
+
+Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
+
+Majhee sighs. 
+
+Majhee: **"Infelizmente, eu concordo com a minha neta. Eu estava preocupado que esse dia chegasse...mas, primeiro nós comemos!"**
+
+*translation: "Unfortunately, I agree with my granddaughter. I was worried that this day would come...but, first we eat!"*
+
+Majhee grins and her eyes twinkle. 
+
+Majhee: **"Ninguém pode pensar com o estômago vazio!"**
+
+*translation: "No one can think with an empty stomach!"*
+
+### Page 5
+
+Asoka, Iri still tucked into their neck, has been seated next to Min on floor mats in front of a low table piled high with more food than Asoka has seen in weeks. It's midday, and bright natural light floods the Central Hearth, but the temperature is comfortable. Overhead, an enormous eSyrup bubble protects the Central Hearth from the harsh sun and poisonous air, like a giant cell membrane. The day's cooking crew has just brought out the last of the serving plates, piled high with steaming hot food that makes Asoka's salivation response go wild. Asoka's face veil annotates the many strange fishes, vegetables, fruit, and grain laid out in lavish display. We see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s, bring out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). 
+
+As the last serving bowl is placed on the tables, a hush falls over the entire room. Asoka, eager to start eating, looks around in confusion, then hesitantly starts to reach for a bowl of rice. Min slaps down Asoka's hand. 
+
+Min: **"Ainda não!"**
+
+*translation: "Not yet!"*
+
+### Page 6
+
+A large gong rings. Asoka looks up towards one end of the Central Hearth to see 2 lines of Automata Elders, each carrying an enormous pitcher in one arm and a large bowl with a pouring edge in the other; one shoulder covered in a long, folded piece of beautiful pale blue cloth of the finest weave; and converging on a large spigot coming out of an enormous stone aquifer.  
+
+Asoka: *"That whole wall..."*
+
+Iri: *"The rock is **cold**!"*
+
+Asoka's face veil annotates the temperature of the aquifer's enormous rock wall to be 7.2 deg celsius. 
+
+The water cyclers ceremoniously place the pitchers in front of them and gently place the folded blue eSyrup cloth on top of the pitcher, as the entire Central Hearth watch them. They then take turns walking up to the great stone wall and filling their bowl in the rapidly flowing and high pressure water from the spigot. They then walk back to their pitchers and place the bowl next to the pitcher. Kneeling in front of their pitcher, each Elder swiftly and skillfully folds their blue cloth into an [origami flower bowl](http://www.origami-instructions.com/origami-rose-bowl.html), then secures it to the top of the enormous pitcher. They then stand and pour the bowl of water carefully into the eSyrup cloth flower bowl, which filters and cleans the water as it passes through the bottom layer of cloth. 
+
+Min watches one Water Cycler in particular - her mother Jina, daughter of Majhee Suh and Vec Barbosa. Over the above sequence of images is the following dialogue: 
+
+Asoka: **"Quem são eles?"**
+
+*translation: "Who are they?"*
+
+Min looks at the Elders proudly, reverently.
+
+Min: **"Eles são os *cicladores de água*."**
+
+*translation: "They are the **water cyclers**."*
+
+Asoka: **"Os cicladores de água?"**
+
+*translation: "The water cyclers?"*
+
+### Page 7
+
+Min: **"Todos os dias eles [tratam a água](https://en.wikipedia.org/wiki/Water_purification#Treatment) coletamos da chuva, do rio e de [nosso esgoto](https://en.wikipedia.org/wiki/Reclaimed_water)."**
+
+*translation: "Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the rain, from the river, and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."*
+
+Asoka: **"Espere, o que??"**
+
+*translation: "Wait, what??"*
+
+Min: **"Você não ouviu? Nós tivemos uma crise da água. Você teve a sorte de estar perto de nascentes de montanha e terras que não foram brutalmente abusadas. É diferente aqui."**
+
+*translation: "Didn't you hear? We had a Water Crisis. You were lucky enough to be near mountain springs and land that hadn't been brutally abused. It's different here."*
+
+The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder. They then each carry their pitcher to a table, where they place it carefully. They then get a cup, pour themselves a glass, and raise it up.
+
+Water Cyclers: **"Beber sem sangrar!"**
+
+*translation: "Drink without bleeding!"*
+
+The Water Cyclers then all down their glass of water, the first cup of the water they offer to their clanmates. As they finish, the gathered Automata start to clap and cheer and eat and drink. Min grins and reaches for the escabeche. 
+
+Min: **"Certo, *agora* podemos comer."**
+
+*translation: "Ok, **now** we can eat."*
+
+### Page 8
 
 Nova: **"Entou...'WORLD GOV Pacificadores'...um nome mais irônico..."**
 
 *translation: "So...'**WORLD GOV** Peacekeepers...a most ironic name..."*
 
-Asoka and Iri sit on floor mats at a low and enormous banquet table, flanked on all sides by the Automata Elders. It's midday, and bright natural light floods the Central Hearth, but the temperature is comfortable. Asoka and Iri look up and marvel at the enormous eSyrup bubble that protects the Central Hearth from the harsh sun and poisonous air, like a giant cell membrane. 
+Nova is sitting across from Asoka and Iri. Her eyes, the faintest of crow's feet at their edges, stare thoughtfully at Asoka and Iri as she takes a big bite of [pirarucu steak](https://en.wikipedia.org/wiki/Arapaima). Next to Nova sits Majhee Suh, who still eats everything with metal chopsticks. Majhee waves to the old man who was carrying kkakdugi earlier, who is now sitting a little ways down the table and across from Nicola. 
 
-Nova Jatobá, currently serving as head of the Council of Elders, sits directly across from Asoka and Iri. Nova is now in her 70s, still plump but now strengthened by decades of living in the rainforest. Her eyes, the faintest of crow's feet at their edges, stare thoughtfully at Asoka and Iri as she takes a big bite of [pirarucu steak](https://en.wikipedia.org/wiki/Arapaima). 
+Nova: **"Oi, Osiel! Passe o kkakdugi aqui!"**
 
-Around Nova are the other Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. We see Majhee Suh, soon to be in her 90s -- she is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and she still eats everything with metal chopsticks. We see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s, bring out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). Majhee waves over the man. 
+*translation: "Oi, Osiel! Pass the kkakdugi over here!"*
 
-Nova: **"Oi, Osiel! Traga o kkakdugi dessa maneira!"**
+Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little one's native tongue, and give our [babelfish](https://en.wikipedia.org/wiki/Babel_fish) some practice."**
 
-*translation: "Bring the kkakdugi this way!"*
+*translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e dar nosso [babelfish](https://en.wikipedia.org/wiki/Babel_fish) alguns prática."*
 
-Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little one's native tongue, and give our [babelfish](https://en.wikipedia.org/wiki/Babel_fish) some user data."**
+All throughout the Central Hearth, conversation buzzes with discussion, debate, and speculation over Asoka's news of the **WORLD GOV** Peacekeepers and the offer of alliance from the Biononymous. Asoka eagerly eats everything within reach. 
 
-*translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e dar nosso [babelfish](https://en.wikipedia.org/wiki/Babel_fish) alguns dados do usuário."*
-
-All throughout the Central Hearth, conversation buzzes with discussion, debate, and speculation over Asoka's news of the **WORLD GOV** Peacekeepers and the offer of alliance from the Biononymous. 
-
-### Page 2
+### Page 9
 
 Nova: **"Very well."**
 
-Nova begins to eat her escabeche and kkakdugi with delicate precision. Majhee fiendishly wields her chopsticks while wrapping [roasted and salted bijao leaves](https://en.wikipedia.org/wiki/Heliconia_bihai) around sticky brown rice and [wild rice](https://en.wikipedia.org/wiki/Rice#Caribbean_and_Latin_America) and various side dishes. Majhee wraps her most recent [modified gimbap](https://en.wikipedia.org/wiki/Gimbap), including the radish stems in the kkakdugi, stir-fried spinach, and fried slices of plantain distributed in serving bowls around all of the tables throughout the Central Hearth. 
+Nova begins to eat her escabeche, rice, and kkakdugi with delicate precision. Majhee fiendishly wields her chopsticks while wrapping [roasted and salted bijao leaves](https://en.wikipedia.org/wiki/Heliconia_bihai) around sticky brown rice and [wild rice](https://en.wikipedia.org/wiki/Rice#Caribbean_and_Latin_America) and various side dishes. Majhee wraps her most recent [modified gimbap](https://en.wikipedia.org/wiki/Gimbap), including the radish stems in the kkakdugi, stir-fried spinach, and fried slices of plantain distributed in serving bowls around all of the tables throughout the Central Hearth. 
 
 Majhee: **"Well, this is *exciting*!"**
 
 Osiel looks up from opening up the [juane](https://en.wikipedia.org/wiki/Juane) on his plate and shoots Majhee an annoyed look.
 
-Osiel: **"Don't tell me you want to accept the alliance!"**
+Osiel: **"Don't be so cheerful. It's happened! They're here! So what do we do now??"**
 
 The elder turns a skeptical eye onto Asoka. 
 
-Osiel: **"We have no way to check the facts of the story we were just told."**
+Osiel: **"And how do we know that *you* aren't a spy? Your veil makes me nervous!"**
 
-Majhee: **"Oh, don't be so heartless, Osiel. No matter the story, we have a human child, lost and without a family."**
+Majhee: **"Oh, calm down Osiel. No matter what they're wearing, they're a human child, far from home and *obviously* hungry."**
 
 Majhee turns to Asoka. 
 
@@ -1425,88 +1579,51 @@ Majhee: **"*Eat*."**
 
 Murmurs of sympathetic agreement rise from nearby Elders. Osiel grumpily focuses on his juane and looks only a little less troubled. Asoka focuses on how delicious they are finding fried plantains to be. 
 
-Nova: **"Maraba, as our newest Elder, what do you think?"**
+### Page 11
 
-### Page 3
+Maraba, sitting across the table from Min, swallows a bite of [pirarucu](https://en.wikipedia.org/wiki/Arapaima) [à_Gomes_de_Sá](https://en.wikipedia.org/wiki/Bacalhau_à_Gomes_de_Sá) and takes a long sip of water while tapping their face with their chopsticks and wiggling their eyebrows frantically, as if they desperately wanted both to guzzle water and to tell Asoka and Min something urgently. Finally Maraba comes up for air. 
 
-Maraba swallows a bite of [pirarucu](https://en.wikipedia.org/wiki/Arapaima) [à_Gomes_de_Sá](https://en.wikipedia.org/wiki/Bacalhau_à_Gomes_de_Sá) and takes a long sip of water before answering. 
+Maraba: **"(Gasp!) I love water!"**
 
-Maraba: **"The way I see it, we have 2 options..."**
+Maraba then turns to Min and Asoka. 
 
-Maraba: **"One is to reject the alliance, and go deeper into hiding, based on the assumption that if the Peacekeeper's fail to find us, the brutal conditions of the Red Zone will make them give up and go home."**
+Maraba: **"You know, I think we can safely assume that eventually, the **WORLD GOV** will find us, given that they're in orbit, and they've already seen enough of us to send one warship. So we might as well take action now, and join our strength with the Biononymous!"**
 
-Maraba: **"The other option is to assume that eventually, the **WORLD GOV** will find us, given that they are in orbit, and they've already seen enough of us to send one warship. So we might as well take action now, and join our strength with the Biononymous."**
+Min: **"And the Peacekeeper's actions have proven their ignorant and evil intentions! We should fight to defend what we've worked so hard to regain!!"**
 
-Nova: **"Yes, those are both reasonable options in this situation."**
+Osiel, looking bored, sighs and shakes his head. 
 
-Maraba: **"But if Asoka's story is true, and the Peacekeepers intend to once again exploit the forest for its resources, then we should fight to defend what we've worked so hard to regain!!"**
+Osiel: **"You fresh Elders...always wanna go beat up *someone*, just because you have a subdermal shield!"**
 
-We see other Elders nodding, or looking contemplative, including Osiel. 
+Osiel shakes himself, then points accusingly at Min.
 
-Osiel: **"So you admit that the validity of this story cannot be assumed!"**
+Osiel: **"*You* haven't even gone off to your year Underground!"**
 
-Maraba: **"The validity of the stranger's story cannot be assumed, but Min also saw the soldiers and their tanks, *with her own eyes*. She may not yet be an Elder, but she has already been inked as an Expert Crafter. Will you not trust the word of your own clanmate?"**
+### Page 12
 
-Osiel: **"'Trust'? Ha! I've never met a better storyteller than Min -- she could convince a fish that it was a bird in the sky!"** 
+Min scowls again. Nicola kicks Osiel under the table and gives him a withering look. 
 
-Maraba glares at Osiel over spoonful of pirarucu and rice, as nearby Elders at the table chuckle. 
+Nicola: **"Stop being such a grumpy old man!"**
 
-Maraba: **"You know that's not what I mean!"**
+Nova, who has been listening and watching the many conversations around her, sighs. 
 
-### Page 4
+Nova: **"Consensus might be difficult..."**
 
-A clump of Elders are debating hotly in another corner of Asoka's table. One of them, a middle-aged female Elder named Terena, looks up at Maraba. 
+Asoka: **"Consensus?"**
 
-Terena: **"You forgot a third option -- approach the Peacekeepers diplomatically, hear their intentions from *their* mouths to *our* ears, and see if we can come to some mutually beneficial agreement."**
+Nova glances up at Asoka, then she gives a gentle smile. 
 
-Panaro, a younger male Elder who was also in the smaller clump of debating Elders, the entire curve of his left ear pierces in many fine hoops of eSyrup metal, delicately picks out the eyeball of the whole grilled tambaqui in front of him. 
+Nova: **"When the Council of the Elders make a group decision, we all share our concerns until our group goal is clear to everyone. As we all work towards a group decision, if an Elder's perspective doesn't fit into the group decision, the Elder can choose to 'stand aside' or 'block' the emerging consensus."**
 
-Panaro: **"Terena, history shows the success rate of your third option, and it's depressingly low. I'd rather just hide deeper in the forest."**
+Nova's brow furrows. 
 
-Terena: **"A lot of that had to do with lack of immunity to the oppressor's germs, and we have subdermal shields! What are we afraid of?"**
-
-Nicola: **"It's a good point...so why not just accept the alliance? We all know our history -- the big players in the WORLD GOV are very likely to be part of Space Consortium, and we have no love for them."**
-
-Terena: **"But I'd like to avoid going to war..."**
-
-Panaro: **"We can't even *communicate* or *travel* to the Northern Hemisphere...so how will we have an alliance with a cult in the Northern Hemisphere, in a war against oppressors from space?"**
-
-Everyone comptemplates over mouthfuls of food.  
-
-### Page 5
-
-Osiel: **"In the end, I guess that's the real question -- do we want to get involved in a war, or not?"**
-
-This quiets the table even more. Terena looks down, sad and thoughtful, picking her words carefully. 
-
-Terena: **"If we don't want to repeat the mistakes of humans from before The Burning, we need to keep healing this forest. To make sure the WORLD GOV will not interfere with that goal, we need to figure out how to negotiate with them. Hiding from them will not last very long, no matter how well we hide."**
-
-Nicola: **"Unfortunately, that logic also justifies accepting the alliance...the votes are going to be close!"**
-
-Terena nods as she digs into her juane. Asoka turns questioningly towards Nicola. 
-
-Asoka: **"Vote?"**
-
-Nicola: **"After we eat, we'll all write down our thoughts and opinions on anonymized eSyrup paper. Then we'll put all of the papers in a basket, shake up the basket, and pass the basket around. Each Elder will take out a paper and read what's written on it, and then we'll discuss the point raised by that paper. Once we've done this for every paper, any Elder can make a recommendation of action. We then vote on the suggested actions! It's super simple, really..."**
-
-Asoka: **"Simple?!"**
-
-Nova looks at Asoka and puts a comforting hand on Asoka's.
-
-Nova: **"You are not required to come to the debates after lunch. You wouldn't be able to vote anyway, since all 
-
-### Page 6
-
-
-
-
-The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the **WORLD GOV** is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the **BEASTS**. Eireena shares her belief that the **BEASTS** are creations of the **WORLD GOV**, meant to create an atmosphere of terror so that the **WORLD GOV** can subdue the planetside population into fearful obedience. Upon hearing this news, Asoka falls into a deep, dark depression. 
+Nova: **"If even one Elder chooses to 'block' an action, we have to find another direction to in which we can form consensus. (Sigh!) It's gonna be tricky!"**
 
 ## Chapter 7: Mistakes Are How We Evolve
 
 Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa
 
-Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
+The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. Upon hearing this news, Asoka falls into a deep, dark depression. Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
 
 ## Dream, the last: Comma, not a Period
 
