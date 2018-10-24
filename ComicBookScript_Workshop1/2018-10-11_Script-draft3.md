@@ -1793,17 +1793,25 @@ Min: **"What about your people, the other Biononymous? Didn't you come all this 
 
 Asoka: **"*Yeah, exactly! I tried, and I failed...*"**
 
+In her frustration, Min gets up on her knees and shouts down at Asoka. 
+
 Min: **"So are you gonna sit there and continue to be useless, just because *one thing* didn't turn out *exactly* the way you expected??"**
 
 Asoka begins crying again. Min looks upset that she triggered Asoka's tears, but also still angry with Asoka's apathy. 
 
-Min: **"Look, I'm sorry...I get really impatient sometimes...I'm just...so angry about the Peacekeepers...can I give you hug?"**
+Min: **"Look, I'm so sorry...I get really impatient sometimes...I'm just...so angry about the Peacekeepers...can I give you hug?"**
 
-Asoka doesn't look up, but gives a tiny nod. Iri gives Min an encouraging wave with the tip of an arm. Min walks around the food to kneel by Asoka and embrace them gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. 
+Asoka doesn't look up, but gives a tiny nod. 
+
+Asoka, barely audible: **"*Mmmhmm...*"**
+
+Iri gives Min an encouraging wave with the tip of an arm. Min walks around the food to kneel by Asoka and embrace them gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. 
 
 ### Page 8
 
-Asoka and Min sit back to back in Asoka's sleeping bubble, watching the sun disappear behind the horizon. Early stars are already twinkling in the twilight. 
+Asoka and Min sit back to back in Asoka's sleeping bubble, watching the sun disappear behind the horizon. Early stars are already twinkling in the twilight. They are both sipping more patua fruit juice, faces streaked with tears and looking emotionally spent. 
+
+Asoka: **"*
 
 
 
