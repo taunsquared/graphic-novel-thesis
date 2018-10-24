@@ -1625,7 +1625,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just next to the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. 
+The early morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just next to the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. 
 
 Asoka slowly opens their eyes and stares at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble and the various other sleeping bubbles suspended in the tree above theirs. Shadows show hammocks and various belongings in the other sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. 
 
@@ -1637,11 +1637,11 @@ Asoka's hand falls to their face, to cover their eyes. A single, fat tear rolls 
 
 ### Page 2
 
-**"12 hours earlier..."**
+**"32 hours earlier..."**
 
 Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
-The sun is low in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
+The sun is setting in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
 
 Maraba: **"I stand aside."**
 
@@ -1661,7 +1661,7 @@ Jina, looking upset, also starts to move after Min, but the tall, dark man next 
 
 ### Page 3
 
-We're back in Asoka's sleeping bubble. The sun is nearly at midday. Asoka's hand is no longer on top of their face; their hands now cup their cheek as they nap fitfully, silently weeping into their pillow. We hear a scratch on the eSyrup bubble, which jolts Iri awake. 
+We're back in Asoka's sleeping bubble. It is late morning, just before midday. Asoka's hand is no longer on top of their face; their hands now cup their cheek as they nap fitfully, silently weeping into their pillow. They hear a scratch on the eSyrup bubble, which jolts Iri awake. A muffled voice call through the eSyrup bubble. 
 
 Min: **"Asoka?"**
 
@@ -1703,7 +1703,7 @@ Min turns to the bubble's edge, about to leave, then hesitates, gritting her tee
 
 ### Page 4
 
-The sun is setting. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. Asoka's face veil is crumpled in Asoka's lap. 
+It's late afternoon. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. Asoka's face veil is crumpled in Asoka's lap. 
 
 Iri: *"You'll have to get out of bed, at least for more water...you keep crying away all of your moisture..."*
 
@@ -1727,13 +1727,7 @@ Iri: **"Um momento!"**
 
 ### Page 5
 
-We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. 
-
-Min: **"Estou feliz que você esteja comendo mais uma vez."**
-
-*translation: "I'm glad you're eating again."*
-
-Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
+We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is wearing their head scarf and face veil, and their jacket is on but un-fastened up the front. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
 
 Min: **"Desculpa, eu não tinha certeza se você comer ou beber alguma coisa...você quer tentar?"**
 
@@ -1749,6 +1743,10 @@ Iri: **"Wow! Muito delicioso!!"**
 
 *translation: "Wow! So delicious!!"*
 
+Min: **"É suco de fruta, feito de [fruta patua](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."**
+
+*translation: "It's fruit juice, made from [patua fruit](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."*
+
 Iri, looking like an adorable, cuttlefish version of Oliver Twist, endearingly holds out the wooden cup to Min. 
 
 Iri: **"Por favor, posso ter mais alguns?"**
@@ -1763,7 +1761,49 @@ Min: **"Claro!"**
 
 ### Page 6
 
+Asoka looks up at Iri from their dosirak, eyes moody and accusing. 
 
+Asoka: **"*You know, I can't understand anything when you don't translate for me...*"**
+
+Iri deflates completely and droops with guilt. 
+
+Min: **"Ah, sorry! I can just switch to English."**
+
+Asoka accepts by shrugging and wordlessly digging back into the food. Min and Iri exchange awkward glances. 
+
+Min: **"I was just telling Iri that this juice is made from patua trees...we have a big grove nearby, I can show you how to harvest them!"**
+
+Asoka looks at their cup, then takes a sip. They also like it, so they upend the cup and down the rest of the juice. Then they go back to eating. 
+
+Asoka: **"*Whatever.*"**
+
+Min is hurt by the total lack of enthusiasm from Asoka. She loses her patience again. 
+
+Min: **"What, do you plan to spend the rest of your life moping inside your sleeping bubble, hoping people will feel sorry enough for you to bring you food? I didn't have to bring you leftovers, this isn't my assignment or anything!"**
+
+Asoka: **"*Why do you care?*"**
+
+Min: **"Why *don't* you care? Don't you realise that by giving up, you're letting the Peacekeepers and the WORLD GOV *win*??"**
+
+### Page 7
+
+Asoka: **"*They already won...my home is gone, my family is dead...*"**
+
+Min: **"What about your people, the other Biononymous? Didn't you come all this way to help them??"**
+
+Asoka: **"*Yeah, exactly! I tried, and I failed...*"**
+
+Min: **"So are you gonna sit there and continue to be useless, just because *one thing* didn't turn out *exactly* the way you expected??"**
+
+Asoka begins crying again. Min looks upset that she triggered Asoka's tears, but also still angry with Asoka's apathy. 
+
+Min: **"Look, I'm sorry...I get really impatient sometimes...I'm just...so angry about the Peacekeepers...can I give you hug?"**
+
+Asoka doesn't look up, but gives a tiny nod. Iri gives Min an encouraging wave with the tip of an arm. Min walks around the food to kneel by Asoka and embrace them gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. 
+
+### Page 8
+
+Asoka and Min sit back to back in Asoka's sleeping bubble, watching the sun disappear behind the horizon. Early stars are already twinkling in the twilight. 
 
 
 
