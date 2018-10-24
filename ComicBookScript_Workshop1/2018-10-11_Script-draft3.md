@@ -1407,7 +1407,7 @@ Min: **"E por que você faria isso?"**
 
 Suddenly, Asoka's face also falls dark. 
 
-Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Portos Verdes há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos..."**
+Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Green Havens há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos..."**
 
 *translation: "The WORLD GOV has been after the Green Havens for years...at first they wanted 30% of our yearly crop. We refused. Then, a few years later, roaming bands of enormous, demonic beasts began appearing in the North. They were huge and impossibly fast and killed everyone in a Green Haven in a matter of minutes.."*
 
@@ -1415,7 +1415,7 @@ Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Portos Verdes há anos ..
 
 Asoka's fists clench. We see Asoka's eyes from behind their face veil, angry tears streaming down their face. 
 
-Asoka: **"O Alto Conselho Biononimo acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Guardiões da Paz em cada Porto Verde ... agora, o WORLD GOV colocou pelo menos 40 soldados da Paz em cada Haven, e estão *forçosamente* tomando 50% da nossa comida!"**
+Asoka: **"O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, o WORLD GOV colocou pelo menos 40 Pacificadores em cada Haven, e estão *forçosamente* tomando 50% da nossa comida!"**
 
 *translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, the WORLD GOV has stationed at least 40 Peacekeepers at each Haven, and are **forcibly** taking 50% of our food!"*
 
