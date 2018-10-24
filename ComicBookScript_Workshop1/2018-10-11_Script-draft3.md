@@ -628,7 +628,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves torn, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
-Asoka: *"Mom...I sent...Pippa back...WHY??"*
+Asoka: *"Mom...Pippa...WHY??"*
 
 We see Asoka clench their fist, then throw up their head, struggle to stand, eyes streaming with tears. 
 
@@ -1377,7 +1377,7 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 ## Chapter 6
 
-Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nicola Cavalcanti, Nova Jatobá, Jina Suh Barbosa
+Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Page 1
 
@@ -1391,13 +1391,13 @@ Min: **"Entou, estranho, por que você traz esses bárbaros para minha floresta?
 
 *translation: "So, stranger, why do you bring these barbarians to my forest?"*
 
-Asoka's face is earnest, pleading. 
+Asoka's face is back on, and the anonymous face embroidered onto it is earnest, pleading. 
 
-Asoka: **"I didn't bring them! I mean..."**
+Asoka: **"*I didn't bring them! I mean...*"**
 
 Iri once again places 2 arms on Asoka's ears. 
 
-Asoka: **"Eu não trouxe eles. Eu vim para avisá-lo!"**
+Asoka: **"*Eu não trouxe eles. Eu vim para avisá-lo!*"**
 
 *translation: "I didn't bring them. I came to warn you!"* 
 
@@ -1407,7 +1407,7 @@ Min: **"E por que você faria isso?"**
 
 Suddenly, Asoka's face also falls dark. 
 
-Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Green Havens há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos..."**
+Asoka, off-panel: **"*O WORLD GOV tem estado atrás dos Green Havens há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos...*"**
 
 *translation: "The WORLD GOV has been after the Green Havens for years...at first they wanted 30% of our yearly crop. We refused. Then, a few years later, roaming bands of enormous, demonic beasts began appearing in the North. They were huge and impossibly fast and killed everyone in a Green Haven in a matter of minutes.."*
 
@@ -1415,7 +1415,7 @@ Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Green Havens há anos ...
 
 Asoka's fists clench. We see Asoka's eyes from behind their face veil, angry tears streaming down their face. 
 
-Asoka: **"O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, o WORLD GOV colocou pelo menos 40 Pacificadores em cada Haven, e estão *forçosamente* tomando 50% da nossa comida!"**
+Asoka: **"*O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, o WORLD GOV colocou pelo menos 40 Pacificadores em cada Haven, e estão *forçosamente* tomando 50% da nossa comida!*"**
 
 *translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, the WORLD GOV has stationed at least 40 Peacekeepers at each Haven, and are **forcibly** taking 50% of our food!"*
 
@@ -1473,7 +1473,7 @@ Majhee: **"Ninguém pode pensar com o estômago vazio!"**
 
 ### Page 5
 
-Asoka, Iri still tucked into their neck, has been seated next to Min on floor mats in front of a low table piled high with more food than Asoka has seen in weeks. It's midday, and bright natural light floods the Central Hearth, but the temperature is comfortable. Overhead, an enormous eSyrup bubble protects the Central Hearth from the harsh sun and poisonous air, like a giant cell membrane. The day's cooking crew has just brought out the last of the serving plates, piled high with steaming hot food that makes Asoka's salivation response go wild. Asoka's face veil annotates the many strange fishes, vegetables, fruit, and grain laid out in lavish display. We see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s, bring out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). 
+Asoka, Iri still tucked into their neck, has been seated next to Min on floor mats in front of a low table piled high with more food than Asoka has seen in weeks. It's midday, and bright natural light floods the Central Hearth, but the temperature is comfortable. Overhead, an enormous eSyrup bubble protects the Central Hearth from the harsh sun and poisonous air, like a giant cell membrane. The day's cooking crew has just brought out the last of the serving plates, piled high with steaming hot food that makes Asoka's salivation response go wild. Asoka's face veil annotates the many strange fishes, vegetables, fruit, and grain laid out in lavish display. We see Nicola Cavalcanti, now a robust and cheeky grandmother in her 50s, carrying out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). 
 
 As the last serving bowl is placed on the tables, a hush falls over the entire room. Asoka, eager to start eating, looks around in confusion, then hesitantly starts to reach for a bowl of rice. Min slaps down Asoka's hand. 
 
@@ -1493,19 +1493,19 @@ Asoka's face veil annotates the temperature of the aquifer's enormous rock wall 
 
 The water cyclers ceremoniously place the pitchers in front of them and gently place the folded blue eSyrup cloth on top of the pitcher, as the entire Central Hearth watch them. They then take turns walking up to the great stone wall and filling their bowl in the rapidly flowing and high pressure water from the spigot. They then walk back to their pitchers and place the bowl next to the pitcher. Kneeling in front of their pitcher, each Elder swiftly and skillfully folds their blue cloth into an [origami flower bowl](http://www.origami-instructions.com/origami-rose-bowl.html), then secures it to the top of the enormous pitcher. They then stand and pour the bowl of water carefully into the eSyrup cloth flower bowl, which filters and cleans the water as it passes through the bottom layer of cloth. 
 
-Min watches one Water Cycler in particular - her mother Jina, daughter of Majhee Suh and Vec Barbosa. Over the above sequence of images is the following dialogue: 
+Over the above sequence of images is the following dialogue: 
 
-Asoka: **"Quem são eles?"**
+Asoka: **"*Quem são eles?*"**
 
 *translation: "Who are they?"*
 
-Min looks at the Elders proudly, reverently.
+Min watches one Water Cycler in particular - her mother Jina, daughter of Majhee Suh and Vec Barbosa -- with proud reverence.
 
 Min: **"Eles são os *cicladores de água*."**
 
 *translation: "They are the **water cyclers**."*
 
-Asoka: **"Os cicladores de água?"**
+Asoka: **"*Os cicladores de água?*"**
 
 *translation: "The water cyclers?"*
 
@@ -1515,7 +1515,7 @@ Min: **"Todos os dias eles [tratam a água](https://en.wikipedia.org/wiki/Water_
 
 *translation: "Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the rain, from the river, and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."*
 
-Asoka: **"Espere, o que??"**
+Asoka: **"*Espere, o que??*"**
 
 *translation: "Wait, what??"*
 
@@ -1585,7 +1585,7 @@ Maraba: **"(Gasp!) I love water!"**
 
 Maraba then turns to Min and Asoka. 
 
-Maraba: **"You know, I think we can safely assume that eventually, the WORLD GOV *will* find us, given that they're in orbit, and they've already seen enough of us to send one warship. So we might as well take action now, and join our strength with the Biononymous!"**
+Maraba: **"*I* think we can safely assume that eventually, the WORLD GOV *will* find us, given that they're in orbit, and they've already seen enough of us to send one warship. So we might as well take action now, and join our strength with the Biononymous!"**
 
 Min: **"And the Peacekeeper's actions have proven their ignorant and evil intentions! We should fight to defend what we've worked so hard to regain!!"**
 
@@ -1607,25 +1607,101 @@ Nova, who has been listening and watching the many conversations around her, sig
 
 Nova: **"Sounds like [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making#Quaker-based_model) will be difficult..."**
 
-Asoka: **"Consensus?"**
+Asoka: **"*Consensus?*"**
 
-Nova glances up at Asoka, then she gives a gentle smile. 
+Nova glances up at Asoka, still not used to the synthetic voice coming from Asoka's face veil, then she gives a gentle smile. 
 
 Nova: **"When the Council of the Elders make a group decision, we all share our concerns until our group goal is clear to everyone. As we all work towards a group decision, if an Elder's perspective doesn't fit into the group decision, the Elder can choose to 'stand aside' or 'block' the emerging consensus."**
 
 Nova's brow furrows. 
 
-Nova: **"If even one Elder chooses to 'block' an action, we have to find another direction to in which we can form consensus. (Sigh!) It's gonna be tricky!"**
+Nova: **"If even one Elder chooses to 'block' an action, we have to find another direction in which we can form consensus. (Sigh!) It's gonna be tricky!"**
 
 ## Chapter 7: Mistakes Are How We Evolve
 
-Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa
+Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Page 1
 
+The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just next to the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. 
+
+Asoka slowly opens their eyes and stares at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of the sleeping bubble. For a moment, they are entranced by the beautiful sight, smiling a bit and reaching up to let the light play on their bare hand. Then, they suddenly remember...
+
+Asoka: *"I failed..."*
+
+Asoka's hand falls to their face, to cover their eyes. A single, fat tear rolls down Asoka's cheek. 
+
+### Page 2
+
+**"2 days earlier..."**
+
+Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+
+The sun is low in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
+
+Maraba: **"I stand aside."**
+
+A wave of relief moves through the gathered Automata. Nova nods, clearly eager to wrap things up. 
+
+Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a subdermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+
+The gathered Elders are all silent. 
+
+Nova: **"Very well, we have reached consensus. Thank you everyone for your time."**
+
+With a cry of rage, Min runs to the edge of the Central Hearth platform and leaps to the next tree. Maraba runs after her. 
+
+Maraba: **"Min!"**
+
+Jina and Majhee exchange a look. Jina rolls her eyes just a bit, and Majhee sighs deeply and shakes her head. 
+
+### Page 3
+
+We're back in Asoka's sleeping bubble. The sun is nearly at midday. Asoka's hand is no longer on top of their face; their hands now cup their cheek as they nap fitfully, silently weeping into their pillow. We hear a scratch at the entrance, which jolts Iri awake. 
+
+Min: **"Asoka?"**
+
+Iri grabs Asoka's veil and throws it over Asoka's face. Asoka doesn't move. 
+
+Iri: **"Entre!"**
+
+*translation: "Come in!"*
+
+Min steps through the bubble membrane and climbs up to Asoka's hammock. She looks calmer than when we last saw her, though not as dejected as Asoka. Min sees that Asoka is still in their hammock, not even dressed properly. 
+
+Min: **"Almoço?"**
+
+*translation: "Lunch?"*
+
+Asoka doesn't move or answer. Iri chirps worriedly at Asoka, then looks at Min apologetically. 
+
+Iri: **"Talvez...não hoje..."**
+
+*translation: "Maybe...not today..."*
+
+Min: **"Não seja ridículo. Pulou ontem também."**
+
+*translation: "Don't be ridiculous. You skipped yesterday also."*
+
+Asoka still doesn't answer. Min attempts to be funny. 
+
+Min: **"
+
+*translation: "I'm not happy about the Elders' decision either, but don't let those old farts kill your appetite."*
+
+No response from Asoka. Min loses her patience. 
+
+Min: **"
+
+*translation: "Fine! Starve yourself, and see what good that does for anyone!"*
+
+Min turns angrily to the bubble's edge, then hesitates, gritting her teeth. She quickly turns and leaves a small, bulging pouch by Asoka's boots, then huffily exits. 
+
+### Page 4
 
 
-The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. Upon hearing this news, Asoka falls into a deep, dark depression. Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
+
+Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
 
 ## Dream, the last: Comma, not a Period
 
