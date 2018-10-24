@@ -1385,7 +1385,7 @@ Min, Asoka, and Iri are in a tall tree, watching the Peacekeepers set up camp as
 
 ### Page 2
 
-Min, dead-eyed and haggard after screaming herself hoarse, sits across from Asoka, on the out edge of a branch, leaning into the tree and letting spikes in her back lock her in. She stares grudgingly at Asoka. 
+In a quieter, more mature part of the re-grown forest, Min, dead-eyed and haggard after screaming herself hoarse, sits across from Asoka, on the outer edge of a branch, leaning into the tree and letting spikes in her back lock her in. She stares grudgingly at Asoka. 
 
 Min: **"Entou, estranho, por que você traz esses bárbaros para minha floresta?"**
 
@@ -1411,7 +1411,7 @@ Asoka, off-panel: **"O WORLD GOV tem estado atrás dos Portos Verdes há anos ..
 
 *translation: "The WORLD GOV has been after the Green Havens for years...at first they wanted 30% of our yearly crop. We refused. Then, a few years later, roaming bands of enormous, demonic beasts began appearing in the North. They were huge and impossibly fast and killed everyone in a Green Haven in a matter of minutes.."*
 
-### Page 2
+### Page 3
 
 Asoka's fists clench. We see Asoka's eyes from behind their face veil, angry tears streaming down their face. 
 
@@ -1427,7 +1427,7 @@ Min: **"Eu vi esses Pacificadores, com meus próprios olhos. Eles não sabem, ou
 
 *translation: "I saw these Peacekeepers, with my own eyes. They don't know, or **don't care**, that their search for 'exotic fruits' and magical humans is destroying a forest that is too **delicate** for this shit!"*
 
-### Page 3
+### Page 4
 
 Nova gives Min a sharp look. Nova is now in her 70s, still plump but now strengthened by decades of living in the rainforest. 
 
@@ -1456,8 +1456,6 @@ Min: **"Entou, você não se importa com eles?? Eles também são Earthers!"**
 Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
 
 *translation: "Aiii, little Minka, when will you learn **a little bit of patience**?"*
-
-### Page 4
 
 Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
 
@@ -1531,7 +1529,7 @@ Water Cyclers: **"Beber sem sangrar!"**
 
 *translation: "Drink without bleeding!"*
 
-The Water Cyclers then all down their glass of water, the first cup of the water they offer to their clanmates. As they finish, the gathered Automata start to clap and cheer and eat and drink. Min grins and reaches for the escabeche. 
+The Water Cyclers then all down their glass, the first cup of the water they offer to their clanmates. As they finish, the gathered Automata start to clap and cheer and eat and drink. Min grins and reaches for the escabeche. 
 
 Min: **"Certo, *agora* podemos comer."**
 
@@ -1565,7 +1563,7 @@ Majhee: **"Well, this is *exciting*!"**
 
 Osiel looks up from opening up the [juane](https://en.wikipedia.org/wiki/Juane) on his plate and shoots Majhee an annoyed look.
 
-Osiel: **"Don't be so cheerful. It's happened! They're here! So what do we do now??"**
+Osiel: **"Don't be so cheerful. It's happened! Space Consortium is back! So what do we do now??"**
 
 The elder turns a skeptical eye onto Asoka. 
 
@@ -1581,7 +1579,7 @@ Murmurs of sympathetic agreement rise from nearby Elders. Osiel grumpily focuses
 
 ### Page 11
 
-Maraba, sitting across the table from Min, swallows a bite of [pirarucu](https://en.wikipedia.org/wiki/Arapaima) [à_Gomes_de_Sá](https://en.wikipedia.org/wiki/Bacalhau_à_Gomes_de_Sá) and takes a long sip of water while tapping their face with their chopsticks and wiggling their eyebrows frantically, as if they desperately wanted both to guzzle water and to tell Asoka and Min something urgently. Finally Maraba comes up for air. 
+Maraba, sitting across the table from Min, swallows a bite of [pirarucu](https://en.wikipedia.org/wiki/Arapaima) [à_Gomes_de_Sá](https://en.wikipedia.org/wiki/Bacalhau_à_Gomes_de_Sá) and takes a long sip of water while tapping their face with their chopsticks and wiggling their eyebrows frantically, as if they desperately want to simultaneously guzzle water and to tell Asoka and Min something urgently. Finally Maraba comes up for air. 
 
 Maraba: **"(Gasp!) I love water!"**
 
@@ -1622,6 +1620,10 @@ Nova: **"If even one Elder chooses to 'block' an action, we have to find another
 ## Chapter 7: Mistakes Are How We Evolve
 
 Character designs: Asoka Morei, Iri, Minka Oosou, Jina Suh Barbosa
+
+### Page 1
+
+
 
 The Elders debate the offer, and in the end decide to reject the alliance and move deeper into the Amazon, in the hopes that the Automata can avoid confrontation with the **WORLD GOV** indefinitely. Upon hearing this news, Asoka falls into a deep, dark depression. Min goes to see Asoka and tries to stir Asoka out of their depression by telling Asoka that moping only dishonours the deaths of their Green Haven. Asoka lashes out - how could Min possibly understand how they feel? Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
 
