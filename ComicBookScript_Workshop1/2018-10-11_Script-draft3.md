@@ -1657,7 +1657,7 @@ With a cry of rage, Min runs to the edge of the Central Hearth platform and leap
 
 Maraba: **"Min!"**
 
-Jina and Majhee exchange a look. Jina rolls her eyes just a bit, and Majhee sighs deeply and shakes her head. 
+Jina, looking upset, also starts to move after Min, but the tall, dark man next to her, with very few clan tatoos and no subdermal shield, places a hand on Jina's leg and gently shakes his head. Jina sits back down, and she and the man hug. Over Jina's head, the man stares after Min, who is leaping from tree to tree, trying to work off her anger and disappointment. 
 
 ### Page 3
 
