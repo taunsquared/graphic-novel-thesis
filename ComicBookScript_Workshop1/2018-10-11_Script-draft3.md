@@ -1830,7 +1830,33 @@ Min goes to see Asoka and tries to stir Asoka out of their depression by telling
  
 
 
+# notes
 
+desalination -> waste product is hydrogen --> highly flammable!!
+
+bilge space
+
+engine room
+
+top floor: control room  
+next below: living space (sleeping, galley)  
+3 deck: weapons
+
+throttle spuds
+
+escape portals
+
+deep submersible rescue vehicle
+
+magnetic readings  
+last gps signal, with direction and speed of travel  
+lots of physical maps - navigation officer  
+location is highly classified information  
+information security is massive on boats  
+
+sonar specialist - to them what is information to other people it's just a bunch of lines  
+information is heavily sequestered  
+everyone works in teams in their specialism - sonar, weapons, communications, engineerings
 
 
 
