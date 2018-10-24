@@ -1717,7 +1717,7 @@ Iri reachers over to the pouch that Min left in the hammock and pulls out a [Ung
 
 Asoka: *"Maybe there's leftovers at the Central Hearth..."*
 
-Another scratch at Asoka's sleeping bubble. Asoka and Iri exchange a glance, then Asoka sighs. 
+They both look up at the sound of a scratch on Asoka's sleeping bubble. Asoka and Iri exchange a glance, then Asoka sighs. 
 
 Asoka: *"Fine, I'll get up."*
 
@@ -1729,7 +1729,7 @@ Iri: **"Um momento!"**
 
 ### Page 5
 
-
+We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. 
 
 
 
