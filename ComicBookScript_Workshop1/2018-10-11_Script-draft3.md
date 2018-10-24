@@ -1393,7 +1393,7 @@ Min: **"Entou, estranho, por que você traz esses bárbaros para minha floresta?
 
 *translation: "So, stranger, why do you bring these barbarians to my forest?"*
 
-Asoka's face is back on, and the anonymous face embroidered onto it is earnest, pleading. 
+Asoka's veil is back on, and the anonymous face embroidered onto it is earnest, pleading. 
 
 Asoka: **"*I didn't bring them! I mean...*"**
 
@@ -1726,6 +1726,10 @@ Asoka ties back their hair and swings their legs out of the hammock, face veil g
 Iri: **"Um momento!"**
 
 *translation: "Just a minute!"*
+
+### Page 5
+
+
 
 
 
