@@ -1699,7 +1699,7 @@ Min: **"
 
 *translation: "Fine! Starve yourself, and see what good that does for anyone!"*
 
-Min turns to the bubble's edge, about to leave, then hesitates, gritting her teeth. She quickly turns and places a small, bulging pouch in Asoka's hammock, gives Asoka an angry look, then huffily exits. 
+Min turns to the bubble's edge, about to leave, then hesitates, gritting her teeth. She then gives Asoka an angry look over her shoulder, and huffily exits the bubble. 
 
 ### Page 4
 
@@ -1711,9 +1711,7 @@ Asoka: *"What's the point? I came all this way, and I failed. It was a mistake t
 
 Asoka has had their fill of water. Their stomach rumbles loudly, and Iri looks worried. 
 
-Iri: *"Soka, pleeeaaase will you eat something? I think Min left you a snack..."*
-
-Iri reachers over to the pouch that Min left in the hammock and pulls out a [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. Asoka stares at it, unable to fathom what to do with it. 
+Iri: *"Soka, pleeeaaase will you eat something?"* 
 
 Asoka: *"Maybe there's leftovers at the Central Hearth..."*
 
@@ -1729,7 +1727,43 @@ Iri: **"Um momento!"**
 
 ### Page 5
 
-We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. 
+We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. 
+
+Min: **"Estou feliz que você esteja comendo mais uma vez."**
+
+*translation: "I'm glad you're eating again."*
+
+Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
+
+Min: **"Desculpa, eu não tinha certeza se você comer ou beber alguma coisa...você quer tentar?"**
+
+*translation: "Sorry, I wasn't sure if you eat or drink anything...wanna try?"*
+
+Iri: **"Certo! Eu não tenho que comer ou beber, mas é divertido!"**
+
+*translation: "Sure! I don't have to eat or drink, but it's fun!"*
+
+Iri carefully tips a small amount of liquid into its mouth. Its eyes light up -- Iri likes the juice a lot! Iri downs the rest of the glass. 
+
+Iri: **"Wow! Muito delicioso!!"**
+
+*translation: "Wow! So delicious!!"*
+
+Iri, looking like an adorable, cuttlefish version of Oliver Twist, endearingly holds out the wooden cup to Min. 
+
+Iri: **"Por favor, posso ter mais alguns?"**
+
+*translation: "Please, may I have some more?"*
+
+Min can't help laughing at how cute Iri is, and pats Iri on the head. 
+
+Min: **"Claro!"**
+
+*translation: "Of course!"*
+
+### Page 6
+
+
 
 
 
