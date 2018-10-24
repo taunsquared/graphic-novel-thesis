@@ -1094,6 +1094,8 @@ As Asoka runs, their face veil shows them overlays of annotations about the envi
 
 In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36.2 deg celsius, while the temp inside Asoka's clothes is 23.1. 
 
+Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is quite high](https://petri.massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/). 
+
 ### Page 3
 
 It's the earliest part of dawn - [astronomical dawn](https://en.wikipedia.org/wiki/Dawn#Astronomical_dawn). Asoka leans against a rock to catch their breath. A few scattered groves of [*Vismia guianensis*](https://cloudfront.escholarship.org/dist/prd/content/qt8xs2c9h8/qt8xs2c9h8.pdf?t=ovirno) trees break up the bleak landscape. 
@@ -1623,9 +1625,11 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just next to the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. 
+The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just next to the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. 
 
-Asoka slowly opens their eyes and stares at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of the sleeping bubble. For a moment, they are entranced by the beautiful sight, smiling a bit and reaching up to let the light play on their bare hand. Then, they suddenly remember...
+Asoka slowly opens their eyes and stares at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble and the various other sleeping bubbles suspended in the tree above theirs. Shadows show hammocks and various belongings in the other sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. 
+
+For a moment, Asoka is entranced by the beautiful sight above them, smiling a bit and reaching up to let the light play on their bare hand. Then, they suddenly remember...
 
 Asoka: *"I failed..."*
 
@@ -1633,7 +1637,7 @@ Asoka's hand falls to their face, to cover their eyes. A single, fat tear rolls 
 
 ### Page 2
 
-**"2 days earlier..."**
+**"12 hours earlier..."**
 
 Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
@@ -1657,7 +1661,7 @@ Jina and Majhee exchange a look. Jina rolls her eyes just a bit, and Majhee sigh
 
 ### Page 3
 
-We're back in Asoka's sleeping bubble. The sun is nearly at midday. Asoka's hand is no longer on top of their face; their hands now cup their cheek as they nap fitfully, silently weeping into their pillow. We hear a scratch at the entrance, which jolts Iri awake. 
+We're back in Asoka's sleeping bubble. The sun is nearly at midday. Asoka's hand is no longer on top of their face; their hands now cup their cheek as they nap fitfully, silently weeping into their pillow. We hear a scratch on the eSyrup bubble, which jolts Iri awake. 
 
 Min: **"Asoka?"**
 
@@ -1687,7 +1691,7 @@ Asoka still doesn't answer. Min attempts to be funny.
 
 Min: **"
 
-*translation: "I'm not happy about the Elders' decision either, but don't let those old farts kill your appetite."*
+*translation: "I'm not happy about the Elders' decision either, but don't let their farts kill your appetite."*
 
 No response from Asoka. Min loses her patience. 
 
@@ -1695,9 +1699,36 @@ Min: **"
 
 *translation: "Fine! Starve yourself, and see what good that does for anyone!"*
 
-Min turns angrily to the bubble's edge, then hesitates, gritting her teeth. She quickly turns and leaves a small, bulging pouch by Asoka's boots, then huffily exits. 
+Min turns to the bubble's edge, about to leave, then hesitates, gritting her teeth. She quickly turns and places a small, bulging pouch in Asoka's hammock, gives Asoka an angry look, then huffily exits. 
 
 ### Page 4
+
+The sun is setting. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. Asoka's face veil is crumpled in Asoka's lap. 
+
+Iri: *"You'll have to get out of bed, at least for more water...you keep crying away all of your moisture..."*
+
+Asoka: *"What's the point? I came all this way, and I failed. It was a mistake to leave Green Haven Clarksville..."*
+
+Asoka has had their fill of water. Their stomach rumbles loudly, and Iri looks worried. 
+
+Iri: *"Soka, pleeeaaase will you eat something? I think Min left you a snack..."*
+
+Iri reachers over to the pouch that Min left in the hammock and pulls out a [Ungurahua](https://youtu.be/baWFekERwsw) fruit, which looks like a rather large and plump, dark purple-black grape. Asoka stares at it, unable to fathom what to do with it. 
+
+Asoka: *"Maybe there's leftovers at the Central Hearth..."*
+
+Another scratch at Asoka's sleeping bubble. Asoka and Iri exchange a glance, then Asoka sighs. 
+
+Asoka: *"Fine, I'll get up."*
+
+Asoka ties back their hair and swings their legs out of the hammock, face veil gripped in one hand. Iri hands Asoka their head scarf and jacket while yelling in the direction of the inquisitive scratch. 
+
+Iri: **"Um momento!"**
+
+*translation: "Just a minute!"*
+
+
+
 
 
 
