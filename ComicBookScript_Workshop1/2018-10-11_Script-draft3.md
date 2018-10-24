@@ -768,7 +768,7 @@ Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleev
 
 We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, a tiny woman, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his dark face betraying heartbroken sympathy for Asoka and anxious worry about the situation as a whole. The woman's face, half-hidden behind long, thick, gently curling dark hair, is one of calm contemplation. 
 
-They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and early summer blossoms. 
+They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and mid-summer blossoms. 
 
 Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
 
@@ -1206,7 +1206,7 @@ Asoka: **"Mmmmmm!!!"**
 
 ### Page 8
 
-Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. 
+Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. 
 
 Asoka claps their hands and wipes their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. 
 
@@ -1314,18 +1314,18 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 
 **"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
 
-**"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'subdermal shield'."**
+**"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'intradermal shield'."**
 
 ### Page 2
 
-**"This subdermal shield allows the Automata to exist above ground, and fulfill the prime directive of their clan -- to restore the Amazon Rainforest."**
+**"This intradermal shield allows the Automata to exist above ground, and fulfill the prime directive of their clan -- to restore the Amazon Rainforest."**
 
 We see close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
 
-* Jina, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's subdermal shield is visible in shadowy patterns under her clan tatoos. Next to her is a tall bucket holding ritual clensing water.  
-* Amadou, no subdermal shield and just a few clan tatoos, but dressed spledidly and unspeakably proud of his daughter.   
-* Majhee, matriarch leader of their clan, subdermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
-* Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's subdermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
+* Jina, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's intradermal shield is visible in shadowy patterns under her clan tatoos. Next to her is a tall bucket holding ritual clensing water.  
+* Amadou, no intradermal shield and just a few clan tatoos, but dressed spledidly and unspeakably proud of his daughter.   
+* Majhee, matriarch leader of their clan, intradermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
+* Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's intradermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
 **"DOOOOHM!"** 
 
@@ -1339,17 +1339,17 @@ Maraba picks up the syringe as Jina picks up the bucket of water, leaving Majhee
 
 Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its previous location in the circle. Then Maraba positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
 
-Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, and into her eyelids. As the subdermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. 
+Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, and into her eyelids. As the intradermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. 
 
 Min's body convulses as her inner circle sets her upright in the very center again. 
 
-The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the subdermal shield. 
+The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the intradermal shield. 
 
 *translation: "Be free! Be FREE! BE FREE!"*
 
 ### Page 4
 
-After a tense moment, Min focuses her subdermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
+After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
 Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
 
@@ -1421,7 +1421,7 @@ Asoka: **"*O Alto Conselho de Biononimous acredita que as Bestas foram criadas p
 
 *translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, the WORLD GOV has stationed at least 40 Peacekeepers at each Haven, and are **forcibly** taking 50% of our food!"*
 
-The scene has transitioned to the Central Hearth of the Automata, an enormous tree-house structure with an eSyrup-bubble ceiling. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their subdermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka is kneeling and facing the gathered crowd of Automata with desperate supplication, as Iri sits on Asoka's shoulders, arms wrapped around Asoka's head and neck. Children openly stare at Iri and Asoka's strange clothing. Elders look troubled or angry, or both.
+The scene has transitioned to the Central Hearth of the Automata, an enormous tree-house structure with an eSyrup-bubble ceiling. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka is kneeling and facing the gathered crowd of Automata with desperate supplication, as Iri sits on Asoka's shoulders, arms wrapped around Asoka's head and neck. Children openly stare at Iri and Asoka's strange clothing. Elders look troubled or angry, or both.
 
 Min addresses Nova Jatobá, currently serving as Head Councilor of Elders, around whom the curious crowd has gathered. 
 
@@ -1593,7 +1593,7 @@ Min: **"And the Peacekeeper's actions have proven their ignorant and evil intent
 
 Osiel, looking bored, sighs and shakes his head. 
 
-Osiel: **"You fresh Elders...always wanna go beat up *someone*, just because you have a subdermal shield!"**
+Osiel: **"You fresh Elders...always wanna go beat up *someone*, just because you have a intradermal shield!"**
 
 Osiel shakes himself, then points accusingly at Min.
 
@@ -1647,7 +1647,7 @@ Maraba: **"I stand aside."**
 
 A wave of relief moves through the gathered Automata. Nova nods, clearly eager to wrap things up. 
 
-Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a subdermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
 
 The gathered Elders are all silent. 
 
@@ -1657,7 +1657,7 @@ With a cry of rage, Min runs to the edge of the Central Hearth platform and leap
 
 Maraba: **"Min!"**
 
-Jina, looking upset, also starts to move after Min, but the tall, dark man next to her, with very few clan tatoos and no subdermal shield, places a hand on Jina's leg and gently shakes his head. Jina sits back down, and she and the man hug. Over Jina's head, the man stares after Min, who is leaping from tree to tree, trying to work off her anger and disappointment. 
+Jina, looking upset, also starts to move after Min, but the tall, dark man next to her, with very few clan tatoos and no intradermal shield, places a hand on Jina's leg and gently shakes his head. Jina sits back down, and she and the man hug. Over Jina's head, the man stares after Min, who is leaping from tree to tree, trying to work off her anger and disappointment. 
 
 ### Page 3
 
@@ -1665,13 +1665,13 @@ We're back in Asoka's sleeping bubble. It is late morning, just before midday. A
 
 Min: **"Asoka?"**
 
-Iri grabs Asoka's veil and throws it over Asoka's face. Asoka doesn't move. 
+Asoka doesn't move. 
 
-Iri: **"Entre!"**
+Min: **"Asoka, to entrando!"**
 
-*translation: "Come in!"*
+*translation: "Asoka, I'm coming in!"*
 
-Min steps through the bubble membrane and climbs up to Asoka's hammock. She looks calmer than when we last saw her, though not as dejected as Asoka. Min sees that Asoka is still in their hammock, not even dressed properly. 
+Min steps through the bubble membrane and climbs up to Asoka's hammock. She looks calmer than when we last saw her, though not as dejected as Asoka. Min perches on a branch above Asoka that lets her peer down at the depressed Biononymous teen. Iri discreetly places their arms over Asoka's ears and looks up at Min obligingly. 
 
 Min: **"Almoço?"**
 
@@ -1689,27 +1689,27 @@ Min: **"Não seja ridículo. Pulou ontem também."**
 
 Asoka still doesn't answer. Min attempts to be funny. 
 
-Min: **"
+Min: **"Eu também não estou feliz sobre o decisão de Anciãos, mas não deixe que seus peidos matem seu apetite."**
 
 *translation: "I'm not happy about the Elders' decision either, but don't let their farts kill your appetite."*
 
 No response from Asoka. Min loses her patience. 
 
-Min: **"
+Min: **"Nesse caso, passar fome! Descubra o que é bom para quem!"**
 
-*translation: "Fine! Starve yourself, and see what good that does for anyone!"*
+*translation: "In that case, starve yourself! Discover what good that does for anyone!"*
 
-Min turns to the bubble's edge, about to leave, then hesitates, gritting her teeth. She then gives Asoka an angry look over her shoulder, and huffily exits the bubble. 
+Min turns to the bubble's edge, gritting her teeth. She gives Asoka an angry look over her shoulder, and huffily exits the bubble. 
 
 ### Page 4
 
-It's late afternoon. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. Asoka's face veil is crumpled in Asoka's lap. 
+It's late afternoon. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. 
 
 Iri: *"You'll have to get out of bed, at least for more water...you keep crying away all of your moisture..."*
 
 Asoka: *"What's the point? I came all this way, and I failed. It was a mistake to leave Green Haven Clarksville..."*
 
-Asoka has had their fill of water. Their stomach rumbles loudly, and Iri looks worried. 
+Asoka has had their fill of water. Their stomach rumbles loudly, pityingly, and Iri looks worried. 
 
 Iri: *"Soka, pleeeaaase will you eat something?"* 
 
@@ -1719,7 +1719,7 @@ They both look up at the sound of a scratch on Asoka's sleeping bubble. Asoka an
 
 Asoka: *"Fine, I'll get up."*
 
-Asoka ties back their hair and swings their legs out of the hammock, face veil gripped in one hand. Iri hands Asoka their head scarf and jacket while yelling in the direction of the inquisitive scratch. 
+Asoka ties back their hair and swings their legs out of the hammock, rubbing their face with one hand. Iri hands Asoka their head scarf, face veil, and jacket while yelling in the direction of the inquisitive scratch. 
 
 Iri: **"Um momento!"**
 
@@ -1727,31 +1727,29 @@ Iri: **"Um momento!"**
 
 ### Page 5
 
-We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is wearing their head scarf and face veil, and their jacket is on but un-fastened up the front. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
+We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is wearing their head scarf, but the face veil is pulled back, revealing their face so that they can eat. Asoka's jacket is on but un-fastened up the front. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
 
-Min: **"Desculpa, eu não tinha certeza se você comer ou beber alguma coisa...você quer tentar?"**
+Min: **"Desculpa...você quer tentar?"**
 
-*translation: "Sorry, I wasn't sure if you eat or drink anything...wanna try?"*
+*translation: "Sorry...wanna try?"*
 
-Iri: **"Certo! Eu não tenho que comer ou beber, mas é divertido!"**
+Iri: **"Certo!"**
 
-*translation: "Sure! I don't have to eat or drink, but it's fun!"*
+*translation: "Sure!"*
 
 Iri carefully tips a small amount of liquid into its mouth. Its eyes light up -- Iri likes the juice a lot! Iri downs the rest of the glass. 
 
-Iri: **"Wow! Muito delicioso!!"**
+Iri: **"Mmmmmm!!"**
 
-*translation: "Wow! So delicious!!"*
+Min: **"É suco, feito com [fruta de patua](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."**
 
-Min: **"É suco de fruta, feito de [fruta patua](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."**
-
-*translation: "It's fruit juice, made from [patua fruit](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."*
+*translation: "It's juice, made with [patua fruit](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."*
 
 Iri, looking like an adorable, cuttlefish version of Oliver Twist, endearingly holds out the wooden cup to Min. 
 
-Iri: **"Por favor, posso ter mais alguns?"**
+Iri: **"Por favor, mais?"**
 
-*translation: "Please, may I have some more?"*
+*translation: "Please, more?"*
 
 Min can't help laughing at how cute Iri is, and pats Iri on the head. 
 
@@ -1767,13 +1765,13 @@ Asoka: **"*You know, I can't understand anything when you don't translate for me
 
 Iri deflates completely and droops with guilt. 
 
-Min: **"Ah, sorry! I can just switch to English."**
+Min: **"Ah, sorry! I'm just not used to using my babelfish."**
 
 Asoka accepts by shrugging and wordlessly digging back into the food. Min and Iri exchange awkward glances. 
 
-Min: **"I was just telling Iri that this juice is made from patua trees...we have a big grove nearby, I can show you how to harvest them!"**
+Min: **"I was telling Iri that this juice is made from patua trees...we have a big grove nearby, I can show you how to harvest them!"**
 
-Asoka looks at their cup, then takes a sip. They also like it, so they upend the cup and down the rest of the juice. Then they go back to eating. 
+Asoka doesn't look up from eating. 
 
 Asoka: **"*Whatever.*"**
 
@@ -1783,35 +1781,59 @@ Min: **"What, do you plan to spend the rest of your life moping inside your slee
 
 Asoka: **"*Why do you care?*"**
 
-Min: **"Why *don't* you care? Don't you realise that by giving up, you're letting the Peacekeepers and the WORLD GOV *win*??"**
+Min: **"Why do you *not* care? Don't you realise that by giving up, you're letting the Peacekeepers and the WORLD GOV *win*??"**
 
 ### Page 7
 
-Asoka: **"*They already won...my home is gone, my family is dead...*"**
+Asoka, starting to get angry. 
+
+Asoka: **"*They already won...my home is gone, and my family is dead!*"**
 
 Min: **"What about your people, the other Biononymous? Didn't you come all this way to help them??"**
 
 Asoka: **"*Yeah, exactly! I tried, and I failed...*"**
 
-In her frustration, Min gets up on her knees and shouts down at Asoka. 
+In her frustration, Min gets up on her knees, trying to tower over Asoka, who even when sitting is at least a good head height taller. 
 
 Min: **"So are you gonna sit there and continue to be useless, just because *one thing* didn't turn out *exactly* the way you expected??"**
 
-Asoka begins crying again. Min looks upset that she triggered Asoka's tears, but also still angry with Asoka's apathy. 
+Asoka: **"Useless...that's exactly what I am..."**
 
-Min: **"Look, I'm so sorry...I get really impatient sometimes...I'm just...so angry about the Peacekeepers...can I give you hug?"**
+Asoka begins crying again, and hides their face in their hands. Min looks upset that she triggered Asoka's tears, but she is also still angry with Asoka's apathy. 
+
+Min: **"Look, I'm so sorry...I get really impatient sometimes...I'm just...*so angry* about the Peacekeepers..."**
+
+Min crawls around the food to kneel by Asoka. 
+
+Min: **"...can I give you hug?"**
 
 Asoka doesn't look up, but gives a tiny nod. 
 
-Asoka, barely audible: **"*Mmmhmm...*"**
+Asoka, barely audible: **"*Yes...*"**
 
-Iri gives Min an encouraging wave with the tip of an arm. Min walks around the food to kneel by Asoka and embrace them gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. 
+Iri gives Min an encouraging smile. Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. 
 
 ### Page 8
 
-Asoka and Min sit back to back in Asoka's sleeping bubble, watching the sun disappear behind the horizon. Early stars are already twinkling in the twilight. They are both sipping more patua fruit juice, faces streaked with tears and looking emotionally spent. 
+Asoka and Min sit in the upper branches of Asoka's sleeping bubble, backs against the main tree trunk, watching the sun disappear behind the horizon. Early stars and fireflies are already twinkling in the twilight, and a waning moon is rising. Both teens are sipping patua fruit juice, faces streaked with tears and looking emotionally spent. 
 
-Asoka: **"*
+Asoka: **"This juice is *so* good!"**
+
+Min: **"Mmmhmm! My dad makes the *best* patua juice!"**
+
+They drink in blissful silence. 
+
+Asoka: **"I wish we could see more stars..."**
+
+Min: **"Yeah? Then come on!"**
+
+### Page 9
+
+Asoka: **"*This is *incredible*.*"**
+
+Asoka is now fully dressed, and they are looking out over a vast rainforest canopy, standing on a tree platform and clutching the much shorter Min, who is locked into the tree top branches with strategically grown spikes. There is no eSyrup bubble here, so Min's eyelids are shut to protect her eyes from the atmosphere, even as the eSyrup in the thin skin of her eyelids let in just enough photos to transmit the view to her retina anyway. Min breathes only through her nose, keeping her lips tightly shut but 
+
+
 
 
 
