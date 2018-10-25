@@ -278,33 +278,33 @@ Felix: **"Vamos, Breno! Você sabe que *nenhum* de nós venderia para Space Cons
 
 *translation: "Come on Breno! You know *none* of us would sell-out to Space Consortium!"**
 
-Breno, smiles ruefully, eyes pitying: **"Verdadeiramente? Esse tipo de dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia. O que te faz pensar que eu não desisti de uma tentação como essa?"**
+Breno, smiles ruefully, eyes pitying: **"Oh sim? Esse dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia. O que te faz pensar que eu não desisti de uma tentação como essa?"**
 
-*translation: "Really? That kind of money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"*
+*translation: "Oh yeah? That money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"*
 
-Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, sim?! Se Iara é privilegiada, então você também é!"**
+Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, no?! Se Iara é privilegiada, então você também é!"**
 
-*translation: "So then good thing Majhee is paying the doctors' bribes for your mother, yeah?! If Iara is privileged, then so are you!"*
+*translation: "So good thing Majhee is paying the doctors' bribes for your mother, no?! If Iara is privileged, then so are you!"*
 
 We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear.
 
 ### Page 7 
 
-Majhee: **"Eu não posso... *pedir* qualquer pessoa para ficar. Todos nós sabemos os riscos que vêm com o trabalho neste projeto, com o trabalho nesta cidade agora. Todos temos família para proteger."**
+Majhee: **"Todos nós sabemos os riscos que vêm com o trabalho neste projeto, com o trabalho nesta cidade agora. Todos temos família para proteger."**
 
-*translation: "I can't...*ask* anyone to stay. We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."*
+*translation: "We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."*
 
-Majhee: **"Mas...*pessoalmente*...não posso desistir agora. Se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
+Majhee: **"Mas...se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
 
-*translation: "But...*personally*...I can't give up now. If we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
+*translation: "But...if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
 
 Majhee: **"Se você acha que deve sair, eu farei o que puder para ajudar você e sua família a saírem desta cidade, e fora do radar do Space Consortium."**
 
 *translation: "If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."*
 
-Majhee: **"Se você ficar... Eu sempre lhe devo uma dívida de gratidão... e eu juro, vou proteger você e suas famílias de qualquer maneira que eu puder."**
+Majhee: **"Se você ficar...eu juro proteger você e suas famílias de qualquer maneira que eu puder."**
 
-*translation: "If you stay...I will forever owe you a debt of gratitude...and I swear, I will protect you and your families in any way that I can."*
+*translation: "If you stay...I swear to protect you and your families in any way that I can."*
 
 **"6 months later: Massachusetts, USA"**
 
@@ -312,7 +312,7 @@ We see rolling countryside, vibrant with autumn colors, behind a low row of conc
 
 Off-panel, secretary: **"Iúna, the folks from the World Health Organization are here."**
 
-Off-panel, Iúna: **"Thanks, I'll be with them in a moment."**
+Off-panel, Iúna: **"Thanks, I'll be with them in a minute."**
 
 We see the inside of a warehouse, where long rows of industrial looms weave eSyrup textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
 
@@ -328,9 +328,9 @@ Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just g
 
 Iúna: **"Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
 
-Dr. Kauffmann: **"Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your MERV filter efficiency ratings, not with sheer fabrics at least. I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your [MERV ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value). I've got your organzas in every window of my house."**
 
-Iúna: **"Just doing what we can. What was the emergency conference about?"**
+Iúna: **"Just doing what we can. What's the emergency conference about?"**
 
 Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
 
@@ -346,9 +346,9 @@ Iúna: **"What?? How many dead??"**
 
 Dr. Kauffmann: **"Unfortunately we haven't had a chance to count yet. Thousands are already homeless."**
 
-Iúna: **"How does a police raid start a state-wide fire??"**
+Iúna: **"How does a *police raid* start a *state-wide fire*??"**
 
-Dr. Kauffmann: **"It's all the plastic furniture - they're basically *solid* petroleum, turns a misplaced candle into a fireball in just *minutes*. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner. I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"**
+Dr. Kauffmann: **"It's all that plastic furniture - they're basically *solid* petroleum, turns a misplaced candle into a fireball in *minutes*. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner...I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"**
 
 Iúna: **"Yes, I...I'm sorry I need to make a call..."**
 
@@ -382,17 +382,17 @@ Tahoe: **"*Wa-wait, seriously?*"**
 
 Iúna: **"*Yes. We need all of the protections we can get right now.*"**
 
-Tahoe: **"*You've been thinking about what Pigsah said at our last TeleSensing?*"**
+Tahoe: **"*You been thinking about what Pigsah said?*"**
 
-Iúna: **"*Yes. They were right - it's relatively easy right now to live without body mods. But once all the schools require every student to get an **INFO-SPHERE** mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod.*"**
+Iúna: **"*I hate to admit it, but they're right - it's relatively easy right *now* to live without body mods. But once all the schools require every student to get an **INFO-SPHERE** mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod.*"**
 
 Tahoe: **"*But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*.*"**
 
-Iúna: **"*I know, and that's why I intially voted against it. But if we want defend our right to live without constant surveillance, we can't just empower individual decisions without thinking about how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years our social structures will make it *impossible* to live without constant surveillance.*"**
+Iúna: **"*I know, that's why I intially voted against it. But we can't just empower individual decisions -- we have to figure how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years it will be *impossible* to live without constant surveillance.*"**
 
 ### Page 12
 
-Tahoe: **"*But we still haven't figured out our own solutions to the really *practical* advantages of body mods...long-distance communication, ways to aid our memories and gain perspective on our behaviour...*"**
+Tahoe: **"*But there's so much we still haven't figured out...long-distance communication, ways to aid our memories and gain perspective on our behaviour...*"**
 
 Iúna: **"*That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, do you know what that research group in Brazil published last month?*"**
 
@@ -402,11 +402,11 @@ Iúna: **"*The first successful splice of eSyrup with a living organic compound,
 
 Tahoe: **"*...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?*"**
 
-Iúna: **"*Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Do you remember how we once talked of synthetic companion creatures, that can act like portable, non-invasive **INFO-SPHERES**?*"**
+Iúna: **"*Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Remember how we once talked about synthetic companion creatures, that can act like portable, non-invasive **INFO-SPHERES**?*"**
 
-Tahoe: **"*...yes...?*"**
+Tahoe: **"*Yeah, but didn't we decide it wasn't possible?*"**
 
-Iúna: **"It's possible now. *If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if creating and interacting with these creatures is part of our religious practice...*"**
+Iúna: **"It's possible now. *If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if building these creatures is part of our religious practice...*"**
 
 Iúna: **"*...then we have much stronger grounds to deny oversight by Space Consortium, or any national government!*"**
 
@@ -460,7 +460,7 @@ Dr. Molina: **"Dios mío...se ha deslizado a 6.9..."**
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-Dr. Fischmann: **"Members of the UN, thank you for your time today. My name is Dr. Geraldine Fischmann, and I'm head of environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been tracking the temperature, salinity, and flow rates of the major ocean currents in the North Atlantic Ocean for the last 40 years, and we think we have an explanation for recent drop in energy production by the UN-deployed sea turbines."**
+Dr. Fischmann: **"Members of the UN, thank you for your time today. My name is Dr. Geraldine Fischmann, and I'm head of the environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been tracking the temperature, salinity, and flow rates of major ocean currents in the North Atlantic for the last 40 years, and we think we have an explanation for recent drop in energy production by the UN-deployed sea turbines."**
 
 A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. Dr. Fischmann, a tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the fjords surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
 
@@ -472,13 +472,13 @@ Dr. Fischmann: **"These videos are from 15 years ago, when intensely hot global 
 
 The videos switch to another view of the same glacier, but a slightly different coastline. The glacier doesn't seem to be melting, and enormous, thick chunks of [drift ice](https://en.wikipedia.org/wiki/Drift_ice) clog up the sea like a traffic jam. 
 
-Dr. Fischmann: **"This is the current view of the Greenland, from remote sensor buoys in the Denmark Strait. Normally, the [West Ice](https://en.wikipedia.org/wiki/West_Ice), doesn't extend this far south, but we believe the drastic melting 15 years ago triggered a long-term, slow melting of the ice sheet, one that has been stealthily and steadily dumping massive amounts of fresh water into the Greenland Sea."**
+Dr. Fischmann: **"This is the current view of the Greenland, from remote sensor buoys in the Denmark Strait. Normally, the [West Ice](https://en.wikipedia.org/wiki/West_Ice) doesn't extend this far south, but we believe the drastic melting 15 years ago triggered a long-term, slow melting of the ice sheet, which has been quietly dumping fresh water into the Greenland Sea."**
 
-Dr. Fischmann: **"The fresh water freezes more readily than salty sea water, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is extending the West Ice so far south that it is blocking major ocean currents that run through the Denmark Strait, causing the reduction in electricity generated by the UN's sea turbines."**
+Dr. Fischmann: **"The fresh water freezes more readily than the salty sea, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is extending the West Ice so far south that it's blocking major currents that run through the Denmark Strait, causing the reduction in electricity generated by the UN's sea turbines."**
 
 Gov official: **"Can't we just clear the ice, then?"**
 
-Dr. Fischmann: **"It's not so simple. Our [original predictions](https://tethys.pnnl.gov) about the impact of our sea turbines on the marine ecosystem seem to have been...optimistic. The reduction of kinetic energy we are seeing in ocean currents may not be reversible...and [if the ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), the UK and northern Europe will *freeze*."**
+Dr. Fischmann: **"It's not so simple. Our [original predictions](https://tethys.pnnl.gov) about the impact of our sea turbines on the marine ecosystem seem to have been...optimistic. The reduction of kinetic energy we are seeing in ocean currents may not be reversible...[if the ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), the UK and northern Europe will *freeze*."**
 
 *(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
 
