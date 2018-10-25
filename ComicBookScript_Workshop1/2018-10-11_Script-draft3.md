@@ -1387,7 +1387,7 @@ Min, Asoka, and Iri are in a tall tree, watching the Peacekeepers set up camp as
 
 ### Page 1
 
-In a quieter, more mature part of the re-grown forest, Min, dead-eyed and haggard after screaming herself hoarse, sits across from Asoka, on the outer edge of a branch, leaning into the tree and letting spikes in her back lock her in. She stares grudgingly at Asoka in the early morning light. 
+In a quieter, more mature part of the re-grown forest, Min, dead-eyed and haggard after screaming herself hoarse at the Peacekeeper camp, sits across from Asoka, on the outer edge of a branch, leaning into the tree and letting spikes in her back lock her in. She stares grudgingly at Asoka in the early morning light. 
 
 Min: **"Entou, estranho, por que você traz esses bárbaros para minha floresta?"**
 
@@ -1417,9 +1417,9 @@ Asoka, off-panel: **"*O WORLD GOV tem estado atrás dos Green Havens há anos ..
 
 Asoka's fists clench. We see Asoka's eyes from behind their face veil, angry tears streaming down their face. 
 
-Asoka: **"*O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, o WORLD GOV colocou pelo menos 40 Pacificadores em cada Haven, e estão *forçosamente* tomando 50% da nossa comida!*"**
+Asoka: **"*O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, há pelo menos 40 Pacificadores em cada Haven, e eles estão *forçosamente* tomando 50% da nossa comida!*"**
 
-*translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, the WORLD GOV has stationed at least 40 Peacekeepers at each Haven, and are **forcibly** taking 50% of our food!"*
+*translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, there are at least 40 Peacekeepers at each Haven, and they're **forcibly** taking 50% of our food!"*
 
 The scene has transitioned to the Central Hearth of the Automata, an enormous tree-house structure with an eSyrup-bubble ceiling. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka is kneeling and facing the gathered crowd of Automata with desperate supplication, as Iri sits on Asoka's shoulders, arms wrapped around Asoka's head and neck. Children openly stare at Iri and Asoka's strange clothing. Elders look troubled or angry, or both.
 
@@ -1461,7 +1461,7 @@ Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*
 
 ### Page 4
 
-Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
+Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
 
 Majhee sighs. 
 
@@ -1611,7 +1611,7 @@ Nova: **"When the Council of the Elders make a group decision, we all share our 
 
 Nova's brow furrows. 
 
-Nova: **"If even one Elder chooses to 'block' an action, we have to find another direction in which we can form consensus. (Sigh!) It's gonna be tricky!"**
+Nova: **"But if even one Elder chooses to 'block' an action, we have to find another direction in which we can form consensus. (Sigh!) It's gonna be tricky!"**
 
 ## Chapter 7: Mistakes Are How We Evolve
 
@@ -1619,43 +1619,9 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-The early morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just next to the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. 
+The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just above the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. A spiral staircase is carved into the main trunk, leading in one direction down to the Central Hearth, and in the other, all the way to the top of the tall canopy tree. 
 
-Asoka slowly opens their eyes and stares at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble and the various other sleeping bubbles suspended in the tree above theirs. Shadows show hammocks and various belongings in the other sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. 
-
-For a moment, Asoka is entranced by the beautiful sight above them, smiling a bit and reaching up to let the light play on their bare hand. Then, they suddenly remember...
-
-Asoka: *"I failed..."*
-
-Asoka's hand falls to their face, to cover their eyes. A single, fat tear rolls down Asoka's cheek. 
-
-### Page 2
-
-**"32 hours earlier..."**
-
-Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
-
-The sun is setting in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
-
-Maraba: **"I stand aside."**
-
-A wave of relief moves through the gathered Automata. Nova nods, clearly eager to wrap things up. 
-
-Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
-
-The gathered Elders are all silent. 
-
-Nova: **"Very well, we have reached consensus. Thank you everyone for your time."**
-
-With a cry of rage, Min runs to the edge of the Central Hearth platform and leaps to the next tree. Maraba runs after her. 
-
-Maraba: **"Min!"**
-
-Jina, looking upset, also starts to move after Min, but the tall, dark man next to her, with very few clan tatoos and no intradermal shield, places a hand on Jina's leg and gently shakes his head. Jina sits back down, and she and the man hug. Over Jina's head, the man stares after Min, who is leaping from tree to tree, trying to work off her anger and disappointment. 
-
-### Page 3
-
-We're back in Asoka's sleeping bubble. It is late morning, just before midday. Asoka's hand is no longer on top of their face; their hands now cup their cheek as they nap fitfully, silently weeping into their pillow. They hear a scratch on the eSyrup bubble, which jolts Iri awake. A muffled voice call through the eSyrup bubble. 
+Asoka eyes are open, and they stare emotionlessly at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble and the various other sleeping bubbles suspended in the tree above theirs. Shadows show hammocks and various belongings in the other sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. Asoka hears a muffled voice call through their eSyrup bubble. 
 
 Min: **"Asoka?"**
 
@@ -1665,7 +1631,7 @@ Min: **"Asoka, to entrando!"**
 
 *translation: "Asoka, I'm coming in!"*
 
-Min steps through the bubble membrane and climbs up to Asoka's hammock. She looks calmer than when we last saw her, though not as dejected as Asoka. Min perches on a branch above Asoka that lets her peer down at the depressed Biononymous teen. Iri discreetly places their arms over Asoka's ears and looks up at Min obligingly. 
+Min steps through the bubble membrane. She looks calmer than when we last saw her, though not as dejected as Asoka. Iri discreetly places their arms over Asoka's ears and turns their head towards Min obligingly. 
 
 Min: **"Almoço?"**
 
@@ -1693,9 +1659,33 @@ Min: **"Nesse caso, passar fome! Descubra o que é bom para quem!"**
 
 *translation: "In that case, starve yourself! Discover what good that does for anyone!"*
 
-Min turns to the bubble's edge, gritting her teeth. She gives Asoka an angry look over her shoulder, and huffily exits the bubble. 
+Min grits her teeth, gives Asoka an angry look over her shoulder, and huffily exits the bubble. 
 
-### Page 4
+### Page 2
+
+**"32 hours earlier..."**
+
+Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+
+The sun is setting in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
+
+Maraba: **"I stand aside."**
+
+A wave of relief moves through the gathered Automata. Nova nods, clearly eager to wrap things up. 
+
+Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+
+The gathered Elders are all silent. 
+
+Nova: **"Very well, we have reached consensus. Thank you everyone for your time."**
+
+With a cry of rage, Min runs to the edge of the Central Hearth platform and leaps to the next tree. Maraba runs after her. 
+
+Maraba: **"Min!"**
+
+Jina, looking upset, also starts to move after Min, but the tall, dark man next to her, with very few clan tatoos and no intradermal shield, places a hand on Jina's leg and gently shakes his head. Jina sits back down, and she and the man hug. Over Jina's head, the man stares after Min, who is leaping from tree to tree, trying to work off her anger and disappointment. 
+
+### Page 3
 
 It's late afternoon. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. 
 
@@ -1703,23 +1693,21 @@ Iri: *"You'll have to get out of bed, at least for more water...you keep crying 
 
 Asoka: *"What's the point? I came all this way, and I failed. It was a mistake to leave Green Haven Clarksville..."*
 
-Asoka has had their fill of water. Their stomach rumbles loudly, pityingly, and Iri looks worried. 
+Asoka starts to cry. Their stomach rumbles loudly, pityingly, and Iri looks worried. 
 
-Iri: *"Soka, pleeeaaase will you eat something?"* 
+Iri: *"Soka, pleeeaaase will you eat something? Maybe there's leftovers at the Central Hearth..."*
 
-Asoka: *"Maybe there's leftovers at the Central Hearth..."*
-
-They both look up at the sound of a scratch on Asoka's sleeping bubble. Asoka and Iri exchange a glance, then Asoka sighs. 
+They both look up at the sound of a scratch on Asoka's sleeping bubble. Asoka and Iri exchange a glance, then Asoka sighs and ties back their hair. 
 
 Asoka: *"Fine, I'll get up."*
 
-Asoka ties back their hair and swings their legs out of the hammock, rubbing their face with one hand. Iri hands Asoka their head scarf, face veil, and jacket while yelling in the direction of the inquisitive scratch. 
+Asoka swings their legs out of the hammock, rubbing their face with one hand. Iri hands Asoka their head scarf, face veil, and jacket while yelling in the direction of the inquisitive scratch. 
 
 Iri: **"Um momento!"**
 
 *translation: "Just a minute!"*
 
-### Page 5
+### Page 4
 
 We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is wearing their head scarf, but the face veil is pulled back, revealing their face so that they can eat. Asoka's jacket is on but un-fastened up the front. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
 
@@ -1751,7 +1739,7 @@ Min: **"Claro!"**
 
 *translation: "Of course!"*
 
-### Page 6
+### Page 5
 
 Asoka looks up at Iri from their dosirak, eyes moody and accusing. 
 
@@ -1763,7 +1751,7 @@ Min: **"Ah, sorry! I'm just not used to using my babelfish."**
 
 Asoka accepts by shrugging and wordlessly digging back into the food. Min and Iri exchange awkward glances. 
 
-Min: **"I was telling Iri that this juice is made from patua trees...we have a big grove nearby, I can show you how to harvest them!"**
+Min: **"I was telling Iri, this is juice made from patua...we have a big grove nearby, I can show you how to harvest them!"**
 
 Asoka doesn't look up from eating. 
 
@@ -1777,9 +1765,9 @@ Asoka: **"*Why do you care?*"**
 
 Min: **"Why do you *not* care? Don't you realise that by giving up, you're letting the Peacekeepers and the WORLD GOV *win*??"**
 
-### Page 7
+### Page 6
 
-Asoka, starting to get angry. 
+Asoka starts to get upset. 
 
 Asoka: **"*They already won...my home is gone, and my family is dead!*"**
 
@@ -1787,13 +1775,13 @@ Min: **"What about your people, the other Biononymous? Didn't you come all this 
 
 Asoka: **"*Yeah, exactly! I tried, and I failed...*"**
 
-In her frustration, Min gets up on her knees, trying to tower over Asoka, who even when sitting is at least a good head height taller. 
+In her frustration, Min gets up on her knees, trying to tower over Asoka, who even when sitting is at least a good head taller. 
 
 Min: **"So are you gonna sit there and continue to be useless, just because *one thing* didn't turn out *exactly* the way you expected??"**
 
-Asoka: **"Useless...that's exactly what I am..."**
+Asoka: **"Useless...yes, that's exactly what I am..."**
 
-Asoka begins crying again, and hides their face in their hands. Min looks upset that she triggered Asoka's tears, but she is also still angry with Asoka's apathy. Iri crawls into Asoka's lap and covers Asoka's hands with its arms. 
+Asoka begins crying again, and hides their face in their hands. Min looks upset that she triggered Asoka's tears, but she is also still angry with Asoka's apathy. Iri crawls into Asoka's lap and strokes Asoka's hands with its arms. 
 
 Min: **"Look, I'm so sorry...I get really impatient sometimes...I'm just...*so angry* about the Peacekeepers..."**
 
@@ -1807,7 +1795,7 @@ Asoka, barely audible: **"*Yes...*"**
 
 Iri gives Min an encouraging smile and moves to Asoka's shoulder. Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Iri's arms gently cradle both of their heads. 
 
-### Page 8
+### Page 7
 
 Asoka and Min sit in the upper branches of Asoka's sleeping bubble, backs against the main tree trunk, watching the sun disappear behind the horizon. Early stars and fireflies are already twinkling in the twilight, and a waning moon is rising. Both teens are sipping patua fruit juice, faces streaked with tears and looking emotionally spent. Iri is cozily curled around Asoka's shoulders. 
 
@@ -1819,45 +1807,105 @@ Asoka: **"Is Amadou also a Water Cycler?"**
 
 Min: **"No...actually, he's kind of like you..."**
 
-### Page 9 
+Min: **"When Jina, my gene mother, left for her Year Underground, she traveled far south to Artigas, an Underground City in a country onced called Uruguay. She met Amadou while they were both doing some temprorary work in an [amethyst mine](https://en.wikipedia.org/wiki/Amethyst#Geographic_distribution). Amadou was obsessed with explosives and rockets, and more than anything else, he wanted to become an eSyrup fusion technician, and explore the galaxy on an Ursu-class research vessel."**
 
-Min: **"When Jina, my gene mother, left for her Year Underground, she traveled far south, to an Underground City in a country onced called Uruguay. There she met Amadou, who was working as an apprentice dynamite technician in an [amethyst mine](https://en.wikipedia.org/wiki/Amethyst#Geographic_distribution). Amadou was obsessed with explosives and rockets, and more than anything else, he wanted to become an eSyrup fusion technician, and explore the galaxy on a Ursu-class research vessel."**
+### Page 8
+
+During the dialogue on pages 8-10, we see younger versions of Jina and Amadou, the tall dark man who hugged her after the Elders decided to reject the Biononymous' offer of alliance, as Min tells the story of how Amadou came to the Automata. 
+
+**"2096: Underground mining community of Artigas, Uruguay"**
+
+Amadou: **"Jina, look!"**
+
+Amadou and Jina are still dressed in their work uniforms, filthy with mining dust and eating cave rations from the WORLD GOV. They are sitting on a bench in a grubby underground 'park' in the Underground City of Artigas, a glorified open space lined with tough hedges and sad-looking, stunted trees. The artificial lights overhead flicker, and the walls shine with traces of amethyst, hinting at the enormous vein of violet quartz that kept Artigas on the map. Though amethyst was once valued primarily for its usage in jewelry, these days, it is more often mined to feed industrial eSyrup cultures. 
+
+Amadou is pointing to a large public INFO-SPHERE at one end of the 'park', which announces that Heiko Gabriel Oesterheld, an eminent eSyrup combustion engineer, has just accepted a post at the Caverno Ouro Grosso Launch Station, where he will be updating the Launch Station's fleet of Space Barges. Amadou watches the INFO-SPHERE news feed with starry eyes. 
+
+Amadou: **"The great [HGO](https://en.wikipedia.org/wiki/Héctor_Germán_Oesterheld)...I'll travel to Ouro Grosso and become his apprentice, no matter what it takes!"**
+
+Off-panel: **"*Amadou*??"**
+
+Amadou turns, and his jaw drops in shock.
+
+Amadou: **"Otto?? So good to see you! Wait...what *happened* to you??"**
+
+We see Otto, a thin, frightened man with ragged clothing and dark circles under his eyes. 
+
+Min: **"Otto and Amadou had grown up in the same tiny, remote cave in the [Sierras de Córdoba](https://en.wikipedia.org/wiki/Sierras_de_Córdoba) called Cueva De Los Pajaritos. Amadou had always spoken very fondly of his home, but in the 2 years since Amadou had left, a violent and unstable man named Bautista [de Rosas](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) had killed the governor, declared himself the 'righteous ruler', and started enforcing all kinds of 'austerity laws' and outrageous taxes."**
+
+Min: **"When the WORLD GOV showed up a few months later, they completely ignored Bautista's horrifying abuse of power. Instead, they offered Bautista extra food rations in exchange for every able-bodied adult he sent to work on 'space construction projects crucial to developing the next phase of humanity'. Bautista forcibly signed up 30 males over 18 who had ever expressed dissatisfaction with Bautista's rule, including Otto and his sickly, aging father. Amadou's father, being one of the cave's HVAC engineers, was among those considered too valuable to be sent away in the work draft."**
+
+### Page 9
+
+Otto, Amadou, and Jina are now inside a residential barracks, where Amadou is trying to get Otto to eat some hot soup. 
+
+Otto: **"Conditions were so bad, my father died within a week of getting into orbit. It took me another 6 months to escape, but I did it..."**
+
+Min: **"Otto stowed away on a Space Barge in order to get back to planetside, a criminal offense that could get him jailed for up to a year."**
+
+Otto: **"I've been trying to get back to the Sierras de Córdoba for the last 2 months...and on the way, I keep seeing people from our cave in the work draft caravans on their way to Ouro Grosso..."**
+
+Otto stands, fired up with fury.
+
+Otto: **"I swear, I'll kill Bautista de Rosas for what he's done!!"**
+
+Otto then faints. 
+
+Min: **"Amadou and Jina nursed Otto back to health, then they both insisted on traveling with him. When they made it back to Cueva De Los Pajaritos, it was even worse than Otto had described. Bautista had basically enslaved the entire remaining population to serve his brutish desires. He and his cronies were eating lavishly and forcibly taking whatever they wanted without consequence, while the rest of cave starved or fell ill from working the surface farms without sufficient protective gear."**
 
 ### Page 10
 
-Min: **"Just as Amadou was making plans to travel with Jina further north to the Space Barge Launch Station at Caverno Ouro Grosso, where he could apprentice himself to a proper eSyrup combustion engineer, Amadou ran into Ramón Fernandez, an old friend from his home cave. Ramón told Amadou that in the 2 years since Amadou had left, a man named Bautista [de Rosas](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) had declared himself governor"**
+Min: **"Otto, Amadou, and Jina were able to organize an uprising against Bautista, but their victory came at a terrible cost. Many died, including Otto and Amadou's parents, and when Bautista's men realised they were losing the battle, they started burning homes. In the end, Amadou beheaded Bautista in one-on-one combat, and Bautista's remaining supporters were driven out of the cave to die in the surrounding mountains."**
 
+Min: **"The people of Cueva De Los Pajaritos were freed from the tyrant, but Amadou felt like a complete failure. His parents and so many of his friends were dead, and now that he had killed an officer of the WORLD GOV, he was a wanted criminal with a bounty on his head. He would never get anywhere near a Launch Station ever again, and he would never become a space explorer."** 
 
+Min: **"Worried that his presence might cause trouble for the other villagers, Amadou let Jina convince him to travel with her back to the Automata. The Elders let him stay under the same conditions they granted you -- as an eternal child, without an interdermal shield and without the right to block consensus. But he didn't let that stop him from living as intensely as he had back in the Underground Cities."**
 
+### Page 11
 
+We're back in 2116. Min and Asoka are climbing the spiral staircase to the top of the canopy. Asoka is fully dressed, and Iri sits on top of their head. 
 
-They drink in blissful silence. 
+Min: **"The Automata raised all of their children together, but even if Amadou wasn't my gene father he would still be my favorite. Ever since I can remember, Amadou showed us how to identify stars and planets in the night sky; taught us to play with pyrotechnics without losing a finger or an eye; and even improved our eSyrup bubbles to make them more portable, so that he could take the little ones on field trips into the forest. He was always eager to share his studies of the world's past and his extravagant dreams for our collective future, both here on Earth and out there, in space."**
 
-Asoka: **"I wish we could see more stars..."**
+They've reached a small, swaying tree platform at the top of the tree. Min, Asoka, and Iri are looking out over a vast rainforest canopy. The tree platform is encased in the thinnest of eSyrup bubbles, barely visible and reproducing the outer wind conditions so perfectly that for a moment, Asoka is afraid to breathe. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels.
 
-Min: **"Yeah? Then come on!"**
+Asoka: **"*Woooooooow...!*"**
+
+Min let's Asoka and Iri take in the breathtaking view, eyes glistening with pride as she surveys the reforestation efforts of the Automata. Min is standing, spikes on her feet keeping her anchored to the tree platform, while Asoka, less comfortable in the canopy, sits and cluthes nearby branches with their hands. 
+
+Min: **"I used to wonder why Amadou kept being so obsessed with the Orbiters -- hadn't they hurt him enough? Wasn't re-growing the Amazon Rainforest a big enough dream? But now, I have my own reasons to be obsessed..."**
 
 ### Page 12
 
-Asoka: **"*This is *incredible*.*"**
+Min: **"'To be autonomous is to be able to make *informed* and *un-coerced* decisions' -- that's the fundamental belief of the Automata. But in this world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. So I'm going to spend my Year Underground building up a fake Universal Record, then apply to the ISE Corps!"**
 
-Asoka is now fully dressed, jacket and head gear on, Iri perched on top of their head. They are looking out over a vast rainforest canopy, standing on a tree branch and clutching the much shorter Min, who is locked into the tree's upper-most branches with strategically grown spikes. There is no eSyrup bubble here, so Min's grin is wide and her eyelids are shut to protect her eyes from the atmosphere, even as the eSyrup in the thin skin of her eyelids let in just enough photos to transmit the view to her retina anyway. Min breathes in through her nose and reaches up with one hand into the east wind. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of orbiting vessels and satellites. 
+Asoka: **"*The ISE Corps?*"**
 
+Min: **"The International Space Exploration Corps. It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship program for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
 
+Min grins widely and reaches up with both arms, intradermal shield activated, to let her hands push out past the eSyrup bubble and feel the real east wind. Min laughs with delight. 
 
+Asoka: **"*Understand the Orbiters...do you really think you can do that?*"**
 
+Min turns to Asoka with a look of ferocious, gleeful determination. 
 
+Min: **"Only one way to find out, is there?"**
 
+Asoka: **"*But...what if you fail?*"**
 
+Min: **"Then I'll learn from my mistakes, and try again!"**
 
-Min responds by telling Asoka the story of her parents, and how her father Amadou, who was born in an Underground City ruled by a terrible tyrant, lost his parents and nearly everyone he knew and loved in the effort to overthrow the tyrant. Amadou once dreamed of becoming a space explorer, but is now a wanted criminal with a bounty on his head because he killed the tyrant ruler of his home city, so there is no way he can leave the safety of asylum with the Automata. Min tells Asoka of her dream to become a space explorer in her father's stead, by applying to the International Space Exploration Corps via the Space Asylum Program, and encourages Asoka to do the same, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
+Asoka stares at Min, open-mouthed. Min kneels in front of Asoka and looks at them with intense earnestness. 
+
+Min: **"Your parents and grandparents must have experienced many failures before they could create an eSyrup textile as incredible as yours -- *it even kept you alive in the Red Zone*. Is there really nothing you want to do with the freedom they died to give you?"**
 
 ## Dream, the last: Comma, not a Period
 
 ### Page 1
 
+The Automata have gathered to say goodbye to Min. Today, she leaves for her Year Underground. 
 
-
+Min encourages Asoka to also apply to the ISE Corps, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
 
  
 
