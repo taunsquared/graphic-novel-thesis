@@ -256,17 +256,17 @@ Felix: **"Que??"**
 
 *translation: "What??"*
 
-Iara: **"Aparentemente, não foi a primeira vez que ele tem uma oferta semelhante no ano passado, bem, mas ele pensou que não valia a pena mencionar porque ele sabia que eu não iria para ele."**
+Iara: **"Aparentemente esse não foi a primeira vez...ele tem uma oferta semelhante no ano passado, mas ele pensou que não valeu a pena mencionar."**
 
-*translation: "Apparently that wasn't the first time either...he got a similar offer last year as well, but he thought it wasn't worth mentioning because he knew I wouldn't go for it."*
+*translation: "Apparently that wasn't the first time...he got a similar offer last year, but he thought it wasn't worth mentioning."*
 
 Nova, aghast: **"10.000.000.000 reais... isso é mais do que a *investidura do Instituto*..."**
 
 *translation: "10 billion reais...that's more than the **institute's endowment**..."*
 
-Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o primeiro passo para a emenda de eSyrup com células humanas, e se o Space Consortium patentes emendas vivas, eles terão o monopólio de todas as futuras aplicações clínicas e médicas da eSyrup."**
+Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o primeiro passo para as emendas vivas de eSyrup...qualquer um que faz isso poderia ganhar um monopólio de todas as aplicações clínicas e médicas da eSyrup."**
 
-*translation: "It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium patents living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."*
+*translation: "It's worth it. A stable splice with a bacterial colony is the first step towards living eSyrup splices...anyone that does that could have a monopoly on all clinical and medical applications of eSyrup."*
 
 We see Breno's moody, cynical eyes. 
 
