@@ -64,7 +64,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"It was a day of hope and wonder."** 
 
-**"The Space Consortium had just announced the completion of their third space farm, **THE UPPER ESTATES SPACE ARBORETUM**. The news feeds were drowning in photos of the ribbon-cutting event up in orbit, of beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly change colours in response to the lights, the music, their wearers' moods..."**
+**"The Space Consortium had just announced the completion of their third space farm, Mae Jemison Memorial Arboretum. The news feeds were drowning in photos of the ribbon-cutting event up in orbit, of beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly change colours in response to the lights, the music, their wearers' moods..."**
 
 **"...of delicate, mouth-watering hors d'oeuvres made from the succulent crops grown and cultivated at the two older space farms, with their carefully filtered water and pristine soil..."**
 
@@ -192,15 +192,15 @@ Majhee: **"Entou. Seu pai foi diagnosticada otra vez."**
 
 *translation: "So. Your father has been diagnosed again."*
 
-The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an old Brazilian martial arts family but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
+The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an [old Brazilian martial arts family](https://en.wikipedia.org/wiki/Gracie_family) but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
 Vec, to Felix: **"Já contactamos equipe médica de seu pai em Suécia, e demos-lhes acesso ao nosso banco de dados sobre pacientes com câncer de cutânea repetido. Isso melhorará consideravelmente dele chances de recuperação, mas..."**
 
-*translation: "We've already contacted your father's medical team in Sweden, and we've given them access to our database on repeat skin cancer patients. This will greatly improve his chances of recovery, but..."*
+*translation: "We've already contacted your father's medical team in Sweden, and we've given them access to our database."*
 
-Beatriz, kindly: **"Tamben lembramos que seu pai teve um transplante de fígado. Se queres ir casa para estar com sua família, todo mundo vai entender."**
+Beatriz, kindly: **"Mas tamben lembramos que seu pai teve um transplante de fígado. Se queres ir casa para estar com sua família, todo mundo vai entender."**
 
-*translation: "We also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."*
+*translation: "But we also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."*
 
 Felix: **"Não há nada que eu possa fazer lá de qualquer maneira..."**
 
@@ -208,9 +208,9 @@ Felix: **"Não há nada que eu possa fazer lá de qualquer maneira..."**
 
 Felix now looks up, straight at Majhee, eyes furious, red, and glistening with held-back tears.
 
-Felix: **"E precisamos terminar projecto biofilme! *Antes* Space Consortium patenteiam qualquer outra coisa!"**
+Felix: **"Precisamos terminar projecto biofilme, *antes* Space Consortium patenteiam qualquer outra coisa!"**
 
-*translation: "And we **need** to finish the biofilm project! **Before** Space Consortium patent anything else!"*
+*translation: "We need to finish the biofilm project, **before** Space Consortium patents anything else!"*
 
 Felix covers his face with his hands, furious at the tears that have started to stream down his face.
 
@@ -226,9 +226,9 @@ Kai: **"Não podemos terminar este projecto a tempo sem o Felix. Nós todos sabe
 
 Kai's brow furrows with frustration. 
 
-Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou há alguns dias a sua eSyrup-emendado [halobacterium célula solar](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08), e assim, apenas patenteou todas as células solares baseadas em eSyrup. Além disso, esta manhã eu tenho *isso*."**
+Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou sua eSyrup-emendado [halobacterium](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) há alguns dias atras, patenteando assim todas as células solares de eSyrup. Além disso, esta manhã eu tenho *isso*."**
 
-*translation: "Although...our best may not be enough...Space Consortium announced a few days ago their eSyrup-spliced [halobacterium solar cell](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08), and thus, just patented all eSyrup-based solar cells. Also, this morning I got **this**."*
+*translation: "Although...our best may not be enough...Space Consortium announced their eSyrup-spliced [halobacterium](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) a few days ago, thus patenting all eSyrup solar cells. Also, this morning I got **this**."*
 
 Kai passes up a small card to Majhee. Majhee reads from it.
 
@@ -248,9 +248,9 @@ Kai: **"Space Consortium estão nos dizendo para parar de competir com eles. Pro
 
 Everyone takes a moment to imagine what it might be like if Space Consortium went for their throats. 
 
-Iara: **"Meu avô ligou esta manhã... ele me disse que ele foi oferecido 10 billian reais na semana passada para me convencer a relatar o nosso trabalho não publicado."**
+Iara: **"Meu avô ligou esta manhã...ele foi oferecido 10 billian reais na semana passada para me convencer a relatar o nosso trabalho não publicado."**
 
-*translation: "My grandfather called this morning...he told me he was offered 10 billian reais last week to convince me to report our unpublished work."*
+*translation: "My grandfather called this morning...he was offered 10 billian reais last week to convince me to report our unpublished work."*
 
 Felix: **"Que??"**
 
@@ -264,9 +264,9 @@ Nova, aghast: **"10.000.000.000 reais... isso é mais do que a *investidura do I
 
 *translation: "10 billion reais...that's more than the **institute's endowment**..."*
 
-Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o primeiro passo para a emenda de eSyrup com células humanas, e se o consórcio Space puder conseguir patentear emendas vivas, eles terão o monopólio de todas as futuras aplicações clínicas e médicas da eSyrup."**
+Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o primeiro passo para a emenda de eSyrup com células humanas, e se o Space Consortium patentes emendas vivas, eles terão o monopólio de todas as futuras aplicações clínicas e médicas da eSyrup."**
 
-*translation: "It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium can manage to patent living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."*
+*translation: "It's worth it. A stable splice with a bacterial colony is the first step towards splicing eSyrup with human cells, and if Space Consortium patents living splices, they'll have a monopoly on all future clinical and medical applications of eSyrup."*
 
 We see Breno's moody, cynical eyes. 
 
@@ -1865,7 +1865,7 @@ Min: **"Worried that his presence might cause trouble for the other villagers, A
 
 We're back in 2116. Min and Asoka are climbing the spiral staircase to the top of the canopy. Asoka is fully dressed, and Iri sits on top of their head. 
 
-Min: **"The Automata raise all of their children together, but even if Amadou wasn't my gene father he would still be my favorite. Ever since I can remember, Amadou showed us how to identify stars and planets in the night sky; taught us to play with pyrotechnics without losing a finger or an eye; and even improved our eSyrup bubbles to make them more portable, so that he could take the little ones on field trips into the forest. He was always eager to share his studies of the world's past and his extravagant dreams for our collective future, both here on Earth and out there, in space."**
+Min: **"The Automata raise all of their children together, but even if Amadou wasn't my gene father he would still be my favorite. Ever since I can remember, Amadou taught us how to identify stars and planets in the night sky; to play with pyrotechnics without losing a finger or an eye; and he even improved our eSyrup bubbles so that he could take the little ones on field trips into the forest. He was always telling us stories from the past and his crazy dreams for the future."**
 
 They've reached a small, swaying tree platform at the top of the tree. Min, Asoka, and Iri are looking out over a vast rainforest canopy. The tree platform is encased in the thinnest of eSyrup bubbles, barely visible and reproducing the outer wind conditions so perfectly that for a moment, Asoka is afraid to breathe. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels.
 
@@ -1873,15 +1873,15 @@ Asoka: **"*Woooooooow...!*"**
 
 Min let's Asoka and Iri take in the breathtaking view, eyes glistening with pride as she surveys the reforestation efforts of the Automata. Min is standing, spikes on her feet keeping her anchored to the tree platform, while Asoka, less comfortable in the canopy, kneels and cluthes nearby branches with their hands. 
 
-Min: **"I used to wonder why Amadou kept being so obsessed with the Orbiters -- hadn't they hurt him enough? Wasn't re-growing the Amazon Rainforest a big enough dream? But now, I have my own reasons to be obsessed..."**
+Min: **"I used to wonder why Amadou kept being so obsessed with the Orbiters -- hadn't they hurt him enough? Wasn't re-growing the Amazon Rainforest a big enough dream? "**
 
 ### Page 12
 
-Min: **"'To be autonomous is to be able to make *informed* and *un-coerced* decisions' -- that's the fundamental belief of the Automata. But in this world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. So I'm going to spend my Year Underground building up a fake Universal Record, then apply to the ISE Corps!"**
+Min: **"But...'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- that's the fundamental belief of the Automata. In *this* world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. So I'm going to spend my Year Underground building up a fake Universal Record, then apply to the ISE Corps!"**
 
 Asoka: **"*The ISE Corps?*"**
 
-Min: **"The International Space Exploration Corps. It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship program for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
+Min: **"The International Space Exploration Corps. It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
 
 Min grins widely and reaches up with both arms, intradermal shield activated, to let her hands push out past the eSyrup bubble and feel the real east wind. Min laughs with delight. 
 
@@ -1891,13 +1891,13 @@ Min turns to Asoka with a look of ferocious, gleeful determination.
 
 Min: **"Only one way to find out, is there?"**
 
+Asoka stares at Min, open-mouthed. 
+
 Asoka: **"*But...what if you fail?*"**
 
-Min: **"Then I'll learn from my mistakes, and try again!"**
+Min kneels in front of Asoka and looks at them with intense earnestness. 
 
-Asoka stares at Min, open-mouthed. Min kneels in front of Asoka and looks at them with intense earnestness. 
-
-Min: **"Your parents and grandparents must have experienced many failures before they could create an eSyrup textile as incredible as yours -- *it even kept you alive in the Red Zone*. Is there really nothing you want to do with the freedom they died to give you?"**
+Min: **"Your parents and grandparents must have failed many times before they could make an eSyrup textile as powerful as yours -- *it even kept you alive in the Red Zone*. Is there really *nothing* you want to do with the freedom they gave you?"**
 
 ## Dream, the last: Comma, not a Period
 
