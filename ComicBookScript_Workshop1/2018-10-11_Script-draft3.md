@@ -100,7 +100,7 @@ Receptionist: **"Dr. Suh! Quão ruim é isso lá fora?"**
 
 *translation: "Dr. Suh! How bad is it out there?"**
 
-Majhee takes off her hood and googles and we see her face - pretty and youthful for her 37 years, if it weren't for the lines of worry and grim determination on her face. She shakes out her hair, cropped short in a bowl pixie cut. Clearly burdened with many troubles, she begins taking off her eSyrup hazmat suit.  
+Majhee takes off her hood and googles - she is pretty and youthful for her 37 years, if it weren't for the many lines of worry and grim determination on her face. She shakes out her hair, cropped short in a bowl pixie cut. Clearly having many troubling thoughts, she begins taking off her eSyrup hazmat suit.  
 
 Majhee: **"Ainda lotado."**
 
