@@ -1871,7 +1871,7 @@ They've reached a small, swaying tree platform at the top of the tree. Min, Asok
 
 Asoka: **"*Woooooooow...!*"**
 
-Min let's Asoka and Iri take in the breathtaking view, eyes glistening with pride as she surveys the reforestation efforts of the Automata. Min is standing, spikes on her feet keeping her anchored to the tree platform, while Asoka, less comfortable in the canopy, sits and cluthes nearby branches with their hands. 
+Min let's Asoka and Iri take in the breathtaking view, eyes glistening with pride as she surveys the reforestation efforts of the Automata. Min is standing, spikes on her feet keeping her anchored to the tree platform, while Asoka, less comfortable in the canopy, kneels and cluthes nearby branches with their hands. 
 
 Min: **"I used to wonder why Amadou kept being so obsessed with the Orbiters -- hadn't they hurt him enough? Wasn't re-growing the Amazon Rainforest a big enough dream? But now, I have my own reasons to be obsessed..."**
 
@@ -1903,12 +1903,25 @@ Min: **"Your parents and grandparents must have experienced many failures before
 
 ### Page 1
 
-The Automata have gathered to say goodbye to Min. Today, she leaves for her Year Underground. 
+The Automata have gathered to say goodbye to Min. Today, she leaves for her Year Underground. Min is dressed in lightweight travel gear and has a substantial pack strapped to her back. Pinned to Min's clothing and pack are flowers, leaves, tiny delicate knotwork for good fortune, and other small trinkets of affection and remembrance. Maraba adjusts a good luck knot in Min's hair and gives Min a huge, albeit teary, grin. Amadou kneels to be face to face with his rather short daughter. His eyes are full of tears, and he opens his mouth to speak, but then finds that he cannot. Instead, he pulls Min into a huge bear hug. Father and daughter embrace fiercely. Amadou kisses Min on the forehead, then stands as Min turns to hug Jina, just as fiercely. Min then tenderly hugs Majhee, who chuckles and shoos Min along the line of well-wishers.
 
-Min encourages Asoka to also apply to the ISE Corps, reasoning that if Asoka wants to help the Biononymous fight the **WORLD GOV**, they don't need this alliance with the Automata - much more useful would be to go into orbit and learn more about the Orbiters, the principle actors in the **WORLD GOV**. Convinced, Asoka vows to get to the ISE Corps no matter what it takes. 
+### Page 2
 
- 
+Asoka stands towards the end of the line, trying to look happy but unable to hide their deep, cutting sadness. They keep their eyes down as Min approaches them; Asoka is the last to say goodbye. Asoka holds out in one hand the tiny origami dragon folded from a delicate piece of eSyrup cloth that they made as their parting gift. With the other hand, they stroke the dragon's spine -- it yawns and stretches, like a tiny folded lizard-cat made of living cloth. Min's eyes widen with delight - she's never seen such a tiny, delicate origami dragon before. 
 
+Min reverently places the little origami dragon her shoulder, where it circles a few times then settles onto its haunches, fluttering its wings a bit with pleasure at its new vantage point. 
+
+Min looks up at the crying Asoka, who is trying hard to smile through their tears. Min grins. 
+
+Min: **"Don't you dare slack on your capoeira training, just because I'm gone!"**
+
+Asoka and Min clasp hands as Asoka returns Min's grin, matching her fierceness with their own.
+
+Asoka: **"*You watch out! I'll train so hard, in 2 years I'll definitely be able to beat you!*"**
+
+Min throws back her head in a full-throated laugh.
+
+Min: **"Deal! Until we meet again, in orbit!"**
 
 # notes
 
