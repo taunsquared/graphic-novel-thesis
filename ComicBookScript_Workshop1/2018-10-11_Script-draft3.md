@@ -858,11 +858,14 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 ### Page 1
 
-Iri: *"Soka, the landing team is coming back!"*
+We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) is digging up a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine.
 
-We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the World Government Peacekeepers, the planetside branch of the World Government military. The ship is near the lush, marshy coastline of Florida, haloed in a hazy, late morning sun. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
+Asoka: *"Iri, how's our [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine)?"*
 
-*THE SHIP NEEDS A NAME!*
+Iri: *"Still playing cards..."*
+
+Asoka: *"
+
 
 Cut to -- We see the shimmering outline of a fully camouflaged Asoka is in the ship's galley, stuffing armloads of food into a sack, also shimmering with Biononymous camouflage technology. 
 
@@ -924,7 +927,7 @@ Asoka: *"This isn't what I expected..."*
 
 *--flashback--*
 
-**"12 days ago..."**
+**"5 days ago..."**
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
