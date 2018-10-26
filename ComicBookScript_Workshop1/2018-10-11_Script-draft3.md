@@ -858,28 +858,13 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 ### Page 1
 
-We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) is digging up a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine.
+We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) is [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine.
 
-Asoka: *"Iri, how's our [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine)?"*
+Asoka, off-panel: *"Iri, how's our [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine)?"*
 
-Iri: *"Still playing cards..."*
+Iri, off-panel: *"Still playing cards..."*
 
-Asoka: *"
-
-
-Cut to -- We see the shimmering outline of a fully camouflaged Asoka is in the ship's galley, stuffing armloads of food into a sack, also shimmering with Biononymous camouflage technology. 
-
-We see a view of Asoka's wide eyes, on a face somewhat thinner than before, from behind their face veil. The inside of the face veil shows the view that Iri sees, hanging onto the outside of the ship.
-
-Iri: *"Soka, they've reached the ship!!"*
-
-Asoka runs to a corner of the galley, where they kick open a panel in the wall, then squeeze themselves inside, cradeling the food nearly bursting from the invisible sack. They put down the sack and replace the panel in the wall. 
-
-From inside, Asoka hurriedly pulls out what looks like fabric tape and carefully but quickly tapes the metal panel in place. After a moment, the fabric tape integrates itself into the surrounding metal, and the panel seemingly disappears. 
-
-Asoka: *"I'm in!"*
-
-Iri: *"Good. I'm gonna go check the bridge for any news."*
+Asoka, off-panel: *"I guess that means we aren't surfacing anytime soon..."*
 
 ### Page 2
 
