@@ -488,7 +488,7 @@ Dr. Fischmann: **"It's not so simple. Our [original predictions](https://tethys.
 
 The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in polluted, acidic ocean water. Rain, highly dosed with nitric acid, pours from the sky. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-**"2 months ago, when an epidemic of [nitrogen dioxide poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	 landed half of the city in hospitals and on oxygen tanks, Felix moved back to Sweden to be with his dying father..."**
+**"2 months ago, when an epidemic of [nitrogen dioxide poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	landed half of the city in hospitals and on oxygen tanks, Felix moved back to Sweden to be with his dying father..."**
 
 **"1 month ago, when all the supermarkets started opening just once a week instead of every day, Breno moved with his mother back to her hometown, just north of Brasilia..."**
 
@@ -498,9 +498,9 @@ The orderly protest crowds in front of the Laboratório Nacional de Biociências
 
 Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab meeting, last we saw them - now they are frantically packing lab equipment and eSyrup cultures, and copying research notes then deleting/shredding/destroying them. Off to one side is an unfamiliar older man and a teenaged boy keeping two very young children out of the fray. The teenaged boy looks related to Nova. The two young children look related to the unfamiliar older man and Beatriz, one looking about 6 and the other looking about 3. The little one has short hair, tied into a puffy short ponytail at the very top of her head; the older one has long straight hair that just brushes his shoulders; they both stare at the frantic activity with wide eyes. 
 
-Majhee: **"Precisamos terminar de empacotar AGORA."**
+Majhee: **"Precisamos terminar de embalar *agora*."**
 
-*translation: "We need to finish packing up NOW."*
+*translation: "We need to finish packing **now**."*
 
 Vec pulls aside Majhee. Vec looks incredibly troubled.  
 
@@ -524,9 +524,9 @@ Majhee: **"Que grande vazamento? Podemos remendá-lo?"**
 
 *translation: "How big of a leak? Can we patch it?"*
 
-Vec: **"É fino, mas *longo*, quase todo o comprimento da conexão. Nova quer tentar, mas Kai e Beatriz acho que vai demorar muito tempo, e não vai nos comprar muito tempo de qualquer maneira."**
+Vec: **"É fino, mas *longo*, quase todo o comprimento da conexão. Nova quer tentar, mas Kai e Beatriz acho que vai demorar muito tempo."**
 
-*translation: "It's thin but *long*, almost the whole length of the connection. Nova wants to try, but Kai and Beatriz think it will take too long, and won't buy us much time anyway."*
+*translation: "It's thin but *long*, almost the whole length of the connection. Nova wants to try, but Kai and Beatriz think it will take too long."*
 
 Vec looks emotionally wrecked. 
 
@@ -536,9 +536,9 @@ Vec: **"Eu vou ajudar a nova, se *você* acha que é uma boa idéia.
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"Não há mais tempo sobrando para comprar. Mesmo que consertemos o vazamento, como vamos transportar um rato transgênico morrendo através de chuva e inundação de ácida?(citation?)"**
+Majhee: **"Mesmo que consertemos o vazamento, como vamos transportar um rato transgênico morrendo através de [chuva e inundação de ácida](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
 
-*translation: "There is no more time left to buy. Even if we fix the leak, how will we transport a dying transgenic mouse through acid rain and flood?(citation?)"*
+*translation: "Even if we fix the leak, how will we transport a dying transgenic mouse through [acid rain and flood](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"*
 
 Majhee: **"Dê a ela 20 microlitros de [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), e enviar todos os nossos dados para a Suécia. Felix terá mais tempo para experimentar."**
 
@@ -592,7 +592,7 @@ Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos merg
 
 **"The poisonous cloud choked and blinded most of the rig's crew, and the hydroflouric acid burned anyone who fell into the ocean. The catastrophe killed 32 people and sank the harvesting rig into the sea. For weeks, the silican tetraflouride plumes belched unchecked into the Antarctic Convergence."**
 
-**"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly large and frequent cyclones."**
+**"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly [large and frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
 On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see 
 * Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and breathing masks and rubber boots. 
