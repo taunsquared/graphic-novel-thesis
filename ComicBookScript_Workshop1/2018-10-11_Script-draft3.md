@@ -594,7 +594,7 @@ Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos merg
 
 **"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly [large and frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
-On a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity. Over this backdrop, we see 
+Over a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity, we see:
 * Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and breathing masks and rubber boots. 
 * Iúna and her son João queue in line to beg asylum in caves in Vermont to escape the poisonous atmosphere. They are both well covered in Iúna's best eSyrup textiles. Other people aren't so lucky. 
 
@@ -616,7 +616,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 ### Page 12
 
-**"That 'further notice' came 2 years later, when the Orbiters returned to Earth to declare themselves, *'The **WORLD GOV**'*."**
+**"That 'further notice' came 2 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
@@ -776,7 +776,7 @@ Eireena: **"I don't think any of the Biononymous anticipated that very many othe
 
 The fabric flap to this room opens, and another Biononymous adult enters. He addresses Eireena.
 
-Biononymous man: **"Apologies, High Priestess, but **WORLD GOV** Peacekeepers have just arrived. They request an audience with you immediately."**
+Biononymous man: **"Apologies, High Priestess, but World Government Peacekeepers have just arrived. They request an audience with you immediately."**
 
 The other woman, sitting beside Eireena, raises an eyebrow. Her eye has a hard glint.  
 
@@ -838,7 +838,7 @@ Asoka nods: **"Yes"**
 
 ### Page 12
 
-Eireena: **"Good. Last night, Lieutenant Colonel Santiago Garcia of the **WORLD GOV** Peacekeepers told the Green Haven Clarksville Council that he has received multiple reports of the Green Havens being attacked by large wolf-like creatures."**
+Eireena: **"Good. Last night, Lieutenant Colonel Santiago Garcia of the World Government Peacekeepers told the Green Haven Clarksville Council that he has received multiple reports of the Green Havens being attacked by large wolf-like creatures."**
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
@@ -846,7 +846,7 @@ Eireena: **"The Colonel claims that although they can track these creatures, the
 
 Eireena lets her cynicism creep onto her face. 
 
-Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these '**BEASTS**'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without **WORLD GOV** military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
+Eireena: **"I can't say that we can trust their motives at all, but we have little choice...your story confirms the terrifying results of having no protection against these '**BEASTS**'. So we will have Peacekeepers at our Green Haven, and soon, I fear that no Green Haven will be without World Government military presence. I don't think I need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
 
 Eireena now looks hard at Asoka. 
 
@@ -860,7 +860,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 Iri: *"Soka, the landing team is coming back!"*
 
-We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the **WORLD GOV** Peacekeepers, the planetside branch of the **WORLD GOV** military. The ship is near the lush, marshy coastline of Florida, haloed in a hazy, late morning sun. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
+We see a [dock landing ship](https://en.wikipedia.org/wiki/Dock_landing_ship) of the World Government Peacekeepers, the planetside branch of the World Government military. The ship is near the lush, marshy coastline of Florida, haloed in a hazy, late morning sun. We see a faint outline of Iri camouflaged against the stern of the ship, just above the entrance to the well deck, watching incoming amphibious vehicles bustling with Peacekeepers in full environmental hazard suits. 
 
 *THE SHIP NEEDS A NAME!*
 
@@ -928,7 +928,7 @@ Asoka: *"This isn't what I expected..."*
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
-Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the **WORLD GOV**'s satellites have captured images of what looks like *humans*."** 
+Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the World Government's satellites have captured images of what looks like *humans*."** 
 
 Serena: **"They're, apparently, *re-growing* the forest. And instead of showing the appropriate *awe* for *anyone* who could do that, the Peacekeepers were going on about how much 'exotic fruit' they were going to be able to bring back home. *Idiots*. Don't they realise what killed the forest in the first place?"**
 
@@ -940,7 +940,7 @@ Serena: **"But if it's true...imagine what powerful allies they could be...!"**
 
 Eireena coughs discreetly and gives Serena a sharp look, then turns to Asoka.
 
-Eireena: **"This morning, we convened an emergency High Council, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the **WORLD GOV** does. In the end, we decided to leave the choice up to *you*."**
+Eireena: **"This morning, we convened an emergency High Council, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the World Government does. In the end, we decided to leave the choice up to *you*."**
 
 Asoka and Iri realise that everyone is looking at them. They exchange a glance. 
 
@@ -1028,7 +1028,7 @@ Asoka: **"And...if it was supposed to save the children of Green Haven Howes...h
 
 Eireena drops the smile, and Serena's face darkens. Fili has tears in his eyes, jaw clenched.
 
-Eireena: **"This research would be incredibly dangerous in the hands of someone willing to exploit others...if the **WORLD GOV** found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
+Eireena: **"This research would be incredibly dangerous in the hands of someone willing to exploit others...if the World Government found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
 
 Asoka suddenly remembers -- the snarls, the screams, the smell of freshly baked bread...
 
@@ -1040,7 +1040,7 @@ Eireena: **"Like I said before, if you want to live a quiet life in hiding, you 
 
 ### Page 11
 
-Eireena: **"But with an outfit made of cuttlefish cloth, you're protected from both the **WORLD GOV** *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
+Eireena: **"But with an outfit made of cuttlefish cloth, you're protected from both the World Government *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most free, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
 Eireena: **"If you accept this outfit, the High Council beg you to also accept this diplomatic mission: to warn the people in the Amazon of the Peacekeeper's intentions, and offer them alliance with the Biononymous. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
 
@@ -1409,17 +1409,17 @@ Min: **"E por que você faria isso?"**
 
 Suddenly, Asoka's face also falls dark. 
 
-Asoka, off-panel: **"*O WORLD GOV tem estado atrás dos Green Havens há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos...*"**
+Asoka, off-panel: **"*O World Government tem estado atrás dos Green Havens há anos ... no começo eles queriam 30% de nossa safra anual. Nós nos recusamos. Então, alguns anos depois, bandos itinerantes de animais enormes e demoníacos começaram a aparecer no Norte. Eles eram enormes e impossivelmente rápidos e mataram todos em um Green Haven em questão de minutos...*"**
 
-*translation: "The WORLD GOV has been after the Green Havens for years...at first they wanted 30% of our yearly crop. We refused. Then, a few years later, roaming bands of enormous, demonic beasts began appearing in the North. They were huge and impossibly fast and killed everyone in a Green Haven in a matter of minutes.."*
+*translation: "The World Government has been after the Green Havens for years...at first they wanted 30% of our yearly crop. We refused. Then, a few years later, roaming bands of enormous, demonic beasts began appearing in the North. They were huge and impossibly fast and killed everyone in a Green Haven in a matter of minutes.."*
 
 ### Page 2
 
 Asoka's fists clench. We see Asoka's eyes from behind their face veil, angry tears streaming down their face. 
 
-Asoka: **"*O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo WORLD GOV para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, há pelo menos 40 Pacificadores em cada Haven, e eles estão *forçosamente* tomando 50% da nossa comida!*"**
+Asoka: **"*O Alto Conselho de Biononimous acredita que as Bestas foram criadas pelo World Government para fornecer a elas uma desculpa conveniente para colocar os Pacificadores em cada Green Haven ... agora, há pelo menos 40 Pacificadores em cada Haven, e eles estão *forçosamente* tomando 50% da nossa comida!*"**
 
-*translation: "The Biononymous High Council believes that the Beasts were created by the WORLD GOV in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, there are at least 40 Peacekeepers at each Haven, and they're **forcibly** taking 50% of our food!"*
+*translation: "The Biononymous High Council believes that the Beasts were created by the World Government in order to provide them with a convenient excuse to station Peacekeepers in every Green Haven...now, there are at least 40 Peacekeepers at each Haven, and they're **forcibly** taking 50% of our food!"*
 
 The scene has transitioned to the Central Hearth of the Automata, an enormous tree-house structure with an eSyrup-bubble ceiling. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka is kneeling and facing the gathered crowd of Automata with desperate supplication, as Iri sits on Asoka's shoulders, arms wrapped around Asoka's head and neck. Children openly stare at Iri and Asoka's strange clothing. Elders look troubled or angry, or both.
 
@@ -1541,9 +1541,9 @@ Min: **"Certo, *agora* podemos comer."**
 
 ### Page 8
 
-Nova: **"Entou...'WORLD GOV Pacificadores'...um nome mais irônico..."**
+Nova: **"Entou...'Pacificadores de Governo Mundial'...um nome mais irônico..."**
 
-*translation: "So...'**WORLD GOV** Peacekeepers...a most ironic name..."*
+*translation: "So...'World Government Peacekeepers'...a most ironic name..."*
 
 Nova is sitting across from Asoka and Iri. Her eyes, the faintest of crow's feet at their edges, stare thoughtfully at Asoka and Iri as she takes a big bite of [pirarucu steak](https://en.wikipedia.org/wiki/Arapaima). Next to Nova sits Majhee Suh, who still eats everything with metal chopsticks. Majhee waves to the old man who was carrying kkakdugi earlier, who is now sitting a little ways down the table and across from Nicola. 
 
@@ -1555,7 +1555,7 @@ Majhee: **"Nova, fomos fluentes em inglês uma vez...let's speak in this little 
 
 *translation: "Nova, we were fluent in english once...vamos falar na língua nativa deste pequenino, e dar nosso [babelfish](https://en.wikipedia.org/wiki/Babel_fish) alguns prática."*
 
-All throughout the Central Hearth, conversation buzzes with discussion, debate, and speculation over Asoka's news of the **WORLD GOV** Peacekeepers and the offer of alliance from the Biononymous. Asoka eagerly eats everything within reach. 
+All throughout the Central Hearth, conversation buzzes with discussion, debate, and speculation over Asoka's news of the World Government Peacekeepers and the offer of alliance from the Biononymous. Asoka eagerly eats everything within reach. 
 
 ### Page 9
 
