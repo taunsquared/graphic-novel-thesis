@@ -884,6 +884,8 @@ We see Iri, shimmering with invisibility, as it carefully sneaks through the tig
 
 ### Page 3
 
+*THIS PAGE STILL UNDER CONSTRUCTION*
+
 We see Iri clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
 
 *Need to consult with someone who knows how a naval vessel works and what kinds of daily activities would happen on board.*
@@ -904,7 +906,7 @@ Iri: *"I hope you grabbed enough food to last the rest of the journey...they mig
 
 ### Page 4
 
-Asoka, kneeling, stares glumly yet resignedly at the pile of food in front of them. 
+Asoka, kneeling, stares glumly at the filthy water around them. 
 
 Asoka: *"This isn't what I expected..."*
 
@@ -1031,6 +1033,8 @@ Eireena: **"But with an outfit made of cuttlefish cloth, you're protected from b
 Eireena: **"If you accept this outfit, the High Council beg you to also accept this diplomatic mission: to warn the people in the Amazon of the Peacekeeper's intentions, and offer them alliance with the Biononymous. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
 
 *--end flashback--*
+
+*HERE UNTIL END OF CHAPTER STILL UNDER CONSTRUCTION*
 
 We're back in the double-layered hull of the amphibious warship. Asoka kneels, staring down at the food spilling out of their invisible satchel, lost in thought. 
 
