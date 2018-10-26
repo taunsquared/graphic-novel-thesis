@@ -858,31 +858,29 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jack
 
 ### Page 1
 
-We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) is [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine.
+We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV has just cut the cable. We see Iri's shimmering outline against the submarine bottom. 
 
-Asoka, off-panel: *"Iri, how's our [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine)?"*
+Iri, off-panel: *"It's done!"*
 
-Iri, off-panel: *"Still playing cards..."*
+Asoka, off-panel: *"Finally! How is the [cable engine](http://www.simec-technologies.com/upload/galerie/fiche-mac-2016-97297.pdf) louder than the whole [engine room of a submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine#Electric_drive)?"*
 
-Asoka, off-panel: *"I guess that means we aren't surfacing anytime soon..."*
+Iri, off-panel: *"Too bad the cuttlefish cloth doesn't let you swim out here with me..."*
+
+Asoka, off-panel: *"Don't rub it in..."*
 
 ### Page 2
 
-Asoka lies on their back in the interstitial space of the ship, surrounded by the canned food, packets of freeze-dried fruits and vegetables, and institutional white flour bread rolls that have spilled out of the still invisible pack. Asoka has turned off their camouflage, and we see that their clothes are now embroidered with eSyrup thread, which glimmer in elaborate, rune-like patterns. Asoka now also wears a utility belt, and out of one pocket we see the trailing ends of the fabric tape that sealed and hid Asoka's entry panel. They've pulled aside their face veil in order to stuff one of the bread rolls into their mouth. Their eyes are full of tears, triggered by gratitude for the food, by homesickness, by anxiety, by wanting to be free of the metal walls around them. 
+We see the inside of the submarine's [bilge](https://en.wikipedia.org/wiki/Bilge), the lowest compartment of the submarine, knee-high with liquid drain-off from all parts of the submersible. On an oily pipe, we see two bootprints, and a ghostly hand print on the wall next to it. Thanks to the dirty water, we see an outline of the fully camouflaged Asoka, crouching on top of the pipe and trying to make as little contact with the water below as possible. 
 
-Asoka: *"Jeshua's bread was so much better..."*
+Asoka: *"...I really hope cuttlefish cloth is easy to clean..."*
 
-Iri: *"Don't cry while you eat, you'll choke on your snot!"*
+We see Iri riding the ROV back into the submarine via an escape portal being used to let the robot in and out of the sub. 
 
-Asoka drags their sleeve across their eyes to clear the tears, then sits up to eat in earnest. Asoka tears open a package of dried fruits and nuts and shovels the food into their mouth. 
+Asoka: *"Can you check on the [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) once you're inside?"*
 
-Iri: *"Slow down! Do you wanna choke on your food instead?"*
+Iri, off-panel: *"I bet he's still playing cards..."*
 
-Asoka: *"I gotta eat it before I realise how fake it tastes, otherwise I'll lose my appetite."*
-
-Iri moves invisibly across the flight deck of the dock landing ship.
-
-Iri: *"Ugh, your guts are going through so much abuse right now..."*
+We see Iri, shimmering with invisibility, as it carefully sneaks through the tight submarine hallways towards the command deck and the senior rating's mess at the fore of the submarine. 
 
 ### Page 3
 
