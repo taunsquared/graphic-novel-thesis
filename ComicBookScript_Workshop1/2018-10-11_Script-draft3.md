@@ -616,11 +616,11 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 ### Page 12
 
-**"That 'further notice' came 23 years later, when the Orbiters, facing a terrible food shortage, returned to Earth to declare themselves, *'The World Government'*."**
+**"That 'further notice' came 23 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
-Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jackson
+Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 ### Page 1
 
@@ -826,7 +826,7 @@ Asoka rushes to pick up the scattered raspberries. Eireena holds up a hand to st
 
 Eireena: **"Please, eat those, and sit."**
 
-Serena returns the raspberries to their bowl, and they all sit, Asoka on their bed futon and obediently shoving a raspberry into their mouth, the others on sitting cushions. 
+Serena returns the raspberries to their bowl, and Fili bows and exits. Asoka sits on their bed futon, obediently shoving a raspberry into their mouth, while Serena and Eireena sit on floor cushions. 
 
 Eireena: **"Asoka, I want to tell you why the Peacekeepers visited us last night. Is this something you think you can hear right now?"**
 
@@ -854,7 +854,7 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
-Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez, Fili Jackson
+Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 ### Page 1
 
@@ -916,13 +916,13 @@ Asoka: *"This isn't what I expected..."*
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
-Eireena: **"Serena overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the World Government's satellites have captured images of what looks like *humans*."** 
+Serena: **"I overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the World Government's satellites have captured images of what looks like *humans*."** 
 
-Serena: **"They're, apparently, *re-growing* the forest. And instead of showing the appropriate *awe* for *anyone* who could do that, the Peacekeepers were going on about how much 'exotic fruit' they were going to be able to bring back home. *Idiots*. Don't they realise what killed the forest in the first place?"**
+Serena: **"According to the Peacekeepers, these humans are *re-growing* the forest. And instead of showing the appropriate *awe* for *anyone* who could do that, the Peacekeepers were going on about how much 'exotic fruit' they were going to bring back home. *Idiots*. Don't they realise what killed the forest in the first place?"**
 
 ### Page 5
 
-Serena: **"They said the humans were *naked*. If an entire amphibious warship, full of pirate-minded soldiers, wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *Naked*, in the Red Zone?? Most of our best textiles can't keep you alive in the Red Zone for much longer than a day, there's so much heat and poison in the air...it's *crazy*..."**
+Serena: **"They also said the humans were *naked*. If an entire nuclear submarine, full of pirate-minded soldiers, wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *Naked*, in the Red Zone?? Most of our best textiles can't keep you alive in the Red Zone for much longer than a day, there's so much heat and poison in the air...it's *crazy*..."**
 
 Serena: **"But if it's true...imagine what powerful allies they could be...!"**
 
@@ -942,11 +942,11 @@ Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the
 
 ### Page 6
 
-Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head, who dutifully eats oatcakes and drinks juice. Fili walks behind them. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
+Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head, who dutifully eats oatcakes and drinks juice. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
 
-Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, with exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
+Eireena: **"I used to be a materials engineer, before The Burning. I was part of an international project to create affordable, easy-to-use water and air filters, working with an incredible woman who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, with exceptional filtration properties and very simple voltage-treatment protocols. We wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was our way of politely giving Space Consortium and their patents the finger."**
 
-Eireena: **"We wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was grand. I have such fond memories of late nights, talking over drinks about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were very convinced."**
+Eireena: **"But it wasn't enough -- Space Consortium's body mods were still everywhere! I have such fond memories of late nights, ranting over drinks about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were very convinced."**
 
 Eireena: **"But there *are* some undeniable advantages to having powerful technology right at your fingertips. And we were discovering that our organzas were capable of so much more than just filtering the water and the air. So we decided that we needed to keep the option for living without body mods on the table, by researching *alternatives* to body mods, and the only way to do *that* was to create a religion, because in those days, religions had the best defense against government interference."**
 
@@ -960,11 +960,11 @@ Eireena pulls back a tapestry, which, to a naive eye looks no different from any
 
 Eireena: **"Please."**
 
-Fili opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Neatly folded in the bottom of the dresser is a utility belt on top of a large cloth satchel. Asoka looks closer and gasps -- the tiny patterns are in the style of their home Haven! Asoka reaches with their hand, then hesitates. 
+Serena opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Neatly folded in the bottom of the dresser is a utility belt on top of a large cloth satchel. Asoka looks closer and gasps -- the tiny patterns are in the style of their home Haven! Asoka reaches with their hand, then hesitates. 
 
 Asoka: **"May I?"**
 
-Fili: **"It's yours."**
+Serena: **"It's yours."**
 
 ### Page 8
 
@@ -972,7 +972,7 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Fili: **"Many years ago, two members of your Green Haven council visited us, with this magnificent wooden dresser, and a beautiful child's outfit made of the finest eSyrup cloth we had ever seen. Your Councilors showed us the faces of the Green Haven Howes children, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Haven should ever have to beg us for sanctuary."**
+Serena: **"Many years ago, two members of your Green Haven council visited us, with this magnificent wooden dresser, and a beautiful child's outfit made of the finest eSyrup cloth we had ever seen. Your Councilors showed us the faces of the Green Haven Howes children, then asked us to safeguard this outfit, and never show it to anyone, unless a child from their Haven should ever have to beg us for sanctuary."**
 
 Eireena: **"It's called 'cuttlefish cloth', a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can extend your homeostatic range -- help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
@@ -1014,7 +1014,7 @@ Asoka looks pained.
 
 Asoka: **"And...if it was supposed to save the children of Green Haven Howes...how come there's only *one*??"**
 
-Eireena drops the smile, and Serena's face darkens. Fili has tears in his eyes, jaw clenched.
+Eireena drops the smile, and Serena's face darkens.
 
 Eireena: **"This research would be incredibly dangerous in the hands of someone willing to exploit others...if the World Government found out about it, they wouldn't be using their military just to *intimidate* us into giving them more *food*."**
 
