@@ -294,9 +294,9 @@ Majhee: **"Todos nós sabemos os riscos que vêm com o trabalho neste projeto, c
 
 *translation: "We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."*
 
-Majhee: **"Mas...se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
+Majhee: **"Eu também sei que se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
 
-*translation: "But...if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
+*translation: "I also know that if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
 
 Majhee: **"Se você acha que deve sair, eu farei o que puder para ajudar você e sua família a saírem desta cidade, e fora do radar do Space Consortium."**
 
