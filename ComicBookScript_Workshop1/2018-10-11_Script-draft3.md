@@ -612,7 +612,7 @@ The last Space Barge begins to close its doors. People totally lose their shit.
 
 PA: **"Please step away from the safety barrier!! Please step AWAY from the safety barrier!!"**
 
-**"Afraid to take on more refugees than they could safely host in orbit, the Space Consortium shut down the Space Barge shuttle service, 'until further notice'."**
+**"Afraid to take on more refugees than they could feed, and concerned with the increasingly violent wind conditions on Earth, the Space Consortium shut down the Space Barge shuttle service, 'until further notice'."**
 
 ### Page 12
 
