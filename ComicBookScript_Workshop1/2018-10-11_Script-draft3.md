@@ -592,7 +592,7 @@ Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos merg
 
 **"The poisonous cloud choked and blinded most of the rig's crew, and the hydroflouric acid burned anyone who fell into the ocean. The catastrophe killed 32 people and sank the harvesting rig into the sea. For weeks, the silican tetraflouride plumes belched unchecked into the Antarctic Convergence."**
 
-**"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly [large and frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
+**"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
 Over a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity, we see:
 * Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and breathing masks and rubber boots. 
@@ -602,9 +602,9 @@ Over a backdrop of the "Earth as a marble in space" image, showing intense cyclo
 
 **"Amid the chaos, nearly 60,000 planetside humans fled into orbit on the Space Consortium's Space Barges."**
 
-A huge crowd of desperate people try to shove themselves onto four enormous Space Barges, but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Barges have already closed their doors and are firing up its engines. 
+A huge crowd of desperate people try to shove themselves onto four enormous Space Barges, but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Barges have already closed their doors, their energy cells glowing as they prepare to climb up the eSyrup-doped [elevator cable](https://en.wikipedia.org/wiki/Space_elevator#Climbers). 
 
-There are nearly 10 additional empty launch pads, but they are all empty. 
+There are nearly 10 additional empty [launch tracks](https://www.smithsonianmag.com/innovation/people-are-still-trying-build-space-elevator-180957877/) but they are all empty.   
 
 Person in the crowd: **"Why aren't the other barges coming back???"**
 
