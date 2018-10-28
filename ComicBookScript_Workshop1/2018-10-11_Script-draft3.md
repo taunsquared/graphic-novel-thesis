@@ -74,7 +74,9 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"...and many people, on this historic day of hope and wonder, were starving..."**
 
-Under this narration, we see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
+### Page 2
+
+We see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
 
 A lot of the news is about the new space arboretum, but a few mention the new research base recently established on Mars. Most of the individual **INFO-SPHERE**s are focused on news about planetside climate disasters: 
 * The Colorado River has dried up completely and the severe drought is causing mass migrations to the east, causing massive overcrowding in major inland ("mid-western US") cities.
@@ -84,7 +86,7 @@ A lot of the news is about the new space arboretum, but a few mention the new re
 
 *(cite the above news stories)*
 
-### Page 2
+### Page 3
 
 We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
 
@@ -116,7 +118,7 @@ Majhee: **"Bem, eles estão com fome. Não consigo pensar quando você está com
 
 Majhee removes her boots and steps into the decontamination chamber.
 
-### Page 3
+### Page 4
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
@@ -130,19 +132,17 @@ Majhee: **"Pela última vez, Márcia, não é escavar se estou fazendo tudo livr
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
 
-Marcia: **"Você sabe o que eu quero dizer. Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e quando você publica os desenvolvimentos do seu laboratório online sob uma licença Creative Commons, você torna essa aplicação da eSyrup tech *não patenteável*."**
+Marcia: **"Você sabe o que eu quero dizer. Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e quando você publica os desenvolvimentos do seu laboratório online sob uma licença Creative Commons, você torna essa aplicação da eSyrup tech *não patenteável*!"**
 
-*translation: "You know what I mean. They are **determined** to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech **unpatentable**."*
+*translation: "You know what I mean. They are **determined** to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech **unpatentable**!"*
 
 Majhee: **"Exactamente."**
 
 *translation: "Exactly."*
 
-Marcia: **"Mas você viu o que eles fizeram depois da nossa colaboração para desenvolver o combustível eSyrup! Este instituto não pode permitir outra rodada de ações legais como essa!"**
+Marcia: **"Mas você viu o que eles fizeram depois da nossa colaboração para combustível eSyrup! Este instituto não pode permitir outra rodada de ações legais como essa!"**
 
-*translation: "But you saw what they did with after our collaboration to develop eSyrup fuel! This institute cannot afford another round of legal action like that!"*
-
-### Page 4
+*translation: "But you saw what they did with after our eSyrup fuel collaboration! This institute cannot afford another round of legal action like that!"*
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
@@ -160,15 +160,15 @@ Majhee interrupts: **"E pare de falar como você *realmente* acredita em pesquis
 
 *translation: "And stop talking like you **actually** believe in propriatary health research! How is it possible that **anyone** can still hold such **archaic** views?"*
 
-Marcia, defeated: **"*Sigh*. Só...tenha cuidado."**
+Marcia, defeated: **"*Sigh*. Só...tenha cuidado..."**
 
-*translation: "**Sigh**. Just...be careful."*
+*translation: "**Sigh**. Just...be careful..."*
 
 Marcia glances over her shoulder, then leans in to Majhee.
 
-Marcia, low and careful: **"Há rumores que Space Consortium estão tentando *armar* eSyrup. Eu sei, eu soar como um teórico da conspiração, mas..."**
+Marcia, low and careful: **"...há rumores que Space Consortium estão tentando *armar* eSyrup!"**
 
-*translation: "There are rumors that Space Consortium is trying to **weaponize** eSyrup. I know I sound like a conspiracy theorist, but..."*
+*translation: "...there are rumors that Space Consortium is trying to **weaponize** eSyrup!"*
 
 Majhee, incredulous: **"Eles não ousariam--"**
 
@@ -616,7 +616,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 ### Page 12
 
-**"That 'further notice' came 2 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
+**"That 'further notice' came 23 years later, when the Orbiters, facing a terrible food shortage, returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
@@ -944,9 +944,9 @@ Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the
 
 Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head, who dutifully eats oatcakes and drinks juice. Fili walks behind them. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
 
-Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, that had exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
+Eireena: **"I used to be a materials engineer, before The Burning. I was working as part of an international project to create affordable, easy-to-use eSyrup water and air filters, working with an incredible woman, who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, with exceptional filtration properties and very simple voltage-treatment protocols. It was a beautiful time for science."**
 
-Eireena: **"So we wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was grand. And we didn't like the government, so we moved to Vermont. And spent many late nights, talking to like-minded friends about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were all very convinced."**
+Eireena: **"We wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was grand. I have such fond memories of late nights, talking over drinks about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were very convinced."**
 
 Eireena: **"But there *are* some undeniable advantages to having powerful technology right at your fingertips. And we were discovering that our organzas were capable of so much more than just filtering the water and the air. So we decided that we needed to keep the option for living without body mods on the table, by researching *alternatives* to body mods, and the only way to do *that* was to create a religion, because in those days, religions had the best defense against government interference."**
 
