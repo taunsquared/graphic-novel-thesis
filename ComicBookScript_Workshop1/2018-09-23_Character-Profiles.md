@@ -12,10 +12,13 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 
 * East Asian (Korean) and West African (Senegalese) descent
 * hair cut: mohawk
-* pierced nose
-* pierced ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
-* back tatoo: shallow ocean coral scene
-* head tatoos: on either side of  
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * nose 
+  * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: star field, as visible from Amazon rainforest
+  * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
+  * legs: dendritic line art that encodes Min's lineage and Automata history
 
 ### Where is this character from?
 
