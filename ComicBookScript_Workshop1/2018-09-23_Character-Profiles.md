@@ -12,7 +12,8 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 
 * East Asian (Korean) and West African (Senegalese) descent
 * petite but strong, well-muscled
-* hair cut: mohawk
+* hair: dark, thick, slightly kinky, shaved into a mohawk
+* eyes: dark brown
 * piercings made of eSyrup metal, meaning they can shape-shift
   * nose 
   * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
@@ -53,7 +54,14 @@ Earther, member of the Biononymous cult. Introverted, very warm and kind and pol
 
 Pronouns: They/them/theirs (all Biononymous use gender-neutral pronouns) 
 
-Phenotype: Northern British Isles/Brazilian. Freckles on light olive skin. Reddish-dirty-blonde hair that falls to their shoulders when not under a head wrap and face veil. Long aquiline nose, large golden eyes. Very tall, taller than most Earthers. Long-limbs, delicate shoulders. Strong from a life of farming but not very muscled. 
+Phenotype: Northern British Isles/Portuguese. Freckles on light olive skin. Reddish-dirty-blonde hair that falls to their shoulders when not under a head wrap and face veil. Long aquiline nose, large golden eyes. Very tall, taller than most Earthers. Long-limbs, delicate shoulders. Strong from a life of farming but not very muscled. 
+
+### Visual checklist for character designs
+
+* Portuguese-American and Irish descent
+* Tall and willowy but farmer-strong
+* hair: thin, straight, reddish-dirty-blonde, shoulder-length
+* eyes: golden brown
 
 ### Where is this character from?
 
