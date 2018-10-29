@@ -850,7 +850,7 @@ Eireena: **"I can't say that we can trust their motives at all, but we have litt
 
 Eireena now looks hard at Asoka. 
 
-Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous and risky, but potentially more rewarding path...there is another option."**
+Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous and risky, but potentially rewarding path...there is another option."**
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
