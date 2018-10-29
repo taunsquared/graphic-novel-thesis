@@ -8,6 +8,15 @@ Pronouns: She/her/hers
 
 Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
 
+### Visual checklist for character designs
+
+* East Asian (Korean) and West African (Senegalese) descent
+* hair cut: mohawk
+* pierced nose
+* pierced ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
+* back tatoo: shallow ocean coral scene
+* head tatoos: on either side of  
+
 ### Where is this character from?
 
 Min is a member of the Automata, a nomadic clan dedicated to reviving the Amazon Rainforest. To do this, they study the soil, water, and air, constantly collecting samples and researching how to re-balance Earth's surface environment. They are mobile, moving in a seasonal cycle throughout the Amazon River Basin, tending groves of trees and wild gardens while avoiding contact with the Underground Cities and the World Government, in order to preserve their autonomy.  
