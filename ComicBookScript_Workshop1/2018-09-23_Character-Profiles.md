@@ -11,6 +11,7 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 ### Visual checklist for character designs
 
 * East Asian (Korean) and West African (Senegalese) descent
+* petite but strong, well-muscled
 * hair cut: mohawk
 * piercings made of eSyrup metal, meaning they can shape-shift
   * nose 
