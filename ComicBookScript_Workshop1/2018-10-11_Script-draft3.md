@@ -884,8 +884,6 @@ We see Iri, shimmering with invisibility, as it carefully sneaks through the tig
 
 ### Page 3
 
-*THIS PAGE STILL UNDER CONSTRUCTION*
-
 We see Iri clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
 
 *Need to consult with someone who knows how a naval vessel works and what kinds of daily activities would happen on board.*
@@ -1084,7 +1082,7 @@ As Asoka runs, their face veil shows them overlays of annotations about the envi
 
 In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36.2 deg celsius, while the temp inside Asoka's clothes is 23.1. 
 
-Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is quite high](https://petri.massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/). 
+Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is quite high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/). 
 
 ### Page 3
 
@@ -1300,15 +1298,7 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 * shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
 * legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
 
-**"To be reborn, each Expert Crafter of the Automata must first retreat to one of the sacred caves and refrain from both speech and food for 7 days. Then, they must accept an injection of *raw eSyrup*."**
-
-**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
-
-**"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'intradermal shield'."**
-
 ### Page 2
-
-**"This intradermal shield allows the Automata to exist above ground, and fulfill the prime directive of their clan -- to restore the Amazon Rainforest."**
 
 We see close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
 
@@ -1341,39 +1331,27 @@ The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integ
 
 After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
-Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
-
-*translation: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
-
-View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
-
-Majhee's eyes, proud, confident, expectant: **"O QUE SIGNIFICA SER LIVRE?"**
-
-*translation: "WHAT DOES IT MEAN TO BE FREE?"*
-
-Min closes her eyes, tries to calm her breathing, and struggles to stand. 
-
-Min: **"Beber sem sangrar, respirar sem engasgar, ver o céu e saudar o dia em minha própria pele..."**
-
-*translation: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."*
-
-Min: **"...e MOVER em qualquer direção com curiosidade e graça..."**
-
-*translation: "...and to MOVE in any direction with curiosity and grace..."*
-
-Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
-
-Min: **"...mesmo FORA DO PLANETA!"**
-
-*translation: "...even OFF THE PLANET!"*
-
 ## Chapter 6
 
 Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Chapter Title Page
 
-Min, Asoka, and Iri are in a tall tree, watching the Peacekeepers set up camp as the sky lightens. Min is standing out in the middle of a large branch and grips a smaller branch with so much fury that it breaks in her hand. Face streaming in tears, heart full of rage, she screams as she flings the broken stick in her hand down at the soldiers with all her might, growing spikes in her feet to keep herself locked to the tree branch, but the Peacekeepers have caused so much damage to the surrounding forest that no one notices that yet another broken branch falling violently onto their campsite; and the sounds of their generators drown out her furious cries. Asoka, head gear properly back on and once again fully camouflaged, clings fearfully to the main trunk of the tree, watching Asoka with wide eyes -- they see a beast, and they are afraid. Iri, also camouflaged, clings to Asoka's neck. 
+**"A Protocol for Intradermal eSyrup Integration: Methods and Aims"**
+
+**"To be reborn, each Journeyhume of the Automata must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw eSyrup*."**
+
+**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
+
+**"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'intradermal shield'."**
+
+**"This intradermal shield allows the Automata to exist above ground, and fulfill the prime directive of their clan -- to restore the Amazon Rainforest."**
+
+### Page 1
+
+We see Min peering after the rampaging military tanks, her head peeking over the top of the available canopy. Min's eyelids are shut, thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. 
+
+, Asoka, and Iri are in a tall tree, watching the Peacekeepers set up camp as the sky lightens. Min is standing out in the middle of a large branch and grips a smaller branch with so much fury that it breaks in her hand. Face streaming in tears, heart full of rage, she screams as she flings the broken stick in her hand down at the soldiers with all her might, growing spikes in her feet to keep herself locked to the tree branch, but the Peacekeepers have caused so much damage to the surrounding forest that no one notices that yet another broken branch falling violently onto their campsite; and the sounds of their generators drown out her furious cries. Asoka, head gear properly back on and once again fully camouflaged, clings fearfully to the main trunk of the tree, watching Asoka with wide eyes -- they see a beast, and they are afraid. Iri, also camouflaged, clings to Asoka's neck. 
 
 ### Page 1
 
@@ -1606,6 +1584,34 @@ Nova: **"But if even one Elder chooses to 'block' an action, we have to find ano
 ## Chapter 7: Mistakes Are How We Evolve
 
 Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
+
+### This belongs somewhere in this chapter, not sure where though
+
+Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
+
+*translation: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
+
+View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
+
+Majhee's eyes, proud, confident, expectant: **"O QUE SIGNIFICA SER LIVRE?"**
+
+*translation: "WHAT DOES IT MEAN TO BE FREE?"*
+
+Min closes her eyes, tries to calm her breathing, and struggles to stand. 
+
+Min: **"Beber sem sangrar, respirar sem engasgar, ver o céu e saudar o dia em minha própria pele..."**
+
+*translation: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."*
+
+Min: **"...e MOVER em qualquer direção com curiosidade e graça..."**
+
+*translation: "...and to MOVE in any direction with curiosity and grace..."*
+
+Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
+
+Min: **"...mesmo FORA DO PLANETA!"**
+
+*translation: "...even OFF THE PLANET!"*
 
 ### Page 1
 
