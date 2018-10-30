@@ -104,11 +104,38 @@ Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing comp
 
 Pronouns: She/her/hers
 
-Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders, usually tied back in a casual ponytail. Large blue eyes, dark olive skin. Very large ears. 
+### Visual checklist for character designs
 
-Typical outfit: Skinny jeans and fitted t-shirt. Wears work boots when out in the fields, comfortable slip-on shoes when indoors or in the factories.   
+* Portuguese-American
+* Tall, athletic build but curvy
+* face: pointy chin, high cheekbones, very large ears, upturned nose
+* hair: Thick wavy brown, down to her shoulders, usually tied back in a casual ponytail high on the back of her head. 
+* eyes: Large and blue 
+* skin: dark olive 
+* typical outfit: Skinny jeans and fitted t-shirt. Wears work boots when out in the fields, comfortable slip-on shoes when indoors or in the factories.   
 
 ## Nicola Cavalcanti
+
+Daughter of Beatriz and Demetrio. Was a 3 year old at the start of the Water Crisis. Traveled with Majhee and her research group when they fled São Paulo. Grew up as part of the first generation of Automata in the Amazon and helps develop the craft of Inking. 
+
+### Visual checklist for character designs
+
+* Italian-Brazilian
+* grows up to be tall like her mother, not as large-hipped
+* face: nose is large and slightly bony like her father's, face is very oval
+* hair: dirty blonde as a child, medium brown as an adult
+* eyes: dark green
+* skin: dark olive
+* typical outfit (as an adult Automata): loose trousers that cinch at the knees, chest wrap for breast support
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * left eyebrow
+  * piercings all the way up the helix of both ears
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: cyclonic cloud formations
+  * above the right hip: a [New World Quail](https://en.wikipedia.org/wiki/New_World_quail)
+  * left shoulder: a stylized image of [the chemical structure of the repeating unit of polychloroprene](https://en.wikipedia.org/wiki/Neoprene#/media/File:Polychloroprene.png), the polymer that makes up neoprene. 
+  * right hand: a depiction of an eSyrup culture; near the elbow, the culture bubbles as droplets of water and a sprinkling of sand fall into the eSyrup culture; by the wrist, the culture funnels into a syringe, its tip traveling down the palm to end in a point at the middle finger tip.
+  * legs: dendritic line art that encodes Nicola's lineage and Automata history
 
 ## Asoka Morei
 
