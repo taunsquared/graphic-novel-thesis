@@ -1,4 +1,34 @@
-# Character profiles
+# Character profiles (in order of appearance)
+
+## Majhee Suh 
+
+Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and eventually becomes a research group leader at Laboratório Nacional de Biociências e Saúde Pública. 
+
+Pronouns: She/her/hers
+
+Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
+
+Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing. 
+
+### Visual checklist for character designs
+
+
+
+### What does this character want?
+
+Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
+
+When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
+
+## Iúna Serrano Morei
+
+Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing company that ends up collaborating with the UN to implement Majhee's design for eSyrup air and water filters. 
+
+Pronouns: She/her/hers
+
+Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders, usually tied back in a casual ponytail. Large blue eyes, dark olive skin. Very large ears. 
+
+Typical outfit: Skinny jeans and fitted t-shirt. Wears work boots when out in the fields, comfortable slip-on shoes when indoors or in the factories. 
 
 ## Minka Oosou
 
@@ -112,32 +142,6 @@ Min has decided that Asoka is cool enough to be her friend, so Min expresses her
 Over the next year, while living with the Automata, Asoka slowly recovers from the trauma and realises a new desire: to honour the deaths of their parents and their entire Green Haven, by figuring out a way to defeat the Death Dogs, to deny the World Government the power they so hungrily seek, and to free the Biononymous from oppression. Even though Asoka's parents kept Asoka out of the loop when it came to their research (in order to protect Asoka), Asoka still picked up their distrust of the World Government and their fear that the Biononymous' desire to live private lives, without hyper-documentation by a central authority, may soon be crushed. Reinforced by the insights of Eireena, Asoka realises that although the Biononymous are not trackable or surveillable as individuals, the whole cult is now trapped on the Green Havens, and the Biononymous may lose the leverage they've enjoyed as a religious organization to be free from government oversight. 
 
 When Min declares her intenions to join the ISE Corps via the Space Asylum Program, Asoka decides to also apply to join the ISE Corps, and thus gain better access to the World Government. Asoka wants privacy and private spaces, and safe spaces that by definition must exclude, to have a place in the future of humanity. The World Government threatens that, and Asoka wants to discover if another form of governance is possible for a humanity now spread so far apart from each other, from deep caves to distant orbit. 
-
-## Majhee Suh 
-
-Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and eventually becomes a research group leader at Laboratório Nacional de Biociências e Saúde Pública. 
-
-Pronouns: She/her/hers
-
-Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
-
-Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing. 
-
-### What does this character want?
-
-Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
-
-When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
-
-## Iúna Serrano Morei
-
-Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing company that ends up collaborating with the UN to implement Majhee's design for eSyrup air and water filters. 
-
-Pronouns: She/her/hers
-
-Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders, usually tied back in a casual ponytail. Large blue eyes, dark olive skin. Very large ears. 
-
-Typical outfit: Skinny jeans and fitted t-shirt. Wears work boots when out in the fields, comfortable slip-on shoes when indoors or in the factories. 
 
 
 # Future main characters (I don't think they will fit into this first story)
