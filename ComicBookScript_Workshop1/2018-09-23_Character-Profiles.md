@@ -49,7 +49,7 @@ Pronouns: She/her/hers
 ### Visual checklist for character designs
 
 * Japanese, 1st-generation immigrant to Brazil
-* Average height but slim
+* Average height, average build
 * face: long and thin; wide nose; tends to bring her eyebrows together in concentration, but very few wrinkles
 * hair: salt-and-pepper (lots of salt), a bit bushy, reaches to about her chin when down but usually kept tied back in a hurried ponytail at the base of her skull
 * eyes: dark brown, a bit heavy-lidded, not too big and not too small
@@ -68,9 +68,21 @@ Born and raised in Florianópolis, in the state of Santa Catarina, by parents wh
 * hair: medium brown, thick, a bit wavy
 * eyes: very large, pale green
 * skin: darkly tanned olive
-* typical outfit: loose knitted knee length dress with large pockets, low cut boots
+* typical outfit: loose knitted knee length dress with large pockets, low cut boots, simple dangly earrings, thin white gold chain necklace.
 
 ## Nova Jatobá 
+
+Born and raised in a farming community at the outskirts of [Nova Mutum](https://en.wikipedia.org/wiki/Nova_Mutum), Nova attended State University of Matto Grosso and earned a dual degree in nutrition and information management before coming to São Paulo to work with Majhee. Just months after Nova moved to São Paulo, her single father had a work accident and died. Nova's little brother Amana then came to São Paulo to live with Nova. 
+
+### Visual checklist for character designs
+
+* Descended from the [Bororo](https://en.wikipedia.org/wiki/Bororo) people, also has African heritage
+* Short and plump
+* face: round, with prominent cheekbones; wide nose and thick, shapely lips
+* hair: dark and kinky, kept in tight cornrow braids
+* eyes: large, nearly black-brown, wide-sets
+* skin: dark reddish brown
+* typical outfit: bright floral print tops and loose black or grey slacks. Wears a corded necklace of small, delicate teeth. 
 
 ## Vec Barbosa
 
