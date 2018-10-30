@@ -27,7 +27,8 @@ Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; light
 ### Visual checklist for character designs
 
 * South Korean
-* Average height and build -- spends most of her time in the lab, but also enjoys wilderness sports such as trekking and scuba diving as hobbies
+* Average height and athletically built but not muscled -- spends most of her time in the lab, but also enjoys wilderness sports such as trekking and scuba diving as hobbies
+* face: small, round like a moon; button nose
 * hair: straight, black, cut short into a bowl pixie that just brushes the tops of her ears
 * eyes: dark brown and small
 * skin: pale porcelain that has been lightly tanned from her outdoor hobbies, but she *always* wears plenty of sunscreen
@@ -40,6 +41,20 @@ Majhee has always wanted to discover a way to directly interface biological tiss
 When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with toxic acids. 
 
 ## Kai Oliveira
+
+Born in São Paulo, Kai's parents immigrated from Japan to Brazil a year before Kai was born. Kai graduated from Unicamp ([Universidade Estadual de Campinas](https://en.wikipedia.org/wiki/University_of_Campinas)) with a bachelor's degree in organic chemistry and a master's degree in materials science before going to Seoul, Korea to pursue a PhD in "bio-silicate interfaces". There she met a young and ambitious Majhee, who convinced Kai that academic researchers need to take a more active stance on how their research is applied. When Majhee decided to go into global public health, Kai recommended that Majhee check out a research group at Unicamp doing humanitarian work and science education in addition to creating better tools for understanding one's own genetic profile and biases. Majhee went off to São Paulo while Kai stayed in Seoul for a few more years. When Majhee got her appointment as group leader at the Laboratório Nacional de Biociências e Saúde Pública, she contact Kai and begged her to come back to São Paulo and work with Majhee on eSyrup doping and splicing experiments. 
+
+Pronouns: She/her/hers
+
+### Visual checklist for character designs
+
+* Japanese, 1st-generation immigrant to Brazil
+* Average height but slim
+* face: long and thin; wide nose; tends to bring her eyebrows together in concentration, but very few wrinkles
+* hair: salt-and-pepper (lots of salt), a bit bushy, reaches to about her chin when down but usually kept tied back in a hurried ponytail at the base of her skull
+* eyes: dark brown, a bit heavy-lidded, 
+* skin: heavily browned porcelain
+* typical outfit: high-waisted "hammer pants" in simple colors, jazz/modern dance athletic shoes, loose short sleeve t-shirts. 
 
 ## Beatriz Cavalcanti
 
