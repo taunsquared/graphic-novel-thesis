@@ -52,11 +52,23 @@ Pronouns: She/her/hers
 * Average height but slim
 * face: long and thin; wide nose; tends to bring her eyebrows together in concentration, but very few wrinkles
 * hair: salt-and-pepper (lots of salt), a bit bushy, reaches to about her chin when down but usually kept tied back in a hurried ponytail at the base of her skull
-* eyes: dark brown, a bit heavy-lidded, 
+* eyes: dark brown, a bit heavy-lidded, not too big and not too small
 * skin: heavily browned porcelain
 * typical outfit: high-waisted "hammer pants" in simple colors, jazz/modern dance athletic shoes, loose short sleeve t-shirts. 
 
 ## Beatriz Cavalcanti
+
+Born and raised in Florianópolis, in the state of Santa Catarina, by parents who run a small beach-side restaurant started by Beatriz's paternal grandparents, who immigrated to Brazil from Northern Italy. 
+
+### Visual checklist for character designs
+
+* Italian-Brazilian, 2nd generation immigrant
+* Tall, large hips, average build
+* face: narrow, with a square jaw
+* hair: medium brown, thick, a bit wavy
+* eyes: very large, pale green
+* skin: darkly tanned olive
+* typical outfit: loose knitted knee length dress with large pockets, low cut boots
 
 ## Nova Jatobá 
 
