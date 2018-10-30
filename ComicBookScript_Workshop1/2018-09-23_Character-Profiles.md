@@ -77,7 +77,7 @@ Outfit components:
 * socks that go above the ankle
 * boots
 
-The unifying aesthetic of the Biononymous cult are the hexagonal patterns of beehives. Each Green Haven, the name for Biononymous farming villages, has an additional motif involving a local flora and fauna. The local motif of Green Haven Howes, Asoka's home Haven, is the beaver and the American Elm. 
+The unifying aesthetic of the Biononymous cult are the hexagonal patterns of beehives. Each Green Haven, the name for Biononymous farming villages, has an additional motif involving a local flora and fauna. The local motif of Green Haven Howes, Asoka's home Haven, is the North American Beaver and the American Elm. 
 
 ### Where is this character from?
 
