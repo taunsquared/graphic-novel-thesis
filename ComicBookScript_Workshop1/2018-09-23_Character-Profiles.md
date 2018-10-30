@@ -204,6 +204,12 @@ When Min declares her intenions to join the ISE Corps via the Space Asylum Progr
 
 ## Iri 
 
+A cuttlefish mechapet, made from flexible inorganic materials doped with eSyrup. Iri is unusual for a mechapet, in that it can change its shape, colour, and texture, even able to spread out completely flat and camouflage well enough to be functionally invisible. 
+
+### A note about mechapets
+
+Asoka's generation is the first generation of Biononymous to have mechapets.  
+
 ## Eireena McLeland 
 
 ## Serena Ramirez 
