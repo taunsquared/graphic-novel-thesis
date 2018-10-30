@@ -1,4 +1,20 @@
-# Character profiles (in order of appearance)
+# Character profiles 
+
+In order of appearance:  
+[Majhee Suh](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#majhee-suh)  
+[Kai Oliveira](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#kai-oliveira)  
+[Beatriz Cavalcanti](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#beatriz-cavalcanti)  
+[Nova Jatobá]()  
+[Vec Barbosa](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#vec-barbosa)  
+[Iúna Serrano Morei](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#i%C3%BAna-serrano-morei)  
+[Nicola Cavalcanti](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#nicola-cavalcanti)  
+[Asoka Morei](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#asoka-morei)  
+[Iri](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#iri)  
+[Eireena McLeland](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#eireena-mcleland)  
+[Serena Ramirez](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#serena-ramirez)  
+[Minka Oosou](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#minka-oosou)  
+[Jina Suh Barbosa](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#jina-suh-barbosa)  
+[Maraba Barbosa Jatobá]()  
 
 ## Majhee Suh 
 
@@ -20,6 +36,14 @@ Majhee has always wanted to discover a way to directly interface biological tiss
 
 When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
 
+## Kai Oliveira
+
+## Beatriz Cavalcanti
+
+## Nova Jatobá 
+
+## Vec Barbosa
+
 ## Iúna Serrano Morei
 
 Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing company that ends up collaborating with the UN to implement Majhee's design for eSyrup air and water filters. 
@@ -28,56 +52,9 @@ Pronouns: She/her/hers
 
 Phenotype: Portuguese. Thick, wavy brown hair, down to her shoulders, usually tied back in a casual ponytail. Large blue eyes, dark olive skin. Very large ears. 
 
-Typical outfit: Skinny jeans and fitted t-shirt. Wears work boots when out in the fields, comfortable slip-on shoes when indoors or in the factories. 
+Typical outfit: Skinny jeans and fitted t-shirt. Wears work boots when out in the fields, comfortable slip-on shoes when indoors or in the factories.   
 
-## Minka Oosou
-
-Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Underground Earther. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
-
-Pronouns: She/her/hers
-
-Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
-
-### Visual checklist for character designs
-
-* East Asian (Korean) and West African (Senegalese) descent
-* petite but strong, well-muscled (Min comes up to Asoka's shoulder)
-* hair: dark, thick, slightly kinky, shaved into a mohawk
-* eyes: dark brown
-* skin: deep chocolate brown
-* piercings made of eSyrup metal, meaning they can shape-shift
-  * nose 
-  * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
-* tattoos made of eSyrup ink, meaning they can shape-shift
-  * back: star field, as visible from Amazon rainforest
-  * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
-  * legs: dendritic line art that encodes Min's lineage and Automata history
-
-### Where is this character from?
-
-Min is a member of the Automata, a nomadic clan dedicated to reviving the Amazon Rainforest. To do this, they study the soil, water, and air, constantly collecting samples and researching how to re-balance Earth's surface environment. They are mobile, moving in a seasonal cycle throughout the Amazon River Basin, tending groves of trees and wild gardens while avoiding contact with the Underground Cities and the World Government, in order to preserve their autonomy.  
-
-The Automata believe true autonomy is the ability to make informed, un-coerced decisions. To the Automata, this implies that every member of their clan be raised with the skills and awareness required to govern themselves while co-existing with the rest of the world. Most members of the Automata interpret this collective awareness and responsibility to extend only towards other Earthers, and are happy to ignore the Orbiters, whom the Automata speak of dismissively as "the ones who abandoned us out of fear, who hide in their sterile coffins up in the sky."
-
-When Automata children are considered adults by the Clan when they become an Expert in one of their crafts: Tree Surfer (one who studies and cares for trees and plants), Water Cycler (one who studies and cares for the water and waste cycles of the Automata), and Inker (one who studies and cares for the raw eSyrup cultures, secret treasure of the Automata). When an Automata has trained and proven their competence in a craft, they undergo the Rite of the Mothers - they must travel, with a single escort, to the sacred burial caves of the Automata, where a secret spring of clean, clear water, one of the rarest things in the modern world, bursts out of the cave rock. There they must meditate amongst their dead ancestors for 7 days, with no food and no speech during that time. 
-
-After 7 days, their escort helps them return to the main body of the Clan, where they receive an injection of raw eSyrup directly into their skin. This injection becomes their **subdermal shield**, a layer of eSyrup in their skin, which connects directly with their nervous system. With guidance, discipline, and much practice, the Automata are able to modify their subdermal shield in order to give themselves protection from harmful solar radiations, to eat directly the fruits and vegetables grown in wild gardens, to drink surface water without intensive treatment and filtration, to filter the current atmosphere with their own sinuses. 
-
-Once the subdermal shield has been fully assimilated by the individual, they are asked, "What does it mean to be Free?" These are the first words of every adult Automata; this is the question upon which they meditate in the sacred caves of the ancestors. Each Automata's answer is expected to share how they plan to spend their Year Underground - after 6 months of training on how to use their subdermal shield, Automata are expected to disguise themselves as Underground Earthers and spend a year living in the Underground Cities, to gain perspective on the Automata lifestyle and to generate closer empathy with their fellow planetside humans. 
-
-When Min's mother Jina spent her year in the Underground Cities, she met and fell in love with Amadou, who had run away from a tyrannical governor of a remote cave system. His parents were still living as slaves to this tyrannical governor, and Amadou felt weighed down with guilt for abandoning them to such a cruel fate. So Jina decided to help Amadou return to his home cave and overthrow the tyrannical governor. They succeeded, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, Amadou kills the tyrannical governor, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou on the condition that he will be a "child" forever - he will never receive a subdermal shield. 
-
-The Automata work to re-grow the Amazon forest, using a variety of pioneer species. In areas where their re-forestation efforts are more mature, they have started growing [shihuahuaco trees](https://www.sciencedirect.com/science/article/pii/S0378112710007504). 
-
-### What does this character want?
-
-Thanks to growing up with a father who was not born into the Automata, Min grows up with a rather unique perspective, even before becoming an Expert Crafter and living with the Underground Earthers for a year. Amadou once dreamed of going into orbit and becoming a space explorer, and he passes on those dreams to Min. Min and Amadou spend many nights stargazing and pointing out planets and Orbiter structures, many dawns and dusks watching the Space Barges rumble through the atmosphere. Now that Amadou has a bounty on his head, he will never be able to ride a Space Barge without being taken into Peacekeeper custody or killed for money, a fact that causes him great sadness. 
-
-Because of the influence of her father, Min grows to believe that in order to be truly informed and un-coerced in her decisions, she must also be informed about and un-coerced by the Orbiters. This, plus her father's love for space exploration, make Min want to apply to the International Space Exploration Corps. 
-
-Just before meeting Asoka, Min undergoes the Rite of the Mothers. Her first words as an adult of the Automata, in answer to the question, "What does it mean to be Free?": "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin...and to MOVE in any direction with curiosity and grace...even OFF THE PLANET! Instead of spending a year underground, I choose to spend a year up in orbit, to learn what it's like to be an Orbiter, and how to co-exist with all of humanity, not just Earthers. I will apply to the International Space Exploration Corps through the Space Asylum Program, and complete an Orbiter rite of passage."**
-
-Min also hates the World Government for punishing her father for killing an evil man, for allowing people to suffer in the name of "law and order". After meeting Asoka and learning about the World Government's treatment of the Biononymous, Min's anger towards the World Government grows to a fury, and Min realises that the Automata will inevitably have to face the World Government one day. When Asoka becomes horribly depressed after the Automata Elders decline an alliance with the Biononymous, Min also realises that she wants to be friends with Asoka. She tells Asoka about the ISE Corps, and the Space Asylum Program, and urges Asoka to apply.   
+## Nicola Cavalcanti
 
 ## Asoka Morei
 
@@ -143,6 +120,64 @@ Over the next year, while living with the Automata, Asoka slowly recovers from t
 
 When Min declares her intenions to join the ISE Corps via the Space Asylum Program, Asoka decides to also apply to join the ISE Corps, and thus gain better access to the World Government. Asoka wants privacy and private spaces, and safe spaces that by definition must exclude, to have a place in the future of humanity. The World Government threatens that, and Asoka wants to discover if another form of governance is possible for a humanity now spread so far apart from each other, from deep caves to distant orbit. 
 
+## Iri 
+
+## Eireena McLeland 
+
+## Serena Ramirez 
+
+## Minka Oosou
+
+Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Underground Earther. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
+
+Pronouns: She/her/hers
+
+Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
+
+### Visual checklist for character designs
+
+* East Asian (Korean) and West African (Senegalese) descent
+* petite but strong, well-muscled (Min comes up to Asoka's shoulder)
+* hair: dark, thick, slightly kinky, shaved into a mohawk
+* eyes: dark brown
+* skin: deep chocolate brown
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * nose 
+  * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: star field, as visible from Amazon rainforest
+  * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
+  * legs: dendritic line art that encodes Min's lineage and Automata history
+
+### Where is this character from?
+
+Min is a member of the Automata, a nomadic clan dedicated to reviving the Amazon Rainforest. To do this, they study the soil, water, and air, constantly collecting samples and researching how to re-balance Earth's surface environment. They are mobile, moving in a seasonal cycle throughout the Amazon River Basin, tending groves of trees and wild gardens while avoiding contact with the Underground Cities and the World Government, in order to preserve their autonomy.  
+
+The Automata believe true autonomy is the ability to make informed, un-coerced decisions. To the Automata, this implies that every member of their clan be raised with the skills and awareness required to govern themselves while co-existing with the rest of the world. Most members of the Automata interpret this collective awareness and responsibility to extend only towards other Earthers, and are happy to ignore the Orbiters, whom the Automata speak of dismissively as "the ones who abandoned us out of fear, who hide in their sterile coffins up in the sky."
+
+When Automata children are considered adults by the Clan when they become an Expert in one of their crafts: Tree Surfer (one who studies and cares for trees and plants), Water Cycler (one who studies and cares for the water and waste cycles of the Automata), and Inker (one who studies and cares for the raw eSyrup cultures, secret treasure of the Automata). When an Automata has trained and proven their competence in a craft, they undergo the Rite of the Mothers - they must travel, with a single escort, to the sacred burial caves of the Automata, where a secret spring of clean, clear water, one of the rarest things in the modern world, bursts out of the cave rock. There they must meditate amongst their dead ancestors for 7 days, with no food and no speech during that time. 
+
+After 7 days, their escort helps them return to the main body of the Clan, where they receive an injection of raw eSyrup directly into their skin. This injection becomes their **subdermal shield**, a layer of eSyrup in their skin, which connects directly with their nervous system. With guidance, discipline, and much practice, the Automata are able to modify their subdermal shield in order to give themselves protection from harmful solar radiations, to eat directly the fruits and vegetables grown in wild gardens, to drink surface water without intensive treatment and filtration, to filter the current atmosphere with their own sinuses. 
+
+Once the subdermal shield has been fully assimilated by the individual, they are asked, "What does it mean to be Free?" These are the first words of every adult Automata; this is the question upon which they meditate in the sacred caves of the ancestors. Each Automata's answer is expected to share how they plan to spend their Year Underground - after 6 months of training on how to use their subdermal shield, Automata are expected to disguise themselves as Underground Earthers and spend a year living in the Underground Cities, to gain perspective on the Automata lifestyle and to generate closer empathy with their fellow planetside humans. 
+
+When Min's mother Jina spent her year in the Underground Cities, she met and fell in love with Amadou, who had run away from a tyrannical governor of a remote cave system. His parents were still living as slaves to this tyrannical governor, and Amadou felt weighed down with guilt for abandoning them to such a cruel fate. So Jina decided to help Amadou return to his home cave and overthrow the tyrannical governor. They succeeded, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, Amadou kills the tyrannical governor, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou on the condition that he will be a "child" forever - he will never receive a subdermal shield. 
+
+The Automata work to re-grow the Amazon forest, using a variety of pioneer species. In areas where their re-forestation efforts are more mature, they have started growing [shihuahuaco trees](https://www.sciencedirect.com/science/article/pii/S0378112710007504). 
+
+### What does this character want?
+
+Thanks to growing up with a father who was not born into the Automata, Min grows up with a rather unique perspective, even before becoming an Expert Crafter and living with the Underground Earthers for a year. Amadou once dreamed of going into orbit and becoming a space explorer, and he passes on those dreams to Min. Min and Amadou spend many nights stargazing and pointing out planets and Orbiter structures, many dawns and dusks watching the Space Barges rumble through the atmosphere. Now that Amadou has a bounty on his head, he will never be able to ride a Space Barge without being taken into Peacekeeper custody or killed for money, a fact that causes him great sadness. 
+
+Because of the influence of her father, Min grows to believe that in order to be truly informed and un-coerced in her decisions, she must also be informed about and un-coerced by the Orbiters. This, plus her father's love for space exploration, make Min want to apply to the International Space Exploration Corps. 
+
+Just before meeting Asoka, Min undergoes the Rite of the Mothers. Her first words as an adult of the Automata, in answer to the question, "What does it mean to be Free?": "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin...and to MOVE in any direction with curiosity and grace...even OFF THE PLANET! Instead of spending a year underground, I choose to spend a year up in orbit, to learn what it's like to be an Orbiter, and how to co-exist with all of humanity, not just Earthers. I will apply to the International Space Exploration Corps through the Space Asylum Program, and complete an Orbiter rite of passage."**
+
+Min also hates the World Government for punishing her father for killing an evil man, for allowing people to suffer in the name of "law and order". After meeting Asoka and learning about the World Government's treatment of the Biononymous, Min's anger towards the World Government grows to a fury, and Min realises that the Automata will inevitably have to face the World Government one day. When Asoka becomes horribly depressed after the Automata Elders decline an alliance with the Biononymous, Min also realises that she wants to be friends with Asoka. She tells Asoka about the ISE Corps, and the Space Asylum Program, and urges Asoka to apply. 
+
+## Jina Suh Barbosa 
+
+## Maraba Barbosa Jatobá
 
 # Future main characters (I don't think they will fit into this first story)
 
