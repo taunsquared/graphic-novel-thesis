@@ -18,23 +18,26 @@ In order of appearance:
 
 ## Majhee Suh 
 
-Born in 2035 in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and eventually becomes a research group leader at Laboratório Nacional de Biociências e Saúde Pública. 
+Born in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and eventually becomes a research group leader at Laboratório Nacional de Biociências e Saúde Pública. 
 
 Pronouns: She/her/hers
 
-Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height. 
-
-Typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing. 
+Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height.  
 
 ### Visual checklist for character designs
 
-
+* South Korean
+* Average height and build -- spends most of her time in the lab, but also enjoys wilderness sports such as trekking and scuba diving as hobbies
+* hair: straight, black, cut short into a bowl pixie that just brushes the tops of her ears
+* eyes: dark brown and small
+* skin: pale porcelain that has been lightly tanned from her outdoor hobbies, but she *always* wears plenty of sunscreen
+* typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing.
 
 ### What does this character want?
 
 Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
 
-When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with hydroflouric acid. 
+When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with toxic acids. 
 
 ## Kai Oliveira
 
@@ -72,6 +75,7 @@ Phenotype: Northern British Isles/Portuguese. Freckles on light olive skin. Redd
 * eyes: golden brown
 * skin: light olive, freckles on their face
 * always accompanied by Iri, their cuttlefish mechapet
+* always dressed in Biononymous clothing
 
 #### A note on Biononymous clothing
 
