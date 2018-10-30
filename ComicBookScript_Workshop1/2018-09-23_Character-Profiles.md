@@ -82,9 +82,21 @@ Born and raised in a farming community at the outskirts of [Nova Mutum](https://
 * hair: dark and kinky, kept in tight cornrow braids
 * eyes: large, nearly black-brown, wide-sets
 * skin: dark reddish brown
-* typical outfit: bright floral print tops and loose black or grey slacks. Wears a corded necklace of small, delicate teeth. 
+* typical outfit: bright floral print tops and loose black or grey slacks. Wears a corded necklace of small, delicate teeth. Prefers ballerina style slip-on shoes. 
 
 ## Vec Barbosa
+
+Vec was born and raised in [Fortaleza](https://en.wikipedia.org/wiki/Fortaleza), where Vec's mother worked at the Acquario Ceará and Vec's father taught scuba diving at the [Pedra da Risca do Meio Marine State Park](https://en.wikipedia.org/wiki/Pedra_da_Risca_do_Meio_Marine_State_Park). 
+
+### Visual checklist for character designs
+
+* Brazilian of African descent, primarily from Senegal (maternal grandmother immigrated from Senegal)
+* Tall, big belly, broad shouldered, long muscular arms, legs a bit bowed out
+* face: short and square face, large flat nose
+* hair: short dreds that hang a bit past his large ears
+* eyes: small, dark, and always a bit twinkling, with kindness or mischief
+* skin: velvety dark
+* typical outfit: khaki shorts, flipflops, button up shirt that strains over his generous beer belly. Has a large gold stud earring in his right ear and wears an old watch with ragged leather straps on his left wrist. 
 
 ## Iúna Serrano Morei
 
