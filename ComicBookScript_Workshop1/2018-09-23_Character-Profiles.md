@@ -4,7 +4,7 @@ In order of appearance:
 [Majhee Suh](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#majhee-suh)  
 [Kai Oliveira](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#kai-oliveira)  
 [Beatriz Cavalcanti](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#beatriz-cavalcanti)  
-[Nova Jatobá]()  
+[Nova Jatobá](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#nova-jatob%C3%A1)  
 [Vec Barbosa](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#vec-barbosa)  
 [Iúna Serrano Morei](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#i%C3%BAna-serrano-morei)  
 [Nicola Cavalcanti](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#nicola-cavalcanti)  
@@ -14,7 +14,7 @@ In order of appearance:
 [Serena Ramirez](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#serena-ramirez)  
 [Minka Oosou](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#minka-oosou)  
 [Jina Suh Barbosa](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#jina-suh-barbosa)  
-[Maraba Barbosa Jatobá]()  
+[Maraba Barbosa Jatobá](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-09-23_Character-Profiles.md#maraba-barbosa-jatob%C3%A1)  
 
 ## Majhee Suh 
 
