@@ -1286,13 +1286,13 @@ Suddenly a tank plows through the grove of papaya trees, completely destroying e
 
 ### Page 1
 
-Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth infused with one of the AUTOMATA's original, surviving eSyrup cultures, called "Mothers". Everyone in the concentric circles are holding hands and focused on Min, their bodies convulsing in synchronised group ritual dance. 
+Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth in which the embroidery moves fluidly, in response to the lighting, the sounds, the wearers moods...
 
-Drum beats keep everyone synchronised.
+Drum beats in the background...
 
 **"Another Tree Surfer is born tonight."**
 
-Over this backdrop, small close-up panels are scattered, showing different parts of 16 year old Min, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
+Over this backdrop, small ghostly close-up panels are scattered, showing different parts of 16 year old Min, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
 * an eye, nose, and ear. The eye is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with eSyrup metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
 * a strong and straight back, dominated by an eSyrup tatoo depicting a shallow coral ocean scene, ever-changing.  
 * shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
@@ -1300,34 +1300,30 @@ Over this backdrop, small close-up panels are scattered, showing different parts
 
 ### Page 2
 
-We see close-up views of the people in the inner most circle, just on the outside of the metal hoop:  
+We see the people in the inner most circle, just on the outside of the metal hoop:  
 
 * Jina, also covered in clan tatoos and splendid eSyrup ritual clothing. Jina's intradermal shield is visible in shadowy patterns under her clan tatoos. Next to her is a tall bucket holding ritual clensing water.  
 * Amadou, no intradermal shield and just a few clan tatoos, but dressed spledidly and unspeakably proud of his daughter.   
 * Majhee, matriarch leader of their clan, intradermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
 * Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's intradermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
-**"DOOOOHM!"** 
-
-The drums all come to a halt, and all of the concentric circles except the innermost lean in sharply on that last booming beat, hands all stretched towards Min, fingers shaking. 
-
-Jina, Majhee, Amadou, and Maraba stand up and pick up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. Then they strap Min's ankles and wrists to the metal hoop. 
-
 ### Page 3
 
-Maraba picks up the syringe as Jina picks up the bucket of water, leaving Majhee and Amadou to hold the hoop with Min inside steady. 
+**"DOOOOHM!"** 
 
-Jina pours the bucket of water slowly over Min until Min is drenched, then returns the bucket to its previous location in the circle. Then Maraba positions the needle of the syringe full of raw eSyrup against Min's right buttcheek, breaks the skin, and slowly injects all of the eSyrup as Min grits her teeth. 
+We see many concentric hands, surrounding this scene: Jina, Majhee, Amadou, and Maraba have stood and picked up the metal hoop. They hold it in place as Min steps onto the curving metal, hands pushing against the hoop above her head. 
 
-Min's cousin pulls out the syringe and places it back on the basket. Then Jina, Amadou, Majhee, and Maraba turn Min in slow circles as the raw eSyrup spreads throughout her body, spreading up her torso, across her arms and legs, over her face, and into her eyelids. As the intradermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. 
+Majhee and Amadou strap Min's ankles and wrists to the metal hoop as Jina pours the bucket of water slowly over Min. 
 
-Min's body convulses as her inner circle sets her upright in the very center again. 
+Min is drenched and Maraba has positioned the needle of the syringe full of raw eSyrup against Min's right buttcheek. Maraba slowly injects all of the eSyrup as Min grits her teeth. Jina has returned the bucket to its previous location in the circle. 
 
-The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the intradermal shield. 
-
-*translation: "Be free! Be FREE! BE FREE!"*
+We see raw eSyrup spreading throughout Min's body, moving up her torso, across her arms and legs, over her face, and into her eyelids. Min's has cousin pulled out the syringe and placed it back on the basket. 
 
 ### Page 4
+
+As the intradermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the intradermal shield. 
+
+*translation: "Be free! Be FREE! BE FREE!"*
 
 After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
