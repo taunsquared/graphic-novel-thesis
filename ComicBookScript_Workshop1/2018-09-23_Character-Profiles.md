@@ -11,9 +11,10 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 ### Visual checklist for character designs
 
 * East Asian (Korean) and West African (Senegalese) descent
-* petite but strong, well-muscled
+* petite but strong, well-muscled (Min comes up to Asoka's shoulder)
 * hair: dark, thick, slightly kinky, shaved into a mohawk
 * eyes: dark brown
+* skin: deep chocolate brown
 * piercings made of eSyrup metal, meaning they can shape-shift
   * nose 
   * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
@@ -59,9 +60,24 @@ Phenotype: Northern British Isles/Portuguese. Freckles on light olive skin. Redd
 ### Visual checklist for character designs
 
 * Portuguese-American and Irish descent
-* Tall and willowy but farmer-strong
+* Tall and willowy but farmer-strong (Asoka is a full head and neck taller than Min)
 * hair: thin, straight, reddish-dirty-blonde, shoulder-length
 * eyes: golden brown
+* skin: light olive, freckles on their face
+* always accompanied by Iri, their cuttlefish mechapet
+
+#### A note on Biononymous clothing
+
+Outfit components: 
+* sleeveless shirt, simply and sparsely embroidered, worn tucked into the trousers
+* baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez), cinched at the ankle and worn tucked into boots
+* light-weight long sleeve jacket, loose and fastening up the front, covered in a variety of simple geometric embroidery patterns, sleeves cinched at the wrists
+* gloves, tucked into the sleeves
+* head scarf and face veil with the schematic of a face embroidered onto each with eSyrup thread 
+* socks that go above the ankle
+* boots
+
+The unifying aesthetic of the Biononymous cult are the hexagonal patterns of beehives. Each Green Haven, the name for Biononymous farming villages, has an additional motif involving a local flora and fauna. The local motif of Green Haven Howes, Asoka's home Haven, is the beaver and the American Elm. 
 
 ### Where is this character from?
 
