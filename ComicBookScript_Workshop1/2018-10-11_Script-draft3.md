@@ -58,6 +58,14 @@
 
 Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa
 
+### Chapter Title Page
+
+**"Loading Universal Record..."**
+
+**"Finished loading...'The Space Consortium Fights World Hunger'"**
+
+**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with the UN Green Havens, areas of the world set aside to preserve Earth's agricultural traditions and provide biodiversity sanctuaries, in order to conduct research into exo-hydroponics (plants useful for space travel) and permaculture in low gravity. The Space Consortium offered to use this research to help fight the global food shortage with food grown in space. Space Consortium pledged half of the carrying capacity of its recently completed space elevator project, called The Space Barges, to guarantee reliable transport of food back and forth between orbiting farms and planetside. Thus, the Space Consortium played a major role in improving the quality of life on Earth before The Burning..."**
+
 ### Page 1
 
 **"2066: São Paulo, Brazil"**
@@ -414,6 +422,14 @@ Iúna: **"*...then we have much stronger grounds to deny oversight by Space Cons
 
 Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa, Nicola Cavalcanti
 
+### Chapter Title Page
+
+**"Loading Universal Record..."**
+
+**"Finished loading...'A Beginner's Guide to eSyrup: Introduction'"**
+
+**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers manage to create a yeast mutant that, when cultured with lactic acid bacteria and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. The resulting culture can be vaporized, heat-treated, or "voltage-treated" to induce the atoms within this self-replicating culture to self-assemble into tissue-like sections, which can mimic the behaviour of any component of a classical electronic circuit. However, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
+
 ### Page 1
 
 **"2067: Ushuaia, Argentina"**
@@ -624,9 +640,11 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 ### Chapter Title Page
 
-**"A Beginner's Guide to eSyrup, Introduction"**
+**"Loading Universal Record..."**
 
-**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers manage to create a yeast mutant that, when cultured with lactic acid bacteria and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. The resulting culture can be vaporized, heat-treated, or "voltage-treated" to induce the atoms within this self-replicating culture to self-assemble into tissue-like sections, which can mimic the behaviour of any component of a classical electronic circuit. However, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)."**
+**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Doping'"**
+
+**"By using a chemical vapour deposition method derived from [metalorganic vapour-phase epitaxy](https://en.wikipedia.org/wiki/Metalorganic_vapour-phase_epitaxy), various inorganic materials, such as metals, ceramics, glass, and plastic can be "doped" with vaporized eSyrup, in order to give them flexible electronic properties. Organic materials, such as textiles (wool, cotton, hemp, flax) and paper, can also be "doped" with eSyrup. The exact nature of this flexibility depends on the state of the eSyrup used in the doping process. Certain vaporization techniques allow for the resulting eSyrup product to continue to be independently reconfigurable almost indefinitely (called "flexible eSyrup" or "flex-eSyrup"), while other vaporization techniques destroy its ability to reconfigure (called "fixed eSyrup")..."**
 
 ### Page 1
 
@@ -866,7 +884,11 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 ### Chapter Title Page
 
-**"A Beginner's Guide to eSyrup. Chapter 6: A Historical Tangent"**
+**"Loading Universal Record..."**
+
+**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Splicing'"**
+
+**"Similar to inorganic materials "doped" with eSyrup, organic materials "spliced" with eSyrup can be heat-/voltage-treated to be either "flexible" or "fixed". In general, reconfiguring spliced eSyrup is easier than reconfiguring doped eSyrup. eSyrup was spliced with living cells for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw eSyrup and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing eSyrup with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
 
 ### Page 1
 
