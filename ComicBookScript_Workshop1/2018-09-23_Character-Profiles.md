@@ -229,6 +229,20 @@ Eireena is High Priestess of Green Haven Clarksville. She knew and worked with I
 
 ## Serena Ramirez 
 
+Serena is Eireena's right-hand and body guard. She has studied and trained as a Guardian of the Biononymous, the subpopulation within the Biononymous cult that specializes in combat, security, and information technology. 
+
+### Visual checklist for character designs
+
+* Mexican-American
+* Average height, powerful athletic build, wide hips, large thighs, broad shoulders, and large bust
+* face: round, prominent cheekbones, thick lips
+* hair: very dark brown, very wavy, long (when down goes a little past her armpits), tends to wear it in a loose side braids
+* eyes: large, chocolate brown
+* skin: colour of dark cappuccino
+* dressed in Biononymous clothing appropriate for a Guardian, with Green Haven Clarksville motifs
+  * head scarf and face veil is dark grey
+  * jacket is embroidered with schematic representations of the crystal structure of [stishovite](https://en.wikipedia.org/wiki/Stishovite), an extremely hard and dense polymorph of silica. 
+
 ## Minka Oosou
 
 Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Underground Earther. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
