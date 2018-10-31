@@ -818,9 +818,7 @@ Fili and Serena both bow: **"Yes, High Priestess."**
 
 ### Page 10
 
-It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms. 
-
-Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
+It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms as Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
 
 Fili: **"Good morning. Did you sleep at all?"**
 
@@ -832,7 +830,7 @@ Fili: **"Fresh raspberries? Just picked them this morning."**
 
 Asoka doesn't react. Fili tries again. 
 
-Fili: **"Does your mechapte eat? What's its name again, Iri?"**
+Fili: **"Does your mechapet eat? What's its name again, Iri?"**
 
 Asoka still shows no reaction. Fili's smile drops and he looks down. 
 
@@ -1401,7 +1399,7 @@ Min: *"I'm still mad at you! But this definitely counts as an emergency, so I'm 
 
 Nicola: *"Minkinha, will you come home, please?"*
 
-Min: *"Not until I the **first ever** Reborn to be **den-IED** my First Quest! Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
+Min: *"Not until I'm no longer the **first ever** Reborn to be **den-IED** my First Quest! Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
 
 ### Page 3
 
@@ -1409,7 +1407,7 @@ We see Nicola stand and stretch on the tree platform, which is just big enough f
 
 Nicola: *"What's their pace?"*
 
-Min: *"They'll be there by morning. Don't change the subject! Why didn't you say anything?"*
+Min: *"They'll be there by morning. Don't change the subject! Why didn't you say anything to defend me?"*
 
 Nicola stretches in a deep downward dog. 
 
@@ -1431,7 +1429,7 @@ Flashback -- enormous, blurry, bloody, furry creatures, distant screams floating
 
 We see tears in Asoka's eyes. 
 
-Asoka: **"
+Asoka: **"...and I'm here because the Orbiters
 
 ### Page 5
 
