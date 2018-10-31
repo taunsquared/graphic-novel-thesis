@@ -65,7 +65,7 @@ Born and raised in Florianópolis, in the state of Santa Catarina, by parents wh
 * Italian-Brazilian, 2nd generation immigrant
 * Tall, large hips, average build
 * face: narrow, with a square jaw
-* hair: medium brown, thick, a bit wavy
+* hair: medium brown, thick, curly, almost bushy
 * eyes: very large, pale green
 * skin: darkly tanned olive
 * typical outfit: loose knitted knee length dress with large pockets, low cut boots, simple dangly earrings, thin white gold chain necklace.

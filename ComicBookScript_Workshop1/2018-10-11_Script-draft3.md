@@ -878,21 +878,17 @@ We see Iri riding the ROV back into the submarine via an escape portal being use
 
 Asoka: *"Can you check on the [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) once you're inside?"*
 
-Iri, off-panel: *"I bet he's still playing cards..."*
-
 We see Iri, shimmering with invisibility, as it carefully sneaks through the tight submarine hallways towards the command deck and the senior rating's mess at the fore of the submarine. 
 
 ### Page 3
 
-We see Iri clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like mega-industrial versions of the **INFO-SPHERE** desk we saw Iúna using back in 2066. 
+We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the Navigation officer and a younger man wearing the insignia of an Operations specialist consult numerous charts and plots. 
 
-*Need to consult with someone who knows how a naval vessel works and what kinds of daily activities would happen on board.*
-
-Peacekeeper 1: **"This heat is brutal...you can tell we're only 6 degrees north of the Red Zone..."**
+Navigation Officer: **"We'll reach the Red Zone tomorrow."**
 
 *The Red Zone extends throughout the region between the [Tropic of Cancer](https://en.wikipedia.org/wiki/Tropic_of_Cancer) and the [Tropic of Capricorn](https://en.wikipedia.org/wiki/Tropic_of_Capricorn).*
 
-Peacekeeper 2: **"I'd rather be out here than back in those marsh caves! Eeugh, the smell!!"**
+Operations specialist: **"I'd rather be out here than back in those marsh caves! Eeugh, the smell!!"**
 
 Peacekeeper 3: **"I feel a little bad about re-supplying off them...they don't seem to have much space to grow food..."**
 
@@ -1345,31 +1341,61 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 ### Page 1
 
-We see Min peering after the rampaging military tanks, her head peeking over the top of the available canopy. Min's eyelids are shut, thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. 
+We see Min peering after the rampaging military tanks, her head peeking over the top of the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. 
 
-, Asoka, and Iri are in a tall tree, watching the Peacekeepers set up camp as the sky lightens. Min is standing out in the middle of a large branch and grips a smaller branch with so much fury that it breaks in her hand. Face streaming in tears, heart full of rage, she screams as she flings the broken stick in her hand down at the soldiers with all her might, growing spikes in her feet to keep herself locked to the tree branch, but the Peacekeepers have caused so much damage to the surrounding forest that no one notices that yet another broken branch falling violently onto their campsite; and the sounds of their generators drown out her furious cries. Asoka, head gear properly back on and once again fully camouflaged, clings fearfully to the main trunk of the tree, watching Asoka with wide eyes -- they see a beast, and they are afraid. Iri, also camouflaged, clings to Asoka's neck. 
+Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the eSyrup at her ears and temple glow. 
 
-### Page 1
+Min: *"I'm telling you, they're making a bee line for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
-In a quieter, more mature part of the re-grown forest, Min, dead-eyed and haggard after screaming herself hoarse at the Peacekeeper camp, sits across from Asoka, on the outer edge of a branch, leaning into the tree and letting spikes in her back lock her in. She stares grudgingly at Asoka in the early morning light. 
+### Page 2
 
-Min: **"Entou, estranho, por que você traz esses bárbaros para minha floresta?"**
+Nicola Cavalcanti is sitting on a tree platform, somewhere far to the west, in a much quieter part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing. 
 
-*translation: "So, stranger, why do you bring these barbarians to my forest?"*
+Nicola Cavalcanti: *"Lovely...so predictably lazy...thought they wouldn't ever need to change their satellite frequencies would they?"*
 
-Asoka's veil is back on, and the anonymous face embroidered onto it is earnest, pleading. 
+Min: *"I'm still mad at you! But this definitely counts as an emergency, so I'm just letting you know!"*
 
-Asoka: **"*I didn't bring them! I mean...*"**
+Nicola: *"Minkinha, will you come home, please?"*
 
-Iri once again places 2 arms on Asoka's ears. 
+Min: *"Not until I the **first ever** Reborn to be **den-IED** my First Quest! Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
 
-Asoka: **"*Eu não trouxe eles. Eu vim para avisá-lo!*"**
+### Page 3
 
-*translation: "I didn't bring them. I came to warn you!"* 
+We see Nicola stand and stretch on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from the edge. 
 
-Min: **"E por que você faria isso?"**
+Nicola: *"What's their pace?"*
 
-*translation: "And why would you do that?"*
+Min: *"They'll be there by morning. Don't change the subject! Why didn't you say anything?"*
+
+Nicola stretches in a deep downward dog. 
+
+Nicola: *"Why did you run away instead of fighting for what you believe in?"*
+
+Nicola's ears and temple abruptly stop glowing. She calmly goes into a capoeira handstand. 
+
+### Page 4
+
+Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka clings to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. 
+
+Min squats and stares down the approximately 5 meters of tree trunk down at Asoka's face veil, her eyes still closed. Asoka and Iri stare back.
+
+Min: **"You don't look like an Orbiter..."**
+
+Asoka: **"I'm not! My name is Asoka Morei, of Green Haven Howes..."**
+
+Flashback -- enormous, blurry, bloody, furry creatures, distant screams floating up the mountainside like smoke...
+
+We see tears in Asoka's eyes. 
+
+Asoka: **"
+
+### Page 5
+
+
+
+
+
+
 
 Suddenly, Asoka's face also falls dark. 
 
@@ -1657,7 +1683,7 @@ Min grits her teeth, gives Asoka an angry look over her shoulder, and huffily ex
 
 **"32 hours earlier..."**
 
-Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and Gruta Judeia. I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
 The sun is setting in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
 
