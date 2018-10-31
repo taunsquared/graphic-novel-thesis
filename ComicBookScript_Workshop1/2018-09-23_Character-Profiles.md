@@ -43,7 +43,7 @@ Later when Majhee is an Automata matriarch...
   * left nostril 
   * ears: both lobes are pierced and stretched with 10mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)).  
 * tattoos made of eSyrup ink, meaning they can shape-shift
-  * back: an enormous artistic rendition of the *[*Cariniana legalis*](https://en.wikipedia.org/wiki/Cariniana_legalis) tree
+  * back: an enormous artistic rendition of the [*Cariniana legalis*](https://en.wikipedia.org/wiki/Cariniana_legalis) tree
   * right arm: a sleeve tattoo showing the journey from São Paulo to the Matto Grosso Plateau, which Majhee led when the Water Crisis hit
   * left arm: a sleeve tattoo showing the seasonal migrations of the Automata Clan
   * legs: dendritic line art that encodes Automata history
