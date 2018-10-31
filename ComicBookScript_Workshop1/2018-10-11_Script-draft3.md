@@ -776,9 +776,9 @@ Iri: **"Soka, stay away, don't come back!!"**
 
 Asoka clutches Iri to their chest, looking down the mountainside with terrified eyes at the sight of enormous beasts, moving impossibly fast, tearing through their village, aghast to hear...
 
-Asoka: **"*Mom??!!*"**
+Asoka: **"*Dad??!!*"**
 
-Iri/Soka's Mom: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
+Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 ### Page 8
 
@@ -1413,7 +1413,7 @@ Nicola stretches in a deep downward dog.
 
 Nicola: *"Why did you run away instead of fighting for what you believe in?"*
 
-Nicola's ears and temple abruptly stop glowing. She calmly goes into a capoeira handstand. 
+Nicola's ears and temple abruptly stop glowing. She calmly goes into a capoeira handstand on the tree platform, eyed still tightly closed. 
 
 ### Page 4
 
@@ -1425,13 +1425,23 @@ Min: **"You don't look like an Orbiter..."**
 
 Asoka: **"I'm not! My name is Asoka Morei, of Green Haven Howes..."**
 
-Flashback -- enormous, blurry, bloody, furry creatures, distant screams floating up the mountainside like smoke...
+*~~flashback~~*
 
-We see tears in Asoka's eyes. 
+We see, once more, Asoka clutching Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
-Asoka: **"...and I'm here because the Orbiters
+Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 ### Page 5
+
+We see Iri trying to get Asoka to look at it, to stop, as Asoka, eyes wide and unseeing with tears and terror, slowly steps down the mountain.
+
+Asoka: **"*Dad*..."**
+
+Iri/João: **"Asoka! Pay attention!"**
+
+Iri grabs Asoka's face and forces them to look straight into the cuttlefish's eyes. 
+
+Iri/João: **"GET TO THE NEXT HAVEN!"**
 
 
 
@@ -1982,6 +1992,10 @@ Asoka: **"*You watch out! I'll train so hard, in 2 years I'll definitely be able
 Min throws back her head in a full-throated laugh.
 
 Min: **"Deal! Until we meet again, in orbit!"**
+
+# Map of locations important to the Story
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E" width="640" height="480"></iframe>
 
 # notes
 
