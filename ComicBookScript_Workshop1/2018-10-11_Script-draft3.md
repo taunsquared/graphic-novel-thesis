@@ -916,7 +916,7 @@ Iri: *"Wait, it's time!"*
 
 ### Page 3
 
-We see the tightly packed engine room of a nuclear submarine. A Peacekeeper wearing the insignia of [Culinary specialist](https://en.wikipedia.org/wiki/Culinary_specialist_(United_States_Navy)) and carrying a box of potatoes and aluminum foil ducks into the door while yelling out behind them. 
+We see the tightly packed engine room of a nuclear submarine. A Peacekeeper wearing the insignia of [Culinary specialist](https://en.wikipedia.org/wiki/Culinary_specialist_(United_States_Navy)) ducks into the door while yelling out behind them. 
 
 Culinary specialist: **"Let me just pull the throttle spuds out of the heat!"**
 
