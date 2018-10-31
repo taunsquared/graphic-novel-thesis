@@ -1106,13 +1106,13 @@ We see Asoka and Iri, shimmering with invisibility, looking back over a rocky ou
 
 ### Page 2
 
-Asoka: *"Ok Iri, how many hours until sunrise?"*
+Asoka: *"Ok Iri, how long until sunrise?"*
 
-Iri: *"Probably only 4...I wish we'd had a chance to grab more food..."*
+Iri: *"Only 4 hours..."*
 
-Asoka: *"We're just gonna have to manage. So! I say we run for at least 3 hours before looking for someplace to hide from the sun."*
+Asoka: *"In that case, I say we run for 3 hours, walk for 2, then look for shade. Yeah?"*
 
-Iri: *"Just remember, you've been crawling in between the walls of a double-hulled warship for the last 28 days--"*
+Iri: *"Just remember, you've been sitting in the bilge of a submarine for the last 12 days--"*
 
 Asoka is already running, Iri clinging to their neck for dear life. 
 
@@ -1132,9 +1132,9 @@ It's the earliest part of dawn - [astronomical dawn](https://en.wikipedia.org/wi
 
 Asoka: *"How...far...??"*
 
-Iri brings up the map they image-captured from the bridge of **WARSHIP**. 
+Asoka has pulled up their map onto their face veil. Iri places their location witha bright blue ball. 
 
-Iri: *"Ummmmm...there!"*
+Iri: *"There!"*
 
 A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric gets damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 23. 
 
@@ -1160,9 +1160,7 @@ It is now full and proper sunrise, the sun streaming horizontally between the sc
 
 The outside temperature now reads 44.6 deg celsius, while the inside temperature has only gone up to 26.3 deg celsius. 
 
-Iri stares open mouthed at the jungle around them.
-
-Iri: *"Wow...!"*
+Iri stares open mouthed at the jungle around them, as Asoka marvels at their outfit's range of protective abilities. 
 
 Asoka: *"Cuttlefish cloth is **awesome**! How far are we now?"*
 
