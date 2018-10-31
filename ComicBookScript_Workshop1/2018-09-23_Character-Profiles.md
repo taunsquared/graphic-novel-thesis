@@ -224,7 +224,8 @@ Eireena is High Priestess of Green Haven Clarksville. She knew and worked with I
 * eyes: average size, hazel coloured, twinkling with energy and mischief
 * skin: pale and pinkish
 * dressed in Biononymous clothing appropriate for a High Priestess, with Green Haven Clarksville motifs (the [common snapping turtle](https://en.wikipedia.org/wiki/Common_snapping_turtle) and the [lilac bush](https://en.wikipedia.org/wiki/Syringa_vulgaris))
-  * As High Priestess, Eireena's head scarf has 
+  * head scarf and face veil is golden in color
+  * the jacket is embroidered with schematic representations of royalactin, the most abundant protein in the [royal jelly](https://en.wikipedia.org/wiki/Major_royal_jelly_protein) secreted by honey bees
 
 ## Serena Ramirez 
 
