@@ -622,6 +622,12 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
+### Chapter Title Page
+
+**"A Beginner's Guide to eSyrup. Chapter 6: A Historical Tangent"**
+
+**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers manage to create a yeast mutant that, when cultured with lactic acid bacteria and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. The resulting culture can be vaporized, heat-treated, or "voltage-treated" to induce the atoms within this self-replicating culture to self-assemble into tissue-like sections, which can mimic the behaviour of any component of a classical electronic circuit. However, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)."**
+
 ### Page 1
 
 4 jagged panels. 1st POV of running, terrified, through a harsh and rocky landscape. Flash of memory: enormous fangs; cold, blood-red eyes. A farming village in ruins, fires consuming the large interconnected home structures and surrounding greenhouses. Dead bodies, mangled by the monstrous wolf-like creatures that are the size of a small elephant. 
@@ -850,11 +856,17 @@ Eireena: **"I can't say that we can trust their motives at all, but we have litt
 
 Eireena now looks hard at Asoka. 
 
-Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous and risky, but potentially rewarding path...there is another option."**
+Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous path...there is another option."**
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
+
+### Chapter Title Page
+
+**"Planetside Status Report: The Red Zone"**
+
+**"The Red Zone extends throughout the region between the [Tropic of Cancer](https://en.wikipedia.org/wiki/Tropic_of_Cancer) and the [Tropic of Capricorn](https://en.wikipedia.org/wiki/Tropic_of_Capricorn)."**
 
 ### Page 1
 
@@ -878,49 +890,53 @@ We see Iri riding the ROV back into the submarine via an escape portal being use
 
 Asoka: *"Can you check on the [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) once you're inside?"*
 
-We see Iri, shimmering with invisibility, as it carefully sneaks through the tight submarine hallways towards the command deck and the senior rating's mess at the fore of the submarine. 
+We see Iri, shimmering with invisibility, as it carefully sneaks out of the escape portal into the engine room. Suddenly, Iri sniffs -- a familiar and pleasant odor lies thick and heavy in the air.  
+
+Iri: *"Wait, it's time!"*
 
 ### Page 3
 
-We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the Navigation officer and a younger man wearing the insignia of an Operations specialist consult numerous charts and plots. 
+We see the tightly packed engine room of a nuclear submarine. A Peacekeeper wearing the insignia of [Culinary specialist](https://en.wikipedia.org/wiki/Culinary_specialist_(United_States_Navy)) and carrying a box of potatoes and aluminum foil ducks into the door while yelling out behind them. 
 
-Navigation Officer: **"We'll reach the Red Zone tomorrow."**
+Culinary specialist: **"Let me just pull the throttle spuds out of the heat!"**
 
-*The Red Zone extends throughout the region between the [Tropic of Cancer](https://en.wikipedia.org/wiki/Tropic_of_Cancer) and the [Tropic of Capricorn](https://en.wikipedia.org/wiki/Tropic_of_Capricorn).*
+We see an unattended pile of potatoes wrapped in aluminum foil, sitting on top of a metal-plated surface in the engine room. 
 
-Operations specialist: **"I'd rather be out here than back in those marsh caves! Eeugh, the smell!!"**
+Next panel, we see 2 fewer potatoes. 
 
-Peacekeeper 3: **"I feel a little bad about re-supplying off them...they don't seem to have much space to grow food..."**
+We're back in the bilge, where Asoka is glumly crouched with their head cradled in their head. They hear a "ZIIIIP!" noise above their heads.
 
-Peacekeeper 2: **"Well, we either take their food or we starve as soon as we pass the Bahamas!"**
+A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
-Peacekeeper 1: **"(snort) You'd think the quartermaster would have rationed our food more accurately..."**
+Iri: *"Hooray for throttle spuds!"*
 
-Iri: *"I hope you grabbed enough food to last the rest of the journey...they might be keeping a closer eye on the galley from here on out..."*
+Asoka: *"I'm never going to eat another potato again."*
 
 ### Page 4
 
-Asoka, kneeling, stares glumly at the filthy water around them. 
+Iri: *"Can't be much longer. I'm gonna check the control deck now!"*
 
-Asoka: *"This isn't what I expected..."*
+Iri disappears, and Asoka pushes the cutout of metal back into the ceiling. They take out what look like fabric tape from their utility belt and seal the cutout. After a moment, the fabric tape seemingly melts into the surrounding metal, and it was as if there had never been a hole in the ceiling. 
+
+Asoka begins to carefully peel a potato, face veil twisted into a resigned grimace. 
 
 *--flashback--*
 
-**"5 days ago..."**
+**"8 days ago..."**
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
-Serena: **"I overheard some of the Peacekeeper's talking -- apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission. He's actually on his way to the Red Zone, to a location in the former Amazon Rainforest, where the World Government's satellites have captured images of what looks like *humans*."** 
+Eireena: **"Apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission."** 
 
-Serena: **"According to the Peacekeepers, these humans are *re-growing* the forest. And instead of showing the appropriate *awe* for *anyone* who could do that, the Peacekeepers were going on about how much 'exotic fruit' they were going to bring back home. *Idiots*. Don't they realise what killed the forest in the first place?"**
+Serena: **"Last night, I overheard some Peacekeepers talking -- the Orbiters are all going nuts right now over some satellite footage that got leaked from the military, showing what looks like nearly naked humans *re-growing the Amazon rainforest*."**
+
+Serena: **"If an entire nuclear submarine wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *No one* can live in the Red Zone without *intense* protective gear, there's too much heat and poison in the air..."**
 
 ### Page 5
 
-Serena: **"They also said the humans were *naked*. If an entire nuclear submarine, full of pirate-minded soldiers, wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *Naked*, in the Red Zone?? Most of our best textiles can't keep you alive in the Red Zone for much longer than a day, there's so much heat and poison in the air...it's *crazy*..."**
+Serena rolls her eyes with huge disappointment and disbelief. 
 
-Serena: **"But if it's true...imagine what powerful allies they could be...!"**
-
-Eireena coughs discreetly and gives Serena a sharp look, then turns to Asoka.
+Serena: **"The Orbiters are calling them *'magical tree people'*. They might be a mass hallucination by the World Government Peacekeepers, or they could be another group of people who managed to make it back to the surface, and somehow, they've figured out how to adapt to an environment that keeps everyone except the Biononymous underground."**
 
 Eireena: **"This morning, we convened an emergency High Council, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the World Government does. In the end, we decided to leave the choice up to *you*."**
 
@@ -938,7 +954,11 @@ Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the
 
 Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head, who dutifully eats oatcakes and drinks juice. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar passages and stories from Biononymous scripture.
 
-Eireena: **"I used to be a materials engineer, before The Burning. I was part of an international project to create affordable, easy-to-use water and air filters, working with an incredible woman who owned a textile manufacturing company. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, with exceptional filtration properties and very simple voltage-treatment protocols. We wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was our way of politely giving Space Consortium and their patents the finger."**
+Eireena: **"Asoka, when was the last time you visited your avó Iúna?"**
+
+Asoka: **"You know my avó Iúna?"**
+
+Eireena: **"I've known your avó for many years, since before The Burning. We were part of an international project to create affordable, easy-to-use water and air filters. We perfected the process of doping natural fibers with eSyrup, so that we could make the finest, softest of organzas, with exceptional filtration properties and very simple voltage-treatment protocols. We wove miles and miles of this eSyrup thread into filters that we gave away for free, to anyone who needed it! It was our way of politely giving Space Consortium and their patents the finger."**
 
 Eireena: **"But it wasn't enough -- Space Consortium's body mods were still everywhere! I have such fond memories of late nights, ranting over drinks about how body mods were just embedding all these trackable, *hackable* devices right into our bodies, with no option to get off the radar! It was gonna ruin society, we were very convinced."**
 
@@ -1027,6 +1047,8 @@ Eireena: **"But with an outfit made of cuttlefish cloth, you're protected from b
 Eireena: **"If you accept this outfit, the High Council beg you to also accept this diplomatic mission: to warn the people in the Amazon of the Peacekeeper's intentions, and offer them alliance with the Biononymous. In return, we will provide you with everything you need to travel to the Amazon, and the Biononymous will trust you with our collective voice."**
 
 *--end flashback--*
+
+We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the Navigation officer and a younger man wearing the insignia of an Operations specialist consult numerous charts and plots. 
 
 *HERE UNTIL END OF CHAPTER STILL UNDER CONSTRUCTION*
 
