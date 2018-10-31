@@ -296,25 +296,27 @@ Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua m
 
 *translation: "So good thing Majhee is paying the doctors' bribes for your mother, no?! If Iara is privileged, then so are you!"*
 
-We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear.
-
 ### Page 7 
 
-Majhee: **"Todos nós sabemos os riscos que vêm com o trabalho neste projeto, com o trabalho nesta cidade agora. Todos temos família para proteger."**
+We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear. Over this view, Majhee speaks...
 
-*translation: "We all know the risks that come with working on this project, with working in this city right now. We all have family to protect."*
+Majhee: **"Todos nós sabemos os riscos que vêm com o trabalho neste projeto, com o trabalho nesta cidade agora. Todos temos família para proteger. Se você acha que deve sair, eu farei o que puder para ajudar você e sua família a saírem desta cidade, e fora do radar do Space Consortium."**
+
+*translation: "We all know the risks that come with working on this project, with working in this city right now. We all have family to protect. If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."*
+
+We see now the protesters outside, their desperate, hungry faces. 
 
 Majhee: **"Eu também sei que se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
 
-*translation: "I also know that if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
+*translation: "But I also know that if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
 
-Majhee: **"Se você acha que deve sair, eu farei o que puder para ajudar você e sua família a saírem desta cidade, e fora do radar do Space Consortium."**
+Now we zoom out to see the hazy sun shining over the sky-line of São Paulo.
 
-*translation: "If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."*
+Majhee: **"Entou, se você ficar...eu juro proteger você e suas famílias de qualquer maneira que eu puder."**
 
-Majhee: **"Se você ficar...eu juro proteger você e suas famílias de qualquer maneira que eu puder."**
+*translation: "So, if you stay...I swear to protect you and your families in any way that I can."*
 
-*translation: "If you stay...I swear to protect you and your families in any way that I can."*
+### Page 8
 
 **"6 months later: Massachusetts, USA"**
 
@@ -330,7 +332,7 @@ Iúna smiles and yells as she waves towards her office door, just next to the en
 
 Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
-### Page 8
+### Page 9
 
 Iúna: **"Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
 
@@ -348,7 +350,7 @@ Iúna: **"Really? From where?"**
 
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
 
-### Page 9
+### Page 10
 
 Dr. Kauffmann: **"Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
 
@@ -366,11 +368,9 @@ Dr. Kauffmann: **"Of course. We'll see ourselves out."**
 
 Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of eSyrup cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
-### Page 10
+### Page 11
 
 Iúna: **"*Tahoe, have you been able to contact Joshua Tree?*"**
-
-Iúna is outside, and her baby is no longer strapped to her chest. Instead, her face is covered in a thick veil and she wears what looks like a heavy, full-sleeved and full-length apron. eSyrup circuits flash within the weave of both Iúna's veil and apron. She stands, facing west, arms flung out wide, back straight and tall, legs apart, boots planted wide in the frosty grass. 
 
 Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
@@ -382,7 +382,7 @@ Iúna: **"*So...it *was* the body mod.*"**
 
 Tahoe: **"*Looks like it. They didn't even bother going for the decoy.*"**
 
-### Page 11
+Under this dialogue, we see Iúna, who is now outside, and her baby is no longer strapped to her chest. Instead, her face is covered in a thick veil and she wears what looks like a heavy, full-sleeved and full-length apron. eSyrup circuits flash within the weave of both Iúna's veil and apron. She stands, facing west, arms flung out wide, back straight and tall, legs apart, boots planted wide in the frosty grass. 
 
 Iúna ponders for a moment, her face furrowed with grief and concentration.
 
@@ -390,35 +390,31 @@ Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"*
 
 Tahoe: **"*Wa-wait, seriously?*"**
 
-Iúna: **"*Yes. We need all of the protections we can get right now.*"**
+Iúna: **"*Yes. Pigsah was right - it's relatively easy *now* to live without body mods. But once the schools require head mods for every student, once every industry requires body mods in order to be qualified for the job...our children **won't** have a choice. You just won't be a qualified human *adult* if you don't have a body mod.*"**
 
-Tahoe: **"*You been thinking about what Pigsah said?*"**
+Tahoe: **"*But...doesn't that feel too close to...a *cult*??"**
 
-Iúna: **"*I hate to admit it, but they're right - it's relatively easy right *now* to live without body mods. But once all the schools require every student to get an **INFO-SPHERE** mod, once every industry requires employees to use body mods in order to be qualified for the job...our children **won't** have a choice. They'll have to list their body mods on their CV, you just won't be a qualified human *adult* if you don't have a body mod.*"**
-
-Tahoe: **"*But...declaring ourselves a religion...it just feels like we're setting ourselves up for all the pitfalls of a *cult*.*"**
-
-Iúna: **"*I know, that's why I intially voted against it. But we can't just empower individual decisions -- we have to figure how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years it will be *impossible* to live without constant surveillance.*"**
+Iúna: **"*That's why I intially voted against it. But we have to figure how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years it will be *impossible* to live without constant surveillance.*"**
 
 ### Page 12
 
-Tahoe: **"*But there's so much we still haven't figured out...long-distance communication, ways to aid our memories and gain perspective on our behaviour...*"**
+Tahoe: **"*But there's so much we still haven't figured out...long-distance communication, ways to aid our memories...*"**
 
 Iúna: **"*That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, do you know what that research group in Brazil published last month?*"**
 
 Tahoe: **"*What?*"**
 
-Iúna: **"*The first successful splice of eSyrup with a living organic compound, a recipe for creating eSyrup *biofilm*!*"**
+Iúna: **"*The first successful splice of eSyrup with living cells, a recipe for creating eSyrup *biofilm*!*"**
 
-Tahoe: **"*...Sorry Mama Bird, I don't follow eSyrup research like you do. Why should I care about biofilm?*"**
+Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*"**
 
-Iúna: **"*Because that's the *beginning*. Those bastards managed it before Space Consortium, got it published before Space Consortium could patent it. Remember how we once talked about synthetic companion creatures, that can act like portable, non-invasive **INFO-SPHERES**?*"**
+Iúna: **"*Because that's the *beginning*. They managed it before Space Consortium, got it *published* before Space Consortium could patent it. Remember the mechapet idea??*"**
 
 Tahoe: **"*Yeah, but didn't we decide it wasn't possible?*"**
 
-Iúna: **"It's possible now. *If they can splice eSyrup with a microcolony of bacteria, then we can figure out how to splice eSyrup into bigger, more complex living things. And if building these creatures is part of our religious practice...*"**
+Iúna: **"It's possible now. *Splicing eSyrup with a microcolony of bacteria was the first step towards splicing eSyrup into bigger, more complex creatures. And if this is all part of our religious practice...*"**
 
-Iúna: **"*...then we have much stronger grounds to deny oversight by Space Consortium, or any national government!*"**
+Iúna: **"*...then we'll have protection against oversight by Space Consortium, or any national government!*"**
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
