@@ -10,25 +10,31 @@
 
 # Table of Contents
 
-[Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-1-nostalgia)
+* [The Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#the-story)
 
-[Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-1-calm-before-the-storm)
+  *[Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-1-nostalgia)
 
-[Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-2-where-thunder-goes-when-it-dies)
+  *[Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-1-calm-before-the-storm)
 
-[Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
+  *[Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-2-where-thunder-goes-when-it-dies)
 
-[Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
+  *[Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
 
-[Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5-lilacs-out-of-the-dead-land)
+  *[Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
 
-[Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-2-rites-of-passage)
+  *[Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5-lilacs-out-of-the-dead-land)
 
-[Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-6)
+  *[Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-2-rites-of-passage)
 
-[Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-7-mistakes-are-how-we-evolve)
+  *[Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-6)
 
-[Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-the-last-comma-not-a-period)
+  *[Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-7-mistakes-are-how-we-evolve)
+
+  *[Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-the-last-comma-not-a-period)
+  
+* [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#map-of-locations-important-to-the-story)
+
+* [notes](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#notes)
 
 # The Story
 
