@@ -20,6 +20,8 @@ In order of appearance:
 
 Born in Seoul, Korea. Immigrated to Brazil to study molecular biotechnology, and eventually becomes a research group leader at Laboratório Nacional de Biociências e Saúde Pública. 
 
+Birthday: May 20, 2029
+
 Pronouns: She/her/hers
 
 Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; lightly tanned porcelain skin; small, shapely, brown eyes on a round face. Average build, average height.  
@@ -34,6 +36,18 @@ Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; light
 * skin: pale porcelain that has been lightly tanned from her outdoor hobbies, but she *always* wears plenty of sunscreen
 * typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing.
 
+Later when Majhee is an Automata matriarch...
+
+* wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * left nostril 
+  * ears: both lobes are pierced and stretched with 40mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)).  
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: an enormous artistic rendition of the *[*Cariniana legalis*](https://en.wikipedia.org/wiki/Cariniana_legalis) tree
+  * right arm: a sleeve tattoo showing the journey from São Paulo to the Matto Grosso Plateau, which Majhee led when the Water Crisis hit
+  * left arm: a sleeve tattoo showing the seasonal migrations of the Automata Clan
+  * legs: dendritic line art that encodes Automata history
+
 ### What does this character want?
 
 Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
@@ -43,6 +57,8 @@ When the Global Water Crisis hits, Majhee decides to relocate further inland, to
 ## Kai Oliveira
 
 Born in São Paulo, Kai's parents immigrated from Japan to Brazil a year before Kai was born. Kai graduated from Unicamp ([Universidade Estadual de Campinas](https://en.wikipedia.org/wiki/University_of_Campinas)) with a bachelor's degree in organic chemistry and a master's degree in materials science before going to Seoul, Korea to pursue a PhD in "bio-silicate interfaces". There she met a young and ambitious Majhee, who convinced Kai that academic researchers need to take a more active stance on how their research is applied. When Majhee decided to go into global public health, Kai recommended that Majhee check out a research group at Unicamp doing humanitarian work and science education in addition to creating better tools for understanding one's own genetic profile and biases. Majhee went off to São Paulo while Kai stayed in Seoul for a few more years. When Majhee got her appointment as group leader at the Laboratório Nacional de Biociências e Saúde Pública, she contact Kai and begged her to come back to São Paulo and work with Majhee on eSyrup doping and splicing experiments. 
+
+Birthday: May 21, 2020
 
 Pronouns: She/her/hers
 
@@ -60,6 +76,8 @@ Pronouns: She/her/hers
 
 Born and raised in Florianópolis, in the state of Santa Catarina, by parents who run a small beach-side restaurant started by Beatriz's paternal grandparents, who immigrated to Brazil from Northern Italy. 
 
+Birthday: April 14, 2031
+
 ### Visual checklist for character designs
 
 * Italian-Brazilian, 2nd generation immigrant
@@ -72,7 +90,9 @@ Born and raised in Florianópolis, in the state of Santa Catarina, by parents wh
 
 ## Nova Jatobá 
 
-Born and raised in a farming community at the outskirts of [Nova Mutum](https://en.wikipedia.org/wiki/Nova_Mutum), Nova attended State University of Matto Grosso and earned a dual degree in nutrition and information management before coming to São Paulo to work with Majhee. Just months after Nova moved to São Paulo, her single father had a work accident and died. Nova's little brother Amana then came to São Paulo to live with Nova. 
+Born and raised in a farming community at the outskirts of [Nova Mutum](https://en.wikipedia.org/wiki/Nova_Mutum), Nova attended State University of Matto Grosso and earned a dual degree in nutrition and information management before coming to São Paulo to work with Majhee. Just months after Nova moved to São Paulo, her single father had a work accident and died. Nova's little brother Amana, 7 years younger than Nova, then came to São Paulo to live with Nova. 
+
+Birthday: July 26, 2042
 
 ### Visual checklist for character designs
 
@@ -82,11 +102,17 @@ Born and raised in a farming community at the outskirts of [Nova Mutum](https://
 * hair: dark and kinky, kept in tight cornrow braids
 * eyes: large, nearly black-brown, wide-sets
 * skin: dark reddish brown
-* typical outfit: bright floral print tops and loose black or grey slacks. Wears a corded necklace of small, delicate teeth. Prefers ballerina style slip-on shoes. 
+* typical outfit: bright floral print tops and loose black or grey slacks. Wears a corded necklace of small, delicate teeth. Prefers ballerina style slip-on shoes.
+
+Later, as an adult Automata...
+
+ 
 
 ## Vec Barbosa
 
 Vec was born and raised in [Fortaleza](https://en.wikipedia.org/wiki/Fortaleza), where Vec's mother worked at the Acquario Ceará and Vec's father taught scuba diving at the [Pedra da Risca do Meio Marine State Park](https://en.wikipedia.org/wiki/Pedra_da_Risca_do_Meio_Marine_State_Park). 
+
+Birthday: March 16, 2024
 
 ### Visual checklist for character designs
 
@@ -101,6 +127,8 @@ Vec was born and raised in [Fortaleza](https://en.wikipedia.org/wiki/Fortaleza),
 ## Iúna Serrano Morei
 
 Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing company that ends up collaborating with the UN to implement Majhee's design for eSyrup air and water filters. 
+
+Birthday: July 5, 2036
 
 Pronouns: She/her/hers
 
@@ -117,6 +145,8 @@ Pronouns: She/her/hers
 ## Nicola Cavalcanti
 
 Daughter of Beatriz and Demetrio. Was a 3 year old at the start of the Water Crisis. Traveled with Majhee and her research group when they fled São Paulo. Grew up as part of the first generation of Automata in the Amazon and helps develop the craft of Inking. 
+
+Birthday: October 18, 2063
 
 ### Visual checklist for character designs
 
@@ -140,6 +170,8 @@ Daughter of Beatriz and Demetrio. Was a 3 year old at the start of the Water Cri
 ## Asoka Morei
 
 Earther, member of the Biononymous cult. Introverted, very warm and kind and polite to everyone. Has an extremely calm and gentle disposition, is slow to anger, and loves watching the slow, huge patterns of nature. Always wants to make everyone happy, and sometimes forgets to make themselves happy. Very caring and nurturing, and very charismatic and able to stir passionate responses in others without really trying. Cares deeply for Min.
+
+Born: August 13, 2101
 
 Pronouns: They/them/theirs (all Biononymous use gender-neutral pronouns) 
 
@@ -173,25 +205,9 @@ The unifying aesthetic of the Biononymous cult are the hexagonal patterns of bee
 
 Asoka was born in a Green Haven somewhere in the former United States of America. The Biononymous have continued to live in strict adherence to their religious principles: always wearing their full religious outfits and using synthesized, unidentifiable voices in public, in order to maintain their anonymity; cultivating cotton, hemp, and flax to transform into eSyrup textiles; and training every member of their cult in the ways of capoeira. By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe, growing food for themselves and nearby Underground Cities on farms/monastaries/wildlife sanctuaries called Green Havens. The Biononymous had also established a form of benevolent governance and trade with the Underground Cities, nurturing culture and growth where the World Government expected to find only chaos and barbarians. The Biononymous have also now perfected eSyrup mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. Asoka is part of the first generation of the Biononymous who have been given a mechapet at birth, a companion who will grow and develop with the human child. 
 
-The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. The World Government was desperate to find ways of feeding the Orbiter population, which was suddenly increased by about 60,000 during the Global Water Crisis. The World Government aggressively negotiated with the Biononymous, demanding a tithe of 30% of the Green Havens' yearl harvest, which would supplement the yield of the 3 orbiting space farms, in exchange for the World Government acknowledging the Biononymous as a legitimate political entity and allowing the Biononymous to continue practicing the tenents of their religion without interference. The Biononymous are wary of the World Government and their true motives, but as it was hard to argue with the need to feed people and a promise of non-interference, so the Biononymous agreed. However, the Biononymous become even more subtle and clever, now that they know that the World Government wants the Green Havens for themselves. A secret group of Biononymous begin working on new eSyrup textiles with greater camouflage and anti-surveillance properties.  
+The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. The World Government was desperate to find ways of feeding the Orbiter population, which was suddenly increased by about 60,000 during the Global Water Crisis. The World Government aggressively negotiated with the Biononymous, demanding a tithe of 30% of the Green Havens' yearly harvest, which would supplement the yield of the 3 orbiting space farms, in exchange for the World Government acknowledging the Biononymous as a legitimate political entity and allowing the Biononymous to continue practicing the tenents of their religion without interference. The Biononymous are wary of the World Government and their true motives, but as it was hard to argue with the need to feed people and a promise of non-interference, so the Biononymous agreed. However, the Biononymous become even more subtle and clever, now that they know that the World Government wants the Green Havens for themselves. A secret group of Biononymous begin working on new eSyrup textiles with greater camouflage and anti-surveillance properties.  
 
 About 20 years later, enormous demonic beasts, later dubbed "Death Dogs", began appearing with horrifying frequency and begin terrorizing Green Havens in North America and Europe. These huge carvivorous creatures descend upon Green Havens and horribly mangle anyone they can get their teeth on. Usually, the entire population of a Green Haven is wiped out, crops are trampled, and buildings are destroyed. This happens to Asoka's Green Haven when Asoka is 15-years-old, and Asoka, who had been tending the most distant fields, just barely escapes with their mechapet Iri. 
-
-Asoka wanders desperately to the nearest Green Haven, led by High Priestess Eireena McLeland, and begs for sanctuary. The Biononymous there take in Asoka and hide Asoka from the World Government Peacekeepers who also arrive at that Green Haven on the same day. The World Government insists on stationing Peacekeepers at Green Havens in order to protect the Green Havens, and the Eireena immediately suspects that the World Government is taking advantage of the appearance of the Death Dogs to infiltrate the Green Havens with a military presence and then colonize or commandeer the Green Havens. 
-
-Some of the Biononymous at Eireena's Green Haven also overhear several Peacekeepers talking about how some of them will be crossing "The Red Zone" where the temperature is so fiercely hot that nothing can survive unprotected on the surface, and how the World Government is sending a delegation to investigate a report of human activity. Apparently, there have been sightings of humans moving about above ground without any protection at all, practically naked, and cultivating giant trees in the deforested graveyard of the former Amazon Rainforest. The Peacekeepers joke about how they will soon be able to buy hardwood and exotic Amazon fruits from these "forest natives". 
-
-Asoka decides to seek out the Automata, and the other Biononymous ask Asoka to deliver an offer of alliance, between the Biononymous and the Automata. With the help of the local Biononymous, Asoka sneaks onto the Peacekeeper's military naval vessel, to cross the Red Zone and get to South America. 
-
-The naval vessel takes several weeks to travel across the Gulf of Mexico, along the northern coast of South America, then up the Amazon river to get deep inland into Brazil. The Peacekeepers dock at a Green Haven along the Amazon River, in order to travel the rest of the way over land. Asoka escapes the vessel and sets off on their own, determined to reach the Automata before the Peacekeepers do. Iri has taken a picture of the Peacekeepers' map/directions to the Automata, to guide their way. 
-
-After nearly a week of running through the decimated remains of the Amazon, Asoka reaches the location marked in the Peacekeepers' map and realise that the Peacekeepers must have gotten false information - there seems to be no signs of civilization. Frustrated, lost, and running out of food, Asoka begins searching the surrounding areas, hoping to find the Automata before the Peacekeepers arrive, and hoping to find food to keep themselves alive long enough to do so. 
-
-2 days later, Asoka is looking for food at the foothills of the nearby mountain range when Iri informs Asoka that a small thorny hill is generating a very faint energy signature that is, intriguingly, the complete anti-complement of the energy signature of the Biononymous' anti-surveillance eSyrup cloth. Curious, Asoka and Iri go closer to investigate and through their veil Asoka is able to see beyond the brambles and *inside* the hill - it is full of rows of crops and edible plants, a garden! Asoka is baffled - how to get in? Asoka finds a tiny drainage hole in the "hill" and sends Iri in through that hole in order to investigate, and bring back some food. While crouched by the drainage hole, Asoka is discovered by 14-year-old Min, already a full-fledged Tree Surfer, who immediately engages the stranger in combat. Asoka and Min realise they both know capoeira, and come to a truce long enough for Asoka to explain that World Government Peacekeepers are on their way to a location not far from this strange fake hill that is hiding Min's garden. Min goes with Asoka back to the spot marked in the Peacekeepers' map, where they find the Peacekeepers, who have just arrived at the spot. The Peacekeepers are noisily setting up camp, and loudly talking about how they will make this spot their remote base as they hack their way through the forest to find the Automata. Min decides to bring Asoka to the Automata Elders. 
-
-Asoka presents the Automata Elders with the offer of alliance from the Biononymous, and tell them of the treatment that the Biononymous have received from the World Government. Asoka also tells the Elders all that they overheard from the Peacekeepers about their intentions with the Automata - to wrest from the Automata their ability to live above ground seemingly without protection, and to demand a tithe of hardwood and exotic fruits to provide the Orbiters with even more luxury. After much debate, the Elders decide to reject the offer of alliance from the Biononymous and retreat deeper into the remains of the Amazon forest; some say that staying mobile and completely disconnected from anyone else will eventually make the World Government give up on finding and exploiting the Automata, while others argue that contact with the World Government is inevitable, and that an alliance with the Biononymous could be crucial to surviving that encounter. 
-
-The Elders offer to help Asoka return to the other side of the Red Zone, so that they can relay the Automata's response in person and return home. Asoka confesses that they are able to remotely broadcast the response to the other Biononymous, and besides, they had no more home to go back to. The Elders then offer Asoka asylum with the Automata and invite Asoka to come with them, in exchange for answering the questions of the Elders about the Biononymous and their technology. Fearful of the potential of betraying their dead parents, Asoka hesitates. Having few other options, Asoka accepts asylum with the Automata but asks for time to process before talking about their dead parents' and their research. Asoka uses Iri to relay the news back to Eireena - that the Automata have chosen to decline the offer of alliance, and have decided to go deeper into hiding. Eireena tells Asoka that more Peacekeepers have been stationed at every Green Haven, and that the World Government is now demanding 50% of the Green Havens' yearly yield, supposedly to feed the Peacekeepers who are keeping the Green Havens safe from the Death Dogs. Eireena shares her belief that the Death Dogs are creations of the World Government, meant to create an atmosphere of terror so that the World Government can subdue the planetside population into fearful obedience.  
 
 ### What does this character want?
 
@@ -215,6 +231,8 @@ Asoka's generation is the first generation of Biononymous to have mechapets.
 
 Eireena is High Priestess of Green Haven Clarksville. She knew and worked with Iúna Morei before The Burning, lending her expertise as a materials engineer to the World Health Organization collaboration to mass-produce cheap yet effective air and water filters. 
 
+Birthday: February 20, 2039
+
 ### Visual checklist for character designs
 
 * German and Irish descent
@@ -230,6 +248,8 @@ Eireena is High Priestess of Green Haven Clarksville. She knew and worked with I
 ## Serena Ramirez 
 
 Serena is Eireena's right-hand and body guard. She has studied and trained as a Guardian of the Biononymous, the subpopulation within the Biononymous cult that specializes in combat, security, and information technology. 
+
+Birthday: November 9, 2088
 
 ### Visual checklist for character designs
 
@@ -247,6 +267,8 @@ Serena is Eireena's right-hand and body guard. She has studied and trained as a 
 
 Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Underground Earther. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
 
+Birthday: February 18, 2100
+
 Pronouns: She/her/hers
 
 Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
@@ -259,7 +281,7 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 * eyes: dark brown
 * skin: deep chocolate brown
 * piercings made of eSyrup metal, meaning they can shape-shift
-  * nose 
+  * left nostril 
   * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
 * tattoos made of eSyrup ink, meaning they can shape-shift
   * back: star field, as visible from Amazon rainforest
@@ -278,8 +300,6 @@ After 7 days, their escort helps them return to the main body of the Clan, where
 
 Once the subdermal shield has been fully assimilated by the individual, they are asked, "What does it mean to be Free?" These are the first words of every adult Automata; this is the question upon which they meditate in the sacred caves of the ancestors. Each Automata's answer is expected to share how they plan to spend their Year Underground - after 6 months of training on how to use their subdermal shield, Automata are expected to disguise themselves as Underground Earthers and spend a year living in the Underground Cities, to gain perspective on the Automata lifestyle and to generate closer empathy with their fellow planetside humans. 
 
-When Min's mother Jina spent her year in the Underground Cities, she met and fell in love with Amadou, who had run away from a tyrannical governor of a remote cave system. His parents were still living as slaves to this tyrannical governor, and Amadou felt weighed down with guilt for abandoning them to such a cruel fate. So Jina decided to help Amadou return to his home cave and overthrow the tyrannical governor. They succeeded, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, Amadou kills the tyrannical governor, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou on the condition that he will be a "child" forever - he will never receive a subdermal shield. 
-
 The Automata work to re-grow the Amazon forest, using a variety of pioneer species. In areas where their re-forestation efforts are more mature, they have started growing [shihuahuaco trees](https://www.sciencedirect.com/science/article/pii/S0378112710007504). 
 
 ### What does this character want?
@@ -294,7 +314,41 @@ Min also hates the World Government for punishing her father for killing an evil
 
 ## Jina Suh Barbosa 
 
-## Maraba Barbosa Jatobá
+Jina is the daughter of Majhee Suh and Vec Barbosa. 
+
+Birthday: November 20, 2079
+
+When Jina spent her year in the Underground Cities, she met and fell in love with Amadou. Jina helps Amadou return to his home cave and overthrow the tyrannical governor. They succeed, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, Amadou kills the tyrannical governor, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou on the condition that he will be a "child" forever - he will never receive a subdermal shield. 
+
+### Visual checklist for character designs
+
+* East Asian (Korean) and West African (Senegalese) descent
+* slightly taller than average height, a bit long-limbed but athletically-built from a life entirely lived in the forest
+* hair: dark, thick, slightly kinky, worn in long dreds that go down to the small of her back
+* eyes: dark brown
+* skin: light chocolate brown
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * belly-button 
+  * ears: both lobes are pierced and stretched with 20mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)). The left [tragus](https://en.wikipedia.org/wiki/Earring) is also pierced with a short bar. 
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * torso: A thorny trunk of a [silk floss tree](https://en.wikipedia.org/wiki/Ceiba_speciosa) winds from her lower belly (between her hipbones) up past her belly button, under left armpit, and ends by curling back over her right shoulder. Leaves and flowers are scattered along this trunk, and just under her left breast is [an open fruit pod](https://en.wikipedia.org/wiki/Ceiba_speciosa#/media/File:C._speciosa-1.JPG).  
+  * neck, behind the right ear: a baby [mata mata turtle](https://en.wikipedia.org/wiki/Mata_mata)
+  * legs: dendritic line art that encodes Jina's lineage and Automata history
+
+## Maraba Jatobá
+
+Maraba is Min's dearest friend. 
+
+Birthday: July 4, 2097
+
+### Visual checklist for character designs
+
+* Descended from the [Bororo](https://en.wikipedia.org/wiki/Bororo) people, also has African heritage
+* Tall and curvy, very muscled and strong
+* face: long, with prominent cheekbones; small, narrow nose and thin lips, large mouth
+* hair: a big bushy fro of kinky light brown hair
+* eyes: large, nearly black-brown, wide-set
+* skin: dark, nearly blue-brown
 
 # Future main characters (I don't think they will fit into this first story)
 
