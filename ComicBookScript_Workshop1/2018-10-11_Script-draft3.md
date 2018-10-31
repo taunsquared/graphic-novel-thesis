@@ -1052,9 +1052,9 @@ Asoka looks up to see Eireena and Serena patiently waiting for them to recover f
 
 Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
-Eireena: **"Like I said before, if you want to live a quiet life in hiding, you can have that here at Green Haven Clarksville."**
+Eireena: **"Remember, if you want to live quietly in hiding, you can have that here."**
 
-Eireena: **"But when you wear cuttlefish cloth, you're protected from both the World Government *and* any surface environment on this planet, even the Red Zone. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
+Eireena: **"But this cuttlefish cloth *isn't* a gift to take lightly. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
 Eireena: **"So if you accept this outfit, I beg you, on behalf of the Green Haven Clarksville Council, to also accept this diplomatic mission: to warn the people in the Amazon of the Peacekeeper's intentions, and to offer them alliance with the Biononymous."**
 
@@ -1066,25 +1066,23 @@ Iri: *"Soka--!"*
 
 ### Page 11
 
-We're back in the bilge, where Asoka, face veil back in place already, is chewing on the last mouthful of the second potato.
+We're back in the bilge, where Asoka, face veil back in place already, is chewing on the last mouthful of the second potato. Two crumpled balls of aluminum foil sit in their lap. 
 
 Asoka: *"Sorry, what?"*
 
 We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the Navigation officer and a younger man wearing the insignia of an Operations specialist consult numerous charts and plots. 
 
-Iri: *"They're calculating rations for the land journey! Put up your face veil!"*
+Iri: *"They're figuring out where to dock!"*
 
 ### Page 12
 
-Asoka pulls the fabric back across their face, and sees the world through Iri's eyes. On Asoka's face veil, overlaid on top of Asoka's view of the command deck, is the map that Asoka and Iri have been piecing together by stalking the navigation team throughout the trip. It shows the Americas, and a glowing blue line approximates the submarine's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line swings far out east into the ocean, to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands. Then the blue line hugs the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the blue line becomes a tiny submarine made of light. That was their current location. 
+Asoka pulls the fabric of their face veil back across their face, and sees the world through Iri's eyes. On Asoka's face veil, overlaid on top of Asoka's view of the command deck, is the map that Asoka and Iri have been piecing together by stalking the navigation team throughout the trip. It shows the Americas, and a glowing blue line approximates the submarine's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line swings far out east into the ocean, to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands. Then the blue line hugs the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the blue line becomes a tiny submarine made of light. That was their current location. 
 
 Beneath Iri, a white-haired and stern-faced woman wearing the insignia of the Navigation Officer and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) stand at an INFO-SPHERE standing desks made of metal. It looks like an enormous, very wide, shallowly concave metal dish that cups a ball of light that is in focus for the person standing inside the desk, but completely blurry and illegible to anyone else. 
 
-Operations Specialist: **"Drones report that the river is deep enough all the way up to Manaus."**
+Operations Specialist: **"Drones report that the river is deep enough all the way up to Manaus. It's the ideal place to dock, but the drones also report extremely high methane concentrations throughout the city."**
 
-Navigation Officer: **"It's the ideal place to switchover from sea to land, but methane concentrations around there are so high."**
-
-Operations Specialist: **"But if we can find a landing spot in Manaus, we'll be just 10 hours away from our goal..."**
+Navigation Officer: **"If we can dock in Manaus, we'll be just 10 hours due south of our goal..."**
 
 The flattened and invisible Iri, sees the two Peacekeepers bring up another chart, and discuss the merits of various possible landing spots. Based on their conversation, on the map that Iri and Asoka are creating, a dotted line emerges from the tiny submarine of light and curves intimately inland, wiggling up the Amazon River until it stops at nearly halfway across the continent to the Pacific coast. At that point, the dottle blue line becomes a dark brown line that shoots almost exactly north for a seemingly tiny distance, then terminates in a blinking, glowing 'X'. 
 
