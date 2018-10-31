@@ -696,7 +696,7 @@ Asoka: **"*It's only been a week...maybe you've just had bad luck?*"**
 
 Pippa: **"*Why do *I* always have the bad luck? Can't it go bother someone else sometime?*"**
 
-At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka is carefully placing their barrel against a rusted metal barrel holder. Pippa, whose barrel is already placed in a barrel holder, is crouched in front of their barrel, struggles with the hose attachments to their barrel. 
+At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka is carefully placing their barrel against a rusted metal barrel holder. Pippa, whose barrel is already placed in a barrel holder, is crouched in front of their barrel, and struggles with the hose attachments. 
 
 Pippa: **"*These are always so hard to do with gloves...*"**
 
