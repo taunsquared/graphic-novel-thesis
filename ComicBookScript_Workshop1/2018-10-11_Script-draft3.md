@@ -1044,7 +1044,7 @@ Eireena drops the smile, and Serena's face darkens.
 
 ### Page 10
 
-Eireena: **"This cuttlefish cloth would be incredibly dangerous in the hands of someone willing to exploit others...if the World Government finds out about it, they'll do more than just *intimidate* us for more *food*."**
+Eireena: **"This cuttlefish cloth would be incredibly dangerous in the hands of someone willing to exploit others...if the World Government finds out about it, they won't just *intimidate* us for more *food*."**
 
 Asoka suddenly remembers -- the snarls, the screams, the smell of freshly baked bread...
 
