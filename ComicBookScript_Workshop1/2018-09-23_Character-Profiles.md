@@ -41,7 +41,7 @@ Later when Majhee is an Automata matriarch...
 * wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
 * piercings made of eSyrup metal, meaning they can shape-shift
   * left nostril 
-  * ears: both lobes are pierced and stretched with 40mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)).  
+  * ears: both lobes are pierced and stretched with 10mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)).  
 * tattoos made of eSyrup ink, meaning they can shape-shift
   * back: an enormous artistic rendition of the *[*Cariniana legalis*](https://en.wikipedia.org/wiki/Cariniana_legalis) tree
   * right arm: a sleeve tattoo showing the journey from São Paulo to the Matto Grosso Plateau, which Majhee led when the Water Crisis hit
