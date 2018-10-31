@@ -64,7 +64,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Finished loading...'The Space Consortium Fights World Hunger'"**
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with the UN Green Havens, areas of the world set aside to preserve Earth's agricultural traditions and provide biodiversity sanctuaries, in order to conduct research into exo-hydroponics (plants useful for space travel) and permaculture in low gravity. The Space Consortium offered to use this research to help fight the global food shortage with food grown in space. Space Consortium pledged half of the carrying capacity of its recently completed space elevator project, called The Space Barges, to guarantee reliable transport of food back and forth between orbiting farms and planetside. Thus, the Space Consortium played a major role in improving the quality of life on Earth before The Burning..."**
+**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with the Green Havens (areas of the world set aside to preserve Earth's agricultural traditions and provide biodiversity sanctuaries) in order to conduct research into exo-hydroponics (plants useful for space travel) and permaculture in low gravity. The Space Consortium offered to use this research to help fight the global food shortage with food grown in space. Space Consortium pledged half of the carrying capacity of its recently completed space elevator project, called The Space Barges, to guarantee reliable transport of food back and forth between orbiting farms and planetside. Thus, the Space Consortium played a major role in improving the quality of life on Earth before The Burning..."**
 
 ### Page 1
 
@@ -72,15 +72,17 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"It was a day of hope and wonder."** 
 
-**"The Space Consortium had just announced the completion of their third space farm, Mae Jemison Memorial Arboretum. The news feeds were drowning in photos of the ribbon-cutting event up in orbit, of beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly change colours in response to the lights, the music, their wearers' moods..."**
+**"The Space Consortium had just announced the completion of their third space farm, the Mae Jemison Memorial Arboretum. The news feeds were drowning in photos of the glamorous ribbon-cutting event..."**
 
-**"...of delicate, mouth-watering hors d'oeuvres made from the succulent crops grown and cultivated at the two older space farms, with their carefully filtered water and pristine soil..."**
+We see beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly change colours in response to the lights, the music, and their wearers' moods.
 
-**"...of the fleet of orbiting home pods that synchronised their velocities with the new arboretum in order to snag front row seats to this historic moment, when humanity proved its ingenuity once more..."**
+**"...of delicate, mouth-watering hors d'oeuvres made from the succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
+
+**"...of the fleet of orbiting home pods that synchronised their velocities with the new arboretum in order to snag front row seats to this historic moment..."**
 
 **"...for the world was becoming too dirty, too extreme in its weather, to support industrial planetside farming..."**
 
-**"...and many people, on this historic day of hope and wonder, were starving..."**
+**"...and many people, on this historic day, were starving..."**
 
 ### Page 2
 
