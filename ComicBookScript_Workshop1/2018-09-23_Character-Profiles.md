@@ -148,12 +148,13 @@ Phenotype: Northern British Isles/Portuguese. Freckles on light olive skin. Redd
 ### Visual checklist for character designs
 
 * Portuguese-American and Irish descent
-* Tall and willowy but farmer-strong (Asoka is a full head and neck taller than Min)
+* Tall and willowy, with delicate shoulders, but farmer-strong (Asoka is a full head and neck taller than Min); long-limbed (some might even say a bit gangly)
+* face: freckles, long aquiline nose
 * hair: thin, straight, reddish-dirty-blonde, shoulder-length
-* eyes: golden brown
+* eyes: large, golden brown
 * skin: light olive, freckles on their face
 * always accompanied by Iri, their cuttlefish mechapet
-* always dressed in Biononymous clothing
+* always dressed in Biononymous clothing, first in "normal" clothes, then in the cuttlefish cloth outfit after receiving it from Green Haven Clarksville. 
 
 #### A note on Biononymous clothing
 
@@ -211,6 +212,19 @@ A cuttlefish mechapet, made from flexible inorganic materials doped with eSyrup.
 Asoka's generation is the first generation of Biononymous to have mechapets.  
 
 ## Eireena McLeland 
+
+Eireena is High Priestess of Green Haven Clarksville. She knew and worked with Iúna Morei before The Burning, lending her expertise as a materials engineer to the World Health Organization collaboration to mass-produce cheap yet effective air and water filters. 
+
+### Visual checklist for character designs
+
+* German and Irish descent
+* Tiny in stature
+* face: small nose, quite wrinkled, stubborn jaw
+* hair: silver, cut very short and spiky
+* eyes: average size, hazel coloured, twinkling with energy and mischief
+* skin: pale and pinkish
+* dressed in Biononymous clothing appropriate for a High Priestess, with Green Haven Clarksville motifs (the [common snapping turtle](https://en.wikipedia.org/wiki/Common_snapping_turtle) and the [lilac bush](https://en.wikipedia.org/wiki/Syringa_vulgaris))
+  * As High Priestess, Eireena's head scarf has 
 
 ## Serena Ramirez 
 
