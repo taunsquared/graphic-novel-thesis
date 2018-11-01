@@ -116,9 +116,17 @@ Birthday: July 26, 2042
 * skin: dark reddish brown
 * typical outfit: bright floral print tops and loose black or grey slacks. Wears a corded necklace of small, delicate teeth. Prefers ballerina style slip-on shoes.
 
-Later, as an adult Automata...
+Later, as an Automata Elder and Inker...
 
- 
+* wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * a ring in the right nostril
+  * ears: both lobes have 2 piercings -- the inner one has a long, hook-like piercing with spiralled ends; the outer hole has a simple stud
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: a wide ribbon of water, imitating the curves of the Amazon River, starting at the left shoulder and growing rapidly in width until it disappears off the back at the right buttock. A [common basilisk](https://en.wikipedia.org/wiki/Common_basilisk) runs across the river. 
+  * right shoulder, front, just under the clavicle: a Giant Helicopter Damselfly (Mecistogaster linearis)
+  * across the chest: a swarm of delicate and brilliantly-coloured Amazonian dragonflies
+  * legs: dendritic line art that encodes Automata history 
 
 ## Vec Barbosa
 
@@ -171,7 +179,7 @@ Birthday: October 18, 2063
 * typical outfit (as an adult Automata): loose trousers that cinch at the knees, chest wrap for breast support
 * piercings made of eSyrup metal, meaning they can shape-shift
   * left eyebrow
-  * piercings all the way up the helix of both ears
+  * piercings all the way up the helix of both ears, filled with thin, delicate rings; lobes of both ears have one small, delicate stud piercing
 * tattoos made of eSyrup ink, meaning they can shape-shift
   * back: cyclonic cloud formations
   * above the right hip: a [New World Quail](https://en.wikipedia.org/wiki/New_World_quail)
