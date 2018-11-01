@@ -1488,7 +1488,7 @@ Asoka: **"*But...they said they have satellite images of people living there!*"*
 
 Min grins with vengeful glee down at Asoka. 
 
-Min: **"They said that? Wow, they were completely fooled by our anti-surveillance bubbles!!"**
+Min: **"They said that? Wow, they were completely fooled by our decoy bubble!!"**
 
 Asoka: **"*Then the Biononymous need your help!*"**
 
@@ -1504,9 +1504,9 @@ Min: **"Eu solicito um conselho pelos Anciãos, para considerar esta aliança co
 
 Nova raises an eyebrow. 
 
-Nova: **"Embora não tenhamos motivos para amar os Peacekeepers, por que nos aliamos a um povo muito longe para ver, ouvir ou tocar?"**
+Nova: **"Você está tão ansioso por guerra que você nos colocará em perigo por um povo muito longe para ver, ouvir ou tocar?"**
 
-*translation: "While we have no reason to love the Peacekeepers, why would we ally ourselves to a people too far away to see, hear, or touch?"*
+*translation: "Are you so eager for war that you'll endanger us for a people too far away to see, hear, or touch?"*
 
 Min, furious, gets right in Nova's stony, unmoved face. 
 
@@ -1522,9 +1522,9 @@ Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front
 
 Majhee lets her stern look soften a bit. 
 
-Majhee: **"Eu acho que agora temos algumas evidências para apoiar o seu Busca Primera, Minka..."**
+Majhee: **"Parece que você agora tem alguma evidência para apoiar o seu Busca Primera, Minka..."**
 
-*translation: "I guess we now have some evidence to support your First Quest, Minka..."*
+*translation: "It sounds like you now have some evidence to support your First Quest, Minka..."*
 
 Majhee grins and her eyes twinkle. 
 
@@ -1608,7 +1608,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-**"34 days ago..."**
+**"47 days ago..."**
 
 It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
@@ -1642,7 +1642,9 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 ### Page 3
 
-We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min is standing with her hand on a waist-high pedestal of [amythest quartz](https://en.wikipedia.org/wiki/Amethyst). The eSyrup bubble overhead shows Min's POV of the Peacekeepers destructive rampage through the re-grown forest 
+We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min is standing with her hand on a waist-high pedestal of [amythest quartz](https://en.wikipedia.org/wiki/Amethyst). The eSyrup bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the re-grown forest last night. 
+
+Nicola: **"After Min's Rite of the Mothers, we set up a modified Bubble at Gruta de Judeia, one that would show Orbiter satellite surveillance systems a glimpse of human activity in that area. 
 
 
 
