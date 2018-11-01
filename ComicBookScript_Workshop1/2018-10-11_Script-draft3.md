@@ -654,7 +654,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 4 jagged panels. 1st POV of running, terrified, through a harsh and rocky landscape. Flash of memory: enormous fangs; cold, blood-red eyes. A farming village in ruins, fires consuming the large interconnected home structures and surrounding greenhouses. Dead bodies, mangled by the monstrous wolf-like creatures that are the size of a small elephant. 
 
-Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves torn, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
+Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves muddy, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
 Asoka: *"Mom...Pippa...WHY??"*
 
@@ -770,7 +770,7 @@ Asoka: **"*We must've worked fast if Pippa's still not back--*"**
 
 Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
-Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack! Repeat, *WE ARE UNDER ATTACK*--Aaaaaaaaahh!!!---(scream cuts off with a sickening gurgle)*"**
+Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack! Repeat, *WE ARE UNDER ATTA*--Aaaaaaaaahh!!!*"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
@@ -982,21 +982,17 @@ They reach a large tapestry mural depicting The Burning, and the procession slow
 
 Next, the mural moves on to when the Biononymous, led by Mother Bird, the First Weaver, are able to make their way back to Mother Bird's textile factories, and recover not only miles upon miles of top quality air-and-water-filtering organzas, but also the means to make more. This allows the Biononymous to create living and farming structures above ground. 
 
-### Page 7
-
 The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"You know, I never really liked the World Government. In my mind they're still the Space Consortium, the tech company that abandoned its users and hid up in orbit for nearly 23 years. In those first few years underground, so many people died because they couldn't get crucial components of their body mods repaired or replaced."**
+Eireena: **"I always found the title 'World Government' a bit...childish. In my mind they're still the Space Consortium, the tech company that abandoned its users and hid up in orbit for nearly 23 years. In the first few years underground, so many people died because they couldn't get crucial components of their body mods repaired or replaced."**
 
-Eireena: **"So I wasn't pleased when they came back and begged us for 30% of our yearly harvest, and I'm not pleased now that they are stationing military personnel at the Green Havens."**
+Eireena: **"We didn't like it when they came back and begged us for 30% of our yearly harvest, but folks gotta eat and I won't let anyone who begs me for food go away empty-handed. But now that the Green Havens are swarming with Peacekeepers, I'm regretting ever helping them."**
 
-Serena: **"Something else hasn't stopped bothering me...where did the Beasts come from? How did they survive the Burning?  What have they been eating to get so huge?"**
-
-Eireena: **"And the timing is too convenient!"**
+Serena: **"And they *definitely* have something to do with the Beasts! The timing is just too damn convenient...and besides, where did the Beasts come from? How did they survive the Burning?"**
 
 ### Page 7
 
-Eireena pulls back a tapestry, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures everyone inside before her. 
+Further along in the hallway, Eireena pulls back a part of the tapestry wall, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures everyone inside before her. 
 
 Eireena: **"Please."**
 
@@ -1034,7 +1030,9 @@ Serena: **"Besides, the first outfit was for a little one just barely able to wa
 
 Asoka looks horrified. Eireena hides her smile. 
 
-Eireena: **"Anyways, every year since then, different members of your Council have visited us, each time bringing another outfit and showing us the faces of more children, or grandchildren. Each time the outfit got a little bit larger, and each time, your counsilors took back the old one."**
+Eireena: **"*Anyways*, every year since then, different members of your Council have visited us. Each time they bring a new outfit, a little bit larger than the last, take back the old one."**
+
+### Page 10
 
 Asoka stares down at the cuttlefish cloth. 
 
@@ -1046,21 +1044,11 @@ Asoka: **"And...if it was supposed to save the children of Green Haven Howes...h
 
 Eireena drops the smile, and Serena's face darkens.
 
-### Page 10
-
-Eireena: **"This cuttlefish cloth would be incredibly dangerous in the hands of someone willing to exploit others...if the World Government finds out about it, they won't just *intimidate* us for more *food*."**
-
-Asoka suddenly remembers -- the snarls, the screams, the smell of freshly baked bread...
-
-Asoka looks up to see Eireena and Serena patiently waiting for them to recover from the flashback. 
-
 Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
 Eireena: **"Remember, if you want to live quietly in hiding, you can have that here."**
 
 Eireena: **"But this cuttlefish cloth *isn't* a gift to take lightly. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
-
-Eireena: **"So if you accept this outfit, I beg you, on behalf of the Green Haven Clarksville Council, to also accept this diplomatic mission: to warn the people in the Amazon of the Peacekeeper's intentions, and to offer them alliance with the Biononymous."**
 
 *--end flashback--*
 
@@ -1380,7 +1368,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 **"A Protocol for Intradermal eSyrup Integration: Methods and Aims"**
 
 **"To be reborn, each Journeyhume of the Automata must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw eSyrup*."**
-
+	
 **"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
 
 **"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'intradermal shield'."**
@@ -1389,66 +1377,119 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 ### Page 1
 
-We see Min peering after the rampaging military tanks, her head peeking over the top of the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. 
+We see Min peering after the rampaging military tanks, standing confidently at the tippy top of a tall emergent tree, giving her a bird's eye view across the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the eSyrup at her ears and temple glow. 
 
-Min: *"I'm telling you, they're making a bee line for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
+Min: *"They're making a bee line for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
 ### Page 2
 
-Nicola Cavalcanti is sitting on a tree platform, somewhere far to the west, in a much quieter part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing. 
+Nicola Cavalcanti is sitting on a tree platform, somewhere far to the west, in a much quieter part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
 
-Nicola Cavalcanti: *"Lovely...so predictably lazy...thought they wouldn't ever need to change their satellite frequencies would they?"*
+Nicola Cavalcanti: *"Lovely...50 years, and they really **haven't** changed their satellite cameras..."*
 
-Min: *"I'm still mad at you! But this definitely counts as an emergency, so I'm just letting you know!"*
+Min: *"We were right!"*
 
-Nicola: *"Minkinha, will you come home, please?"*
+Nicola: *"Does this mean you'll come home now?"*
 
-Min: *"Not until I'm no longer the **first ever** Reborn to be **den-IED** my First Quest! Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
+Min: *"Not until I get an **apology**!"*
+
+Nicola: *"Ha! For what?"*
+
+Min: *"Why was I the only one who had to **prove** that my First Quest is **necessary**? Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
 
 ### Page 3
 
 We see Nicola stand and stretch on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from the edge. 
 
-Nicola: *"What's their pace?"*
+Nicola: *"They weren't wrong. It's a big risk to take in a situation without an 'undo' button. What's their pace?"*
 
-Min: *"They'll be there by morning. Don't change the subject! Why didn't you say anything to defend me?"*
+Min: *"Don't change the subject! Why didn't you say anything to defend me?"*
 
-Nicola stretches in a deep downward dog. 
+Nicola stretches in a deep downward dog, reveling in the pose and wiggling with pleasure. 
 
 Nicola: *"Why did you run away instead of fighting for what you believe in?"*
 
-Nicola's ears and temple abruptly stop glowing. She calmly goes into a capoeira handstand on the tree platform, eyed still tightly closed. 
+Nicola's ears and temple abruptly stop glowing. She calmly goes into a capoeira handstand on the tree platform, knees bent and legs tucked neatly, eyes still tightly closed. 
 
 ### Page 4
 
-Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka clings to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. 
+Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka clings to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
-Min squats and stares down the approximately 5 meters of tree trunk down at Asoka's face veil, her eyes still closed. Asoka and Iri stare back.
+Asoka: **"*We have to hurry! They'll get to your village by morning!!*"**
+
+Min tilts her head to the side, looking down at Asoka with curiosity. 
 
 Min: **"You don't look like an Orbiter..."**
 
-Asoka: **"I'm not! My name is Asoka Morei, of Green Haven Howes..."**
+A dark rage suddenly flares up in Asoka's eyes. 
 
-*~~flashback~~*
+Asoka: **"I'm not one of *them*! My name is Asoka Morei, and I'm a Biononymous of Green Haven Howes!"**
+
+### Page 5
+
+*--flashback--*
 
 We see, once more, Asoka clutching Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
 Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
-### Page 5
-
-We see Iri trying to get Asoka to look at it, to stop, as Asoka, eyes wide and unseeing with tears and terror, slowly steps down the mountain.
+We see Iri trying to get Asoka to look at it, to stop, as Asoka, eyes wide with terror and shock, slowly steps down the mountain.
 
 Asoka: **"*Dad*..."**
 
 Iri/João: **"Asoka! Pay attention!"**
 
+Asoka: **"Where are you? Where's mom?"**
+
 Iri grabs Asoka's face and forces them to look straight into the cuttlefish's eyes. 
 
-Iri/João: **"GET TO THE NEXT HAVEN!"**
+Iri/João: **"Asoka! They've already sealed the cave entrance! *Get to the next Hav*--aauucchhh!"**
 
+Suddenly Iri spins away from Asoka, as if slashed by invisible claws. Asoka screams, arms reaching for Iri. 
+
+Asoka: **"*Noooo!*"***
+
+### Page 6
+
+Asoka is running down the mountainside, dodging trees and bushes while carrying Iri in their arms. Iri's eyes are rolling back into their heads and they look ashen. Asoka's eyes are frantic. 
+
+Suddenly someone crashes into Asoka. Asoka manages to roll while holding onto Iri protectively. Asoka looks up and sees a Biononymous adult in full outfit. Asoka opens their mouth to ask what's going on, and the Biononymous adult covers Asoka's mouth through Asoka's face veil. The Biononymous adult, looking distraught, touches forheads with Asoka and grimaces. Then the adult gets close to Asoka's ear and whispers intently. 
+
+Biononymous adult: **"*Run to the next Haven! Don't let the Beasts see you!!*"**
+
+The Biononymous adult quickly turns Asoka around and shoves them back into the thicket, then runs off in the opposite direction, yelling and loudly crashing through the forest. 
+
+### Page 7
+
+Asoka turns around just in time to see an enormous furry *thing*, blurrily crashing through the bushes and lift a giant paw, claws bared, over the attention-stealing Biononymous adult. 
+
+The Beast brings down its paw in a ferocious slash. The Biononymous adult cries in agony, bleeding profusely from enormous cuts running across their back, unable to run any further. 
+
+Asoka is running and can't help looking back over their shoulder. We see the Beast open a hellish mouth of fangs, grab the Biononymous adult in its powerful jaws, and shake the limp body back and forth violently. 
+
+*--end flashback--**
+
+### Page 8
+
+We are back in the Amazon, up in the tree with Min. Min is no longer grinning. Asoka is looking up at Min, tears streaming down their face. 
+
+Asoka: **"
+
+Min squats and stares down the approximately 5 meters of tree trunk down at Asoka's face veil, her eyes still closed. Min looks smug with pride. 
+
+Min: **"There is no village. 'The Clan is fluid upon the land'...it's just a decoy."**
+
+Asoka: **"*Wha--what?*"**
+
+Min: **"They'll find a beautiful waterfall, which they'll totally fail to appreciate..."**
+
+Asoka: **"*But...they said they have satellite images of people living there!*"**
+
+Min grins gleefully down at Asoka. 
+
+Min: **"I know!! I can't believe it worked!!"**
 
 
 
