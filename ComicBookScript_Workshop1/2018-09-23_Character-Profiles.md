@@ -300,7 +300,7 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 ### Visual checklist for character designs
 
 * East Asian (Korean) and West African (Senegalese) descent
-* petite but strong, well-muscled (Min comes up to Asoka's shoulder)
+* petite but strong, well-muscled (Min comes up to Asoka's shoulder), smallish breasts
 * hair: dark, thick, slightly kinky, shaved into a mohawk
 * eyes: dark brown
 * skin: deep chocolate brown
