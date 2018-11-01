@@ -206,7 +206,7 @@ Phenotype: Northern British Isles/Portuguese. Freckles on light olive skin. Redd
 * eyes: large, golden brown
 * skin: light olive, freckles on their face
 * always accompanied by Iri, their cuttlefish mechapet
-* always dressed in Biononymous clothing, first in "normal" clothes, then in the cuttlefish cloth outfit after receiving it from Green Haven Clarksville. 
+* always dressed in Biononymous outfit, first in "normal" cloth, then in the cuttlefish cloth after receiving it from Green Haven Clarksville. 
 
 #### A note on Biononymous clothing
 
@@ -220,6 +220,18 @@ Outfit components:
 * boots
 
 The unifying aesthetic of the Biononymous cult are the hexagonal patterns of beehives. Each Green Haven, the name for Biononymous farming villages, has an additional motif involving a local flora and fauna. The local motif of Green Haven Howes, Asoka's home Haven, is the North American Beaver and the Sugar Maple. 
+
+"Normal" Biononymous cloth have several "basic" abilities: 
+* can filter polluted air and water within a limited range. "Normal" cloth was designed primarily based on [air pollution conditions](https://en.wikipedia.org/wiki/Air_pollution) in rural environments in the Northern Hemisphere, and based on the [World Health Organization Guidelines for drinking water quality standards](https://en.wikipedia.org/wiki/Drinking_water_quality_standards#World_Health_Organisation_Guidelines) and the design principles of [gas masks](https://en.wikipedia.org/wiki/Gas_mask)
+* can harvest UV radiations from sunlight and protect the wearer from UV radiations
+* can also harvest CO2 from the atmosphere and from the exhalations of the wearer
+* can suppress the infrared heat signature and biologically-generated electrical activity of the wearer
+
+Cuttlefish Cloth makes several improvements to "normal" Biononymous cloth. In addition to all of the abilities of "normal" cloth listed above, Cuttlefish Cloth possesses the following abilities: 
+  * can filter polluted water and air in a much larger range than "normal" cloth, even in [toxic hotspots](https://en.wikipedia.org/wiki/Air_pollution#Hotspots) of the world like the Red Zone
+  * can filter a larger variety of [ionizing radiations](https://en.wikipedia.org/wiki/Ionizing_radiation) (not just UV) from the sun, and under greater intensity and for longer durations
+  * uses [active camouflage](https://en.wikipedia.org/wiki/Active_camouflage) to achieve [crypsis](https://en.wikipedia.org/wiki/Crypsis), and with practice can render the wearer completely invisible
+  * can utilize hyperspectral "scrambling" to render [hyperspectral surveillance](https://en.wikipedia.org/wiki/Hyperspectral_imaging#Surveillance) useless
 
 ### Where is this character from?
 
