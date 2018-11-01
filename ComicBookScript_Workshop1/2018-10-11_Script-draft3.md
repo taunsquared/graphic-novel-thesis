@@ -1486,7 +1486,7 @@ Min: **"There is no village. 'The Clan is fluid upon the land'...it's just a dec
 
 Asoka: **"*Wha--what?*"**
 
-Min: **"They'll find a beautiful waterfall, which they'll totally fail to appreciate..."**
+Min: **"The Peacekeepers'll find a beautiful waterfall, which they'll totally fail to appreciate..."**
 
 Asoka: **"*But...they said they have satellite images of people living there!*"**
 
