@@ -36,7 +36,7 @@ Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; light
 * skin: pale porcelain that has been lightly tanned from her outdoor hobbies, but she *always* wears plenty of sunscreen
 * typical outfit: Practical trekking slacks with many large pockets, topped by a colorful fitted blouse. Lightweight running shoes or boots. Is just starting to need reading glasses, which she is constantly misplacing.
 
-Later when Majhee is an Automata matriarch...
+Later when Majhee is an Automata matriarch and Tree Surfer...
 
 * wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
 * piercings made of eSyrup metal, meaning they can shape-shift
@@ -87,6 +87,18 @@ Birthday: April 14, 2031
 * eyes: very large, pale green
 * skin: darkly tanned olive
 * typical outfit: loose knitted knee length dress with large pockets, low cut boots, simple dangly earrings, thin white gold chain necklace.
+
+Later an as Automata Elder and Water Cycler...
+
+* wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * [septum of the nose](https://en.wikipedia.org/wiki/Nose_piercing#Septum_piercing)
+  * ears: both lobes are pierced with three small, delicate rings
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: a wide ribbon of water, imitating the curves of the Amazon River, starting at the left shoulder and growing rapidly in width until it disappears off the back at the right buttock. A [common basilisk](https://en.wikipedia.org/wiki/Common_basilisk) runs across the river. 
+  * right shoulder, front, just under the clavicle: a Giant Helicopter Damselfly (Mecistogaster linearis)
+  * across the chest: a swarm of delicate and brilliantly-coloured Amazonian dragonflies
+  * legs: dendritic line art that encodes Automata history
 
 ## Nova Jatobá 
 
@@ -354,7 +366,7 @@ Birthday: July 4, 2097
   * ears: the right lobe is pierced twice, the outer piercing a metal stud, the inner piercing a longer, delicate-seeming dangle of metal fronds. The left lobe is pierced once, with a thick hoop of relatively small diameter. The left also has an [industrial](https://en.wikipedia.org/wiki/Earring) piercing. 
 * tattoos made of eSyrup ink, meaning they can shape-shift
   * back: rendition of the golden ratio overlaid on the shell of a [Giant Land Snail](en.wikipedia.org/wiki/Lissachatina_fulica)
-  * along the left forearm: a cut-through of a ripe [common fig](https://en.wikipedia.org/wiki/Ficus), the stem-side pointed towards the wrist, where it becomes a tattoo inking needle
+  * along the inside of the left forearm: a cut-through of a ripe [common fig](https://en.wikipedia.org/wiki/Ficus), the stem-side pointed towards the wrist, where it becomes a tattoo inking needle, with its tip at the tip of Maraba's middle finger
   * legs: dendritic line art that encodes Maraba's lineage and Automata history
 
 # Future main characters (I don't think they will fit into this first story)
