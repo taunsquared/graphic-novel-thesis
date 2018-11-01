@@ -1532,9 +1532,9 @@ Majhee: **"Eu acho que agora temos algumas evidências para apoiar o seu Busca P
 
 Majhee grins and her eyes twinkle. 
 
-Majhee: **"Mas, primeiro nós comemos! Ninguém pode pensar com o estômago vazio!"**
+Majhee: **"E você trouxe um convidado, entou primeiro, nós comemos! Ninguém pode pensar com o estômago vazio!"**
 
-*translation: "But, first we eat! No one can think with an empty stomach!"*
+*translation: "And you brought a guest, so first, we eat! No one can think with an empty stomach!"*
 
 ### Page 10
 
@@ -1608,9 +1608,13 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 **"Loading Universal Record..."**
 
-**"Finished loading...
+**"Finished loading..."**
 
-### This belongs somewhere in this chapter, not sure where though
+### Page 1
+
+**"17 days ago..."**
+
+It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
 Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
 
@@ -1618,9 +1622,11 @@ Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Aut�
 
 View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
 
-Majhee's eyes, proud, confident, expectant: **"O QUE SIGNIFICA SER LIVRE?"**
+Majhee's eyes, proud, confident, expectant: **"*O que significa ser livre?*"**
 
-*translation: "WHAT DOES IT MEAN TO BE FREE?"*
+*translation: "What does it mean to be free?"*
+
+### Page 2
 
 Min closes her eyes, tries to calm her breathing, and struggles to stand. 
 
@@ -1638,57 +1644,15 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 *translation: "...even OFF THE PLANET!"*
 
-### Page 1
+### Page 3
 
-The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree just above the Automata Central Hearth. Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. A spiral staircase is carved into the main trunk, leading in one direction down to the Central Hearth, and in the other, all the way to the top of the tall canopy tree. 
+The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. 
 
-Asoka eyes are open, and they stare emotionlessly at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble and the various other sleeping bubbles suspended in the tree above theirs. Shadows show hammocks and various belongings in the other sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. Asoka hears a muffled voice call through their eSyrup bubble. 
 
-Min: **"Asoka?"**
-
-Asoka doesn't move. 
-
-Min: **"Asoka, to entrando!"**
-
-*translation: "Asoka, I'm coming in!"*
-
-Min steps through the bubble membrane. She looks calmer than when we last saw her, though not as dejected as Asoka. Iri discreetly places their arms over Asoka's ears and turns their head towards Min obligingly. 
-
-Min: **"Almoço?"**
-
-*translation: "Lunch?"*
-
-Asoka doesn't move or answer. Iri chirps worriedly at Asoka, then looks at Min apologetically. 
-
-Iri: **"Talvez...não hoje..."**
-
-*translation: "Maybe...not today..."*
-
-Min: **"Não seja ridículo. Pulou ontem também."**
-
-*translation: "Don't be ridiculous. You skipped yesterday also."*
-
-Asoka still doesn't answer. Min attempts to be funny. 
-
-Min: **"Eu também não estou feliz sobre o decisão de Anciãos, mas não deixe que seus peidos matem seu apetite."**
-
-*translation: "I'm not happy about the Elders' decision either, but don't let their farts kill your appetite."*
-
-No response from Asoka. Min loses her patience. 
-
-Min: **"Nesse caso, passar fome! Descubra o que é bom para quem!"**
-
-*translation: "In that case, starve yourself! Discover what good that does for anyone!"*
-
-Min grits her teeth, gives Asoka an angry look over her shoulder, and huffily exits the bubble. 
-
-### Page 2
-
-**"32 hours earlier..."**
 
 Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and Gruta Judeia. I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
-The sun is setting in the sky, and everyone looks exhausted. The gathered crowd ranges from babes-in-arms to silver haired grandmothers, but the Elders are clustered towards the center. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
+The sun is setting in the sky, and everyone looks exhausted. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
 
 Maraba: **"I stand aside."**
 
