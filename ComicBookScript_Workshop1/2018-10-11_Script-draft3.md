@@ -1317,7 +1317,7 @@ Suddenly a tank plows through the grove of papaya trees, completely destroying e
 
 Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth in which the embroidery moves fluidly, in response to the lighting, the sounds, the wearers moods...
 
-Drum beats in the background...
+Drums beat in the background...
 
 **"Another Tree Surfer is born tonight."**
 
@@ -1378,7 +1378,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 We see Min peering after the rampaging military tanks, standing confidently at the tippy top of a tall emergent tree, giving her a bird's eye view across the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
 
-Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the eSyrup at her ears and temple glow. 
+Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
 
 Min: *"They're making a bee line for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
@@ -1558,7 +1558,7 @@ Asoka: **"*Quem são eles?*"**
 
 *translation: "Who are they?"*
 
-Min watches one Water Cycler in particular - her mother Jina, daughter of Majhee Suh and Vec Barbosa -- with proud reverence.
+Min watches one Water Cycler in particular - her mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
 
 Min: **"Eles são os *cicladores de água*."**
 
@@ -1568,10 +1568,6 @@ Asoka: **"*Os cicladores de água?*"**
 
 *translation: "The water cyclers?"*
 
-### Page 12
-
-The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder.
-
 Min: **"Todos os dias eles [tratam a água](https://en.wikipedia.org/wiki/Water_purification#Treatment) coletamos da chuva, do rio e de [nosso esgoto](https://en.wikipedia.org/wiki/Reclaimed_water)."**
 
 *translation: "Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the rain, from the river, and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."*
@@ -1579,6 +1575,10 @@ Min: **"Todos os dias eles [tratam a água](https://en.wikipedia.org/wiki/Water_
 Asoka: **"*Espere, o que??*"**
 
 *translation: "Wait, what??"*
+
+### Page 12
+
+The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder.
 
 Min: **"Você não ouviu? Nós tivemos uma crise da água. Você teve a sorte de estar perto de nascentes de montanha e terras que não foram brutalmente abusadas. É diferente aqui."**
 
