@@ -1,5 +1,19 @@
 # old writings
 
+## Automata decision making
+
+Nova: **"The [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making#Quaker-based_model) may be difficult to find..."**
+
+Asoka: **"*Consensus?*"**
+
+Nova glances up at Asoka, still not used to the synthetic voice coming from Asoka's face veil, then she gives a gentle smile. 
+
+Nova: **"When the Council of the Elders make a group decision, we all share our concerns until our group goal is clear to everyone. As we all work towards a group decision, if an Elder's perspective doesn't fit into the group decision, the Elder can choose to 'stand aside' or 'block' the emerging consensus."**
+
+Nova's brow furrows. 
+
+Nova: **"But if even one Elder chooses to 'block' an action, we have to find another direction in which we can form consensus. (Sigh!) It's gonna be tricky!"**
+
 ## from Asoka's character Profile
 
 Asoka wanders desperately to the nearest Green Haven, led by High Priestess Eireena McLeland, and begs for sanctuary. The Biononymous there take in Asoka and hide Asoka from the World Government Peacekeepers who also arrive at that Green Haven on the same day. The World Government insists on stationing Peacekeepers at Green Havens in order to protect the Green Havens, and the Eireena immediately suspects that the World Government is taking advantage of the appearance of the Death Dogs to infiltrate the Green Havens with a military presence and then colonize or commandeer the Green Havens. 
