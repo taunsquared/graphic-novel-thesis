@@ -305,8 +305,8 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
 * eyes: dark brown
 * skin: deep chocolate brown
 * piercings made of eSyrup metal, meaning they can shape-shift
-  * left nostril 
-  * ears: left ear has a thick lobe piercing; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
+  * stud in the left nostril 
+  * ears: left ear has a thick lobe piercing in a shape that imitates a Space Barge; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
 * tattoos made of eSyrup ink, meaning they can shape-shift
   * back: star field, as visible from Amazon rainforest
   * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
