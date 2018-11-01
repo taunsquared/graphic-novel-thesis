@@ -1091,7 +1091,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 ### Page 1 
 
-We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the dock landing ship and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
+We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
 ### Page 2
 
@@ -1113,7 +1113,7 @@ As Asoka runs, their face veil shows them overlays of annotations about the envi
 
 In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36.2 deg celsius, while the temp inside Asoka's clothes is 23.1. 
 
-Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is quite high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/). 
+Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is very high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/), much higher than CO2 and NO2 levels, which are also at fatally toxic levels. 
 
 ### Page 3
 
@@ -1125,7 +1125,7 @@ Asoka has pulled up their map onto their face veil. Iri places their location wi
 
 Iri: *"There!"*
 
-A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric gets damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 23. 
+A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Asoka gasps and shakes sweat into the cloth of their head scarf and face veil. The fabric gets damp, but then quickly dries, as if the cloth were drinking up the fluid. The outside temp now reads 39, while the temperature inside Asoka's outfit remains steady at 23. Methane levels have reduced a bit and are now just a little higher than CO2 and NO2 levels, which are lower than before but still at fatally toxic levels. 
 
 Asoka: *"Seriously?? That's it??"*
 
@@ -1139,7 +1139,7 @@ Iri: *"But..."*
 
 Zoom in on Asoka's eyes, fiercely determined. 
 
-Asoka: *"We have to get there *first*, Iri!"*
+Asoka: *"We have to get there **first**, Iri!"*
 
 ### Page 4
 
@@ -1147,7 +1147,7 @@ Asoka: *"We have to get there *first*, Iri!"*
 
 It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
-The outside temperature now reads 44.6 deg celsius, while the inside temperature has only gone up to 26.3 deg celsius. 
+The outside temperature now reads 44.6 deg celsius, while the inside temperature has only gone up to 26.3 deg celsius. Methane levels now match CO2 and NO2 levels, which are now just above fatally toxic levels. 
 
 Iri stares open mouthed at the jungle around them, as Asoka marvels at their outfit's range of protective abilities. 
 
@@ -1169,7 +1169,7 @@ Asoka quickly trudges into a dense grove, clearly uncomfortable and at the end o
 
 Iri: *"Wow, that is **hot!!!**"*
 
-On Asoka's face veil, outside temperature reads 52.8 deg celsius, and the temperature inside their outfit now reads 27.7 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
+On Asoka's face veil, outside temperature reads 52.8 deg celsius, and the temperature inside their outfit now reads 27.7 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Methane, CO2, and NO2 levels have dropped beneath 'fatally toxic', but the suit is unable to update the local atmospheric content in the grove due to its low power status. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
 Asoka: *"Where are we now?"*
 
@@ -1189,7 +1189,7 @@ The sun is setting in the sky, deep red light rays cutting horizontally once mor
 
 *More on plants native to the Amazon: http://www.pbs.org/journeyintoamazonia/plants.html*
 
-Asoka suddenly jerks awake, briefly becomes invisible, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38.2 deg celsius, and Asoka's suit temperature is 23.0.
+Asoka suddenly jerks awake, briefly becomes invisible, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38.2 deg celsius, and Asoka's suit temperature is 23.0. Methane, CO2, and NO2 levels are characterised to be 'short-term breathable'. 
 
 Asoka: *"You let me sleep more than a few hours."*
 
@@ -1215,17 +1215,17 @@ Asoka: *"[Papaya](https://www.instagram.com/p/BWs7J_xBYvP/)!"*
 
 Asoka runs to the base of a papaya tree as Iri shimmies up the trunk. Iri brings down a large, bulbous fruit, and Asoka holds it reverently as their outfit scans the fruit to check its radiation content and ripeness. Simultaneously, Asoka's outfit checks the atmospheric content of the grove in which Asoka and Iri currently sit. Iri also takes in a huge breath of the air and does an independent analysis. 
 
-Iri: *"You can double-check me, but I think the air in here is actually **breathable**..."*
+Iri: *"Ok, I think I agree with your suit, the air in here is actually **breathable**!"*
 
-Asoka's face veil confirms Iri's analysis, and Asoka tears off their face veil in order to ravenously tear into the papaya. Iri joyfully runs up the tree for more of the ripe fruits. 
+Asoka tears off their face veil in order to ravenously tear into the papaya. Iri joyfully runs up the tree for more of the ripe fruits. 
 
 Asoka: **"Mmmmmm!!!"**
 
 ### Page 8
 
-Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. 
+Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness.  
 
-Asoka claps their hands and wipes their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. 
+Asoka claps their hands and wipes their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. Methane, CO2, and NO2 levels are safely within 'short-term breathable' levels. 
 
 Asoka: *"All right, Iri! Let's do this."*
 
