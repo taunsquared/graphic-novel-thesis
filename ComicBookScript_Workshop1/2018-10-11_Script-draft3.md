@@ -1608,9 +1608,9 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-**"17 days ago..."**
+**"34 days ago..."**
 
-It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
+It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
 Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
 
@@ -1642,7 +1642,7 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 ### Page 3
 
-We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min stands
+We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min is standing with her hand on a waist-high pedestal of [amythest quartz](https://en.wikipedia.org/wiki/Amethyst). The eSyrup bubble overhead shows Min's POV of the Peacekeepers destructive rampage through the re-grown forest 
 
 
 
