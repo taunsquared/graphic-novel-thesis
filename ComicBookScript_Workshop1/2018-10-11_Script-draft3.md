@@ -1644,7 +1644,36 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min is standing with her hand on a waist-high pedestal of [amythest quartz](https://en.wikipedia.org/wiki/Amethyst). The eSyrup bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the re-grown forest last night. 
 
-Nicola: **"After Min's Rite of the Mothers, we set up a modified Bubble at Gruta de Judeia, one that would show Orbiter satellite surveillance systems a glimpse of human activity in that area. 
+Nicola: **"After Min's Rite of the Mothers, I helped her set up a modified Bubble at Gruta de Judeia, one that would show Orbiter satellite surveillance systems a false glimpse of human activity in that area. In the face of our complete lack of knowledge of the Orbiter's current morals and motivations, this seemed a fair test of their intentions."**
+
+Nicola looks up at the video playing on the eSyrup bubble overhead. 
+
+Nicola: **"I think it's safe to say, their intentions are not harmless, nor are they thoughtful."**
+
+### Page 4
+
+An older man, watching the video on the eSyrup bubble with arms crossed and a deep frown on his face, snorts derisively and crosses his arms. 
+
+Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, organized, and motivated. If they are able to create monstrous Beasts, and deploy an entire regiment of their military force in less than a month, based on some fleeting, blurry satellite images, what might they do if they realised that one of their 'magical tree people' from the Red Zone..."**
+
+He turns hard eyes to Min. 
+
+Older man: **"...has conveniently brought herself into orbit, where they can easily capture and dissect her?"**
+
+Min opens her mouth indignantly, but Jina cuts in first. 
+
+Jina: **"Osiel, you should know that no child of mine would be so easy to catch!"**
+
+A ripple of laughter runs through the Central Hearth, lightening the mood. Jina winks at Min, who gives Jina a look of fierce adoration. Osiel smiles grimly. 
+
+Osiel: **"I would agree with you, but I'm more worried about how Min will infiltrate a society that surveils and documents *literally everything*. While I can think of a dozen ways to stay off the Orbiters' radar, I can't think of any ways to get Min *onto* the Orbiters' radar without raising a million red flags."**
+
+Jina: **"Which is *exactly* why we need to learn more!"**
+
+### Page 5 
+
+
+
 
 
 
