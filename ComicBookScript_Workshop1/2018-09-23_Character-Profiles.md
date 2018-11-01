@@ -335,9 +335,9 @@ When Jina spent her year in the Underground Cities, she met and fell in love wit
   * neck, behind the right ear: a baby [mata mata turtle](https://en.wikipedia.org/wiki/Mata_mata)
   * legs: dendritic line art that encodes Jina's lineage and Automata history
 
-## Maraba Jatobá
+## Maraba Barbosa Jatobá
 
-Maraba is Min's dearest friend. 
+Maraba is Min's cousin and a dear friend. Maraba has trained as an Inker and was chosen to inject Min during her Rite of the Mothers. 
 
 Birthday: July 4, 2097
 
@@ -349,6 +349,13 @@ Birthday: July 4, 2097
 * hair: a big bushy fro of kinky light brown hair
 * eyes: large, nearly black-brown, wide-set
 * skin: dark, nearly blue-brown
+* piercings made of eSyrup metal, meaning they can shape-shift
+  * right eyebrow 
+  * ears: the right lobe is pierced twice, the outer piercing a metal stud, the inner piercing a longer, delicate-seeming dangle of metal fronds. The left lobe is pierced once, with a thick hoop of relatively small diameter. The left also has an [industrial](https://en.wikipedia.org/wiki/Earring) piercing. 
+* tattoos made of eSyrup ink, meaning they can shape-shift
+  * back: rendition of the golden ratio overlaid on the shell of a [Giant Land Snail](en.wikipedia.org/wiki/Lissachatina_fulica)
+  * along the left forearm: a cut-through of a ripe [common fig](https://en.wikipedia.org/wiki/Ficus), the stem-side pointed towards the wrist, where it becomes a tattoo inking needle
+  * legs: dendritic line art that encodes Maraba's lineage and Automata history
 
 # Future main characters (I don't think they will fit into this first story)
 
