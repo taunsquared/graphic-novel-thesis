@@ -241,11 +241,15 @@ When Min declares her intenions to join the ISE Corps via the Space Asylum Progr
 
 ## Iri 
 
-A cuttlefish mechapet, made from flexible inorganic materials doped with eSyrup. Iri is unusual for a mechapet, in that it can change its shape, colour, and texture, even able to spread out completely flat and camouflage well enough to be functionally invisible. 
+A cuttlefish mechapet and companion of Asoka. Iri can fluidly change its shape, colour, and texture, and is even able to spread out completely flat and camouflage well enough to be functionally invisible. 
 
 ### A note about mechapets
 
-Asoka's generation is the first generation of Biononymous to have mechapets.  
+Asoka's generation is the first generation of Biononymous to have mechapets. 
+
+Mechapets are made from flexible and deformable inorganic materials doped with eSyrup. The outer "skin" of every mechapet is actually a shell made of tiny eSyrup-doped metal plates, so small and connected with so many degrees of freedom that in concert, they can mimic any biological skin, fur, feather, and scale texture. 
+
+Asoka's mechapet Iri is actually the "template" mechapet for all other mechapets. Akin to the similarities between the early stages of embryonic development across vertebrate species, all mechapets first develop into an amorphous 'cephalopod-like' structure, then are voltage-treated to differentiate their outer shell appearance to look like other animals, such as birds, reptiles, mammals, etc. The voltage-treatment on these other mechapet models changes the default configuration of their outer shell, meaning that once a mechapet has differentiated into a species besides the 'cephalopod-like' template, their new appearance is now the lowest energy state for their outer shell. With practice and experience, all mechapets can learn how to change the energy state of their outer shell, aka morph. 
 
 ## Eireena McLeland 
 
