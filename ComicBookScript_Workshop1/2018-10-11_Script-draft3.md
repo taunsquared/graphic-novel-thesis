@@ -1558,7 +1558,7 @@ Asoka: **"*Quem são eles?*"**
 
 *translation: "Who are they?"*
 
-Min watches one Water Cycler in particular - her mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
+Min watches one Water Cycler in particular - her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
 
 Min: **"Eles são os *cicladores de água*."**
 
@@ -1642,9 +1642,9 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 ### Page 3
 
-We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min is standing with her hand on a waist-high pedestal of [amythest quartz](https://en.wikipedia.org/wiki/Amethyst). The eSyrup bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the re-grown forest last night. 
+We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but the Elders with interdermal shields and time spent in the Underground Cities are clustered towards the center. The sun is just past midday. Min is standing with her hand on a waist-high pedestal, made of an enormous [amythest quartz geode](https://en.wikipedia.org/wiki/Amethyst), blue-purple crystals exposed at the top section under Min's hand. The eSyrup bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the re-growing forest last night. 
 
-Nicola: **"After Min's Rite of the Mothers, I helped her set up a modified Bubble at Gruta de Judeia, one that would show Orbiter satellite surveillance systems a false glimpse of human activity in that area. In the face of our complete lack of knowledge of the Orbiter's current morals and motivations, this seemed a fair test of their intentions."**
+Nicola: **"Based on the recommendation of the Council in response to Min's First Quest, I helped her set up a modified Bubble at Gruta de Judeia, one that would show Orbiter satellite surveillance systems a false glimpse of human activity in that area. In the face of our complete lack of knowledge of the Orbiter's current morals and motivations, this seemed a fair test of their intentions."**
 
 Nicola looks up at the video playing on the eSyrup bubble overhead. 
 
@@ -1654,11 +1654,11 @@ Nicola: **"I think it's safe to say, their intentions are not harmless, nor are 
 
 An older man, watching the video on the eSyrup bubble with arms crossed and a deep frown on his face, snorts derisively and crosses his arms. 
 
-Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, organized, and motivated. If they are able to create monstrous Beasts, and deploy an entire regiment of their military force in less than a month, based on some fleeting, blurry satellite images, what might they do if they realised that one of their 'magical tree people' from the Red Zone..."**
+Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, organized, and motivated. If they are able to create monstrous Beasts, and deploy an entire regiment of their military force in less than a month, based on some fleeting, blurry satellite images, what might they do if they realised that one of the 'magical tree people' from the Red Zone..."**
 
 He turns hard eyes to Min. 
 
-Older man: **"...has conveniently brought herself into orbit, where they can easily capture and dissect her?"**
+Older man: **"...has conveniently brought herself into orbit, where they can easily capture her?"**
 
 Min opens her mouth indignantly, but Jina cuts in first. 
 
@@ -1666,11 +1666,41 @@ Jina: **"Osiel, you should know that no child of mine would be so easy to catch!
 
 A ripple of laughter runs through the Central Hearth, lightening the mood. Jina winks at Min, who gives Jina a look of fierce adoration. Osiel smiles grimly. 
 
-Osiel: **"I would agree with you, but I'm more worried about how Min will infiltrate a society that surveils and documents *literally everything*. While I can think of a dozen ways to stay off the Orbiters' radar, I can't think of any ways to get Min *onto* the Orbiters' radar without raising a million red flags."**
-
-Jina: **"Which is *exactly* why we need to learn more!"**
+Osiel: **"I would agree with you, but I'm more worried about how Min will infiltrate a society that surveils and documents *literally everything*. While I can think of a dozen ways to stay off the Orbiters' radar, none of them include 'apply to their flagship training program for space exploration, where they give students access to cutting-edge Orbiter tech'."**
 
 ### Page 5 
+
+Min removes her hand from the amethyst pedestal, ending the video playback up on the bubble ceiling, and folds her arms in exasperation. 
+
+Min: **"That's why I'll first spend time in the Underground Cities building up a fake Universal Record. Amadou's old contacts in 
+
+Osiel loses his temper and throws up a hand to indicate the video still playing overhead. 
+
+Osiel: **"How can you be so naive, even after seeing that? If you're caught, you won't just get thrown out of school -- the World Government will dissect you to learn the secrets of your intradermal shield!"**
+
+Concerned murmurs run through the Central Hearth. Min, one hand still on the amethyst pedestal, takes a step towards Osiel, full of earnest indignation. 
+
+Min: **"That's *if* I get caught!"**
+
+A female elder named Terena quirks her eyebrow at Min. 
+
+Terena: **"So how will you avoid it?"**
+
+The heavily-muscled dark man sitting next to Jina, Min's gene father Amadou, whose back tattoo is a star field that matches Min's back tattoo and has no intradermal shield, raises a finger and smiles. 
+
+Amadou: **"
+
+
+A younger male elder named Panaro, left ear lobe stretched with an enormous 50mm diameter ear plug and the entire curve of his right ear pierced in many fine hoops of eSyrup metal, speaks up. 
+
+Panaro: **"But, Osiel, maybe it's a worthy risk...after all, 'To be autonomous is to be able to make *informed* and *uncoerced* decisions'..."**
+
+Osiel: **"Panaro, I helped write the Manifesto, you don't need to quote it at me!"**
+
+
+
+Terena: **"
+
 
 
 
