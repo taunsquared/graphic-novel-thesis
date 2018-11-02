@@ -610,7 +610,7 @@ Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos merg
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The poisonous cloud choked and blinded most of the rig's crew, and the hydroflouric acid burned anyone who fell into the ocean. The catastrophe killed 32 people and sank the harvesting rig into the sea. For weeks, the silican tetraflouride plumes belched unchecked into the Antarctic Convergence."**
+**"The poisonous cloud choked and blinded most of the rig's crew, and the hydroflouric acid burned anyone who fell into the ocean. The catastrophe killed 32 people and sank the harvesting rig into the sea. For weeks, the silicon tetraflouride plumes belched unchecked into the Antarctic Convergence."**
 
 **"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping around the globe in terrifyingly [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
