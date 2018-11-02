@@ -359,7 +359,7 @@ When Jina spent her year in the Underground Cities, she met and fell in love wit
 ### Visual checklist for character designs
 
 * East Asian (Korean) and West African (Senegalese) descent
-* slightly taller than average height, a bit long-limbed but athletically-built from a life entirely lived in the forest
+* slightly taller than Majhee but not by much, a bit long-limbed but athletically-built from a life entirely lived in the forest
 * hair: dark, thick, slightly kinky, worn in long dreds that go down to the small of her back
 * eyes: dark brown
 * skin: light chocolate brown
