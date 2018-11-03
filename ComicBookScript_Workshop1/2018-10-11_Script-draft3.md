@@ -1672,13 +1672,13 @@ Osiel: **"I would agree with you, but I'm more worried about how Min will infilt
 
 Min removes her hand from the amethyst pedestal, ending the video playback up on the bubble ceiling, and folds her arms in exasperation. 
 
-Min: **"That's why I'll first spend time in the Underground Cities building up a fake Universal Record. Amadou's old contacts in 
+Min: **"That's why I'll first spend time in the Underground Cities building up a fake Universal Record. Amadou's old contacts in [Sumaq Urqu](https://en.wikipedia.org/wiki/Cerro_Rico) can help--"**
 
-Osiel loses his temper and throws up a hand to indicate the video still playing overhead. 
+Osiel loses his temper and throws up a hand towards the bubble ceiling. 
 
 Osiel: **"How can you be so naive, even after seeing that? If you're caught, you won't just get thrown out of school -- the World Government will dissect you to learn the secrets of your intradermal shield!"**
 
-Concerned murmurs run through the Central Hearth. Min, one hand still on the amethyst pedestal, takes a step towards Osiel, full of earnest indignation. 
+Concerned murmurs run through the Central Hearth. Min takes a step towards Osiel, full of indignation. 
 
 Min: **"That's *if* I get caught!"**
 
@@ -1688,26 +1688,11 @@ Terena: **"So how will you avoid it?"**
 
 The heavily-muscled dark man sitting next to Jina, Min's gene father Amadou, whose back tattoo is a star field that matches Min's back tattoo and has no intradermal shield, raises a finger and smiles. 
 
-Amadou: **"
+Amadou: **"It's called, 
 
+### Page 6
 
-A younger male elder named Panaro, left ear lobe stretched with an enormous 50mm diameter ear plug and the entire curve of his right ear pierced in many fine hoops of eSyrup metal, speaks up. 
-
-Panaro: **"But, Osiel, maybe it's a worthy risk...after all, 'To be autonomous is to be able to make *informed* and *uncoerced* decisions'..."**
-
-Osiel: **"Panaro, I helped write the Manifesto, you don't need to quote it at me!"**
-
-
-
-Terena: **"
-
-
-
-
-
-
-
-Nova: **"It seems our consensus is building towards rejecting the alliance with the Biononymous, and moving our re-forestation efforts away from Manaus and Gruta Judeia. I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+Nova: **"It seems our consensus is building towards helping Minka apply to the Space Asylum Program, and rejecting the alliance with the Biononymous while simultaneously moving our re-forestation efforts away from Manaus and Gruta Judeia. I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
 The sun is setting in the sky, and everyone looks exhausted. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
 
@@ -1719,15 +1704,9 @@ Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to
 
 The gathered Elders are all silent. 
 
-Nova: **"Very well, we have reached consensus. Thank you everyone for your time."**
+Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
-With a cry of rage, Min runs to the edge of the Central Hearth platform and leaps to the next tree. Maraba runs after her. 
-
-Maraba: **"Min!"**
-
-Jina, looking upset, also starts to move after Min, but the tall, dark man next to her, with very few clan tatoos and no intradermal shield, places a hand on Jina's leg and gently shakes his head. Jina sits back down, and she and the man hug. Over Jina's head, the man stares after Min, who is leaping from tree to tree, trying to work off her anger and disappointment. 
-
-### Page 3
+### Under Construction still
 
 It's late afternoon. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. 
 
