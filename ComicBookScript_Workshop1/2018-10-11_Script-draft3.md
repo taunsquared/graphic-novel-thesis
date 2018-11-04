@@ -902,23 +902,21 @@ Asoka, off-panel: *"Finally! How is a [cable collecting engine](http://www.simec
 
 Iri, off-panel: *"Too bad the cuttlefish cloth doesn't let you swim out here with me..."*
 
-Asoka, off-panel: *"Don't rub it in..."*
-
 ### Page 2
 
 We see the inside of the submarine's [bilge](https://en.wikipedia.org/wiki/Bilge), the lowest compartment of the submarine, knee-high with liquid drain-off from all parts of the submersible. On an oily pipe, we see two bootprints, and a ghostly hand print on the wall next to it. Thanks to the dirty water, we see an outline of the fully camouflaged Asoka, crouching on top of the pipe and trying to make as little contact with the water below as possible. 
 
-Asoka: *"...I really hope cuttlefish cloth is easy to clean..."*
+Asoka: *"Don't rub it in..."*
 
 We see Iri riding the ROV back into the submarine via an escape portal being used to let the robot in and out of the sub. 
 
-Asoka: *"Can you check on the [Navigator](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) once you're inside?"*
+Iri: *"Where are you now?"*
 
-We see Iri, shimmering with invisibility, as it carefully sneaks out of the escape portal into the engine room. Suddenly, Iri sniffs -- a familiar and pleasant odor lies thick and heavy in the air.  
+Asoka, off-panel: *"No idea, I was just trying to get away from the awful noise..."*
 
-Iri: *"Wait, it's time!"*
+Iri, shimmering with invisibility, carefully sneaks out of the escape portal into the engine room. Suddenly, Iri sniffs -- a familiar and pleasant odor lies thick and heavy in the air.  
 
-### Page 3
+Iri: *"Asoka, it's time!"*
 
 We see the tightly packed engine room of a nuclear submarine. A Peacekeeper wearing the insignia of [Culinary specialist](https://en.wikipedia.org/wiki/Culinary_specialist_(United_States_Navy)) ducks into the door while yelling out behind them. 
 
@@ -928,7 +926,9 @@ We see an unattended pile of potatoes, individually wrapped in aluminum foil, si
 
 Next panel, we see 2 fewer potatoes. 
 
-We're back in the bilge, where Asoka is glumly crouched with their head cradled in their head. They hear a "ZIIIIP!" noise above their heads.
+### Page 3
+
+We're back in the bilge, where Asoka is glumly crouched with their head cradled in their head, scrolling through various environmental readings on their face veil. They're looking at a visualization of airflow around them when they hear a "ZIIIIP!" noise above their heads.
 
 A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
@@ -936,13 +936,13 @@ Iri: *"Hooray for throttle spuds!"*
 
 Asoka: *"I'm never going to eat another potato again."*
 
-### Page 4
-
 Iri: *"Can't be much longer. I'm gonna check the control deck now!"*
 
 Iri disappears, and Asoka pushes the cutout of metal back into the ceiling. They take out what look like fabric tape from their utility belt and seal the cutout. After a moment, the fabric tape seemingly melts into the surrounding metal, and it was as if there had never been a hole in the ceiling. 
 
 Asoka begins to carefully peel a potato, face veil twisted into a resigned grimace. 
+
+### Page 4
 
 *--flashback--*
 
@@ -950,17 +950,15 @@ Asoka begins to carefully peel a potato, face veil twisted into a resigned grima
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
-Eireena: **"Apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission."** 
+Eireena: **"Apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission..."** 
 
-Serena: **"Last night, I overheard some Peacekeepers talking -- the Orbiters are all going nuts right now over some satellite footage that got leaked from the military, showing what looks like nearly naked humans *re-growing the Amazon rainforest*."**
-
-Serena: **"If an entire nuclear submarine wasn't on its way to exploit the shit out of these people, I would say it's a hilarious joke. *No one* can live in the Red Zone without *intense* protective gear, there's too much heat and poison in the air..."**
-
-### Page 5
+Serena: **"Last night, I overheard some Peacekeepers talking -- the Orbiters are all going nuts right now over some satellite footage that shows what looks like nearly naked humans *re-growing the Amazon rainforest*. If an entire nuclear submarine wasn't on its way to exploit the shit out of these people, I'd call those images a hilarious joke. *No one* can live in the Red Zone without *intense* protective gear, there's too much heat and poison in the air..."**
 
 Serena rolls her eyes with huge disappointment and disbelief. 
 
-Serena: **"I can't believe how privileged and entitled some of these Peacekeepers must be -- they were talking about *'magical tree people'*, and going on about how to *'civilize'* an *'un-contacted tribe'*. Idiots. These people are much more likely to be *highly advanced*, if they managed to make it back to the surface and figured out how to adapt to an environment that keeps everyone except the Biononymous underground."**
+Serena: **"Also, I can't believe how privileged and entitled some of these Peacekeepers must be -- they were talking about *'magical tree people'*, and going on about how to *'civilize'* an *'un-contacted tribe'*. Idiots. If these people managed to make it back to the surface and adapt to the Red Zone, they are much more likely to be *highly advanced*, maybe even more than the Orbiters."**
+
+### Page 5
 
 Eireena: **"This morning, we convened an emergency High Council, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the World Government does. In the end, we decided to leave the choice up to *you*."**
 
@@ -984,17 +982,17 @@ Next, the mural moves on to when the Biononymous, led by Mother Bird, the First 
 
 The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"I always found the title 'World Government' a bit...childish. In my mind they're still the Space Consortium, the tech company that abandoned its users and hid up in orbit for nearly 23 years. In the first few years underground, so many people died because they couldn't get crucial components of their body mods repaired or replaced."**
+Eireena: **"I always found the title 'World Government' a bit...childish. To me, they're still the Space Consortium, who abandoned their body mod users and hid up in orbit for nearly *23 years*. So many people died because they couldn't get crucial components of their body mods repaired or replaced, especially when we first went underground."**
 
-Eireena: **"We didn't like it when they came back and begged us for 30% of our yearly harvest, but folks gotta eat and I won't let anyone who begs me for food go away empty-handed. But now that the Green Havens are swarming with Peacekeepers, I'm regretting ever helping them."**
+Serena: **"I didn't like it when they came back and begged us for 30% of our yearly harvest, but folks gotta eat and I won't let anyone who begs me for food go away empty-handed. But now that the Green Havens are swarming with Peacekeepers, I'm regretting ever helping them."**
 
-Serena: **"And they *definitely* have something to do with the Beasts! The timing is just too damn convenient...and besides, where did the Beasts come from? How did they survive the Burning?"**
+Eireena: **"And they *definitely* have something to do with the Beasts! The timing is just too convenient...besides, how did the Beasts survive the Burning?"**
 
 ### Page 7
 
-Further along in the hallway, Eireena pulls back a part of the tapestry wall, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures everyone inside before her. 
+Further along in the hallway, Eireena pulls back a part of the tapestry wall, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures Asoka inside before her. 
 
-Eireena: **"Please."**
+Eireena: **"Please, step inside."**
 
 Serena opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Neatly folded in the bottom of the dresser is a utility belt on top of a large cloth satchel. Asoka looks closer and gasps -- there are tiny beaver and sugar maple motifs, the style of their home Haven! Asoka reaches with their hand, then hesitates. 
 
@@ -1038,11 +1036,7 @@ Asoka stares down at the cuttlefish cloth.
 
 Asoka: **"Are the...**BEASTS**...and the Peacekeepers...part of why this outfit is a secret?"**
 
-Eireena looks pained. Asoka looks up at Eireena and Serena. 
-
-Asoka: **"And...if it was supposed to save the children of Green Haven Howes...how come there's only *one*??"**
-
-Eireena places a hand on Asoka's shoulder, gentle but grim. 
+Asoka looks pained. Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
 Eireena: **"This cuttlefish cloth isn't a gift to take lightly. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
@@ -1058,23 +1052,25 @@ We're back in the bilge, where Asoka is chewing on the last mouthful of the seco
 
 Asoka: *"Sorry, what?"*
 
-We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the Navigation officer and a younger man wearing the insignia of an Operations specialist consult numerous charts and plots, which to an untrained eye, looks like a mess of lines and numbers. 
+We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the [Navigation Officer](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) consult numerous hardcopy charts and plots, which to an untrained eye, look like nothing more than large pages covered a mess of lines and numbers. 
 
 Iri: *"They're figuring out where to dock!"*
 
+Asoka pulls the fabric of their face veil back across their face and pockets the crumpled balls of aluminum foil. They then start to move across various pipes, staying out of the dirty water below. 
+
+On Asoka's face veil, overlaid on top of Iri's view of the command deck, is the map that Asoka and Iri have been piecing together by stalking the navigation team throughout the trip. It shows the Americas, and a glowing blue line approximates the submarine's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line swings far out east into the ocean, to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands. Then the blue line hugs the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the blue line becomes a tiny submarine made of light. That was their current location. 
+
 ### Page 12
 
-Asoka pulls the fabric of their face veil back across their face, and sees the world through Iri's eyes. On Asoka's face veil, overlaid on top of Iri's view of the command deck, is the map that Asoka and Iri have been piecing together by stalking the navigation team throughout the trip. It shows the Americas, and a glowing blue line approximates the submarine's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line swings far out east into the ocean, to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands. Then the blue line hugs the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the blue line becomes a tiny submarine made of light. That was their current location. 
+Asoka carefully places their feet to turn a corner. They look up and gasp. 
 
-Beneath Iri, a white-haired and stern-faced woman wearing the insignia of the Navigation Officer and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) stand at an INFO-SPHERE standing desks made of metal. It looks like a very tall but narrow, shallowly concave metal dish that cups a ball of light that is in focus for the person standing inside the desk, but completely blurry and illegible to anyone else. 
+Iri, off-panel: *"What? Did you find something cool?"*
 
-Operations Specialist: **"Drones report that the river is deep enough all the way up to Manaus. It's the ideal place to dock, but the drones also report extremely high methane concentrations throughout the city."**
+We see Asoka's eyes, full of horror and terror. 
 
-Navigation Officer: **"If we can dock in Manaus, we'll be just 10 hours due south of our goal..."**
+Asoka: *"Iri, look..."*
 
-The flattened and invisible Iri, sees the two Peacekeepers bring up another chart, and discuss the merits of various possible landing spots. Based on their conversation, on the map that Iri and Asoka are creating, a dotted line emerges from the tiny submarine of light and curves intimately inland, wiggling up the Amazon River until it stops at nearly halfway across the continent to the Pacific coast. At that point, the dottle blue line becomes a dark brown line that shoots almost exactly north for a seemingly tiny distance, then terminates in a blinking, glowing 'X'. 
-
-Asoka: **"So. That's where we're going."**
+We zoom out to see before Asoka an enormous open space, lined with pipes and floor flooded with bilge water. On several large metal platforms, safely above the water level, is a pack of enormous, sleeping Beasts. 
 
 ## Chapter 5: Lilacs Out Of The Dead Land
 
@@ -1285,9 +1281,9 @@ Figure: **"O que você quer?!"**
 
 ### Page 11
 
-Asoka: **"Por favor, há um exército chegando! Eles querem roubar de você e fazer seus escravos!"**
+Asoka: **"Por favor, um exército está vindo para te matar!"**
 
-*translation: "Please, there is an army coming! They want to steal from you and make your their slaves!"*
+*translation: "Please, an army is coming to kill you!"*
 
 Figure: **"Mentiroso!!"**
 
@@ -1504,15 +1500,15 @@ Min: **"Eu solicito um conselho pelos Anciãos, para considerar esta aliança co
 
 Nova raises an eyebrow. 
 
-Nova: **"Você está tão ansioso por guerra que você nos colocará em perigo por um povo muito longe para ver, ouvir ou tocar?"**
+Nova: **"Você está tão ansioso por violência em nome de um povo muito longe para ver, ouvir ou tocar?"**
 
-*translation: "Are you so eager for war that you'll endanger us for a people too far away to see, hear, or touch?"*
+*translation: "Are you so eager for violence in the name of a people too far away to see, hear, or touch?"*
 
 Min, furious, gets right in Nova's stony, unmoved face. 
 
-Min: **"Entou, você não se importa com eles?? Eles também são Earthers!"**
+Min: **"Você não se importa com eles?? Eles também são Earthers!"**
 
-*translation: "So, you don't care about them?? They're Earthers too!"*
+*translation: "Don't you care about them?? They're Earthers too!"*
 
 Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
 
@@ -1520,17 +1516,11 @@ Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*
 
 Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
 
-Majhee lets her stern look soften a bit. 
+Majhee turns to Asoka and lets her stern look soften into a grins below twinkling eyes. 
 
-Majhee: **"Parece que você agora tem alguma evidência para apoiar o seu Busca Primera, Minka..."**
+Majhee: **"Você trouxe um convidado! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
 
-*translation: "It sounds like you now have some evidence to support your First Quest, Minka..."*
-
-Majhee grins and her eyes twinkle. 
-
-Majhee: **"E você trouxe um convidado! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
-
-*translation: "And you brought a guest! So, first we eat. No one can think with an empty stomach!"*
+*translation: "You brought a guest! So, first we eat. No one can think with an empty stomach!"*
 
 ### Page 10
 
@@ -1558,7 +1548,7 @@ Asoka: **"*Quem são eles?*"**
 
 *translation: "Who are they?"*
 
-Min watches one Water Cycler in particular - her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
+Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
 
 Min: **"Eles são os *cicladores de água*."**
 
@@ -1580,15 +1570,15 @@ Asoka: **"*Espere, o que??*"**
 
 The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder.
 
-Min: **"Você não ouviu? Nós tivemos uma crise da água. Você teve a sorte de estar perto de nascentes de montanha e terras que não foram brutalmente abusadas. É diferente aqui."**
+Min: **"Você não ouviu? Nós tivemos uma crise da água. Você teve a sorte de estar em algum lugar onde terras que não foram brutalmente abusadas. É diferente aqui."**
 
-*translation: "Didn't you hear? We had a Water Crisis. You were lucky enough to be near mountain springs and land that hadn't been brutally abused. It's different here."*
+*translation: "Didn't you hear? We had a Water Crisis. You were lucky enough to be someplace where the land that hadn't been brutally abused. It's different here."*
 
 The Water Cyclers have each brought their pitcher to a table. They then pour themselves a glass, and raise it up.
 
 Water Cyclers: **"Beber sem sangrar!"**
 
-*translation: "Drink without bleeding!"*
+*translation: "To drink without bleeding!"*
 
 The Water Cyclers then all down their glass of water. The gathered Automata start to clap and cheer and eat and drink. Min grins and reaches for the escabeche. 
 
@@ -1654,7 +1644,7 @@ Nicola: **"I think it's safe to say, their intentions are not harmless, nor are 
 
 An older man, watching the video on the eSyrup bubble with arms crossed and a deep frown on his face, snorts derisively and crosses his arms. 
 
-Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, organized, and motivated. If they are able to create monstrous Beasts, and deploy an entire regiment of their military force in less than a month, based on some fleeting, blurry satellite images, what might they do if they realised that one of the 'magical tree people' from the Red Zone..."**
+Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, organized, and willing to be brutal. If they are able to create monstrous Beasts, and deploy an entire regiment of their military force in less than a month, based on some fleeting, blurry satellite images, what might they do if they realised that one of the 'magical tree people' from the Red Zone..."**
 
 He turns hard eyes to Min. 
 
@@ -1688,21 +1678,33 @@ Terena: **"So how will you avoid it?"**
 
 The heavily-muscled dark man sitting next to Jina, Min's gene father Amadou, whose back tattoo is a star field that matches Min's back tattoo and has no intradermal shield, raises a finger and smiles. 
 
-Amadou: **"It's called, 
+Amadou: **"It's called a 'liquid [MOSFET](https://en.wikipedia.org/wiki/MOSFET) [sievert](https://en.wikipedia.org/wiki/Sievert) shield'."**
 
 ### Page 6
 
-Nova: **"It seems our consensus is building towards helping Minka apply to the Space Asylum Program, and rejecting the alliance with the Biononymous while simultaneously moving our re-forestation efforts away from Manaus and Gruta Judeia. I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+The sun is setting in the sky, and everyone looks exhausted.
 
-The sun is setting in the sky, and everyone looks exhausted. Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
+Nova: **"It seems our consensus is building towards moving our re-forestation efforts away from Manaus and Gruta Judeia, and keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+
+The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. 
+
+Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+
+The gathered Elders are again all silent. Asoka and Iri look relieved, and Asoka trades a glance with Min, who gives them a quick wink and a small smile. Nova now sighs. 
+
+Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards rejecting the alliance, and waiting to learn more about the Orbiters
+
+Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
 
 Maraba: **"I stand aside."**
 
 A wave of relief moves through the gathered Automata. Nova nods, clearly eager to wrap things up. 
 
-Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
-
 The gathered Elders are all silent. 
+
+rejecting the alliance with the Biononymous, and 
+
+helping Minka apply to the International Space Exploration Corps, via the Space Asylum Program
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
