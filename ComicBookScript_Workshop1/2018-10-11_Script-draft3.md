@@ -1742,13 +1742,13 @@ Amadou: **"The great [HGO](https://en.wikipedia.org/wiki/Héctor_Germán_Oesterh
 
 Off-panel: **"*Amadou*??"**
 
-### Page 9
-
 Amadou turns, and his jaw drops in shock.
 
 Amadou: **"Otto?? So good to -- wait...what *happened* to you??"**
 
 We see Otto, a thin, frightened man with ragged clothing and dark circles under his eyes. 
+
+### Page 9
 
 Min: **"Otto and Amadou grew up in the same tiny, remote cave in the [Sierras de Córdoba](https://en.wikipedia.org/wiki/Sierras_de_Córdoba), called Cueva De Los Pajaritos. Amadou had always spoken very fondly of his home, but since Amadou had left, a violent and unstable man named Bautista [de Rosas](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) had killed the governor, declared himself the 'righteous ruler', and started enforcing all kinds of 'austerity laws' and outrageous taxes."**
 
