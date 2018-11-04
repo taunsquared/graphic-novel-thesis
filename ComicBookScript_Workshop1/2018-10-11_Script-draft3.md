@@ -1392,13 +1392,13 @@ Min: *"Not until I get an **apology**!"*
 
 Nicola: *"Ha! For what?"*
 
-Min: *"Why was I the only one who had to **prove** that my First Quest is **necessary**? Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
+Min: *"Why am I the only one who has to **prove** that my First Quest is **necessary**? Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
 
 ### Page 3
 
 We see Nicola stand and stretch on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from the edge. 
 
-Nicola: *"They weren't wrong. It's a big risk to take in a situation without an 'undo' button. What's their pace?"*
+Nicola: *"They weren't wrong. It's a big risk to take, and there's no 'undo' button. What's their pace?"*
 
 Min: *"Don't change the subject! Why didn't you say anything to defend me?"*
 
@@ -1406,7 +1406,7 @@ Nicola stretches in a deep downward dog, reveling in the pose and wiggling with 
 
 Nicola: *"Why did you run away instead of fighting for what you believe in?"*
 
-Nicola's ears and temple abruptly stop glowing. She calmly goes into a capoeira handstand on the tree platform, knees bent and legs tucked neatly, eyes still tightly closed. 
+Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked handstand](https://youtu.be/XTEfIPjUuLo) on the tree platform, eyes still tightly closed. 
 
 ### Page 4
 
