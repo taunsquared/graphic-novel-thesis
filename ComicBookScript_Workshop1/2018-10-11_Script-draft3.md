@@ -922,7 +922,7 @@ Next panel, we see 2 fewer potatoes.
 
 ### Page 3
 
-We're back in the bilge, where Asoka is glumly crouched with their head cradled in their head, scrolling through various environmental readings on their face veil. They're looking at a visualization of airflow around them when they hear a "ZIIIIP!" noise above their heads.
+We're back in the bilge, where Asoka is glumly crouched with their head cradled in their hand, scrolling through various environmental readings on their face veil. They're looking at a visualization of airflow around them when they hear a "ZIIIIP!" noise above their heads.
 
 A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
