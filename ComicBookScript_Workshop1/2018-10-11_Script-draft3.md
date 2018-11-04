@@ -1516,7 +1516,7 @@ Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*
 
 Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
 
-Majhee turns to Asoka and lets her stern look soften into a grins below twinkling eyes. 
+Majhee turns to Asoka and lets her stern look soften into a grin below twinkling eyes. 
 
 Majhee: **"Você trouxe um convidado! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
 
@@ -1574,7 +1574,7 @@ Min: **"Você não ouviu? Nós tivemos uma crise da água. Você teve a sorte de
 
 *translation: "Didn't you hear? We had a Water Crisis. You were lucky enough to be someplace where the land that hadn't been brutally abused. It's different here."*
 
-The Water Cyclers have each brought their pitcher to a table. They then pour themselves a glass, and raise it up.
+The Water Cyclers have each brought their pitcher to a table and poured themselves a glass. They all raise their glasses together.
 
 Water Cyclers: **"Beber sem sangrar!"**
 
