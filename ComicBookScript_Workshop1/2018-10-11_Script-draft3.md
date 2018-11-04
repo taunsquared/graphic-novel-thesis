@@ -1708,35 +1708,19 @@ We see Asoka and Iri from behind, as they sit on large rock at the edge of a [te
 
 Min, off-panel: **"Asoka! Iri! You up there?"**
 
-We see a view from above, of Asoka and Min sitting a across from each other inside an eSyrup bubble on the large rock at the cliff's edge. Asoka's face veil is now pulled back, revealing their face so that they can eat. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's perch. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. 
-
-Min: **"Sorry...wanna try?"**
-
-Iri: **"Sure!"**
-
-Iri carefully tips a small amount of liquid into its mouth. Its eyes light up -- Iri likes the juice a lot! Iri downs the rest of the glass. 
-
-Iri: **"Mmmmmm!!"**
-
-Min: **"It's juice, made with [patua fruit](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."**
-
-Iri, looking like an adorable, cuttlefish version of Oliver Twist, endearingly holds out the wooden cup to Min. 
-
-Iri: **"Please, more?"**
-
-Min can't help laughing at how cute Iri is, and pats Iri on the head. 
-
-Min: **"Of course!"**
-
-### Page 8
-
-Min looks at Asoka, who has rapidly consumed an enormous quantity of food and is now leaning against another rock just outside the bubble, eyes closed and hand over their stomach.
+We see a view from above, of Asoka and Min sitting a across from each other inside an eSyrup bubble on the large rock at the cliff's edge. Asoka's face veil is now pulled back, revealing their face so that they can eat. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's perch. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches as Asoka finishes eating. Asoka, who has rapidly consumed an enormous quantity of food and is now leaning against another rock just outside the bubble, eyes closed and hand over their stomach.
 
 Min: **"So when are you going to stop moping, and come back to the Central Hearth?"**
 
-Asoka opens their eyes and looks at Min with guilt-ridden eyes.
+Asoka opens their eyes and looks at Min with resentful eyes.
 
-Asoka: **"Why do you care so much about a failure like me?"**
+Asoka: **"There's nothing I can do until you're back from your First Quest."**
+
+Min: **"That's not true, there's plenty you can do!"**
+
+Asoka: **"Why would the Clan trust a failure like me to do anything?"**
+
+### Page 8
 
 Min sighs and looks down at her cup of patua juice. 
 
