@@ -1690,183 +1690,105 @@ The gathered Elders are all silent. Nova looks around the Central Hearth and clu
 
 Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
 
-The gathered Elders are again all silent. Asoka and Iri look relieved, and Asoka trades a glance with Min, who gives them a quick wink and a small smile. Nova now sighs. 
+The gathered Elders are again all silent. Asoka, with Iri in their lap, looks relieved but still uncertain. Asoka trades a glance with Min, who gives them a small smile of encouragement. 
 
-Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards rejecting the alliance, and waiting to learn more about the Orbiters
+### Page 7
 
-Most of the Elders look relieved that the consensus has ended up the way it did. A few, including Majhee, show neutral or otherwise expressionless faces. Maraba gives Min, whose face is one of angry, tearful resignation, a distraught look before speaking. 
+Nova now sighs. 
 
-Maraba: **"I stand aside."**
+Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards waiting, until we learn more about the Orbiters. To do this, the Elders approve Minka's First Quest, to apply to the International Space Exploration Corps, via the Space Asylum Program. I do not agree but I will stand aside. Are there any Elders whose feelings remain incompatible with this decision?"**
 
-A wave of relief moves through the gathered Automata. Nova nods, clearly eager to wrap things up. 
-
-The gathered Elders are all silent. 
-
-rejecting the alliance with the Biononymous, and 
-
-helping Minka apply to the International Space Exploration Corps, via the Space Asylum Program
+Osiel looks a bit unsatisfied, but most of the Elders look relieved that the consensus has ended up the way it did. Again, everyone is silent. Nova nods, clearly eager to wrap things up. Min and Amadou exchange a look of joyful triumph, and even as Jina clutches Amadou's hand with apprehension, she also gives Min a smile. 
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
-### Under Construction still
+The Central Hearth immediately breaks out into activity. Amadou holds up what look like ponchos as children gather around him. 
 
-It's late afternoon. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. 
+Amadou: **"Who wants to help me gather fruits for dinner?"**
 
-Iri: *"You'll have to get out of bed, at least for more water...you keep crying away all of your moisture..."*
+Several children raise their hands eagerly, looking at Amadou with adoration. Osiel gestures to several Elders towards the stone aquifer.
 
-Asoka: *"What's the point? I came all this way, and I failed. It was a mistake to leave Green Haven Clarksville..."*
+Osiel: **"Oi! Grab the leftover escabeche from the water cooler?"**
 
-Asoka starts to cry. Their stomach rumbles loudly, pityingly, and Iri looks worried. 
+In the midst of all the activity, Asoka and Iri cuddle each other for comfort, suddenly lost as the Automata break off in familiar clusters of work teams and old friends. A hand suddenly touches their shoulder. Asoka turns, eyes glistening with tears again. It's Min. 
 
-Iri: *"Soka, pleeeaaase will you eat something? Maybe there's leftovers at the Central Hearth..."*
+Min: **"You're probably exhausted. Want me to show you your sleeping bubble?"**
 
-They both look up at the sound of a scratch on Asoka's sleeping bubble. Asoka and Iri exchange a glance, then Asoka sighs and ties back their hair. 
+### Page 8 -- from here to end still under construction!
 
-Asoka: *"Fine, I'll get up."*
+**"One week later: near the entrance to Abismo Guy Collet](https://www.wondermondo.com/abismo-guy-collet/)"**
 
-Asoka swings their legs out of the hammock, rubbing their face with one hand. Iri hands Asoka their head scarf, face veil, and jacket while yelling in the direction of the inquisitive scratch. 
+We see Asoka and Iri from behind, as they sit on large rock at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg). 
 
-Iri: **"Um momento!"**
+Min, off-panel: **"Asoka! Iri! You up there?"**
 
-*translation: "Just a minute!"*
+We see a view from above, of Asoka and Min sitting a across from each other inside an eSyrup bubble on the large rock at the cliff's edge. Asoka's face veil is now pulled back, revealing their face so that they can eat. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's perch. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. 
 
-### Page 4
+Min: **"Sorry...wanna try?"**
 
-We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is wearing their head scarf, but the face veil is pulled back, revealing their face so that they can eat. Asoka's jacket is on but un-fastened up the front. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's bubble. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches Asoka eat with satisfaction. Iri peers curiously into the thermos. Min, looking a bit abashed, offers her cup to the mechapet. 
-
-Min: **"Desculpa...você quer tentar?"**
-
-*translation: "Sorry...wanna try?"*
-
-Iri: **"Certo!"**
-
-*translation: "Sure!"*
+Iri: **"Sure!"**
 
 Iri carefully tips a small amount of liquid into its mouth. Its eyes light up -- Iri likes the juice a lot! Iri downs the rest of the glass. 
 
 Iri: **"Mmmmmm!!"**
 
-Min: **"É suco, feito com [fruta de patua](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."**
-
-*translation: "It's juice, made with [patua fruit](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."*
+Min: **"It's juice, made with [patua fruit](https://en.wikipedia.org/wiki/Oenocarpus_bataua)."**
 
 Iri, looking like an adorable, cuttlefish version of Oliver Twist, endearingly holds out the wooden cup to Min. 
 
-Iri: **"Por favor, mais?"**
-
-*translation: "Please, more?"*
+Iri: **"Please, more?"**
 
 Min can't help laughing at how cute Iri is, and pats Iri on the head. 
 
-Min: **"Claro!"**
-
-*translation: "Of course!"*
-
-### Page 5
-
-Asoka looks up at Iri from their dosirak, eyes moody and accusing. 
-
-Asoka: **"*You know, I can't understand anything when you don't translate for me...*"**
-
-Iri deflates completely and droops with guilt. 
-
-Min: **"Ah, sorry! I'm just not used to using my babelfish."**
-
-Asoka accepts by shrugging and wordlessly digging back into the food. Min and Iri exchange awkward glances. 
-
-Min: **"I was telling Iri, this is juice made from patua...we have a big grove nearby, I can show you how to harvest them!"**
-
-Asoka doesn't look up from eating. 
-
-Asoka: **"*Whatever.*"**
-
-Min is hurt by the total lack of enthusiasm from Asoka. She loses her patience again. 
-
-Min: **"What, do you plan to spend the rest of your life moping inside your sleeping bubble, hoping people will feel sorry enough for you to bring you food? I didn't have to bring you leftovers, this isn't my assignment or anything!"**
-
-Asoka: **"*Why do you care?*"**
-
-Min: **"Why do you *not* care? Don't you realise that by giving up, you're letting the Peacekeepers and the WORLD GOV *win*??"**
-
-### Page 6
-
-Asoka starts to get upset. 
-
-Asoka: **"*They already won...my home is gone, and my family is dead!*"**
-
-Min: **"What about your people, the other Biononymous? Didn't you come all this way to help them??"**
-
-Asoka: **"*Yeah, exactly! I tried, and I failed...*"**
-
-In her frustration, Min gets up on her knees, trying to tower over Asoka, who even when sitting is at least a good head taller. 
-
-Min: **"So are you gonna sit there and continue to be useless, just because *one thing* didn't turn out *exactly* the way you expected??"**
-
-Asoka: **"Useless...yes, that's exactly what I am..."**
-
-Asoka begins crying again, and hides their face in their hands. Min looks upset that she triggered Asoka's tears, but she is also still angry with Asoka's apathy. Iri crawls into Asoka's lap and strokes Asoka's hands with its arms. 
-
-Min: **"Look, I'm so sorry...I get really impatient sometimes...I'm just...*so angry* about the Peacekeepers..."**
-
-Min crawls around the food to kneel by Asoka. 
-
-Min: **"...can I give you hug?"**
-
-Asoka doesn't look up, but gives a tiny nod. 
-
-Asoka, barely audible: **"*Yes...*"**
-
-Iri gives Min an encouraging smile and moves to Asoka's shoulder. Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Iri's arms gently cradle both of their heads. 
-
-### Page 7
-
-Asoka and Min sit in the upper branches of Asoka's sleeping bubble, backs against the main tree trunk, watching the sun disappear behind the horizon. Early stars and fireflies are already twinkling in the twilight, and a waning moon is rising. Both teens are sipping patua fruit juice, faces streaked with tears and looking emotionally spent. Iri is cozily curled around Asoka's shoulders. 
-
-Asoka: **"This juice is *so* good!"**
-
-Min: **"Mmmhmm! Amadou, my gene father, makes the *best* patua juice!"**
-
-Asoka: **"Is Amadou also a Water Cycler?"**
-
-Min: **"No...actually, he's kind of like you..."**
-
-Min: **"When Jina, my gene mother, left for her Year Underground, she traveled far south to Artigas, an Underground City in a country onced called Uruguay. She met Amadou while they were both doing some temprorary work in an [amethyst mine](https://en.wikipedia.org/wiki/Amethyst#Geographic_distribution). Amadou was obsessed with explosives and rockets, and more than anything else, he wanted to become an eSyrup fusion technician, and explore the galaxy on an Ursu-class research vessel."**
-
-### Page 8
-
-During the dialogue on pages 8-10, we see younger versions of Jina and Amadou, the tall dark man who hugged her after the Elders decided to reject the Biononymous' offer of alliance, as Min tells the story of how Amadou came to the Automata. 
-
-**"2096: Underground mining community of Artigas, Uruguay"**
-
-Amadou: **"Jina, look!"**
-
-Amadou and Jina are still dressed in their work uniforms, filthy with mining dust and eating cave rations from the WORLD GOV. They are sitting on a bench in a grubby underground 'park' in the Underground City of Artigas, a glorified open space lined with tough hedges and sad-looking, stunted trees. The artificial lights overhead flicker, and the walls shine with traces of amethyst, hinting at the enormous vein of violet quartz that kept Artigas on the map. Though amethyst was once valued primarily for its usage in jewelry, these days, it is more often mined to feed industrial eSyrup cultures. 
-
-Amadou is pointing to a large public INFO-SPHERE at one end of the 'park', which announces that Heiko Gabriel Oesterheld, an eminent eSyrup combustion engineer, has just accepted a post at the Caverno Ouro Grosso Launch Station, where he will be updating the Launch Station's fleet of Space Barges. Amadou watches the INFO-SPHERE news feed with starry eyes. 
-
-Amadou: **"The great [HGO](https://en.wikipedia.org/wiki/Héctor_Germán_Oesterheld)...I'll travel to Ouro Grosso and become his apprentice, no matter what it takes!"**
-
-Off-panel: **"*Amadou*??"**
-
-Amadou turns, and his jaw drops in shock.
-
-Amadou: **"Otto?? So good to see you! Wait...what *happened* to you??"**
-
-We see Otto, a thin, frightened man with ragged clothing and dark circles under his eyes. 
-
-Min: **"Otto and Amadou had grown up in the same tiny, remote cave in the [Sierras de Córdoba](https://en.wikipedia.org/wiki/Sierras_de_Córdoba) called Cueva De Los Pajaritos. Amadou had always spoken very fondly of his home, but in the 2 years since Amadou had left, a violent and unstable man named Bautista [de Rosas](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) killed the governor, declared himself the 'righteous ruler', and started enforcing all kinds of 'austerity laws' and outrageous taxes."**
-
-Min: **"When the WORLD GOV showed up a few months later, they completely ignored Bautista's horrifying abuse of power. Instead, they offered Bautista extra food rations in exchange for every able-bodied adult he sent to work on 'space construction projects crucial to developing the next phase of humanity'. Bautista forcibly signed up 30 males over 18 who had ever expressed dissatisfaction with Bautista's rule, including Otto and his sickly, aging father. Amadou's father, being one of the cave's HVAC engineers, was among those considered too valuable to be sent away in the work draft."**
+Min: **"Of course!"**
 
 ### Page 9
 
+Min looks at Asoka, who has rapidly consumed an enormous quantity of food and is now leaning against another rock just outside the bubble, eyes closed and hand over their stomach.
+
+Min: **"So when are you going to stop moping, and come back to the Central Hearth?"**
+
+Asoka opens their eyes and looks at Min with guilt-ridden eyes.
+
+Asoka: **"Why do you care so much about a failure like me?"**
+
+Min sighs and looks down at her cup of patua juice. 
+
+Min: **"When Jina, my gene mother, left for her Year Underground, she traveled to mountain called Sumaq Urqu. During the Burning, when everyone fled the surface, the miners turned the 'mountain that eats men' into an incredible city by reinforcing the old mining tunnels. Jina met Amadou while they were both working with a tunnel reconstruction crew."**
+
+*--flashback--*
+
+During the following dialogue, we see younger versions of Jina and Amadou as Min tells the story of how Amadou came to the Automata. 
+
+**"2096: Underground City of Sumaq Urqu"**
+
+Amadou: **"Jina, look!"**
+
+Amadou and Jina are still dressed in their work uniforms, filthy with dust and eating cave rations from the WORLD GOV. They are sitting on a bench in a grubby underground 'park' inside the mountain, a glorified open space lined with tough hedges and sad-looking, stunted trees. The artificial lights overhead flicker, and the walls shine with traces of silver, hinting at the enormous vein that nearly drove pre-Burning miners to collapse the mountain.  
+
+Amadou is pointing to a large public INFO-SPHERE at one end of the 'park', which announces that Heiko Gabriel Oesterheld, an eminent eSyrup combustion engineer, has just accepted a post at the Arica Launch Station, where he will be updating the Launch Station's fleet of Space Barges. Amadou watches the INFO-SPHERE news feed with starry eyes. 
+
+Amadou: **"The great [HGO](https://en.wikipedia.org/wiki/Héctor_Germán_Oesterheld)...I'll travel to Arica and become his apprentice, no matter what it takes!"**
+
+Off-panel: **"*Amadou*??"**
+
+### Page 10
+
+Amadou turns, and his jaw drops in shock.
+
+Amadou: **"Otto?? So good to -- wait...what *happened* to you??"**
+
+We see Otto, a thin, frightened man with ragged clothing and dark circles under his eyes. 
+
+### Page 11
+
+Min: **"Otto and Amadou grew up in the same tiny, remote cave in the [Sierras de Córdoba](https://en.wikipedia.org/wiki/Sierras_de_Córdoba), called Cueva De Los Pajaritos. Amadou had always spoken very fondly of his home, but since Amadou had left, a violent and unstable man named Bautista [de Rosas](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) had killed the governor, declared himself the 'righteous ruler', and started enforcing all kinds of 'austerity laws' and outrageous taxes."**
+
+Min: **"When the WORLD GOV showed up a few months later, they completely ignored Bautista's horrifying abuse of power. Instead, they offered Bautista extra food rations in exchange for every able-bodied adult he sent to work on 'space construction projects crucial to developing the next phase of humanity'."**
+
 Otto, Amadou, and Jina are now inside a residential barracks, where Amadou is trying to get Otto to eat some hot soup. 
 
-Otto: **"Conditions were so bad, my father died within a week of getting into orbit. It took me another 6 months to escape, but I did it..."**
-
-Min: **"Otto stowed away on a Space Barge in order to get back to planetside, a criminal offense that could get him jailed for up to a year."**
-
-Otto: **"I've been trying to get back to the Sierras de Córdoba for the last 2 months...and on the way, I keep seeing people from our cave in the work draft caravans on their way to Ouro Grosso..."**
+Otto: **"Bautista forcibly signed up 30 males over 18 who had ever expressed dissatisfaction with his rule. Don't worry, Amadou, your father wasn't sent away...HVAC engineers are still considered too valuable. Good thing too...conditions up in orbit were so bad, my father died within a week of getting up there. It took me another 6 months to escape, but I did it..."**
 
 Otto stands, fired up with fury.
 
@@ -1874,7 +1796,7 @@ Otto: **"I swear, I'll kill Bautista de Rosas for what he's done!!"**
 
 Otto then faints. 
 
-Min: **"Amadou and Jina nursed Otto back to health, then they both insisted on traveling with him. When they made it back to Cueva De Los Pajaritos, it was even worse than Otto had described. Bautista had basically enslaved the entire remaining population to serve his brutish desires. He and his cronies were eating lavishly and forcibly taking whatever they wanted without consequence, while the rest of cave starved or fell ill from working the surface farms without sufficient protective gear."**
+Min: **"Amadou and Jina nursed Otto back to health, then they both insisted on traveling to Cueva De Los Pajaritos with him. When they made it back, it was even worse than Otto had described. Bautista had basically enslaved the entire remaining population. He and his cronies were forcibly taking whatever they wanted, while the rest of cave starved or fell ill from working the surface farms without sufficient protective gear."**
 
 ### Page 10
 
