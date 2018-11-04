@@ -1692,33 +1692,19 @@ Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to
 
 The gathered Elders are again all silent. Asoka, with Iri in their lap, looks relieved but still uncertain. Asoka trades a glance with Min, who gives them a small smile of encouragement. 
 
-### Page 7
-
 Nova now sighs. 
 
-Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards waiting, until we learn more about the Orbiters. To do this, the Elders approve Minka's First Quest, to apply to the International Space Exploration Corps, via the Space Asylum Program. I do not agree but I will stand aside. Are there any Elders whose feelings remain incompatible with this decision?"**
+Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards waiting, until we learn more about the Orbiters. To do this, the Elders approve Minka's First Quest, to go up into orbit. I do not agree but I will stand aside. Are there any Elders whose feelings remain incompatible with this decision?"**
 
 Osiel looks a bit unsatisfied, but most of the Elders look relieved that the consensus has ended up the way it did. Again, everyone is silent. Nova nods, clearly eager to wrap things up. Min and Amadou exchange a look of joyful triumph, and even as Jina clutches Amadou's hand with apprehension, she also gives Min a smile. 
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
-The Central Hearth immediately breaks out into activity. Amadou holds up what look like ponchos as children gather around him. 
-
-Amadou: **"Who wants to help me gather fruits for dinner?"**
-
-Several children raise their hands eagerly, looking at Amadou with adoration. Osiel gestures to several Elders towards the stone aquifer.
-
-Osiel: **"Oi! Grab the leftover escabeche from the water cooler?"**
-
-In the midst of all the activity, Asoka and Iri cuddle each other for comfort, suddenly lost as the Automata break off in familiar clusters of work teams and old friends. A hand suddenly touches their shoulder. Asoka turns, eyes glistening with tears again. It's Min. 
-
-Min: **"You're probably exhausted. Want me to show you your sleeping bubble?"**
-
-### Page 8 -- from here to end still under construction!
+### Page 7
 
 **"One week later: near the entrance to Abismo Guy Collet](https://www.wondermondo.com/abismo-guy-collet/)"**
 
-We see Asoka and Iri from behind, as they sit on large rock at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg). 
+We see Asoka and Iri from behind, as they sit on large rock at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg) and watching a brilliantly coloured sunset. 
 
 Min, off-panel: **"Asoka! Iri! You up there?"**
 
@@ -1742,7 +1728,7 @@ Min can't help laughing at how cute Iri is, and pats Iri on the head.
 
 Min: **"Of course!"**
 
-### Page 9
+### Page 8
 
 Min looks at Asoka, who has rapidly consumed an enormous quantity of food and is now leaning against another rock just outside the bubble, eyes closed and hand over their stomach.
 
@@ -1772,15 +1758,13 @@ Amadou: **"The great [HGO](https://en.wikipedia.org/wiki/Héctor_Germán_Oesterh
 
 Off-panel: **"*Amadou*??"**
 
-### Page 10
+### Page 9
 
 Amadou turns, and his jaw drops in shock.
 
 Amadou: **"Otto?? So good to -- wait...what *happened* to you??"**
 
 We see Otto, a thin, frightened man with ragged clothing and dark circles under his eyes. 
-
-### Page 11
 
 Min: **"Otto and Amadou grew up in the same tiny, remote cave in the [Sierras de Córdoba](https://en.wikipedia.org/wiki/Sierras_de_Córdoba), called Cueva De Los Pajaritos. Amadou had always spoken very fondly of his home, but since Amadou had left, a violent and unstable man named Bautista [de Rosas](https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas) had killed the governor, declared himself the 'righteous ruler', and started enforcing all kinds of 'austerity laws' and outrageous taxes."**
 
@@ -1800,35 +1784,33 @@ Min: **"Amadou and Jina nursed Otto back to health, then they both insisted on t
 
 ### Page 10
 
-Min: **"Otto, Amadou, and Jina were able to organize an uprising against Bautista, but their victory came at a terrible cost. Many died, including Otto and Amadou's parents, and when Bautista's men realised they were losing the battle, they started burning homes. In the end, Amadou beheaded Bautista in one-on-one combat, and Bautista's remaining supporters were driven out of the cave to die in the surrounding mountains."**
+Min: **"Otto, Amadou, and Jina were able to organize an uprising against Bautista, but victory came at a terrible cost. Many died, including Otto and both of Amadou's parents. In the end, Amadou beheaded Bautista in one-on-one combat, and Bautista's remaining supporters were driven out of the cave to die in the surrounding mountains."**
 
-Min: **"The people of Cueva De Los Pajaritos were freed from the tyrant, but Amadou felt like a complete failure. His parents and so many of his friends were dead, and now that he had killed an officer of the WORLD GOV, he was a wanted criminal with a bounty on his head. He would never get anywhere near a Launch Station ever again, and he would never become a space explorer."** 
+Min: **"The people of Cueva De Los Pajaritos were freed from the tyrant, but Amadou felt like a complete failure. He had killed an officer of the WORLD GOV, which made him a criminal with a bounty on his head. He would never get anywhere near a Launch Station ever again, and he would never become a space explorer."** 
 
-Min: **"Worried that his presence might cause trouble for the other villagers, Amadou let Jina convince him to travel with her back to the Automata. The Elders let him stay under the same conditions they granted you -- as an eternal child, without an interdermal shield and without the right to block consensus. But he didn't let that stop him from living as intensely as he had back in the Underground Cities."**
+Min: **"Amadou let Jina convince him to travel with her back to the Automata, and The Elders let him stay under the same conditions they granted you -- as an eternal child, without an interdermal shield and without the right to block consensus. But he didn't let that stop him from living as intensely as he had back in the Underground Cities."**
+
+Min: **"The Automata raise all of their children together, but even if Amadou wasn't my gene father he would still be my favorite. Amadou taught us how to read the night sky; how to play with pyrotechnics; and he always told the best stories about what it might be like, up there in space."**
 
 ### Page 11
 
-We're back in 2116. Min and Asoka are climbing the spiral staircase to the top of the canopy. Asoka is fully dressed, and Iri sits on top of their head. 
-
-Min: **"The Automata raise all of their children together, but even if Amadou wasn't my gene father he would still be my favorite. Ever since I can remember, Amadou taught us how to identify stars and planets in the night sky; to play with pyrotechnics without losing a finger or an eye; and he even improved our eSyrup bubbles so that he could take the little ones on field trips into the forest. He was always telling us stories from the past and his crazy dreams for the future."**
-
-They've reached a small, swaying tree platform at the top of the tree. Min, Asoka, and Iri are looking out over a vast rainforest canopy. The tree platform is encased in the thinnest of eSyrup bubbles, barely visible and reproducing the outer wind conditions so perfectly that for a moment, Asoka is afraid to breathe. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels.
+We're back in 2116. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. The doshirak has been re-wrapped in the bojagi, and the bubble is down. Min intradermal shield is fully activated, Asoka's face veil is up, and Iri sits on top of Asoka's head. All three look up with wonder and awe on their faces. 
 
 Asoka: **"*Woooooooow...!*"**
 
-Min let's Asoka and Iri take in the breathtaking view, eyes glistening with pride as she surveys the reforestation efforts of the Automata. Min is standing, spikes on her feet keeping her anchored to the tree platform, while Asoka, less comfortable in the canopy, kneels and cluthes nearby branches with their hands. 
+Min: **"I used to wonder why Amadou kept being so obsessed with the Orbiters -- hadn't they hurt him enough? Wasn't re-growing the Amazon Rainforest a big enough dream?"**
 
-Min: **"I used to wonder why Amadou kept being so obsessed with the Orbiters -- hadn't they hurt him enough? Wasn't re-growing the Amazon Rainforest a big enough dream? "**
-
-### Page 12
-
-Min: **"But...'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- that's the fundamental belief of the Automata. In *this* world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. So I'm going to spend my Year Underground building up a fake Universal Record, then apply to the ISE Corps!"**
+Min: **"But...'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- that's the fundamental belief of the Automata. In *this* world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
 
 Asoka: **"*The ISE Corps?*"**
 
-Min: **"The International Space Exploration Corps. It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
+Min stands in her excitement. 
 
-Min grins widely and reaches up with both arms, intradermal shield activated, to let her hands push out past the eSyrup bubble and feel the real east wind. Min laughs with delight. 
+Min: **"The International Space Exploration Corps! It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
+
+Min grins widely and reaches up with both arms to feel the east wind. Min laughs with delight as her mohawk whips about in the wind. 
+
+### Page 12
 
 Asoka: **"*Understand the Orbiters...do you really think you can do that?*"**
 
