@@ -148,17 +148,19 @@ Majhee: **"Pela última vez, Márcia, não é escavar se estou fazendo tudo livr
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
 
-Marcia: **"Você sabe o que eu quero dizer. Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e quando você publica os desenvolvimentos do seu laboratório online sob uma licença Creative Commons, você torna essa aplicação da eSyrup tech *não patenteável*!"**
+Marcia: **"Você sabe o que eu quero dizer. Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e quando você publica os trabalho do seu laboratório online sob uma licença Creative Commons, essa aplicação da eSyrup tech torna *não patenteável*!"**
 
-*translation: "You know what I mean. They are **determined** to make money off eSyrup applications, and when you post your lab's developments online under a Creative Commons license, you make that application of eSyrup tech **unpatentable**!"*
+*translation: "You know what I mean. They are **determined** to make money off eSyrup applications, and when you post your lab's work online under a Creative Commons license, that application of eSyrup tech becomes **unpatentable**!"*
 
 Majhee: **"Exactamente."**
 
 *translation: "Exactly."*
 
-Marcia: **"Mas você viu o que eles fizeram depois da nossa colaboração para combustível eSyrup! Este instituto não pode permitir outra rodada de ações legais como essa!"**
+Marcia: **"Mas você viu o que eles fizeram depois da nossa colaboração para combustível eSyrup!"**
 
-*translation: "But you saw what they did with after our eSyrup fuel collaboration! This institute cannot afford another round of legal action like that!"*
+*translation: "But you saw what they did with after our eSyrup fuel collaboration!"*
+
+### Page 5
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
@@ -200,7 +202,7 @@ Majhee: **"Sinto muito, Marcia, vamos ter que continuar isso outra hora."**
 
 *translation: "I'm sorry Marcia, we'll have to continue this another time."*
 
-### Page 5
+### Page 6
 
 Majhee, Felix, and other members of Majhee's research group sit or stand in a cluster at one end of their lab benches in an upper floor of the research institute. The wall nearest to them is a floor-to-ceiling window, showing the dusty sky-line of São Paulo. The sun sits in a reddish hazy sky, just past the midday zenith. 
 
@@ -234,6 +236,8 @@ Beatriz: **"Tenho a *certeza* podemos gerenciar--"**
 
 *translation: "I'm **sure** we can manage--"*
 
+### Page 7
+
 Kai, arms folded, looking down at her lap with hard eyes.
 
 Kai: **"Não podemos terminar este projecto a tempo sem o Felix. Nós todos sabemos emenda é mais arte do que o algoritmo, e desde que minhas mãos começando a doer muito, Felix é o nosso *melhor*."**
@@ -260,8 +264,6 @@ Kai: **"Space Consortium estão nos dizendo para parar de competir com eles. Pro
 
 *translation: "Space Consortium's telling us to stop competing with them. Suing us for exclusive patents on eSyrup fuel was the slap on the wrists."*
 
-### Page 6
-
 Everyone takes a moment to imagine what it might be like if Space Consortium went for their throats. 
 
 Iara: **"Meu avô ligou esta manhã...ele foi oferecido 10 billian reais na semana passada para me convencer a relatar o nosso trabalho não publicado."**
@@ -284,6 +286,8 @@ Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o prim
 
 *translation: "It's worth it. A stable splice with a bacterial colony is the first step towards living eSyrup splices...anyone that does that could have a monopoly on all clinical and medical applications of eSyrup."*
 
+### Page 8
+
 We see Breno's moody, cynical eyes. 
 
 Breno: **"Mas tenho certeza que 10.000.000.000 não é nada para um bebê de fundo de confiança como você, Iara..."**
@@ -301,8 +305,6 @@ Breno, smiles ruefully, eyes pitying: **"Oh sim? Esse dinheiro daria a minha mã
 Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, no?! Se Iara é privilegiada, então você também é!"**
 
 *translation: "So good thing Majhee is paying the doctors' bribes for your mother, no?! If Iara is privileged, then so are you!"*
-
-### Page 7 
 
 We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear. Over this view, Majhee speaks...
 
@@ -322,7 +324,7 @@ Majhee: **"Entou, se você ficar...eu juro proteger você e suas famílias de qu
 
 *translation: "So, if you stay...I swear to protect you and your families in any way that I can."*
 
-### Page 8
+### Page 9
 
 **"6 months later: Massachusetts, USA"**
 
@@ -338,7 +340,7 @@ Iúna smiles and yells as she waves towards her office door, just next to the en
 
 Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
-### Page 9
+### Page 10
 
 Iúna: **"Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
 
@@ -356,9 +358,9 @@ Iúna: **"Really? From where?"**
 
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
 
-### Page 10
-
 Dr. Kauffmann: **"Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
+
+### Page 11
 
 Iúna: **"What?? How many dead??"**
 
@@ -374,7 +376,7 @@ Dr. Kauffmann: **"Of course. We'll see ourselves out."**
 
 Under this dialogue we see close-up views of the baby strapped to Iúna's front. The child is a little less than one year old. The strapping is an intricately folded piece of eSyrup cloth that can amplify the baby's heartrate, breathing, and digestive sounds. 
 
-### Page 11
+### Page 12
 
 Iúna: **"*Tahoe, have you been able to contact Joshua Tree?*"**
 
@@ -394,19 +396,13 @@ Iúna ponders for a moment, her face furrowed with grief and concentration.
 
 Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"**
 
-Tahoe: **"*Wa-wait, seriously?*"**
+Tahoe: **"*Seriously?*"**
 
 Iúna: **"*Yes. Pigsah was right - it's relatively easy *now* to live without body mods. But once the schools require head mods for every student, once every industry requires body mods in order to be qualified for the job...our children **won't** have a choice. You just won't be a qualified human *adult* if you don't have a body mod.*"**
 
-Tahoe: **"*But...doesn't that feel too close to...a *cult*??"**
+Tahoe: **"*But...doesn't that feel too much like a *cult*??"**
 
-Iúna: **"*That's why I intially voted against it. But we have to figure how to co-exist with the rest of society. If we don't take drastic measures, in just 10 years it will be *impossible* to live without constant surveillance.*"**
-
-### Page 12
-
-Tahoe: **"*But there's so much we still haven't figured out...long-distance communication, ways to aid our memories...*"**
-
-Iúna: **"*That's why I've changed my mind. Our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, do you know what that research group in Brazil published last month?*"**
+Iúna: **"*That's why I intially voted against it. But our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, do you know what that research group in Brazil published last month?*"**
 
 Tahoe: **"*What?*"**
 
@@ -414,13 +410,11 @@ Iúna: **"*The first successful splice of eSyrup with living cells, a recipe for
 
 Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*"**
 
-Iúna: **"*Because that's the *beginning*. They managed it before Space Consortium, got it *published* before Space Consortium could patent it. Remember the mechapet idea??*"**
+Iúna: **"*Because that's the *beginning*. Remember the mechapet idea??*"**
 
 Tahoe: **"*Yeah, but didn't we decide it wasn't possible?*"**
 
-Iúna: **"It's possible now. *Splicing eSyrup with a microcolony of bacteria was the first step towards splicing eSyrup into bigger, more complex creatures. And if this is all part of our religious practice...*"**
-
-Iúna: **"*...then we'll have protection against oversight by Space Consortium, or any national government!*"**
+Iúna: **"*It's possible now!*"**
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
