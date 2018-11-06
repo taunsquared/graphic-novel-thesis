@@ -1768,15 +1768,15 @@ Min is hurt by the total lack of enthusiasm from Asoka. She loses her patience a
 
 Min: **"What, do you plan to spend the rest of your life moping inside your sleeping bubble? I didn't have to bring you leftovers, you know!"**
 
+### Page 10
+
 Asoka: **"*Then stop trying to be nice! It's a mistake!*"**
 
 Asoka slams down the doshirak and glares at Min with eyes full of anger and tears. 
 
 Asoka: **"*I tried to be nice to Pippa, and look how they ended up! Dead!!*"**
 
-### Page 10
-
-Asoka grits their teeth and hides their face in their hands. Iri crawls into Asoka's lap and strokes Asoka's hands with its arms. 
+Asoka grits their teeth and hides their face in their hands, as tears begin to spill out of their eyes. Iri crawls into Asoka's lap and gently strokes Asoka's hands with its arms. 
 
 Min: **"Look, I'm so sorry...I get really impatient sometimes..."**
 
@@ -1784,11 +1784,11 @@ Min crawls around the food to kneel by Asoka.
 
 Min: **"...can I give you hug?"**
 
-Asoka doesn't look up, but gives a tiny nod. 
+Asoka doesn't look up, but gives a tiny nod. Iri gives Min an encouraging smile and moves to Asoka's shoulder. 
 
 Asoka, barely audible: **"*Yes...*"**
 
-Iri gives Min an encouraging smile and moves to Asoka's shoulder. Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Iri's arms gently cradle both of their heads. 
+Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Iri's arms gently cradle both of their heads. 
 
 ### Page 11
 
