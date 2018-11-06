@@ -1794,19 +1794,19 @@ Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest 
 
 The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head. All three look up with wonder and awe on their faces. 
 
-Min: **"You know, Amadou, my gene father...he once made the mistake of being nice to someone..."**
+Min: **"You know, Amadou, my gene father, once made the mistake of being nice to someone..."**
 
 Asoka: **"Yeah?"**
 
 Min: **"Yeah. He killed an evil man."**
 
-Asoka: **"Wait, why was that a mistake?"**
+Asoka: **"Wait, how is that a mistake?"**
 
 Min: **"Because that evil man was a governor of the World Government. So now Amadou has a bounty on his head, and he'll never get inside a Launch Station, much less go up into Orbit."**
 
 Asoka: **"Why do you want to go up into orbit so badly?"**
 
-Min: **"Because...'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- that's the fundamental belief of the Automata. In *this* world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
+Min: **"Because...'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- and in *this* world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
 
 Asoka: **"*The ISE Corps?*"**
 
