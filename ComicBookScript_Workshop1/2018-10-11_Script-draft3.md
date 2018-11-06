@@ -650,7 +650,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves muddy, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
-Asoka: *"Mom...Pippa...WHY??"*
+Asoka: *"Dad...Pippa...Why??"*
 
 We see Asoka clench their fist, then throw up their head, struggle to stand, eyes streaming with tears. 
 
@@ -786,7 +786,7 @@ It's night. A village with a central housing structure identical to Asoka's home
 
 Eireena, off-panel: **"I'm so sorry for your loss, Asoka."**
 
-Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleeveless shirt, but their feet, hands, and head are bare. Asoka's long reddish hair is tied back in a half ponytail, and Iri, now displaying a reddish back and cream coloured bottom to better camouflage from its perch on Asoka's neck, peers out from under Asoka's hair. Before Asoka is a large steaming mug of hot tea, but Asoka hasn't touched it. Tears run down their face, past an upper lip that shows just the tiniest hints of fuzzy hair. 
+Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleeveless shirt, but their feet, hands, and head are bare. Asoka's long reddish hair is tied back in a loose ponytail, and Asoka hugs Iri, who is cuddled up to Asoka in their lap. Before Asoka is a large steaming mug of hot tea, but Asoka hasn't touched it. Tears run down their face, past an upper lip that shows just the tiniest hints of fuzzy hair. 
 
 We see Eireena McLeland, High Priestess of the Biononymous and leader of this Green Haven, a tiny woman, silver haired, wrinkled face showing deep sorrow, sitting on a floor cushion and wearing an elaborately embroidered jacket. On either side of her sit two other adult Biononymous: a man and a woman, somewhat younger than Eireena. The man looks at Asoka, his dark face sad but gaining a gleam of curiosity and fascination when he shifts his gaze to Iri. The woman's face, half-hidden behind long, thick, gently curling dark hair, is one of calm contemplation. 
 
@@ -818,11 +818,11 @@ Fili and Serena both bow: **"Yes, High Priestess."**
 
 ### Page 10
 
-It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms as Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
+It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms as it cuddles in the space between Asoka's knees and chest. Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
 
 Fili: **"Good morning. Did you sleep at all?"**
 
-Asoka, without looking up, straightens their back and lowers their knees into a cross-legged sitting position. They look too dejected to talk. Iri timidly peers at Fili from around Asoka's hair. 
+Asoka, without looking up, straightens their back and lowers their knees into a cross-legged sitting position. They look too dejected to talk. Iri timidly peers at Fili from around Asoka's arms, which still hold Iri close. 
 
 Fili sets down the tray and sits across from Asoka, whose eyes have started to leak tears again. Fili looks at Asoka sadly, then gives a little smile. 
 
@@ -840,7 +840,7 @@ Asoka finally looks at Fili. After a moment, Asoka reaches for a raspberry. Fili
 
 ### Page 11
 
-A scratch at the door. Eireena enters with Serena. Fili stands and bows. Asoka also stands, abruptly remembering their manners, and knocks over the raspberries. Asoka looks mortified. 
+A scratch at the door. Eireena enters with Serena. Fili stands and bows. Asoka also stands, abruptly remembering their manners as Iri darts to their shoulder and hides behind their hair. While standing, Asoka knocks over the raspberries. Asoka looks mortified. 
 
 Asoka: **"Oh no! I'm so sorry!"**
 
@@ -1028,9 +1028,9 @@ Eireena: **"*Anyways*, every year since then, different members of your Council 
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Are the...**BEASTS**...and the Peacekeepers...part of why this outfit is a secret?"**
+Asoka: **"Are the...Beasts...and the Peacekeepers...why this outfit is a secret?"**
 
-Asoka looks pained with heavy guilt -- they are thinking about Pippa. Eireena places a hand on Asoka's shoulder, gentle but grim. 
+Asoka looks pained, eyes closed with guilt -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
 Eireena: **"This cuttlefish cloth isn't a gift to take lightly. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
@@ -1684,25 +1684,47 @@ The gathered Elders are all silent. Nova looks around the Central Hearth and clu
 
 Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
 
-The gathered Elders are again all silent. Asoka, with Iri in their lap, looks relieved but still uncertain. Asoka trades a glance with Min, who gives them a small smile of encouragement. 
+The gathered Elders are again all silent. Asoka, with Iri in their lap, looks relieved but still uncertain. Asoka trades a glance with Majhee, who gives them a small smile of encouragement. 
 
 Nova now sighs. 
 
 Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards waiting, until we learn more about the Orbiters. To do this, the Elders approve Minka's First Quest, to go up into orbit. I do not agree but I will stand aside. Are there any Elders whose feelings remain incompatible with this decision?"**
 
-Osiel looks a bit unsatisfied, but most of the Elders look relieved that the consensus has ended up the way it did. Again, everyone is silent. Nova nods, clearly eager to wrap things up. Min and Amadou exchange a look of joyful triumph, and even as Jina clutches Amadou's hand with apprehension, she also gives Min a smile. 
+Osiel looks unsatisfied, but most of the Elders look relieved that the consensus has ended up the way it did. Again, everyone is silent. Nova nods, clearly eager to wrap things up. Min and Amadou exchange a look of joyful triumph, and even as Jina clutches Amadou's hand with apprehension, she also gives Min a smile. 
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
 ### Page 7
 
-**"One week later: near the entrance to Abismo Guy Collet](https://www.wondermondo.com/abismo-guy-collet/)"**
+**"One week later: near the entrance to [Abismo Guy Collet](https://www.wondermondo.com/abismo-guy-collet/)"**
 
-We see Asoka and Iri from behind, as they sit on large rock at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg) and watching a brilliantly coloured sunset. 
+We see Asoka and Iri from behind, as they sit on large rock at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg), bathed in a brilliantly coloured sunset. 
+
+Zoom in on Asoka's face, as they hug Iri close. Their eyes are full of tears. 
+
+Asoka: *"Pippa...why did I send you back??"*
+
+Iri: *"Soka, you didn't know..."*
 
 Min, off-panel: **"Asoka! Iri! You up there?"**
 
-We see a view from above, of Asoka and Min sitting a across from each other inside an eSyrup bubble on the large rock at the cliff's edge. Asoka's face veil is now pulled back, revealing their face so that they can eat. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the [bojagi](en.wikipedia.org/wiki/Bojagi) that Min had used to bring it up to Asoka's perch. Asoka eats ravenously as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into two wooden cups. Min puts down the thermos and watches as Asoka finishes eating. Asoka, who has rapidly consumed an enormous quantity of food and is now leaning against another rock just outside the bubble, eyes closed and hand over their stomach.
+### Page 8
+
+Min appears, carrying an enormous [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth and a large thermos, wrapped in a [bojagi](en.wikipedia.org/wiki/Bojagi) tied to her back. She climbs up with ease, sets down the bojagi, and stretches her shoulders. 
+
+Min: **"Nice view! Is this why you haven't come back to the Central Hearth for 3 days?"**
+
+Asoka, still crying, stares resolutely ahead into the sunset and hugs Iri closer. Min looks at Asoka awkwardly for a second, then Min pulls out the thermos and two wooden cups.
+
+Asoka suddenly finds a cup of creamy, brownish liquid thrust in front of their face. Min is standing over them, a second cup of juice in the other hand, unsure but determined. 
+
+Min: **"[Patua juice](https://youtu.be/baWFekERwsw)?"**
+
+Asoka ignores it. Min stares for a second, then starts to move the cup away, but Iri places an arm on Min's hand and the wooden cup. Iri looks up at Min pleadingly. Min sighs. 
+
+Min: **"Soka, you really should drink some..."**
+
+
 
 Min: **"So when are you going to stop moping, and come back to the Central Hearth?"**
 
