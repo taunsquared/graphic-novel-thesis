@@ -1030,7 +1030,7 @@ Asoka stares down at the cuttlefish cloth.
 
 Asoka: **"Are the...**BEASTS**...and the Peacekeepers...part of why this outfit is a secret?"**
 
-Asoka looks pained. Eireena places a hand on Asoka's shoulder, gentle but grim. 
+Asoka looks pained with heavy guilt -- they are thinking about Pippa. Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
 Eireena: **"This cuttlefish cloth isn't a gift to take lightly. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
 
@@ -1079,6 +1079,8 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these [jewels of biodiversity](https://www.theguardian.com/environment/gallery/2013/oct/23/new-species-amazon-rainforest-in-pictures) were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
+**"A combination of boiling, humid heat; heavy downpours of acid rain; and toxic levels of CO2, NO2, and CH4 all took their toll on the flora and the fauna. The tropics became a simmering, stinking hell, where, if the sun didn't overpower you, the stench definitely would..."**
+
 ### Page 1 
 
 We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
@@ -1099,11 +1101,11 @@ Asoka: *"Yeah, so?"*
 
 Iri: *"So you might be out of shape!"*
 
-As Asoka runs, their face veil shows them overlays of annotations about the environment around them. What happens to the Amazon in 100 years, after massive deforestation, brutal heat, CO2 and NO2 heavy atmosphere, and NO2 acid rain decimate most of the life, and then someone comes along and is starting to re-grow the forest?
+As Asoka runs, their face veil shows them overlays of annotations about the environment around them. This part of the forest is putrid and disgusting, everything rotten, dead, and sludgy. 
 
 In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36.2 deg celsius, while the temp inside Asoka's clothes is 23.1. 
 
-Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is very high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/), much higher than CO2 and NO2 levels, which are also at fatally toxic levels. 
+Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is very high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/), much higher than CO2 and NO2 levels, which are also at fatally toxic levels (indicate with a color scale?). 
 
 ### Page 3
 
@@ -1132,8 +1134,6 @@ Zoom in on Asoka's eyes, fiercely determined.
 Asoka: *"We have to get there **first**, Iri!"*
 
 ### Page 4
-
-**"Human body cells start to die when body temperatures go above 41 deg celsius, but externally, humans can survive much higher temperatures, even up to 70 deg C, as long as the air is dry and our insides stay hydrated. In humid, tropical air, however, anything above 47 deg is cause for concern, and getting respite from the heat is crucial."**
 
 It is now full and proper sunrise, the sun streaming horizontally between the scattered but significantly more dense trees. These trees are [pioneer species](http://blog.perunature.com/the-great-succession-epic-building-an-amazon-rainforest), fast-growing, sun-loving trees that can [replace the rainforest canopy](http://www.rainforestconservation.org/rainforest-primer/rainforest-primer-table-of-contents/f-forest-maintenance-and-succession/) and allow "climax species" to re-establish themselves in deforested regions. 
 
@@ -1313,7 +1313,7 @@ Drums beat in the background...
 
 Over this backdrop, small ghostly close-up panels are scattered, showing different parts of 16 year old Min, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
 * an eye, nose, and ear. The eye is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with eSyrup metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
-* a strong and straight back, dominated by an eSyrup tatoo depicting a shallow coral ocean scene, ever-changing.  
+* a strong and straight back, dominated by an eSyrup tatoo depicting the night sky above the Amazon, with stars, planets, and Orbiter vessels.  
 * shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
 * legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
 
