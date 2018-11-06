@@ -1636,7 +1636,7 @@ Nicola: **"I think it's safe to say, their intentions are not harmless, nor are 
 
 An older man, watching the video on the eSyrup bubble with arms crossed and a deep frown on his face, snorts derisively and crosses his arms. 
 
-Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, organized, and willing to be brutal. If they can create monstrous Beasts, and deploy an entire regiment of their military force in less than a month, based on some fleeting, blurry satellite images, what might they do if they realised that one of the 'magical tree people' from the Red Zone..."**
+Older man: **"Hard to dispute that. But Asoka's story also suggests that the Orbiters *are* clever, and willing to be brutal. If they can create monstrous Beasts, and deploy an entire regiment in less than a month, based on some blurry satellite images, what might they do if they realised that one of the 'magical tree people' from the Red Zone..."**
 
 He turns hard eyes to Min. 
 
@@ -1678,17 +1678,15 @@ The sun is setting in the sky, and everyone looks exhausted.
 
 Nova: **"It seems our consensus is building towards moving our re-forestation efforts away from Manaus and Gruta Judeia, and keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
-The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. 
-
-Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
-
-The gathered Elders are again all silent. Asoka, with Iri in their lap, looks relieved but still uncertain. Asoka trades a glance with Majhee, who gives them a small smile of encouragement. 
-
-Nova now sighs. 
+The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. Nova now sighs. 
 
 Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards rejecting the alliance, at least until we learn more about the Orbiters. To do this, the Elders will support Minka's First Quest, to go up into orbit. I do not agree but I will stand aside. Are there any Elders whose feelings remain incompatible with this decision?"**
 
 Osiel looks unsatisfied, but most of the Elders look relieved that the consensus has ended up the way it did. Again, everyone is silent. Nova nods, clearly eager to wrap things up. Min and Amadou exchange a look of joyful triumph, and even as Jina clutches Amadou's hand with apprehension, she also gives Min a smile. 
+
+Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+
+The gathered Elders are again all silent. Asoka, with Iri in their lap, looks relieved but still uncertain. Asoka trades a glance with Majhee, who gives them a small smile of encouragement. 
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
