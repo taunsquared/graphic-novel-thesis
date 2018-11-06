@@ -1764,11 +1764,11 @@ Asoka doesn't look up from eating.
 
 Asoka: **"*Whatever.*"**
 
+### Page 10
+
 Min is hurt by the total lack of enthusiasm from Asoka. She loses her patience again. 
 
 Min: **"What, do you plan to spend the rest of your life moping inside your sleeping bubble? I didn't have to bring you leftovers, you know!"**
-
-### Page 10
 
 Asoka: **"*Then stop trying to be nice! It's a mistake!*"**
 
