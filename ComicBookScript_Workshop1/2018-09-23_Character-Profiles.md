@@ -320,7 +320,7 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into a m
   * stud in the left nostril 
   * ears: left ear has a thick lobe piercing in a shape that imitates a Space Barge; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
 * tattoos made of eSyrup ink, meaning they can shape-shift
-  * back: star field, as visible from the Amazon rainforest, on her birthday (see this [star map](https://www.skymaponline.net/view.aspx?r=600&x=600&y=600&lat=-3.1190275&long=-60.0217314&time=21000218224800&rotation=90&w=1038&h=800&gmtoffset=0&loc=Manaus,%20Brazil&id=da54e878fa))
+  * back: star field, as visible from the Amazon rainforest, on her birthday (see this [star map](https://www.skymaponline.net/view.aspx?r=600&x=600&y=600&lat=-3.7436735&long=-73.2516326&time=21000218224800&rotation=90&w=1038&h=800&gmtoffset=0&loc=Iquitos,%20Peru&id=97c5bc55))
   * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
   * legs: dendritic line art that encodes Min's lineage and Automata history
 
