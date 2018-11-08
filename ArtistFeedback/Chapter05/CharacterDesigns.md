@@ -1,7 +1,7 @@
 # Feedback on Character Designs
 
-Asoka - I love it!! I would just update the cuttlefish cloth outfit with the visual motifs from Asoka's home haven, see the Character Profiles doc please!
+Asoka - YES!! love how you integrated the Haven-specific symbols!!
 
 Iri - cuuuuute ^.^ Just one thought, it would be great to make Iri look like a "cuttlefish-inspired mechapet" and not just "a cuttlefish" :)
 
-Min - Aaah, so good! One note, I've updated Min's back tatoo to be a star field instead of a shallow coral reef scene, please see Character Profiles doc!
+Min - Lovely!! Can the line art tattoos on Min's legs be visible through the slits in her trousers? Also, I've updated the info about the star field tattoo in the character profile - I want it to show the major constellations and brightest objects in the sky so that an astronomer could potentially recognize the star field :) Also, can the edges of the night-sky background fade into whisps that curl around Min's shoulders and torso to be just barely visible from the front?
