@@ -1698,7 +1698,13 @@ Asoka watches Min with Jina and Amadou, hugging Iri as their eyes fill with tear
 
 The late morning sun filters into Asoka's sleeping bubble, a private eSyrup structure suspended in a tree at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg). Asoka's red hair, splayed out on the pillow in their eSyrup hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. A spiral staircase is carved into the main trunk, leading in one direction down to the Central Hearth, and in the other, all the way to the top of the tall canopy tree. 
 
-Asoka eyes are open, and they stare emotionlessly at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble. Shadows show hammocks and various belongings in other nearby sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. Asoka hears a muffled voice call through their eSyrup bubble. 
+Asoka eyes are open, and they stare emotionlessly at the fractal patterns of tree branches above their hammock, dappled light softened by the filtration of their sleeping bubble. 
+
+Asoka: *"...Pippa..."*
+
+A brief flash of memory: Pippa and Manut, running down the mountainside.
+
+Asoka's eyes fill with tears. Shadows show hammocks and various belongings in other nearby sleeping bubbles, but at the moment, all of the other sleeping bubbles are empty of people. Asoka hears a muffled voice call through their eSyrup bubble. 
 
 Min: **"Asoka?"**
 
