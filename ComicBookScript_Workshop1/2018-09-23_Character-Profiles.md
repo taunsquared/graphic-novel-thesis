@@ -235,7 +235,7 @@ Cuttlefish Cloth makes several improvements to "normal" Biononymous cloth. In ad
 
 ### Where is this character from?
 
-Asoka was born in a Green Haven somewhere in the former United States of America. The Biononymous have continued to live in strict adherence to their religious principles: always wearing their full religious outfits and using synthesized, unidentifiable voices in public, in order to maintain their anonymity; cultivating cotton, hemp, and flax to transform into eSyrup textiles; and training every member of their cult in the ways of capoeira. By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe, growing food for themselves and nearby Underground Cities on farms/monastaries/wildlife sanctuaries called Green Havens. The Biononymous had also established a form of benevolent governance and trade with the Underground Cities, nurturing culture and growth where the World Government expected to find only chaos and barbarians. The Biononymous have also now perfected eSyrup mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. Asoka is part of the first generation of the Biononymous who have been given a mechapet at birth, a companion who will grow and develop with the human child. 
+Asoka was born in a Green Haven somewhere in the former United States of America. The Biononymous have continued to live in strict adherence to their religious principles: always wearing their full religious outfits and using synthesized, unidentifiable voices in public, in order to maintain their anonymity; cultivating cotton, hemp, and flax to transform into eSyrup textiles; and training every member of their cult in the ways of self-defense and anti-surveillance. By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe, growing food for themselves and nearby Underground Cities on farms/monastaries/wildlife sanctuaries called Green Havens. The Biononymous had also established a form of benevolent governance and trade with the Underground Cities, nurturing culture and growth where the World Government expected to find only chaos and barbarians. Asoka's Green Haven has also now perfected eSyrup mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. Asoka is part of the first generation of the Biononymous who have been given a mechapet at birth, a companion who will grow and develop with the human child. 
 
 The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. The World Government was desperate to find ways of feeding the Orbiter population, which was suddenly increased by about 60,000 during the Global Water Crisis. The World Government aggressively negotiated with the Biononymous, demanding a tithe of 30% of the Green Havens' yearly harvest, which would supplement the yield of the 3 orbiting space farms, in exchange for the World Government acknowledging the Biononymous as a legitimate political entity and allowing the Biononymous to continue practicing the tenents of their religion without interference. The Biononymous are wary of the World Government and their true motives, but as it was hard to argue with the need to feed people and a promise of non-interference, so the Biononymous agreed. However, the Biononymous become even more subtle and clever, now that they know that the World Government wants the Green Havens for themselves. A secret group of Biononymous begin working on new eSyrup textiles with greater camouflage and anti-surveillance properties.  
 
@@ -247,7 +247,7 @@ At first, Asoka felt that establishing an alliance between the Biononymous and t
 
 Min has decided that Asoka is cool enough to be her friend, so Min expresses her disappointment with the Elders' decision. Min shares with Asoka her desire to join the International Space Exploration Corps and become a space explorer. Stirred by Min's passion and ferocious energy, Asoka presents themselves to the Elders, and answers all of their questions about the Biononymous and Biononymous tech. Based on the new knowledge they gain from Asoka, the Automata are able to vastly improve their eSyrup bubbles, the flexible eSyrup-textile-based structures they use for shelter, which look very akin to big top circus tents. 
 
-Over the next year, while living with the Automata, Asoka slowly recovers from the trauma and realises a new desire: to honour the deaths of their parents and their entire Green Haven, by figuring out a way to defeat the Death Dogs, to deny the World Government the power they so hungrily seek, and to free the Biononymous from oppression. Even though Asoka's parents kept Asoka out of the loop when it came to their research (in order to protect Asoka), Asoka still picked up their distrust of the World Government and their fear that the Biononymous' desire to live private lives, without hyper-documentation by a central authority, may soon be crushed. Reinforced by the insights of Eireena, Asoka realises that although the Biononymous are not trackable or surveillable as individuals, the whole cult is now trapped on the Green Havens, and the Biononymous may lose the leverage they've enjoyed as a religious organization to be free from government oversight. 
+Over the next year, while living with the Automata, Asoka slowly recovers from the trauma and realises a new desire: to honour the deaths of their parents and their entire Green Haven, by figuring out a way to defeat the Beasts, to deny the World Government the power they so hungrily seek, and to free the Biononymous from oppression. Even though Asoka's parents kept Asoka out of the loop when it came to their research (in order to protect Asoka), Asoka still picked up their distrust of the World Government and their fear that the Biononymous' desire to live private lives, without hyper-documentation by a central authority, may soon be crushed. Reinforced by the insights of Eireena, Asoka realises that although the Biononymous are not trackable or surveillable as individuals, the whole cult is now trapped on the Green Havens, and the Biononymous may lose the leverage they've enjoyed as a religious organization to be free from government oversight. 
 
 When Min declares her intenions to join the ISE Corps via the Space Asylum Program, Asoka decides to also apply to join the ISE Corps, and thus gain better access to the World Government. Asoka wants privacy and private spaces, and safe spaces that by definition must exclude, to have a place in the future of humanity. The World Government threatens that, and Asoka wants to discover if another form of governance is possible for a humanity now spread so far apart from each other, from deep caves to distant orbit. 
 
@@ -292,7 +292,7 @@ Birthday: November 9, 2088
 * Mexican-American
 * Average height, powerful athletic build, wide hips, large thighs, broad shoulders, and large bust
 * face: round, prominent cheekbones, thick lips
-* hair: very dark brown, very wavy, long (when down goes a little past her armpits), tends to wear it in a loose side braids
+* hair: very dark brown, very wavy, long (when down goes a little past her armpits), tends to wear it in a loose side braids when at home
 * eyes: large, chocolate brown
 * skin: colour of dark cappuccino
 * dressed in Biononymous clothing appropriate for a Guardian, with Green Haven Clarksville motifs
@@ -301,13 +301,13 @@ Birthday: November 9, 2088
 
 ## Minka Oosou
 
-Earther, member of the Automata Clan (South America). To apply to the ISE Corps, disguises herself as a member of an Underground Earther. Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
+Earther, member of the Automata Clan (South America). Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
 
 Birthday: February 18, 2100
 
 Pronouns: She/her/hers
 
-Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into closely cropped mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
+Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into a mohawk. Dark brown, almost black, almond-shaped eyes; round moon-shaped face; small button nose. Dark brown skin with mild sun scarring. Petite, a bit shorter than average for an Automota Earther.  Wiry yet physically powerful from a lifetime of capoeira and tree climbing.  
 
 ### Visual checklist for character designs
 
@@ -320,7 +320,7 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into clo
   * stud in the left nostril 
   * ears: left ear has a thick lobe piercing in a shape that imitates a Space Barge; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
 * tattoos made of eSyrup ink, meaning they can shape-shift
-  * back: star field, as visible from Amazon rainforest
+  * back: star field, as visible from the Amazon rainforest (matches Amadou's back tatoo)
   * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
   * legs: dendritic line art that encodes Min's lineage and Automata history
 
