@@ -1858,7 +1858,7 @@ Min: **"Deal! Until we meet again, in orbit!"**
 
 # Map of locations important to the Story
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E" width="640" height="480"></iframe>
+https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E
 
 # notes
 
