@@ -1,0 +1,3 @@
+# Feedback on Title Page
+
+Out of the thumbnails you've made so far, I like the bottom left one the most. Have you had a chance to check out the text for the title page? I'm now envisioning each title page to be an "entry" in the World Government Universal Record, so it's like a futuristic datasheet on different topics. The entry for your chapter is a "Planetside Environmental Report" on The Red Zone. 
