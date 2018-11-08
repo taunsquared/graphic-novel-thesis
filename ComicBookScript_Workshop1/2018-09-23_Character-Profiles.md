@@ -323,6 +323,23 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into a m
   * back: star field, as visible from the Amazon rainforest, on her birthday (see this [star map](https://www.skymaponline.net/view.aspx?r=600&x=600&y=600&lat=-3.7436735&long=-73.2516326&time=21000218224800&rotation=90&w=1038&h=800&gmtoffset=0&loc=Iquitos,%20Peru&id=97c5bc55))
   * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
   * legs: dendritic line art that encodes Min's lineage and Automata history
+  
+#### A note on Automata clothing
+
+The Automata all wear simple trousers cinched at the knee or ankle. Longer trousers tend to have large slits along the legs for ventilation. 
+
+Examples to use as inspiration (but none of these examples are really practical enough for life in trees):  
+* https://i.pinimg.com/736x/f5/e0/19/f5e019e5da710e0db52a1c2bf63274ad.jpg
+* https://erpimgs.idealhere.com/ImageFormal/2a/74/d5/2a74d5b1-9ddd-444a-b594-ec7c38f0cda6/heads/600x600/851b6ef8-8ec0-4acc-a87d-0a4a4f994ded.jpg
+* https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fi1134.photobucket.com%2Falbums%2Fm620%2Fstarmart1118%2Fside%2520lace%2520pants%2F201015204248144.jpg&f=1
+
+Any Automata with breasts large enough to require support wear a top that securely wraps around their chest and over their shoulders. Often this is limited to recent mothers or older women. The closest real thing to what I'm imagining is the sarashi japanese chest bandages, but amongst the Automata they also have versions of the binding technique that work for larger breasts by going over the shoulders. 
+
+Examples to use as inspiration: 
+* https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5617d08ee4b0ba8234c26d2d%2Ft%2F56222ccbe4b08ff533e60e19%2F1445080271166%2Fcoban-breast&f=1
+* https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZWDTLA0y-G_JvacDva6ZCwHaFX%26pid%3D15.1&f=1
+* https://i.pinimg.com/236x/b7/07/ff/b707ff55fe6b90ea6dade4bf26bd6558.jpg
+* https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftandemtrouble.files.wordpress.com%2F2016%2F01%2Fdsc_8125.jpg%3Fw%3D474%26h%3D315&f=1
 
 ### Where is this character from?
 
