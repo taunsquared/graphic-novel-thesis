@@ -1,6 +1,6 @@
 # Feedback on Storyboards
 
-Page 1 - ooooooo yeeeessss!!!
+Page 1 - By the way, I've updated the information about Min's back tatoo on the Character Profiles doc, please take a look!
 
 Page 2 - Haha, dance party! Amadou should look more west african and heavily muscled, others look great!
 
