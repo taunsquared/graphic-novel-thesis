@@ -1,4 +1,4 @@
-Feedback on Story Boards
+# Feedback on Story Boards
 
 Page 1 - Looks great! Can't wait to see this in color :D There were some adjustments to the script, heads up!
 
@@ -20,7 +20,7 @@ Page 9 - Oooooh my goooooood I love Asoka and Iri's matching faces in the upper 
 
 Page 10 - Again, the faces are all so spot on! I'm wondering though, it would be kinda cool if the flashback could cut across the page a bit more, to visualize how abrupt and overwhelming it is? I also love it as is :D
 
-Page 11 - Haha, maybe it's just because things aren't colored yet, but the Navigation Officer looks a bit like they are wearing a nurse's outfit XD I love the monkey-ish posture in the bottom left panel! For the map, take a look at this (https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E) - the Amazon River is actually a bit more horizontal as one travels up river, and South America is shifted a bit more west of North America. 
+Page 11 - Haha, maybe it's just because things aren't colored yet, but the Navigation Officer looks a bit like they are wearing a nurse's outfit XD I love the monkey-ish posture in the bottom left panel! For the map, take a look at [this](https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E) - the Amazon River is actually a bit more horizontal as one travels up river, and South America is shifted a bit more west of North America. 
 
 Page 12 - Daaaaw, da Beasties!! Haha, so actually, can this last panel give off a scarier vibe? Maybe if the camera angle was changed a bit, so that the Beasts look HUGE and take up most of the panel, and we see a tiny, terrified Asoka in the background? I just want something to convey the feeling of shock and terror a bit more...even while simultaneously showing how cute and vulnerable any creature can be when sleeping :D
 

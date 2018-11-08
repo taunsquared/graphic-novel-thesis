@@ -1,4 +1,4 @@
-Feedback on Story Boards
+# Feedback on Story Boards
 
 Page 1 - I love the nightmare flashbacks!! I would even go so far to say that you could let those 4 panels at the top take up the rest of the page, leaving only room for the two little bottom panels - I don't mind the "background" of seeing Asoka running and tripping, but I want the horror of the Beasts to be paramount in this opening page. Also, on this page Asoka should be in full outfit, including face veil, meaning we shouldn't see their face, and we should be able to tell that they are completely covered to protect themselves from the environment. 
 
