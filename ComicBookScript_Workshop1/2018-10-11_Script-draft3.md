@@ -1326,6 +1326,8 @@ We see the people in the inner most circle, just on the outside of the metal hoo
 * Majhee, matriarch leader of their clan, intradermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
 * Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's intradermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
+**"To be reborn, each Journeyhume of the Automata must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw eSyrup*."**
+
 ### Page 3
 
 **"DOOOOHM!"** 
@@ -1339,6 +1341,8 @@ Min is drenched and Maraba has positioned the needle of the syringe full of raw 
 We see raw eSyrup spreading throughout Min's body, moving up her torso, across her arms and legs, over her face, and into her eyelids. Min's has cousin pulled out the syringe and placed it back on the basket. 
 
 ### Page 4
+
+**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
 
 As the intradermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the intradermal shield. 
 
@@ -1354,15 +1358,9 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Protocol for Intradermal eSyrup Integration: Methods and Aims'"**
+**"Finished loading...'On the mysterious appearance of humans in the Red Zone'"**
 
-**"To be reborn, each Journeyhume of the Automata must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw eSyrup*."**
-	
-**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
 
-**"The eSyrup 'infects' these cells, [hijacking the existing cellular machinery to modify the cells' membranes](https://en.wikipedia.org/wiki/Cell_membrane#Composition) and grant the person a 'intradermal shield'."**
-
-**"This intradermal shield allows the Automata to exist above ground, and fulfill the prime directive of their clan -- to restore the Amazon Rainforest."**
 
 ### Page 1
 
