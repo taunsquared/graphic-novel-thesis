@@ -4,7 +4,7 @@ General feedback - can you do a full page for each character, showing them in va
 
 Asoka - don't forget their face veil! And can you incorporate the Biononymous motifs as described in the Character Profiles?
 
-Iri - cuuuuute! can you also show Iri when its camouflaged, or flattened?
+Iri - cuuuuute! can you also show Iri when its camouflaged, or flattened? Also, it would be great to make Iri look like a "cuttlefish-inspired mechapet" and not just "a cuttlefish" :)
 
 Serena - looks good so far! Can you also show Serena in her capacity as bodyguard to the High Priestess?
 
