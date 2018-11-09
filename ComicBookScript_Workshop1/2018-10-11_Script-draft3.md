@@ -1089,7 +1089,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these [jewels of biodiversity](https://www.theguardian.com/environment/gallery/2013/oct/23/new-species-amazon-rainforest-in-pictures) were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
-**"A combination of boiling, humid heat; heavy downpours of acid rain; and toxic levels of CO2, NO2, and CH4 all took their toll on the flora and the fauna. The tropics became a simmering, stinking hell, where, if the sun didn't overpower you, the stench definitely would..."**
+**"Boiling, humid heat; heavy downpours of acid rain; and toxic levels of CO2, NO2, and CH4 all took their toll on the flora and the fauna. The tropics became a simmering, stinking hell, where, if the sun didn't overpower you, the stench definitely would..."**
 
 ### Page 1 
 
