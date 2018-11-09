@@ -60,6 +60,8 @@
 
 **"FREE."**
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Chapter 1: Calm Before the Storm
 
 Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa
@@ -416,6 +418,8 @@ Tahoe: **"*Yeah, but didn't we decide it wasn't possible?*"**
 
 Iúna: **"*It's possible now!*"**
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Chapter 2: Where Thunder Goes When It Dies
 
 Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa, Nicola Cavalcanti
@@ -631,6 +635,8 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 ### Page 12
 
 **"That 'further notice' came 23 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
@@ -874,6 +880,8 @@ Eireena now looks hard at Asoka.
 
 Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous path...there is another option."**
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
@@ -1065,6 +1073,8 @@ We see Asoka's eyes, full of horror and terror.
 Asoka: *"Iri, look..."*
 
 We zoom out to see before Asoka an enormous open space, lined with pipes and floor flooded with bilge water. On several large metal platforms, safely above the water level, is a pack of enormous, sleeping Beasts. 
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Chapter 5: Lilacs Out Of The Dead Land
 
@@ -1301,6 +1311,8 @@ Figure: **"Merda--!!"**
 
 Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Dream 2: Rites of Passage
 
 ### Page 1
@@ -1350,6 +1362,8 @@ As the intradermal shield continues into her mouth, nose, and sinuses, Min begin
 
 After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Chapter 6
 
 Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
@@ -1360,7 +1374,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"Finished loading...'On the mysterious appearance of humans in the Red Zone'"**
 
-
+**"On September 23, 21
 
 ### Page 1
 
@@ -1577,6 +1591,8 @@ The Water Cyclers then all down their glass of water. The gathered Automata star
 Min: **"Certo, *agora* podemos comer."**
 
 *translation: "Ok, **now** we can eat."*
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Chapter 7: Mistakes Are How We Evolve
 
