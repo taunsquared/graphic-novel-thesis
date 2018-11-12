@@ -75,3 +75,13 @@ definitions:
 
 * denervation supersensitivity: sharp increase in the sensitivity of the post-synaptic membrane to a chemical transmitter after nerve injury ("denervation")
 * ischemic lesion: lesion = "injury". so this is an injury to brain tissue caused by  insufficient blood flow to brain, leading to lack of sufficient oxygen and cell death.
+
+## Gasotransmitters
+
+## Trace Amines
+
+## Peptides
+
+## Purines
+
+## Other
