@@ -78,10 +78,39 @@ definitions:
 
 ## Gasotransmitters
 
+These are gas molecules that meet the following criteria, first created in 2002:
+* it is a small molecule of gas
+* freely permeable to membranes (doesn't need to rely on membrane proteins to have an effect on the cell)
+* endogenounly and exogenously generated, and its production is regulated. 
+* has well-defined and specific functions at physiologically relevant concentrations
+* functions of the endogenous gas can be mimicked by its exogenous counterpart
+* this gas should have specific cellular and molecular targets
+
+Examples: nitric oxide, carbon monoxide, hydrogen sulfide
+
 ## Trace Amines
+
+* related to monamines but present in "trace" (very tiny) concentrations
+* Important for regulating the quantity/amount of monamine neurotransmitters are in the synaptic cleft
+* promote the release and prevent re-uptake of monamine neurotranmitterns from synaptic cleft.
+* inhibit the firing of action potentials
+
+Examples: phenethylamine, tryptamine, octopamine
 
 ## Peptides
 
+These are short (approx. less than 50 amino acids) chains of amino acids. Examples: cocaine-and-amphetamine-regulated transcript (CART), Somatostasin.
+
 ## Purines
 
+* heterocyclic aromatic organic compound, consists of a pyrimidine ring fused to an imidazole ring
+* pyrimidine: has nitrogen atoms at positions 1 and 3
+* imidazole: organic compound, formula = C3N2H4
+
+Examples: ATP, adenosine
+
 ## Other
+
+we are still discovering new neurotransmitters! And often they don't fit into any of the categories mentioned above. 
+
+Example: acetylcholine (used at neuromuscular junction, released by motor neurons to activate muscles). 
