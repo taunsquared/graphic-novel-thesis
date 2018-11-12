@@ -48,4 +48,57 @@ Also known as neuroglia or glial cells, these non-neuronal cells of the nervous 
 * insulate neurons from each other
 * destroy germs and remove dead neurons
 
-### Glia of the Central Nervous System
+### Macroglia of the Peripheral Nervous System
+
+#### Schwann cells
+
+* provide myelin sheaths to neurons in the PNS
+* eat germs
+* clear cellular debris to help PNS neurons regrow
+
+#### Satellite cells
+
+* surround neurons in sensory, sympathetic, and parasympathetic ganglia
+* help regulate external chemical environment
+* interconnected by gap junctions
+* respond to ATP by increasing concentration of Ca2+
+* highly sensitive to inflammation and pain
+* contribute to pathological states of diseases such as chronic pain
+
+### Macroglia of the Central Nervous System
+
+#### Oligodendrocytes
+
+* cells that coat axons of neurons in the CNS with their cell membranes to form myelin sheaths
+* a single oligodendrocyte can serve up to 50 axons
+* last cell type to be generated in the CNS
+* discovered in 1921 by Spanish neuroscientist Pio del Rio Hortega
+
+#### Astrocytes (astroglia)
+
+* most abundant macroglia in CNS
+* link neurons to blood supply while helping form blood-brain barrier
+* remove excess K+ from around neurons
+* recycle neurotransmitters released during synaptic transmission
+* signal to each other using ATP
+* 2 main physiological forms:
+  * protoplasmic - short, thick, highly branched processes. Most often found in grey matter.
+  * fibrons - long, thin, less branched processes. Most often found in white matter. 
+  
+#### Ependymal cells (or ependymocytes)
+
+* line the spinal cord and the ventricular system of brain to create the ependyma
+* involved in creation and secretion of cerebro-spinal fluid (CSF)
+* beat their cilia to help circulate CSF
+* may act as "resevoir cells" - can generate new neurons but the ependymal cells become depleted, therefore not technically stem cells
+* part of the blood-CSF barrier
+
+### Microglia
+
+* found in all regions of brain and spinal cord
+* much smaller relative to macroglia
+* change shape in order to move around nervous system
+* multiply when brain is damaged
+* constantly sample their environment in order to direct immune system responses to damage or danger in the nervous system
+
+### Other...??!! We are still discovering more glial cells that may or may not fit into the above categories! This is an open area of research and discovery!
