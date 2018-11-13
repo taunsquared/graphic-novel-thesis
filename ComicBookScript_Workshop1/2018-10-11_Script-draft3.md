@@ -1374,7 +1374,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"Finished loading...'On the mysterious appearance of humans in the Red Zone'"**
 
-**"On September 23, 21
+**"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), 
 
 ### Page 1
 
@@ -1606,7 +1606,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-**"47 days ago..."**
+**"67 days ago..."**
 
 It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
