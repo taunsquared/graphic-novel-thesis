@@ -1379,6 +1379,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), the Automatic Anomaly Detection System onboard 2103-003A made note of several unusual developments at GPS coordinates 2°02'59.1"S 59°58'13.9"W. Onboard optical cameras captured images of what look like clusters of residential structures integrated into the upper branches of the recovering rainforest canopy, and multi-spectral analysis confirmed the presence of large warm-blooded residents in significant numbers. Based on these images, the World Government Security Council passed Resolution 420, authorizing information-gathering military operations in the northeastern quandrant of the Amazon River Basin..."**
 
+
 ### Page 1
 
 We see Min peering after the rampaging military tanks, standing confidently at the tippy top of a tall emergent tree, giving her a bird's eye view across the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
