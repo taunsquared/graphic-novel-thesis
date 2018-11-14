@@ -1374,11 +1374,8 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"Finished loading...'On the mysterious appearance of humans in the Red Zone'"**
 
-<<<<<<< HEAD
-**"On September 23, 2115, the 
-=======
 **"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), 
->>>>>>> 6c8939451b65719b457a791fdaf506961b5bdd44
+
 
 ### Page 1
 
