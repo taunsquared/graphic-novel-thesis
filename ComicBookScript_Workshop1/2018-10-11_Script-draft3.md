@@ -15,20 +15,34 @@
   * [Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-1-nostalgia)
 
   * [Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-1-calm-before-the-storm)
+  
+  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-1-neuron-classification-by-structure-and-major-glial-cell-types)
 
   * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-2-where-thunder-goes-when-it-dies)
+  
+  * [Diagram 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-2-action-potential-versus-graded-potential)
 
   * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
+  
+  * [Diagram 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-3-the-chemical-synapse)
 
   * [Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
+  
+  * [Diagram 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-4-major-neurotransmitters)
 
   * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5-lilacs-out-of-the-dead-land)
+  
+  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-5-the-4-bloodbraincsf-barriers)
 
   * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-2-rites-of-passage)
 
   * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-6)
+  
+  * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-6-cuttlefish-hunting-diagram)
 
   * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-7-mistakes-are-how-we-evolve)
+  
+  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-7-museum-as-a-lab)
 
   * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-the-last-comma-not-a-period)
   
