@@ -70,7 +70,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'The Space Consortium Fights World Hunger'; Classification: *Unclassified*."**
+**"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with the Green Havens (areas of the world set aside to preserve Earth's agricultural traditions and provide biodiversity sanctuaries) in order to conduct research into exo-hydroponics (plants useful for space travel) and permaculture in low gravity. The Space Consortium offered to use this research to help fight the global food shortage with food grown in space. Space Consortium pledged half of the carrying capacity of its recently completed space elevator project, called The Space Barges, to guarantee reliable transport of food back and forth between orbiting farms and planetside. Thus, the Space Consortium played a major role in improving the quality of life on Earth before The Burning..."**
 
@@ -428,7 +428,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Beginner's Guide to eSyrup: Introduction'; Classification: *Unclassified*."**
+**"Finished loading...'A Beginner's Guide to eSyrup: Introduction'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers manage to create a yeast mutant that, when cultured with lactic acid bacteria and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. The resulting culture can be vaporized, heat-treated, or "voltage-treated" to induce the atoms within this self-replicating culture to self-assemble into tissue-like sections, which can mimic the behaviour of any component of a classical electronic circuit. However, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
 
@@ -646,7 +646,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Doping'; Classification: *Unclassified*."**
+**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Doping'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"By using a chemical vapour deposition method derived from [metalorganic vapour-phase epitaxy](https://en.wikipedia.org/wiki/Metalorganic_vapour-phase_epitaxy), various inorganic materials, such as metals, ceramics, glass, and plastic can be "doped" with vaporized eSyrup, in order to give them flexible electronic properties. Organic materials, such as textiles (wool, cotton, hemp, flax) and paper, can also be "doped" with eSyrup. The exact nature of this flexibility depends on the state of the eSyrup used in the doping process. Certain vaporization techniques allow for the resulting eSyrup product to continue to be independently reconfigurable almost indefinitely (called "flexible eSyrup" or "flex-eSyrup"), while other vaporization techniques destroy its ability to reconfigure (called "fixed eSyrup")..."**
 
@@ -890,7 +890,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Splicing'; Classification: *Clearance*."**
+**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Splicing'; [Classification: *Clearance*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"Similar to inorganic materials "doped" with eSyrup, organic materials "spliced" with eSyrup can be heat-/voltage-treated to be either "flexible" or "fixed". In general, reconfiguring spliced eSyrup is easier than reconfiguring doped eSyrup. eSyrup was spliced with living cells for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw eSyrup and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing eSyrup with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
 
@@ -1084,7 +1084,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'Planetside Environmental Report: The Red Zone'; Classification: *Compartmented*."**
+**"Finished loading...'Planetside Environmental Report: The Red Zone'; [Classification: *Compartmented*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"The Red Zone was once called 'the tropics', a band of the Earth's surface bounded in the north by the Tropic of Cancer, and at its southern edge by a similarly outdated name, the Tropic of Capricorn. Even in the heart of winter, 'the tropics' had over 10 hours of daylight, something that, at one time, made it irresistable to conquerers, colonists, imperialists, and ex-pats alike."**
 
@@ -1373,12 +1373,11 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'Recent findings related to the possibility of human habitation within the Red Zone'; Classification: Confidential."**
+**"Finished loading...'Recent findings related to the possibility of human habitation within the Red Zone'; [Classification: *Confidential*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"On February 18, 2107, the photographic reconnaissance satellite [KH-22](https://en.wikipedia.org/wiki/KH-11_Kennen), designated [COSPAR ID](https://en.wikipedia.org/wiki/International_Designator) 2103-003A, adjusted its orbit based on readings from the [A-train Earth Climate Observation satellite constellation](https://en.wikipedia.org/wiki/A-train_(satellite_constellation)), which indicated an unusual respite in atmospheric toxicity in the former Amazon Rainforest region. Images captured by 2103-003A in its new orbit confirmed a massive re-growth in Amazonian flora, and indicated the possible resurgence of local fauna."**
 
 **"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), the Automatic Anomaly Detection System onboard 2103-003A made note of several unusual developments at GPS coordinates 2°02'59.1"S 59°58'13.9"W. Onboard optical cameras captured images of what look like clusters of residential structures integrated into the upper branches of the recovering rainforest canopy, and multi-spectral analysis confirmed the presence of large warm-blooded residents in significant numbers. Based on these images, the World Government Security Council passed Resolution 420, authorizing information-gathering military operations in the northeastern quandrant of the Amazon River Basin..."**
-
 
 ### Page 1
 
@@ -1606,7 +1605,11 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 **"Loading Universal Record..."**
 
-**"Finished loading..."**
+**"Finished loading...'On the Resurrection of the Legged Squad Support System'; [Classification: *Top Secret*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
+
+**"The [Legged Squad Support System](https://en.wikipedia.org/wiki/Legged_Squad_Support_System), or LS3, was a military project by the former United States of America during the early 21st century, with the goal of creating legged robots that could function as autonomous packhorses for land-based military operations. Inital work on this concept between 2009 and 2015 resulted in important insights about autonomous robotic technology, but the robots created at the time were deemed too noisy, too challenging to repair in the field, and unsuitable for integration into traditional military operational structures."**
+
+**"On March 16, 2096, Lt. Gen. Janine [Diamandis](https://en.wikipedia.org/wiki/Peter_Diamandis), Surgeon General of the World Government Military, presented to the World Government Security Council a proposal to resurrect the LS3 concept, in order to reduce the health risk to planetside military personnel. Based on the massive improvements to robotics precipitated by the explosive advancements in eSyrup technology immediately before and after the Global Water Crisis, Lt. Gen. Diamandis reported high confidence in currently available methods to create biomemetic robots that could function as part of scouting and re-supplying teams for planetside military operations. Based on the Surgeon General's report, the World Government Security Council passed Resolution 222, authorizing research funding for the creation of eSyrup-based robotic pack animals..."**
 
 ### Page 1
 
