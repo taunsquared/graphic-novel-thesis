@@ -3,7 +3,7 @@ This is where I'll be developing the story script for my graphic novel thesis. T
 
 https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md
 
-## project timeline, last update: Oct 15 2018
+## project timeline, last update: Nov 14 2018
 ### October
 **Oct 18:** workshop with London-based science fiction authors to get feedback on the script  
 **Oct 19:** Chapter assignments finalized, for Chapter Illustrators and Concept Artists  
@@ -12,14 +12,15 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_
 * first draft of story boards and character designs due  
 * final draft of script due  
 
-### November 
-**Nov 2:** 1st proof of concept art due  
+### November  
 **Nov 16:** 
-* first draft (black-and-white) of concept art due  
+* first proof of concept art due   
 * first proof of scientific diagrams due  
 * first draft of inked chapter pages due  
 
-**Nov 19-23:** sometime during this week schedule workshop #2, asking for feedback on the inked pages, concept art drafts, and scientific diagram proofs  
+**Nov 23:** first draft (black-and-white) of concept art due
+
+**Nov 26-30:** sometime during this week schedule workshop #2, asking for feedback on the inked pages, concept art drafts, and scientific diagram proofs  
 **Nov 30:** script frozen  
 
 ### December
