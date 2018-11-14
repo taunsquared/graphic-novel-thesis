@@ -44,11 +44,9 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_
 
 ### March
 **Mar 1:** 
-* Graphic novel frozen  
+* Chapter pages frozen  
 * Scientific diagrams frozen  
-* concept art frozen  
-
-**Mar 15:** Full thesis ready to submit!   
+* Concept art frozen  
 
 ## update, 06 Sept 2018
 Stencila is proving difficult to use for collaborative script writing and sharing, so I'm going back to plain text/markdown for writing the script. 
