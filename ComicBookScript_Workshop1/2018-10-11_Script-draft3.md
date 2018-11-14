@@ -1901,6 +1901,8 @@ Min: **"Your parents and grandparents must have failed many times before they co
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2100-001..."**
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Dream, the last: Comma, not a Period
 
 ### Page 1
@@ -1924,6 +1926,8 @@ Asoka: **"*You watch out! I'll train so hard, in 2 years I'll definitely be able
 Min throws back her head in a full-throated laugh.
 
 Min: **"Deal! Until we meet again, in orbit!"**
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 # Map of locations important to the Story
 
