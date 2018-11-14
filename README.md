@@ -30,13 +30,13 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_
 * uncoloured scientific diagrams due  
 
 ### January
-**Jan 18:** inked pages with typesetting due  
+**Jan 18:** inked chapter pages with typesetting due  
 
 ### February
-**Feb 1:** first draft of coloured and typeset pages due  
+**Feb 1:** first draft of coloured and typeset chapter pages due  
 **Feb 4-8:** workshop #3, asking for feedback on the coloured and typeset pages  
 **Feb 15:** 
-* any final tweaks of coloured and typeset pages due  
+* any final tweaks of coloured and typeset chapter pages due  
 * coloured concept art due  
 * coloured scientific diagrams due  
 
