@@ -418,6 +418,10 @@ Tahoe: **"*Yeah, but didn't we decide it wasn't possible?*"**
 
 Iúna: **"*It's possible now!*"**
 
+## Diagram 1: Neuron Classification by Structure and Major Glial Cell Types
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2095-007..."**
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Chapter 2: Where Thunder Goes When It Dies
@@ -635,6 +639,10 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 ### Page 12
 
 **"That 'further notice' came 23 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
+
+## Diagram 2: Action potential versus Graded potential
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2095-007..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
@@ -880,6 +888,10 @@ Eireena now looks hard at Asoka.
 
 Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous path...there is another option."**
 
+## Diagram 3: The Chemical Synapse
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2097-011..."**
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
@@ -1073,6 +1085,10 @@ We see Asoka's eyes, full of horror and terror.
 Asoka: *"Iri, look..."*
 
 We zoom out to see before Asoka an enormous open space, lined with pipes and floor flooded with bilge water. On several large metal platforms, safely above the water level, is a pack of enormous, sleeping Beasts. 
+
+## Diagram 4: Major Neurotransmitters
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2097-011..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
@@ -1312,6 +1328,10 @@ Figure: **"Merda--!!"**
 
 Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
+## Diagram 5: The 4 Blood/Brain/CSF Barriers
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2098-010..."**
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Dream 2: Rites of Passage
@@ -1377,7 +1397,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"On February 18, 2107, the photographic reconnaissance satellite [KH-22](https://en.wikipedia.org/wiki/KH-11_Kennen), designated [COSPAR ID](https://en.wikipedia.org/wiki/International_Designator) 2103-003A, adjusted its orbit based on readings from the [A-train Earth Climate Observation satellite constellation](https://en.wikipedia.org/wiki/A-train_(satellite_constellation)), which indicated an unusual respite in atmospheric toxicity in the former Amazon Rainforest region. Images captured by 2103-003A in its new orbit confirmed a massive re-growth in Amazonian flora, and indicated the possible resurgence of local fauna."**
 
-**"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), the Automatic Anomaly Detection System onboard 2103-003A made note of several unusual developments at GPS coordinates 2°02'59.1"S 59°58'13.9"W. Onboard optical cameras captured images of what look like clusters of residential structures integrated into the upper branches of the recovering rainforest canopy, and multi-spectral analysis confirmed the presence of large warm-blooded residents in significant numbers. Based on these images, the World Government Security Council passed Resolution 420, authorizing information-gathering military operations in the northeastern quandrant of the Amazon River Basin..."**
+**"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), the Automatic Anomaly Detection System onboard 2103-003A made note of several unusual developments at GPS coordinates 2°02'59.1"S 59°58'13.9"W. Onboard optical cameras captured images of what look like clusters of residential structures integrated into the upper branches of the recovering rainforest canopy, and multi-spectral analysis confirmed the presence of large warm-blooded residents in significant numbers. Based on these images, the World Government [Security Council](https://en.wikipedia.org/wiki/United_Nations_Security_Council_resolution) passed Resolution 420, authorizing information-gathering military operations in the northeastern quandrant of the Amazon River Basin..."**
 
 ### Page 1
 
@@ -1594,6 +1614,10 @@ The Water Cyclers then all down their glass of water. The gathered Automata star
 Min: **"Certo, *agora* podemos comer."**
 
 *translation: "Ok, **now** we can eat."*
+
+## Diagram 6: Cuttlefish Hunting Diagram
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2100-001..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
@@ -1858,6 +1882,10 @@ Asoka: **"*But...what if you fail?*"**
 Min kneels in front of Asoka and looks at them with intense earnestness. 
 
 Min: **"Your parents and grandparents must have failed many times before they could make an eSyrup textile as powerful as yours -- *it even kept you alive in the Red Zone*. Is there really *nothing* you want to do with the freedom they gave you?"**
+
+## Diagram 7: Museum as a Lab
+
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at Iron Mountain Archeological Site 2100-001..."**
 
 ## Dream, the last: Comma, not a Period
 
