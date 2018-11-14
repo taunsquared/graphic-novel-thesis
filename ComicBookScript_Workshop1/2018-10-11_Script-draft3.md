@@ -12,25 +12,25 @@
 
 * [The Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#the-story)
 
-  *[Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-1-nostalgia)
+  * [Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-1-nostalgia)
 
-  *[Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-1-calm-before-the-storm)
+  * [Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-1-calm-before-the-storm)
 
-  *[Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-2-where-thunder-goes-when-it-dies)
+  * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-2-where-thunder-goes-when-it-dies)
 
-  *[Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
+  * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
 
-  *[Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
+  * [Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
 
-  *[Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5-lilacs-out-of-the-dead-land)
+  * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-5-lilacs-out-of-the-dead-land)
 
-  *[Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-2-rites-of-passage)
+  * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-2-rites-of-passage)
 
-  *[Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-6)
+  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-6)
 
-  *[Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-7-mistakes-are-how-we-evolve)
+  * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-7-mistakes-are-how-we-evolve)
 
-  *[Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-the-last-comma-not-a-period)
+  * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-the-last-comma-not-a-period)
   
 * [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#map-of-locations-important-to-the-story)
 
@@ -1374,7 +1374,11 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 **"Finished loading...'On the mysterious appearance of humans in the Red Zone'"**
 
+<<<<<<< HEAD
 **"On September 23, 2115, the 
+=======
+**"On May 28, 2116, at approximately 2:06 pm [solar time](https://en.wikipedia.org/wiki/Solar_time), 
+>>>>>>> 6c8939451b65719b457a791fdaf506961b5bdd44
 
 ### Page 1
 
@@ -1606,7 +1610,7 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 ### Page 1
 
-**"47 days ago..."**
+**"67 days ago..."**
 
 It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
