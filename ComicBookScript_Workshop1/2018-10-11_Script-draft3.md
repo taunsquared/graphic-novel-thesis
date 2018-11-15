@@ -94,15 +94,13 @@ We see beautiful, important people draped in gorgeously fashionable and unspeaka
 
 ### Page 2
 
-We see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, scholarly publications. 
+We see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, and scholarly publications. 
 
 A lot of the news is about the new space arboretum, but a few mention the new research base recently established on Mars. Most of the individual **INFO-SPHERE**s are focused on news about planetside climate disasters: 
-* The Colorado River has dried up completely and the severe drought is causing mass migrations to the east, causing massive overcrowding in major inland ("mid-western US") cities.
-* Last year's total evaporation of the River Niger has led to massive lootings at yet another hydropower station.
-* An extremely aggressive water-borne disease has wiped out several major urban areas in China and India 
+* [The Colorado River has dried up completely](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/) and the severe drought is causing mass migrations to the east, causing massive overcrowding in major inland ("mid-western US") cities.
+* Last year's [total evaporation of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to massive lootings at yet another hydropower station.
+* An extremely aggressive water-borne disease has wiped out several major urban areas in [India](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/) 
 * In the past 10 years, illnesses from sun radiation, such as skin cancer, have had a thousand-fold jump in rate of diagnosis around the world.
-
-*(cite the above news stories)*
 
 ### Page 3
 
