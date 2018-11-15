@@ -101,4 +101,6 @@ Also known as neuroglia or glial cells, these non-neuronal cells of the nervous 
 * multiply when brain is damaged
 * constantly sample their environment in order to direct immune system responses to damage or danger in the nervous system
 
-### Other...??!! We are still discovering more glial cells that may or may not fit into the above categories! This is an open area of research and discovery!
+### Other...??!! 
+
+We are still discovering more glial cells that may or may not fit into the above categories! This is an open area of research and discovery!
