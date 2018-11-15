@@ -8,3 +8,9 @@ The 4 main phases I would like to show are "at rest", "attention", "positioning"
 
 I'll be updating the above linked page with more quantitative characterizations of the TGB moment. 
 
+Also check out the following videos: 
+
+https://youtu.be/1COkRuZ3GqU
+
+
+
