@@ -19,3 +19,7 @@ Page 8 - love the composition here as well! I want us to take a breather from th
 Page 9 - aaah, love the camera angles on this page! Is the child in the bottom left panel Nicola, or Nerio? I want Nicola to be clearly too young to understand the dangers of the situation, which is why she is all cute and giggly, while Nerio is just old enough to understand, but also young enough to trust the adults around him completely and believe that no matter what he will be safe in their care (as opposed to Amana, who is old enough to realise that even adults are humans and can make mistakes). 
 
 Page 10 - I will take a look at the text for this page again, to see if I can shorten it maybe. For the Mato Grosso panel, we see a slightly more dramatic scene, where Majhee and the lab has just climbed a small hill or something, to get a dramatic view of the surrounding area? And it would be nice to see them from the front. Similar thoughts on the bottom panel, can we get a close-up of Iuna in the queue, and we see around her people vomiting and showing other signs of toxic gas poisoning?
+
+Page 11 - WOW, YES!
+
+Page 12 - Haha, nice!! Can everything have the World Government logo on it?
