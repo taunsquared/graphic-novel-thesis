@@ -25,25 +25,28 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_
 
 ### December
 **Dec 7:** inked chapter pages frozen  
-**Dec 14:** uncoloured concept art due  
-**Dec 14:** uncoloured scientific diagrams due  
+**Dec 14:** 
+* uncoloured concept art due  
+* uncoloured scientific diagrams due  
 
 ### January
-**Jan 18:** inked pages with typesetting due  
+**Jan 18:** inked chapter pages with typesetting due  
 
 ### February
-**Feb 1:** first draft of coloured and typeset pages due  
+**Feb 1:** first draft of coloured and typeset chapter pages due  
 **Feb 4-8:** workshop #3, asking for feedback on the coloured and typeset pages  
-**Feb 15:** any final tweaks of coloured and typeset pages due  
-**Feb 15:** coloured concept art due  
-**Feb 15:** coloured scientific diagrams due  
+**Feb 15:** 
+* any final tweaks of coloured and typeset chapter pages due  
+* coloured concept art due  
+* coloured scientific diagrams due  
+
 **Feb 18-22:** exhibition of all graphic novel artwork for final round of feedback, party with project collaborators!  
 
 ### March
-**Mar 1:** Graphic novel frozen  
-**Mar 1:** Scientific diagrams frozen  
-**Mar 1:** concept art frozen  
-**Mar 15:** Full thesis ready to submit!   
+**Mar 1:** 
+* Chapter pages frozen  
+* Scientific diagrams frozen  
+* Concept art frozen  
 
 ## update, 06 Sept 2018
 Stencila is proving difficult to use for collaborative script writing and sharing, so I'm going back to plain text/markdown for writing the script. 
