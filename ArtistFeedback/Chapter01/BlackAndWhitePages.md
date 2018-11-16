@@ -1,5 +1,9 @@
 # Feedback on Black and White pages, Chapter 01
 
+Page 1 - Wow, beautiful!! Behind the astronaut, can we see a ton of Orbiter home pods? I love the queenly woman raising her glass in the middle of the page!!
+
+Page 2 - Wow, the perfect mix of urban grunge and chemical warfare and shiny, magical technology! Can the front of the lab say the full name ("Laboratório Nacional de Biociências e Saúde Pública")?
+
 Page 3 - Love it!
 
 Page 4 - Haha, yes Marcia looks great! And I love the details on Majhee's desk info-sphere :D
