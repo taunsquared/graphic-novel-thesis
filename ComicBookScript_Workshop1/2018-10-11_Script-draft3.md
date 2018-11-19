@@ -156,15 +156,15 @@ Off panel: **"Majhee, você não pode *colher* o *Space Consortium*..."**
 
 *translation: "Majhee, you can't *scoop* the *Space Consortium*..."*
 
-Majhee: **"Pela última vez, Márcia, não é escavar se estou fazendo tudo livremente acessível!"**
+Majhee: **"Pela última vez, Márcia, tudo é livremente acessível!"**
 
-*translation: "For the last time, Marcia, it's not scooping if I'm making everything freely accessible!"*
+*translation: "For the last time, Marcia, it's all freely accessible!"*
 
 We see Marcia Netto, President of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, rubbing her forehead with exasperation.
 
-Marcia: **"Você sabe o que eu quero dizer. Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e quando você publica os trabalho do seu laboratório online sob uma licença Creative Commons, essa aplicação da eSyrup tech torna *não patenteável*!"**
+Marcia: **"Eles estão *determinados* a ganhar dinheiro com os aplicativos da eSyrup, e a licença Creative Commons torna seu trabalho *não patenteável*!"**
 
-*translation: "You know what I mean. They are **determined** to make money off eSyrup applications, and when you post your lab's work online under a Creative Commons license, that application of eSyrup tech becomes **unpatentable**!"*
+*translation: "They are **determined** to make money off eSyrup applications, and the Creative Commons license makes your work **unpatentable**!"*
 
 Majhee: **"Exactamente."**
 
@@ -172,7 +172,7 @@ Majhee: **"Exactamente."**
 
 Marcia: **"Mas você viu o que eles fizeram depois da nossa colaboração para combustível eSyrup!"**
 
-*translation: "But you saw what they did with after our eSyrup fuel collaboration!"*
+*translation: "But you saw what they did after our eSyrup fuel collaboration!"*
 
 ### Page 5
 
