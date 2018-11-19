@@ -226,13 +226,13 @@ Majhee: **"Entou. Seu pai foi diagnosticada otra vez."**
 
 The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an [old Brazilian martial arts family](https://en.wikipedia.org/wiki/Gracie_family) but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
-Vec, to Felix: **"Já contactamos equipe médica de seu pai em Suécia, e demos-lhes acesso ao nosso banco de dados sobre pacientes com câncer de cutânea repetido. Isso melhorará consideravelmente dele chances de recuperação, mas..."**
+Vec, to Felix: **"Já nós demos a equipe médica de seu pai no acesso ao nosso banco de dados sobre pacientes com câncer de cutânea repetido."**
 
-*translation: "We've already contacted your father's medical team in Sweden, and we've given them access to our database."*
+*translation: "We've already given your father's medical team access to our database on repeat skin cancer patients."*
 
-Beatriz, kindly: **"Mas tamben lembramos que seu pai teve um transplante de fígado. Se queres ir casa para estar com sua família, todo mundo vai entender."**
+Beatriz, kindly: **"Mas seu pai teve um transplante de fígado, no? Se queres ir casa..."**
 
-*translation: "But we also remember that your father had a liver transplant last year. If you want to go home to be with your family, everyone will understand."*
+*translation: "But your father had a liver transplant last year, no? If you want to go home..."*
 
 Felix: **"Não há nada que eu possa fazer lá de qualquer maneira..."**
 
@@ -240,15 +240,15 @@ Felix: **"Não há nada que eu possa fazer lá de qualquer maneira..."**
 
 Felix now looks up, straight at Majhee, eyes furious, red, and glistening with held-back tears.
 
-Felix: **"Precisamos terminar projecto biofilme, *antes* Space Consortium patenteiam qualquer outra coisa!"**
+Felix: **"...e nós temos que continuar, antes Space Consortium patenteiam *qualquer* outra coisa!"**
 
-*translation: "We need to finish the biofilm project, **before** Space Consortium patents anything else!"*
+*translation: "...and we have to keep going, before Space Consortium patents **anything** else!"*
 
 Felix covers his face with his hands, furious at the tears that have started to stream down his face.
 
-Beatriz: **"Tenho a *certeza* podemos gerenciar--"**
+Beatriz: **"Tenho a *certeza* poderíamos gerenciar--"**
 
-*translation: "I'm **sure** we can manage--"*
+*translation: "I'm **sure** we could manage--"*
 
 ### Page 7
 
