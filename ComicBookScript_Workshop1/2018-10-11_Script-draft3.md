@@ -184,13 +184,13 @@ Majhee: **"*Você* empurrou essa colaboração, contra minhas inúmeras objeçõ
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger
 
-Marcia: **"Eu sei, eu *sei*, isso foi definitivamente meu erro, e eu sinto *muito*."**
+Marcia: **"Eu sei, eu *sei*, eu sinto *muito*."**
 
-*translation: "I know, I **know**, that was definitely my mistake, and I'm **sorry**."*
+*translation: "I know, I **know**, I'm **sorry**."*
 
-Majhee interrupts: **"E pare de falar como você *realmente* acredita em pesquisas de saúde proprietárias! Como é possível que *alguém* ainda possa ter essas visões *arcaicas*?"**
+Majhee interrupts: **"Somos cientistas, Marcia! Nós devemos priorizar maior conhencimento e acesso para *tudos*...não apenas o insanamente rico!"**
 
-*translation: "And stop talking like you **actually** believe in propriatary health research! How is it possible that **anyone** can still hold such **archaic** views?"*
+*translation: "We're scientists, Marcia! We're supposed to prioritize greater knowledge and access for **everyone**...not just the insanely wealthy!"*
 
 Marcia, defeated: **"*Sigh*. Só...tenha cuidado..."**
 
@@ -202,9 +202,9 @@ Marcia, low and careful: **"...há rumores que Space Consortium estão tentando 
 
 *translation: "...there are rumors that Space Consortium is trying to **weaponize** eSyrup!"*
 
-Majhee, incredulous: **"Eles não ousariam--"**
+Majhee, incredulous: **"Eles o que--?!"**
 
-*translation: "They wouldn't dare--"*
+*translation: "They what--?!"*
 
 Felix, a scientist in Majhee's lab, appears at the doorway, breathless and distraught.
 
