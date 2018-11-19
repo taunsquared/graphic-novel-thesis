@@ -254,15 +254,15 @@ Beatriz: **"Tenho a *certeza* poderíamos gerenciar--"**
 
 Kai, arms folded, looking down at her lap with hard eyes.
 
-Kai: **"Não podemos terminar este projecto a tempo sem o Felix. Nós todos sabemos emenda é mais arte do que o algoritmo, e desde que minhas mãos começando a doer muito, Felix é o nosso *melhor*."**
+Kai: **"Não podemos terminar a tempo sem o Felix. Emenda é mais arte do que o algoritmo, e desde que minhas mãos começando a doer muito, Felix é o nosso *melhor*."**
 
-*translation: "We can't finish this project in time without Felix. We all know splicing's more art than algorithm, and ever since my hands starting hurting too much, Felix is our **best**."*
+*translation: "We can't finish in time without Felix. Splicing's more art than algorithm, and ever since my hands starting hurting too much, Felix is our **best**."*
 
 Kai's brow furrows with frustration. 
 
-Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou sua eSyrup-emendado [halobacterium](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) há alguns dias atras, patenteando assim todas as células solares de eSyrup. Além disso, esta manhã eu tenho *isso*."**
+Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou sua eSyrup-emendado [halobacterium](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) há alguns dias atras. Além disso, esta manhã eu tenho *isso*."**
 
-*translation: "Although...our best may not be enough...Space Consortium announced their eSyrup-spliced [halobacterium](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) a few days ago, thus patenting all eSyrup solar cells. Also, this morning I got **this**."*
+*translation: "Although...our best may not be enough...Space Consortium just announced their eSyrup-spliced [halobacterium](cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) a few days ago. Also, this morning I got **this**."*
 
 Kai passes up a small card to Majhee. Majhee reads from it.
 
@@ -280,9 +280,9 @@ Kai: **"Space Consortium estão nos dizendo para parar de competir com eles. Pro
 
 Everyone takes a moment to imagine what it might be like if Space Consortium went for their throats. 
 
-Iara: **"Meu avô ligou esta manhã...ele foi oferecido 10 billian reais na semana passada para me convencer a relatar o nosso trabalho não publicado."**
+Iara: **"Meu avô ligou esta manhã...ele foi oferecido 10 billian reais na semana passada para nosso trabalho não publicado."**
 
-*translation: "My grandfather called this morning...he was offered 10 billian reais last week to convince me to report our unpublished work."*
+*translation: "My grandfather called this morning...he was offered 10 billian reais last week for our unpublished work."*
 
 Felix: **"Que??"**
 
@@ -296,21 +296,21 @@ Nova, aghast: **"10.000.000.000 reais... isso é mais do que a *investidura do I
 
 *translation: "10 billion reais...that's more than the **institute's endowment**..."*
 
-Breno: **"Vale a pena. Uma emenda estável com uma colônia bacteriana é o primeiro passo para as emendas vivas de eSyrup...qualquer um que faz isso poderia ganhar um monopólio de todas as aplicações clínicas e médicas da eSyrup."**
+Breno: **"Vale a pena. Uma emenda estável com bacteriana é o primeiro passo para as emendas vivas de eSyrup...que monopólio que seria..."**
 
-*translation: "It's worth it. A stable splice with a bacterial colony is the first step towards living eSyrup splices...anyone that does that could have a monopoly on all clinical and medical applications of eSyrup."*
-
-### Page 8
+*translation: "It's worth it. A stable splice with bacteria is the first step towards living eSyrup splices...what a monopoly that'd be..."*
 
 We see Breno's moody, cynical eyes. 
 
-Breno: **"Mas tenho certeza que 10.000.000.000 não é nada para um bebê de fundo de confiança como você, Iara..."**
+Breno: **"Mas tenho certeza que é nada para um bebê de fundo de confiança como você, Iara..."**
 
-*translation: "But I'm sure 10 billion is nothing to a trust-fund baby like you, Iara..."*
+*translation: "But I'm sure that's nothing to a trust-fund baby like you, Iara..."*
 
-Felix: **"Vamos, Breno! Você sabe que *nenhum* de nós venderia para Space Consortium."**
+Felix: **"Vamos, Breno! *Nenhum* de nós venderia para Space Consortium."**
 
-*translation: "Come on Breno! You know *none* of us would sell-out to Space Consortium!"**
+*translation: "Come on Breno! *None* of us would sell-out to Space Consortium!"**
+
+### Page 8
 
 Breno, smiles ruefully, eyes pitying: **"Oh sim? Esse dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia. O que te faz pensar que eu não desisti de uma tentação como essa?"**
 
