@@ -920,31 +920,19 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV has just cut the cable. We see Iri's shimmering outline against the submarine bottom. 
 
-Iri, off-panel: *"It's done!"*
-
-Asoka, off-panel: *"Finally! How is a [cable collecting engine](http://www.simec-technologies.com/upload/galerie/fiche-mac-2016-97297.pdf) louder than the whole [engine room of a submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine#Electric_drive)?"*
-
-Iri, off-panel: *"Too bad the cuttlefish cloth doesn't let you swim out here with me..."*
-
 ### Page 2
 
 We see the inside of the submarine's [bilge](https://en.wikipedia.org/wiki/Bilge), the lowest compartment of the submarine, knee-high with liquid drain-off from all parts of the submersible. On an oily pipe, we see two bootprints, and a ghostly hand print on the wall next to it. Thanks to the dirty water, we see an outline of the fully camouflaged Asoka, crouching on top of the pipe and trying to make as little contact with the water below as possible. 
 
-Asoka: *"Don't rub it in..."*
+We catch a glimpse of Asoka's teary, miserable eyes. 
 
 We see Iri riding the ROV back into the submarine via an escape portal being used to let the robot in and out of the sub. 
 
-Iri: *"Where are you now?"*
-
-Asoka, off-panel: *"No idea, I was just trying to get away from the awful noise..."*
-
 Iri, shimmering with invisibility, carefully sneaks out of the escape portal into the engine room. Suddenly, Iri sniffs -- a familiar and pleasant odor lies thick and heavy in the air.  
-
-Iri: *"Asoka, it's time!"*
 
 We see the tightly packed engine room of a nuclear submarine. A Peacekeeper wearing the insignia of [Culinary specialist](https://en.wikipedia.org/wiki/Culinary_specialist_(United_States_Navy)) ducks into the door while yelling out behind them. 
 
-Culinary specialist: **"Let me just pull the throttle spuds out of the heat!"**
+Culinary specialist: **"Let me just pull them out of the heat!"**
 
 We see an unattended pile of potatoes, individually wrapped in aluminum foil, sitting on top of a metal-plated surface in the engine room. 
 
@@ -952,15 +940,17 @@ Next panel, we see 2 fewer potatoes.
 
 ### Page 3
 
-We're back in the bilge, where Asoka is glumly crouched with their head cradled in their hand, scrolling through various environmental readings on their face veil. They're looking at a visualization of airflow around them when they hear a "ZIIIIP!" noise above their heads.
+For one surreal moment (panel), we're back on a hillside near Asoka's Home Haven. A gleeful Pippa runs with their arms outstretched, imitating a flying beast as Pippa's mechapet Manut flies overhead. Iri blissfully wallows in a huge pile of fallen leaves. The colours are an autumn riot. This daydream/flashback should take up the largest panel on the page. 
+
+Suddenly Asoka hears a "ZIIIIP!" noise above their heads.
 
 A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
 Iri: *"Hooray for throttle spuds!"*
 
-Asoka: *"I'm never going to eat another potato again."*
+Asoka: *"I'll never eat another potato again."*
 
-Iri: *"Can't be much longer. I'm gonna check the control deck now!"*
+Iri: *"I'm sure we're almost there!"*
 
 Iri disappears, and Asoka pushes the cutout of metal back into the ceiling. They take out what look like fabric tape from their utility belt and seal the cutout. After a moment, the fabric tape seemingly melts into the surrounding metal, and it was as if there had never been a hole in the ceiling. 
 
@@ -976,15 +966,15 @@ We are back at Green Haven Clarksville, the morning after Asoka arrived and begg
 
 Eireena: **"Apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission..."** 
 
-Serena: **"Last night, I overheard some Peacekeepers talking -- the Orbiters are all going nuts right now over some satellite footage that shows what looks like nearly naked humans *re-growing the Amazon rainforest*. If an entire nuclear submarine wasn't on its way to exploit the shit out of these people, I'd call those images a hilarious joke. *No one* can live in the Red Zone without *intense* protective gear, there's too much heat and poison in the air..."**
+Serena: **"The Orbiters are all going nuts right now over some satellite footage...they think they've found humans *re-growing the Amazon rainforest*. If an entire nuclear submarine wasn't on its way over there, I'd say it's a joke...*no one* can live in the Red Zone..."**
 
 Serena rolls her eyes with huge disappointment and disbelief. 
 
-Serena: **"Also, I can't believe how privileged and entitled some of these Peacekeepers must be -- they were talking about *'magical tree people'*, and going on about how to *'civilize'* an *'un-contacted tribe'*. Idiots. If these people managed to make it back to the surface and adapt to the Red Zone, they are much more likely to be *highly advanced*, maybe even more than the Orbiters."**
+Serena: **"Also, I can't believe some of these Peacekeepers -- they were talking about *'magical tree people'*, and going on about how to *'civilize'* an *'un-contacted tribe'*. Idiots. If these people made it back to the surface, in the *Red Zone*, they are much more likely to be *highly advanced*."**
 
 ### Page 5
 
-Eireena: **"This morning, we convened an emergency High Council, linking together every Biononymous Green Haven in the Northern Hemisphere. There are...*conflicting*...opinions, as to whether we should try to make contact with these people before the World Government does. In the end, we decided to leave the choice up to *you*."**
+Eireena: **"This morning, we convened an emergency High Council of all the North America and Europe Havens, to discuss whether we should try to make contact before the Peacekeepers do. There are...*conflicting*...opinions...in the end, we decided to leave the choice up to *you*."**
 
 Asoka and Iri realise that everyone is looking at them. They exchange a glance. 
 
@@ -1006,11 +996,11 @@ Next, the mural moves on to when the Biononymous, led by Mother Bird, the First 
 
 The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"I always found the title 'World Government' a bit...childish. To me, they're still the Space Consortium, who abandoned their body mod users and hid up in orbit for nearly *23 years*. So many people died because they couldn't get crucial components of their body mods repaired or replaced, especially when we first went underground."**
+Eireena: **"'World Government'...ha! To me they're still Space Consortium, cowards who hid up in orbit for nearly *23 years*. So many people died because they couldn't get their body mods repaired or replaced, especially when we first went underground."**
 
-Serena: **"I didn't like it when they came back and begged us for 30% of our yearly harvest, but folks gotta eat and I won't let anyone who begs me for food go away empty-handed. But now that the Green Havens are swarming with Peacekeepers, I'm regretting ever helping them."**
+Serena: **"And when they came crawling back to us, begging for help, and we share everything, how do they repay us? By demanding even more of our yearly harvest!"**
 
-Eireena: **"And they *definitely* have something to do with the Beasts! The timing is just too convenient...besides, how did the Beasts survive the Burning?"**
+Eireena: **"I wouldn't be surprised if the Beasts are also their doing...besides us, there [hasn't been a creature bigger than a fox on the surface ever since the Burning](https://www.forbes.com/sites/shaenamontanari/2015/08/10/extreme-climate-warming-episode-lead-to-smaller-mammals-but-how/#70fc49157c4f)..."**
 
 ### Page 7
 
@@ -1030,9 +1020,9 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Serena: **"Many years ago, two members of your Green Haven Council visited us, with this wooden dresser and a beautiful child's outfit made of the finest eSyrup cloth we'd ever seen. They asked us to safeguard this outfit, and never show it to anyone, unless a child with a mechapet should ever have to beg us for sanctuary."**
+Serena: **"Many years ago, your Green Haven Council visited us with this wooden dresser and a beautiful child's outfit made of the finest eSyrup cloth we'd ever seen. They asked us to safeguard the outfit, and never show it to anyone, until a child with a mechapet begs us for sanctuary."**
 
-Eireena: **"The fabric is called *'cuttlefish cloth'*. It's a new kind of eSyrup textile that can be 'voltage-treated' by the electrical activity of your nervous system. It can help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
+Eireena: **"It's called *'cuttlefish cloth'* - it can be 'voltage-treated' by the electrical activity of your nervous system. It'll help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
 Serena's eyes twinkle. 
 
@@ -1042,45 +1032,43 @@ Asoka: **"Wait, what??"**
 
 ### Page 9
 
-Serena's eyes never waver, face inscrutable. 
+Serena's eyes never waver, face inscrutable. We see an image of an enormous network of neurons clinging to a decidedly less sexy set of intestines.
 
-Serena: **"Everything that passes through your gut is processed by your enteric nervous system, a network of *500 million* neurons - that's *5 times* as many as the neurons in your *spine*. You'd do well to respect what you eat, cuz now that's also powering your protective bubble against the world."**
+Serena: **"Everything that passes through your gut is processed by your [enteric nervous system](https://en.wikipedia.org/wiki/Enteric_nervous_system), a network of *500 million* neurons - that's *5 times* as many as the neurons in your *spine*. You better respect what you eat, cuz now your guts also power your protective bubble against the world."**
 
 Serena grins now. 
 
-Serena: **"Besides, the first outfit was for a little one just barely able to walk -- it needed to be a diaper too! It's basically a body-diaper! It uses your waste and gives you protection, a poop-powered safety bubble..."**
+Serena: **"Besides, the first outfit was for a little one just barely able to walk -- it needed to be a diaper too! It's basically a poop-powered safety bubble..."**
 
 Asoka looks horrified. Eireena hides her smile. 
 
-Eireena: **"*Anyways*, every year since then, different members of your Council have visited us. Each time they bring a new outfit, a little bit larger than the last, take back the old one."**
+Eireena: **"*Anyways*, every year since then, your Council visits us, and each time they bring a new outfit, and take back the old one."**
 
 ### Page 10
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Are the...Beasts...and the Peacekeepers...why this outfit is a secret?"**
+Asoka: **"Did...the Beasts...attack my haven because of *this*?"**
 
 Asoka looks pained, eyes closed with guilt -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
-Eireena: **"This cuttlefish cloth isn't a gift to take lightly. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of delivering an offer of alliance to these people in the Amazon."**
+Eireena: **"It's a heavy gift to bear. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of finding these people in the Amazon."**
 
 *--end flashback--*
 
-The flashback is interrupted by Iri, who mind-yells at Asoka from off-panel.
-
-Iri: *"Soka--!"*
+The flashback is interrupted by a loud **"CLANK"** from off-panel.
 
 ### Page 11
 
-We're back in the bilge, where Asoka is chewing on the last mouthful of the second potato. Two crumpled balls of aluminum foil sit in their lap. 
+We're back in the bilge, where Asoka, who had been crying with pain and anger as their clenched fists crumple the last mouthful of the second potato, looks towards the source of the very loud clank with curiosity.
 
-Asoka: *"Sorry, what?"*
+Asoka: *"Iri, was that you?"*
 
-We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the [Navigation Officer](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) consult numerous hardcopy charts and plots, which to an untrained eye, look like nothing more than large pages covered a mess of lines and numbers. 
+We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the [Navigation Officer](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) consult numerous hardcopy charts and plots, which to an untrained eye, look like nothing more than large pages covered a mess of lines and numbers. They hunch over the charts and plots in a most conspiratorial manner. 
 
-Iri: *"They're figuring out where to dock!"*
+Iri: *"Hmm? I was just about to show you where we are now!"*
 
-Asoka pulls the fabric of their face veil back across their face and pockets the crumpled balls of aluminum foil. They then start to move across various pipes, staying out of the dirty water below. 
+Asoka pulls the fabric of their face veil back across their face and pockets the crumpled balls of aluminum foil that once encased the throttle spuds. They then start to move across various pipes, staying out of the dirty water below, moving towards the sound of the loud clank. 
 
 On Asoka's face veil, overlaid on top of Iri's view of the command deck, is the map that Asoka and Iri have been piecing together by stalking the navigation team throughout the trip. It shows the Americas, and a glowing blue line approximates the submarine's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line swings far out east into the ocean, to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands. Then the blue line hugs the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the blue line becomes a tiny submarine made of light. That was their current location. 
 
