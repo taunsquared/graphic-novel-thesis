@@ -90,23 +90,27 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 ### Page 1
 
-**"2066: São Paulo, Brazil"**
+**"2066: Mae Jemison Memorial Arboretum"**
 
 **"It was a day of hope and wonder."** 
 
-**"The Space Consortium had just announced the completion of their third space farm, the Mae Jemison Memorial Arboretum. The news feeds were drowning in photos of the glamorous ribbon-cutting event..."**
+**"The Space Consortium had just completed their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
 
 We see beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, eSyrup fabric programmed to fluidly change colours in response to the lights, the music, and their wearers' moods.
 
-**"...of delicate, mouth-watering hors d'oeuvres made from the succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
+**"...of the Orbiter home pods that synchronised their velocities with the new arboretum..."**
 
-**"...of the fleet of orbiting home pods that synchronised their velocities with the new arboretum in order to snag front row seats to this historic moment..."**
+In the viewing port of the Arboretum, we see a huge mass of gathered Orbiter home pods, floating in synchronised orbit next to the Arboretum.
+
+**"...of delicate, mouth-watering hors d'oeuvres made from succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
 
 **"...for the world was becoming too dirty, too extreme in its weather, to support industrial planetside farming..."**
 
 **"...and many people, on this historic day, were starving..."**
 
 ### Page 2
+
+**"São Paulo, Brazil"**
 
 We see Majhee walking briskly through the crowded streets of São Paulo. Everyone is wearing what looks like light-weight full-body hazmat suits, flickering a bit as the eSyrup in the material absorbs dangerous radiation in the air. All hoods are up, breathing masks and googles are on. The air is hazy with smog, the sky a smeared grey-blue, and the mid-morning sun pale. As Majhee passes shops and cafes, the daily news appears in hologram-like projections that occupy the ceilings or hover at standing-head-height. Other humans have tiny projections coming from subdermally implanted chips in their wrists, palms, ears, or foreheads; these projections surround their wrists, palms, ears, or face with a sphere of light, either sonifying or visualising entertainment, memories, mental models, dreams, news, and scholarly publications. 
 
@@ -116,17 +120,15 @@ A lot of the news is about the new space arboretum, but a few mention the new re
 * An extremely aggressive water-borne disease has wiped out several major urban areas in [India](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/) 
 * In the past 10 years, illnesses from sun radiation, such as skin cancer, have had a [hundred-fold jump in rate of diagnosis](http://www.who.int/uv/faq/skincancer/en/index1.html) around the world.
 
-### Page 3
-
 We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
 
 *translation: National Laboratory for Biosciences and Public Health*
 
-The front of the research facility is teeming with protesters, who hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
+The front of the research facility is teeming with protesters. Majhee sneaks into an alleyway to enter the research facility via a back door. 
 
-*translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
+### Page 3
 
-Majhee sneaks into an alleyway to enter the research facility via a back door. We see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
+Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
 Receptionist: **"Dr. Suh! Quão ruim é isso lá fora?"**
 
@@ -326,7 +328,9 @@ Majhee: **"Trabalho neste projeto, nesta cidade, agora...é verdade, é *muito* 
 
 *translation: "Working on this project, in this city, right now...it's true, it's **very** risky. If you need to leave, I will get you and your family get out of this city and off Space Consortium's radar."*
 
-We see now the protesters outside, their desperate, hungry faces. 
+We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
+
+*translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
 
 Majhee: **"Mas se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
 
