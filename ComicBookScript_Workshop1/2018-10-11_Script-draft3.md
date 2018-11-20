@@ -356,15 +356,19 @@ Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
 ### Page 10
 
-Iúna: **"Thank you for bringing the new splicing and voltage-treatment protocols from São Paulo."**
+Iúna: **"Thank you for bringing the new protocols from São Paulo."**
 
-Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get an **INFO-SPHERE** mod..."**
+Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
 
-Iúna: **"Dr. Kauffmann, I'm sure your colleagues can tell you how adamantly opposed I am to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
+Iúna gives the delegation from the World Health Organization a kind smile. 
 
-Dr. Kauffmann: **"Well, we were in Boston for an emergency conference, so it wasn't too much trouble. Besides, no one can beat your [MERV ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value). I've got your organzas in every window of my house."**
+Iúna: **"Dr. Kauffmann, I must admit I'm adamantly opposed to body modifications and eSyrup implants. I'm extremely grateful that you've taken the time to travel all the way from DC today."**
+
+Dr. Kauffmann: **"We were in Boston for an emergency conference, so it wasn't far. Besides, no one can beat your [MERV ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)...got your organzas in every window of my house."**
 
 Iúna: **"Just doing what we can. What's the emergency conference about?"**
+
+### Page 11
 
 Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
 
@@ -373,8 +377,6 @@ Iúna: **"Really? From where?"**
 Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
 
 Dr. Kauffmann: **"Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
-
-### Page 11
 
 Iúna: **"What?? How many dead??"**
 
