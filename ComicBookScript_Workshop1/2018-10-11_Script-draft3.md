@@ -368,15 +368,15 @@ Dr. Kauffmann: **"We were in Boston for an emergency conference, so it wasn't fa
 
 Iúna: **"Just doing what we can. What's the emergency conference about?"**
 
+Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. 
+
 ### Page 11
 
 Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
 
-Iúna: **"Really? From where?"**
+Iúna: **"Really? From where?"** 
 
-Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new splicing and voltage-treatment protocols visualized with light, a floating sphere controlled by a thick piece of eSyrup canvas, stretched on a semi-circular frame that, when Iúna stands inside of it, places the canvas at about hip height, easy to reach while standing. Either one large image or many very close-up views. 
-
-Dr. Kauffmann: **"Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona by high winds. Everything out there is bone dry ever since the Colorado River disappeared."**
+Dr. Kauffmann: **"Didn't you hear? A police raid in L.A. this morning started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona..."**
 
 Iúna: **"What?? How many dead??"**
 
@@ -384,7 +384,7 @@ Dr. Kauffmann: **"Unfortunately we haven't had a chance to count yet. Thousands 
 
 Iúna: **"How does a *police raid* start a *state-wide fire*??"**
 
-Dr. Kauffmann: **"It's all that plastic furniture - they're basically *solid* petroleum, turns a misplaced candle into a fireball in *minutes*. And LA to San Francisco is so packed with cheap cookie-cutter homes, in retrospect, I'm amazed this didn't happen sooner...I'm sorry, I should have realised you wouldn't have heard yet...do you know anyone over there?"**
+Dr. Kauffmann: **"It's all that plastic furniture, they're basically *solid* petroleum...I'm sorry, I should have realised you hadn't heard yet...do you know anyone over there?"**
 
 Iúna: **"Yes, I...I'm sorry I need to make a call..."**
 
