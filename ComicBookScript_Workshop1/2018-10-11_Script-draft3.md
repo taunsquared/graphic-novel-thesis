@@ -1361,7 +1361,7 @@ We see the people in the inner most circle, just on the outside of the metal hoo
 * Majhee, matriarch leader of their clan, intradermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
 * Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's intradermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw eSyrup, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
-**"To be reborn, each Journeyhume of the Automata must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw eSyrup*."**
+**"To be reborn, each Journeyhume must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw eSyrup*."**
 
 ### Page 3
 
@@ -1377,7 +1377,7 @@ We see raw eSyrup spreading throughout Min's body, moving up her torso, across h
 
 ### Page 4
 
-**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells that were part of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outer layer of the human embryo. Every Automata, being born in the Red Zone, has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
+**"The raw eSyrup is engineered to look for radioactive proteins that mark the cells of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outermost layer the human embryo. Every Automata born in the Red Zone has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
 
 As the intradermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the intradermal shield. 
 
@@ -1419,11 +1419,11 @@ Min: *"We were right!"*
 
 Nicola: *"Does this mean you'll come home now?"*
 
-Min: *"Not until I get an **apology**!"*
+Min: *"Not until I get an **apology**! Why am I the only one who has to **prove** that my First Quest is **necessary**?"*
 
-Nicola: *"Ha! For what?"*
+Nicola: *"Do you really think anyone's going to give you an apology?"*
 
-Min: *"Why am I the only one who has to **prove** that my First Quest is **necessary**? Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
+Min: *"Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
 
 ### Page 3
 
@@ -1503,19 +1503,19 @@ We are back in the Amazon, up in the tree with Min. Min is no longer grinning. A
 
 Asoka: **"*That's why we have to hurry!!*"**
 
-Min squats and stares down the approximately 5 meters of tree trunk down at Asoka's face veil, her eyes still closed. 
+Min squats and stares down the approximately 5 meters of tree trunk down at Asoka's face veil, her eyes sad, her mouth angry. 
 
 Min: **"There is no village. 'The Clan is fluid upon the land'...it's just a decoy."**
 
 Asoka: **"*Wha--what?*"**
 
-Min: **"The Peacekeepers'll find a beautiful waterfall, which they'll totally fail to appreciate..."**
+Min: **"The Peacekeepers will find a beautiful waterfall, which they'll totally fail to appreciate..."**
 
 Asoka: **"*But...they said they have satellite images of people living there!*"**
 
 Min grins with vengeful glee down at Asoka. 
 
-Min: **"They said that? Wow, they were completely fooled by our decoy bubble!!"**
+Min: **"Ha! We totally fooled them!!"**
 
 Asoka: **"*Then the Biononymous need your help!*"**
 
@@ -1585,10 +1585,6 @@ Min: **"Eles são os *cicladores de água*."**
 
 *translation: "They are the **water cyclers**."*
 
-Asoka: **"*Os cicladores de água?*"**
-
-*translation: "The water cyclers?"*
-
 Min: **"Todos os dias eles [tratam a água](https://en.wikipedia.org/wiki/Water_purification#Treatment) coletamos da chuva, do rio e de [nosso esgoto](https://en.wikipedia.org/wiki/Reclaimed_water)."**
 
 *translation: "Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the rain, from the river, and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."*
@@ -1601,9 +1597,9 @@ Asoka: **"*Espere, o que??*"**
 
 The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder.
 
-Min: **"Você não ouviu? Nós tivemos uma crise da água. Você teve a sorte de estar em algum lugar onde terras que não foram brutalmente abusadas. É diferente aqui."**
+Min: **"Você não ouviu? Nós tivemos uma crise da água. Cada gota é preciosa."**
 
-*translation: "Didn't you hear? We had a Water Crisis. You were lucky enough to be someplace where the land that hadn't been brutally abused. It's different here."*
+*translation: "Didn't you hear? We had a Water Crisis. Every drop is precious."*
 
 The Water Cyclers have each brought their pitcher to a table and poured themselves a glass. They all raise their glasses together.
 
@@ -1616,6 +1612,8 @@ The Water Cyclers then all down their glass of water. The gathered Automata star
 Min: **"Certo, *agora* podemos comer."**
 
 *translation: "Ok, **now** we can eat."*
+
+Asoka looks at the happy people, warm food, families and children laughing in the sunlight, and they burst into tears. 
 
 ## Diagram 6: Cuttlefish Hunting Diagram
 
