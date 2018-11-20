@@ -1801,13 +1801,13 @@ Asoka starts to cry again. Their stomach rumbles loudly, pityingly, and Iri look
 
 Iri: *"Soka, eat something, please??"*
 
-Suddenly, the trees are full of rambunctious Automata children and many of their animal companions. They are chase each other through the branches as they pass a [peteca](https://en.wikipedia.org/wiki/Peteca) back and forth, reveling in the twists and jumps and turns they are able to incorporate into their movement. Amongst them is Min, who hits the peteca with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs), foot making solid impact with the weighted fabric bottom, one hand on a tree trunk and body practically horizontal while mid-air. Wrapped and secured to Min's back is a large [bojagi](en.wikipedia.org/wiki/Bojagi).
+Suddenly, the trees are full of rambunctious Automata children and many of their [animal companions](http://www.srl.caltech.edu/personnel/krubal/rainforest/Edit560s6/www/animals.html). They are chase each other through the branches as they pass a [peteca](https://en.wikipedia.org/wiki/Peteca) back and forth, reveling in the twists and jumps and turns they are able to incorporate into their movement. Amongst them is Min, who hits the peteca with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs), foot making solid impact with the weighted fabric bottom, one hand on a tree trunk and body practically horizontal while mid-air. Wrapped and secured to Min's back is a large [bojagi](en.wikipedia.org/wiki/Bojagi).
 
-A very tiny Automata child shrieks with excitement as the peteca comes towards him. He eyeballs the peteca like a hawk, his gaze never wavering. He winds up his arm, ready to smack the peteca back towards Min...and just as he hits the flying packet of feathers, he takes one too many steps backwards and practically throws himself backwards off the tree branch. 
+A very tiny Automata child, a tiny [squirrel monkey](https://en.wikipedia.org/wiki/Common_squirrel_monkey) deftly clinging to his shoulder, shrieks with excitement as the peteca comes towards him. He eyeballs the peteca like a hawk, his gaze never wavering. He winds up his arm, ready to smack the peteca back towards Min...and just as he hits the flying packet of feathers, he takes one too many steps backwards and practically throws himself backwards off the tree branch. 
 
 Automata child: **"Aaaaaaaaaahaahahahahahahaha!"**
 
-The tiny Automata child lands on top of Asoka's sleeping bubble with a gelatinous bounce. The whole bubble ripples but holds its shape. The child, exhilerated from the game and his fall, falls back into the eSyrup bubble stomach first, gasping with laughter and exertion as he looks happily down at Asoka and waves. Asoka stares back, hunger and crushing depression momentarily forgotten. 
+The tiny Automata child lands on top of Asoka's sleeping bubble with a gelatinous bounce. The whole bubble ripples but holds its shape. The child, exhilerated from the game and his fall, falls back into the eSyrup bubble stomach first, gasping with laughter and exertion as he looks happily down at Asoka and waves. The monkey on his shoulder chirps and turns its head in a hilarious caricature of curiosity. Asoka stares back, hunger and crushing depression momentarily forgotten. 
 
 Automata child: **"You're Min's evil spirit! We brought you food!"**
 
@@ -1817,19 +1817,19 @@ Asoka: *"Fine, I'll get up."*
 
 ### Page 9
 
-We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is bare-headed and wearing only their sleeveless undershirt and trousers. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the bojagi that Min had used to bring it up to Asoka's bubble. Asoka unenergetically picks at the food as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into several wooden cups. The tiny Automata child that fell onto Asoka's sleeping bubble holds out a cup of the fruit juice to Iri.  
+We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is bare-headed and wearing only their sleeveless undershirt and trousers. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the bojagi that Min had used to bring it up to Asoka's bubble. Asoka unenergetically picks at the food as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into several wooden cups. The tiny Automata child that fell onto Asoka's sleeping bubble, monkey companion now perched on his head, holds out a cup of the fruit juice to Iri.  
 
 Automata child: **"Wanna try?"**
 
-Iri carefully tips a small amount of liquid into its mouth. Its eyes light up -- Iri likes the juice a lot! Iri downs the rest of the glass. Seeing Iri's enthusiastic response, Mawé puffs up pride. 
+Iri carefully tips a small amount of liquid into its mouth. Its eyes light up -- Iri likes the juice a lot! Iri downs the rest of the glass. Seeing Iri's enthusiastic response, Mawé puffs up pride. The little squirrel monkey cautiously approaches Iri, wanting to make friends. 
 
 Iri: **"Mmmmmm!!"**
 
 Min: **"Mawé helped me make it...it's [patua juice](https://en.wikipedia.org/wiki/Oenocarpus_bataua)!"**
 
-Mawé squeels with delight as Iri suddenly glows for a moment in response to the unfamiliar drink; at the same time, Asoka's clothing also briefly flash a new pattern, looking like a fractal tangle of blood vessels. Asoka, watching Mawé play with Iri, is suddenly and painfully reminded of Pippa. Asoka chokes up with sudden tears. 
+Mawé squeels with delight as Iri suddenly glows for a moment in response to the unfamiliar drink; at the same time, Asoka's clothing also briefly flash a new pattern, looking like a fractal tangle of blood vessels. Startled, the monkey rushes back onto Mawé's head, chittering and scolding everyone loudly. Asoka, watching Mawé and the monkey play with Iri, is suddenly and painfully reminded of Pippa. Asoka chokes up with sudden tears. 
 
-Through their tears, Asoka sees a cup of patua juice, held out by small but strong hands. Asoka looks up to see an unexpectedly solemn Mawé.   
+Through their tears, Asoka sees a cup of patua juice, held out by small but strong hands. Asoka looks up to see an unexpectedly solemn Mawé, monkey now calm and peering at Asoka with intent curiosity.   
 
 Mawé: **"When I'm having a bad day, patua juice makes my luck better."**
 
@@ -1861,39 +1861,39 @@ Asoka doesn't look up, but gives a tiny nod. Iri gives Min an encouraging smile 
 
 Asoka, barely audible: **"*Yes...*"**
 
-Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Mawé puts his tiny arms around both Min and Asoka, dry eyed and confused by the older children's emotions but willing to accept that both babies and grownups seem incredibly susceptible to tears, especially when compared to the stable composure and infinite wisdom that seem to bless 7 year olds. Iri's arms gently cradle all three childrens' heads. 
+Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Mawé puts his tiny arms around both Min and Asoka, dry eyed and confused by the older children's emotions but willing to accept that both babies and grownups seem incredibly susceptible to tears, especially when compared to the stable composure and infinite wisdom that seem to bless 7 year olds. Mawé's monkey chirps gently, and Iri's arms gently cradle all three childrens' heads. 
 
 ### Page 11
 
-The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The other three look up with wonder and awe on their faces. 
+The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squireel monkey is sprawled hilariously on its back, safely held in Mawé's arms. The other three look up with wonder and awe on their faces. 
 
-Asoka: **"You're *so* lucky..."**
+Asoka: **"*You're so lucky...*"**
 
 Min: **"I know! I mean, I don't want to take any of this for granted..."**
 
-Asoka: **"Then why do you want to leave it so badly, and go be with those jerks up in space?"**
+Asoka: **"*Then why do you want to leave?*"**
 
 Min: **"I don't want to stay up there! But I have to go, at least once, to learn about them."**
 
-Asoka: **"The Orbiters? Why do you care about understanding *them*?"**
+Asoka: **"*But why do you care about understanding them? As far as I can tell, they're all just self-important jerks.*"**
 
-Min goes quiet, staring at the stars. 
+Min goes quiet, thoughtfully staring at the stars, ruminating on her answer. 
 
-Asoka: **"Is it...because of Amadou? I noticed you have really similar back tattoos..."**
+Asoka: **"*Is it...because of Amadou? I noticed you have really similar back tattoos...*"**
 
 Min: **"Amadou, my gene father, has a bounty of 10,000 points on his head, and will never get anywhere near a Launch Station, much less get out into orbit."**
 
-Asoka: **"Oh. Can I ask...what for?"**
+Asoka: **"*Oh. Can I ask...what for?*"**
 
 Min: **"He killed an evil man, who happened to be a governor of the World Government."**
+
+### Page 12
 
 Min traces the contours of the tree trunk beneath her hands. 
 
 Min: **"We say that 'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- and I don't think I can be fully informed or un-coerced if I don't understand the Orbiters...if I don't know what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
 
 Asoka: **"*The ISE Corps?*"**
-
-### Page 12
 
 Min stands in her excitement. 
 
@@ -1915,7 +1915,7 @@ Min kneels in front of Asoka and looks at them with intense earnestness.
 
 Min: **"Your elders must have failed many times before they made an eSyrup cloth as powerful as yours, but that wasn't the worst that could happen -- imagine if they hadn't even tried at all! You wouldn't be here, and I wouldn't be going on my First Quest."**
 
-Asoka: **"But maybe then Pippa would still be alive..."**
+Asoka: **"*But maybe then Pippa would still be alive...*"**
 
 Min: **"Maybe. But if they were, would they want you to spend the rest of your life feeling guilty about something that isn't your fault?"**
 
