@@ -1739,7 +1739,7 @@ Osiel looks unsatisfied, but most of the Elders look relieved that the consensus
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
-Asoka watches Min celebrate the Elder's decision with Jina and Amadou, and as Asoka hugs Iri their eyes fill with tears again. 
+Asoka watches Min celebrate the Elders' final decision with Jina and Amadou. As Asoka hugs Iri, their eyes fill with tears again. 
 
 ### Page 6
 
@@ -1799,7 +1799,7 @@ Iri: *"Soka, eat something, please??"*
 
 Suddenly, the trees are full of rambunctious Automata children and many of their animal companions. They are chase each other through the branches as they pass a [peteca](https://en.wikipedia.org/wiki/Peteca) back and forth, reveling in the twists and jumps and turns they are able to incorporate into their movement. Amongst them is Min, who hits the peteca with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs), foot making solid impact with the weighted fabric bottom, one hand on a tree trunk and body practically horizontal while mid-air. Wrapped and secured to Min's back is a large [bojagi](en.wikipedia.org/wiki/Bojagi).
 
-A very tiny Automata child shrieks with excitement as the peteca comes towards him. He eyeballs the peteca like a hawk, his gaze never wavering. He winds up his arm, ready to smack the peteca back towards Min...when he takes one too many steps backwards and practically throws himself backwards off the tree branch. 
+A very tiny Automata child shrieks with excitement as the peteca comes towards him. He eyeballs the peteca like a hawk, his gaze never wavering. He winds up his arm, ready to smack the peteca back towards Min...and just as he hits the flying packet of feathers, he takes one too many steps backwards and practically throws himself backwards off the tree branch. 
 
 Automata child: **"Aaaaaaaaaahaahahahahahahaha!"**
 
@@ -1823,65 +1823,79 @@ Iri: **"Mmmmmm!!"**
 
 Min: **"Mawé helped me make it...it's [patua juice](https://en.wikipedia.org/wiki/Oenocarpus_bataua)!"**
 
-Mawé squeels with delight as Iri suddenly glows for a moment in response to the unfamiliar drink; at the same time, Asoka's clothing also briefly flash a new pattern, looking like a fractal tangle of blood vessels. Asoka, watching Mawé play with Iri, suddenly sees Pippa's face superimposed on Mawé. Asoka chokes up with sudden tears. 
+Mawé squeels with delight as Iri suddenly glows for a moment in response to the unfamiliar drink; at the same time, Asoka's clothing also briefly flash a new pattern, looking like a fractal tangle of blood vessels. Asoka, watching Mawé play with Iri, is suddenly and painfully reminded of Pippa. Asoka chokes up with sudden tears. 
 
-Suddenly, through their tears, Asoka sees a cup of patua juice, held out by tiny hands. Asoka looks up to see a solemn Mawé.   
+Through their tears, Asoka sees a cup of patua juice, held out by small but strong hands. Asoka looks up to see an unexpectedly solemn Mawé.   
 
-Mawé: **"When I feel bad, patua juice usually makes me feel better."**
+Mawé: **"When I'm having a bad day, patua juice makes my luck better."**
+
+Asoka stares at Mawé, still seeing a ghost of Pippa on the eager young face. After a moment, Mawé looks questioningly at Min. Min gently takes one of Asoka's hands and wraps it around the cup. 
 
 ### Page 10
 
-Min is hurt by the total lack of enthusiasm from Asoka. She loses her patience again. 
+Asoka blushes, embarrassed by the kind treatment. 
 
-Min: **"Ok, I get that you're far from home and  I didn't have to bring you leftovers, you know!"**
+Asoka: **"Sorry...I mean, thanks, I could use some better luck..."**
 
-Asoka: **"*Then stop trying to be nice! It's a mistake!*"**
+Min's hand stays on Asoka's to give it a strong, warm squeeze. 
 
-Asoka slams down the doshirak and glares at Min with eyes full of anger and tears. 
+Min: **"You're far from home, surrounded by strange people and things...I think you're handling it super well."** 
 
-Asoka: **"*I tried to be nice to Pippa, and look how they ended up! Dead!!*"**
+Asoka's eyes fill with tears. 
 
-Asoka grits their teeth and hides their face in their hands, as tears begin to spill out of their eyes. Iri crawls into Asoka's lap and gently strokes Asoka's hands with its arms. 
+Asoka: **"But I asked for it...I said I don't care if the worst happens!"**
 
-Min: **"Look, I'm so sorry...I get really impatient sometimes..."**
+Asoka grits their teeth and hides their face in their hands, as tears begin to spill out of their eyes. Iri crawls into Asoka's lap and gently strokes Asoka's hands with its arms, trying to calm Asoka. 
 
-Min crawls around the food to kneel by Asoka. 
+Asoka: **"I said I could handle it...but I really can't!!"**
 
-Min: **"...can I give you hug?"**
+Asoka starts to rock back and forth, feeling as if their pent-up emotions might tear them apart, cell by cell. Min crawls around the food to kneel by Asoka. Mawé also moves closer, wide-eyed. 
+
+Min: **"Hey...do you want a hug?"**
 
 Asoka doesn't look up, but gives a tiny nod. Iri gives Min an encouraging smile and moves to Asoka's shoulder. 
 
 Asoka, barely audible: **"*Yes...*"**
 
-Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Iri's arms gently cradle both of their heads. 
+Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Mawé puts his tiny arms around both Min and Asoka, dry eyed and confused by the older children's emotions but willing to accept that both babies and grownups seem incredibly susceptible to tears, especially when compared to the stable composure and infinite wisdom that seem to bless 7 year olds. Iri's arms gently cradle all three childrens' heads. 
 
 ### Page 11
 
-The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head. All three look up with wonder and awe on their faces. 
+The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The other three look up with wonder and awe on their faces. 
 
-Min: **"You know, Amadou, my gene father, once made the mistake of being nice to someone..."**
+Asoka: **"You're *so* lucky..."**
 
-Asoka: **"Yeah?"**
+Min: **"I know! I mean, I don't want to take any of this for granted..."**
 
-Min: **"Yeah. He killed an evil man."**
+Asoka: **"Then why do you want to leave it so badly, and go be with those jerks up in space?"**
 
-Asoka: **"Wait, how is that a mistake?"**
+Min: **"I don't want to stay up there! But I have to go, at least once, to learn about them."**
 
-Min: **"Because that evil man was a governor of the World Government. So now Amadou has a bounty on his head, and he'll never get inside a Launch Station, much less go up into Orbit."**
+Asoka: **"The Orbiters? Why do you care about understanding *them*?"**
 
-Asoka: **"Why do you want to go up into orbit so badly?"**
+Min goes quiet, staring at the stars. 
 
-Min: **"Because...'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- and in *this* world, we'll never be fully informed or un-coerced if we don't understand the Orbiters...if we don't understand what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
+Asoka: **"Is it...because of Amadou? I noticed you have really similar back tattoos..."**
+
+Min: **"Amadou, my gene father, has a bounty of 10,000 points on his head, and will never get anywhere near a Launch Station, much less get out into orbit."**
+
+Asoka: **"Oh. Can I ask...what for?"**
+
+Min: **"He killed an evil man, who happened to be a governor of the World Government."**
+
+Min traces the contours of the tree trunk beneath her hands. 
+
+Min: **"We say that 'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- and I don't think I can be fully informed or un-coerced if I don't understand the Orbiters...if I don't know what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
 
 Asoka: **"*The ISE Corps?*"**
+
+### Page 12
 
 Min stands in her excitement. 
 
 Min: **"The International Space Exploration Corps! It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
 
 Min grins widely and reaches up with both arms to feel the east wind. Min laughs with delight as her mohawk whips about in the wind. 
-
-### Page 12
 
 Asoka: **"*Understand the Orbiters...do you really think you can do that?*"**
 
@@ -1891,11 +1905,15 @@ Min: **"Only one way to find out, is there?"**
 
 Asoka stares at Min, open-mouthed. 
 
-Asoka: **"*But...what if you fail?*"**
+Asoka: **"*But...what if the worst happens? What if you fail?*"**
 
 Min kneels in front of Asoka and looks at them with intense earnestness. 
 
-Min: **"Your parents and grandparents must have failed many times before they could make an eSyrup textile as powerful as yours -- *it even kept you alive in the Red Zone*. Is there really *nothing* you want to do with the freedom they gave you?"**
+Min: **"Your elders must have failed many times before they made an eSyrup cloth as powerful as yours, but that wasn't the worst that could happen -- imagine if they hadn't even tried at all! You wouldn't be here, and I wouldn't be going on my First Quest."**
+
+Asoka: **"But maybe then Pippa would still be alive..."**
+
+Min: **"Maybe. But if they were, would they want you to spend the rest of your life feeling guilty about something that isn't your fault?"**
 
 ## Diagram 7: Museum as a Lab
 
