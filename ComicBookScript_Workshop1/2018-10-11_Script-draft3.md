@@ -402,7 +402,7 @@ Iúna: **"*How is Tahoe?*"**
 
 Tahoe: **"*Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary.*"**
 
-Iúna: **"*So...it *was* the body mod.*"**
+Iúna: **"*So...it *was* the body mod?*"**
 
 Tahoe: **"*Looks like it. They didn't even bother going for the decoy.*"**
 
@@ -414,23 +414,19 @@ Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"*
 
 Tahoe: **"*Seriously?*"**
 
-Iúna: **"*Yes. Pigsah was right - it's relatively easy *now* to live without body mods. But once the schools require head mods for every student, once every industry requires body mods in order to be qualified for the job...our children **won't** have a choice. You just won't be a qualified human *adult* if you don't have a body mod.*"**
+Iúna: **"*Yes. Pigsah was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children *won't* have any choice. They'll need body mods just to *survive*."**
 
 Tahoe: **"*But...doesn't that feel too much like a *cult*??"**
 
-Iúna: **"*That's why I intially voted against it. But our eSyrup research needs to expand, and it needs to stay under the radar. Tahoe, do you know what that research group in Brazil published last month?*"**
+Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last month?*"**
 
 Tahoe: **"*What?*"**
 
-Iúna: **"*The first successful splice of eSyrup with living cells, a recipe for creating eSyrup *biofilm*!*"**
+Iúna: **"*The first successful splice of eSyrup with living cells - eSyrup *biofilm*!*"**
 
 Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*"**
 
-Iúna: **"*Because that's the *beginning*. Remember the mechapet idea??*"**
-
-Tahoe: **"*Yeah, but didn't we decide it wasn't possible?*"**
-
-Iúna: **"*It's possible now!*"**
+Iúna: **"* Remember the mechapet idea? *It's possible now!!*"**
 
 ## Diagram 1: Neuron Classification by Structure and Major Glial Cell Types
 
