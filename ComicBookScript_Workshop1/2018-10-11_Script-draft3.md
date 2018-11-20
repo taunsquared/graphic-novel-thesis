@@ -1100,31 +1100,29 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 **"Finished loading...'Planetside Environmental Report: The Red Zone'; [Classification: *Compartmented*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"The Red Zone was once called 'the tropics', a band of the Earth's surface bounded in the north by the Tropic of Cancer, and at its southern edge by a similarly outdated name, the Tropic of Capricorn. Even in the heart of winter, 'the tropics' had over 10 hours of daylight, something that, at one time, made it irresistable to conquerers, colonists, imperialists, and ex-pats alike."**
+**"The Red Zone was once called 'the tropics', a band of the Earth's surface bounded to the north by the Tropic of Cancer and to the south by the Tropic of Capricorn. Even in the heart of winter, 'the tropics' had over 10 hours of daylight, something that, at one time, made it irresistable to both colonists and retirees."**
 
 **"They came for the clear blue waters full of iridescent fish and fascinatingly complex coral reefs; extravagant, multi-coloured birds-of-paradise and thrillingly powerful felines in enormous, lush forests; and rich soils teeming with plants that move and insects that wage war. But these [jewels of biodiversity](https://www.theguardian.com/environment/gallery/2013/oct/23/new-species-amazon-rainforest-in-pictures) were far more delicate and fragile than they looked. By the time the Global Water Crisis hit, much of what made 'the tropics' so lovely and desirable was gone."**
 
-**"Boiling, humid heat; heavy downpours of acid rain; and toxic levels of CO2, NO2, and CH4 all took their toll on the flora and the fauna. The tropics became a simmering, stinking hell, where, if the sun didn't overpower you, the stench definitely would..."**
+**"Boiling, humid heat; heavy downpours of acid rain; and toxic levels of CO2, NO2, and CH4 all took their toll on the flora and the fauna. The tropics became a simmering, stinking hell, where, if the sun doesn't overpower you, the stench definitely does..."**
 
 ### Page 1 
 
-We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel, which is mostly empty. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
+We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
 ### Page 2
 
-Asoka: *"Ok Iri, how long until sunrise?"*
+Asoka: *"Alright, 4 hours until sunrise..."*
 
-Iri: *"Only 4 hours..."*
+Asoka stretches, trying to get rid of the stiffness of hiding in a bilge for over a week.
 
-Asoka: *"In that case, I say we run for 3 hours, walk for 2, then look for shade. Yeah?"*
+Iri: *"Walk for a bit to warm up--"*
 
-Iri: *"Just remember, you've been sitting in the bilge of a submarine for the last 12 days--"*
+Asoka takes off running, Iri clinging to their neck for dear life. 
 
-Asoka is already running, Iri clinging to their neck for dear life. 
+Asoka: *"No time for that, Iri!"*
 
-Asoka: *"Yeah, so?"*
-
-Iri: *"So you might be out of shape!"*
+Iri: *"You're gonna be sore as hell..."*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. This part of the forest is putrid and disgusting, everything rotten, dead, and sludgy. 
 
@@ -1138,7 +1136,7 @@ It's the earliest part of dawn - [astronomical dawn](https://en.wikipedia.org/wi
 
 Asoka: *"How...far...??"*
 
-Asoka has pulled up their map onto their face veil. Iri places their location witha bright blue ball. 
+Asoka has pulled up their map onto their face veil. Iri places their location with a bright blue ball. 
 
 Iri: *"There!"*
 
@@ -1150,7 +1148,7 @@ Iri: *"Sokaaa, don't push yourself too much..."*
 
 Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. They place their hand on their belly, and a view of their intestines shows up on their face veil. 
 
-Asoka: *"My guts aren't completely empty yet..."*
+Asoka: *"Not empty yet..."*
 
 Iri: *"But..."*
 
@@ -1166,7 +1164,7 @@ The outside temperature now reads 44.6 deg celsius, while the inside temperature
 
 Iri stares open mouthed at the jungle around them, as Asoka marvels at their outfit's range of protective abilities. 
 
-Asoka: *"Cuttlefish cloth is **awesome**! How far are we now?"*
+Asoka: *"This is **beautiful**! How far are we now?"*
 
 The bright blue ball has moved further north, a little past a quarter of the way to the 'X'. 
 
@@ -1174,7 +1172,7 @@ Iri gives Asoka a look.
 
 Iri: *"Do you think...maybe you should eat soon?"*
 
-Asoka: *"If you can find me a cave to eat in, sure. But I want to keep walking...I won't run in this heat, but we **have** to keep going."*
+Asoka: *"If you can find a cave, maybe. But I want to keep walking..."*
 
 ### Page 5
 
@@ -1190,7 +1188,7 @@ Asoka: *"Where are we now?"*
 
 The bright blue ball is now just about at the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
-Iri: *"This is insane, we **have** to stay in the shade!"*
+Iri: *"You **have** to stay in the shade!"*
 
 Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
 
@@ -1204,7 +1202,11 @@ The sun is setting in the sky, deep red light rays cutting horizontally once mor
 
 *More on plants native to the Amazon: http://www.pbs.org/journeyintoamazonia/plants.html*
 
-Asoka suddenly jerks awake, briefly becomes invisible, then relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38.2 deg celsius, and Asoka's suit temperature is 23.0. Methane, CO2, and NO2 levels are characterised to be 'short-term breathable'. 
+Asoka suddenly jerks awake, eyes full of tears. 
+
+Asoka: **"Pippa!"**
+
+Asoka relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38.2 deg celsius, and Asoka's suit temperature is 23.0. Methane, CO2, and NO2 levels are characterised to be 'short-term breathable'. 
 
 Asoka: *"You let me sleep more than a few hours."*
 
@@ -1238,11 +1240,13 @@ Asoka: **"Mmmmmm!!!"**
 
 ### Page 8
 
-Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness.  
+Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness. Iri cuddles their leg and looks up at Asoka. 
 
-Asoka claps their hands and wipes their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. Methane, CO2, and NO2 levels are safely within 'short-term breathable' levels. 
+Iri: *"You know...it wasn't your fault."*
 
-Asoka: *"All right, Iri! Let's do this."*
+We see Asoka's fists clench for a moment. Then they resolutely wipe their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. Methane, CO2, and NO2 levels are safely within 'short-term breathable' levels. Asoka's face is grim, angry.
+
+Asoka: *"Let's do this."*
 
 Asoka crouches, ready to run. They are caught completely unawares by a blurry figure kicking them in the back of the head with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs).  
 
@@ -1260,15 +1264,15 @@ The figure facing Asoka and Iri is small, dark-skinned, and dressed only in loos
 
 Figure: **"Espírito maligno, fique longe de meus mamões!!"**
 
-*translation: "Evil spirit, stay away from my papaya trees!!"*
+*translation: "Evil spirit, stay away from my papayas!!"*
 
 Iri: *"They think we're an evil spirit?!"*
 
-Asoka: **"I'm not a spirit, I'm a human!"** 
+Asoka: **"No, I'm a human!"** 
 
 Asoka holds up their invisible hands in surrender, completely forgetting their camouflage.
 
-Iri: *"Not English, they were speaking Portuguese!"*
+Iri: *"Not English, Portuguese!"*
 
 The small dark figure rushes at Iri with a blood-curdling yell.
 
