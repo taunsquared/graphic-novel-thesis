@@ -312,25 +312,25 @@ Felix: **"Vamos, Breno! *Nenhum* de nós venderia para Space Consortium."**
 
 ### Page 8
 
-Breno, smiles ruefully, eyes pitying: **"Oh sim? Esse dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia. O que te faz pensar que eu não desisti de uma tentação como essa?"**
+Breno, smiles ruefully, eyes pitying: **"Oh sim? Esse dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia."**
 
-*translation: "Oh yeah? That money would give my mother the same quality of treatment that your father gets for free in Sweden. What makes you think I wouldn't give in to a temptation like that?"*
+*translation: "Oh yeah? That money would give my mother the same quality of treatment that your father gets for free in Sweden."*
 
-Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, no?! Se Iara é privilegiada, então você também é!"**
+Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, no?!"**
 
-*translation: "So good thing Majhee is paying the doctors' bribes for your mother, no?! If Iara is privileged, then so are you!"*
+*translation: "So good thing Majhee is paying the doctors' bribes for your mother, no?!"*
 
-We see the circle of researchers sitting in silence, betraying varying degrees of discomfort and fear. Over this view, Majhee speaks...
+We see the circle of researchers sitting in silence, Kai and Beatriz watching Breno and Felix nervously, Nova looking at Iara uncomfortably, Vec looking at Majhee, everyone betraying varying degrees of discomfort and fear. Over this view, Majhee speaks...
 
-Majhee: **"Todos nós sabemos os riscos que vêm com o trabalho neste projeto, com o trabalho nesta cidade agora. Todos temos família para proteger. Se você acha que deve sair, eu farei o que puder para ajudar você e sua família a saírem desta cidade, e fora do radar do Space Consortium."**
+Majhee: **"Trabalho neste projeto, nesta cidade, agora...é verdade, é *muito* arriscado. Se precisar sair, eu vou tirar você e sua família desta cidade e fora do radar do Space Consortium."**
 
-*translation: "We all know the risks that come with working on this project, with working in this city right now. We all have family to protect. If you feel you must leave, I will do what I can to help you and your family get out of this city, and off Space Consortium's radar."*
+*translation: "Working on this project, in this city, right now...it's true, it's **very** risky. If you need to leave, I will get you and your family get out of this city and off Space Consortium's radar."*
 
 We see now the protesters outside, their desperate, hungry faces. 
 
-Majhee: **"Eu também sei que se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
+Majhee: **"Mas se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
 
-*translation: "But I also know that if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
+*translation: "But if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
 
 Now we zoom out to see the hazy sun shining over the sky-line of São Paulo.
 
