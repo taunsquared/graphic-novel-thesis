@@ -922,7 +922,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 ### Page 1
 
-We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV has just cut the cable. We see Iri's shimmering outline against the submarine bottom. 
+We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV has just cut the cable. We see an exhilerated Iri taking its first swim in a real ocean. 
 
 ### Page 2
 
@@ -988,7 +988,7 @@ Serena: **"You're the only one allowed to wear it."**
 
 Asoka: **"Wear what?"**
 
-Eireena: **"Eat the raspberries in your hand, and come with me please. Bring the oatcakes and juice."**
+Eireena: **"Eat your raspberries, and come with me please. Bring the oatcakes and juice."**
 
 ### Page 6
 
@@ -1002,9 +1002,9 @@ The final scene of the mural shows the Space Barges coming back to Earth, as the
 
 Eireena: **"'World Government'...ha! To me they're still Space Consortium, cowards who hid up in orbit for nearly *23 years*. So many people died because they couldn't get their body mods repaired or replaced, especially when we first went underground."**
 
-Serena: **"And when they came crawling back to us, begging for help, and we share everything, how do they repay us? By demanding even more of our yearly harvest!"**
+Serena: **"And when they came crawling back to us, begging for help, and we shared everything, how did they repay us? By demanding even more of our yearly harvest!"**
 
-Eireena: **"I wouldn't be surprised if the Beasts are also their doing...besides us, there [hasn't been a creature bigger than a fox on the surface ever since the Burning](https://www.forbes.com/sites/shaenamontanari/2015/08/10/extreme-climate-warming-episode-lead-to-smaller-mammals-but-how/#70fc49157c4f)..."**
+Eireena: **"I wouldn't be surprised if the Beasts are also their doing...besides the Biononymous, there [hasn't been a creature bigger than a fox on the surface ever since the Burning](https://www.forbes.com/sites/shaenamontanari/2015/08/10/extreme-climate-warming-episode-lead-to-smaller-mammals-but-how/#70fc49157c4f)..."**
 
 ### Page 7
 
@@ -1024,7 +1024,7 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Serena: **"Many years ago, your Green Haven Council visited us with this wooden dresser and a beautiful child's outfit made of the finest eSyrup cloth we'd ever seen. They asked us to safeguard the outfit, and never show it to anyone, until a child with a mechapet begs us for sanctuary."**
+Serena: **"Many years ago, your Green Haven Council visited us with this wooden dresser and a beautiful child's outfit made of the finest eSyrup cloth we've ever seen. They asked us to safeguard the outfit, and never show it to anyone, until a child with a mechapet begs us for sanctuary."**
 
 Eireena: **"It's called *'cuttlefish cloth'* - it can be 'voltage-treated' by the electrical activity of your nervous system. It'll help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
@@ -1038,7 +1038,7 @@ Asoka: **"Wait, what??"**
 
 Serena's eyes never waver, face inscrutable. We see an image of an enormous network of neurons clinging to a decidedly less sexy set of intestines.
 
-Serena: **"Everything that passes through your gut is processed by your [enteric nervous system](https://en.wikipedia.org/wiki/Enteric_nervous_system), a network of *500 million* neurons - that's *5 times* as many as the neurons in your *spine*. You better respect what you eat, cuz now your guts also power your protective bubble against the world."**
+Serena: **"Everything that passes through your gut is processed by your [enteric nervous system](https://en.wikipedia.org/wiki/Enteric_nervous_system), a network of *500 million* neurons - that's *5 times* as many as the neurons in your *spine*. You better respect what you eat, cuz now your guts also power your protective outfit."**
 
 Serena grins now. 
 
@@ -1046,13 +1046,13 @@ Serena: **"Besides, the first outfit was for a little one just barely able to wa
 
 Asoka looks horrified. Eireena hides her smile. 
 
-Eireena: **"*Anyways*, every year since then, your Council visits us, and each time they bring a new outfit, and take back the old one."**
+Eireena: **"*Anyways*, every year since then, your Council has visited us with a new outfit, and every year, they took back the old one."**
 
 ### Page 10
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Did...the Beasts...attack my haven because of *this*?"**
+Asoka: **"Did...the Beasts...attack my haven...because of *this*?"**
 
 Asoka looks pained, eyes closed with guilt -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
@@ -1070,7 +1070,7 @@ Asoka: *"Iri, was that you?"*
 
 We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the [Navigation Officer](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) consult numerous hardcopy charts and plots, which to an untrained eye, look like nothing more than large pages covered a mess of lines and numbers. They hunch over the charts and plots in a most conspiratorial manner. 
 
-Iri: *"Hmm? I was just about to show you where we are now!"*
+Iri: *"Hmm? I've got an update on our location!"*
 
 Asoka pulls the fabric of their face veil back across their face and pockets the crumpled balls of aluminum foil that once encased the throttle spuds. They then start to move across various pipes, staying out of the dirty water below, moving towards the sound of the loud clank. 
 
@@ -1080,7 +1080,7 @@ On Asoka's face veil, overlaid on top of Iri's view of the command deck, is the 
 
 Asoka carefully places their feet to turn a corner. They look up and gasp. 
 
-Iri, off-panel: *"What? Did you find something cool?"*
+Iri, off-panel: *"What? Did you find something?"*
 
 We see Asoka's eyes, full of horror and terror. 
 
