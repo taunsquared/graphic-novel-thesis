@@ -460,7 +460,7 @@ We see a bustling harbour town, everything about it small and cute except for th
 
 **"Industrialized eSyrup production, however, needs quite a bit of silica."**
 
-**"Sand mining was out of the question, given the Space Consortium's concern with their image - wouldn't want their brand tarnished by news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
+**"Sand mining was out of the question - wouldn't want to tarnish Space Consortium's brand with news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
 
 **"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
 
@@ -470,7 +470,7 @@ We see close-ups of the [wildlife at Cabo de Hornos](https://youtu.be/06LcgVQg7Y
 
 **"Ocean Acidification Monitoring Station, Havana, Cuba"**
 
-Researchers stare in horror at the read-outs of their remote monitoring systems, displayed using a room-sized **INFO-SPHERE**. A hurricane rages outside. 
+Researchers stare in horror at the read-outs of their remote monitoring systems, displayed using a room-sized **INFO-SPHERE**. A hurricane rages outside. On the info-sphere blinks an ominous, large "6.9", tagged as "pH, Ocean Surface". 
 
 Technician: **"Dr. Molina! Dr. Molina!"**
 
@@ -482,13 +482,13 @@ Dr. Molina: **"¿Qué es?"**
 
 *translation: "What is it?"*
 
-Tech: **"Los niveles de pH en la superficie del océano ... debido a la lluvia!"**
+Tech: **"Mira!"**
 
-*translation: "The pH levels at the ocean's surface...because of the rain!!"*
+*translation: "Look!"*
 
-Dr. Molina: **"Dios mío...se ha deslizado a 6.9..."**
+Dr. Molina: **"Dios mío...la acidez--!"**
 
-*translation: "My god...it's slipped down to 6.9..."*
+*translation: "My god...the acidity--!"*
 
 *Cite [this article](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and [this paper](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_cod101608/Tema_8-acidificaciÃ³n/hypoxia%20%26%20OA%20Melzner.pdf).*
 
@@ -496,9 +496,20 @@ Dr. Molina: **"Dios mío...se ha deslizado a 6.9..."**
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-Dr. Fischmann: **"Members of the UN, thank you for your time today. My name is Dr. Geraldine Fischmann, and I'm head of the environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been tracking the temperature, salinity, and flow rates of major ocean currents in the North Atlantic for the last 40 years, and we think we have an explanation for recent drop in energy production by the UN-deployed sea turbines."**
+Dr. Fischmann: **"Members of the UN, good afternoon. My name is Dr. Geraldine Fischman, and I'm head of the environmental monitoring team for the Thermohaline Circulation Observation Collective, a branch of the [Rapid Climate Change program](http://www.rapid.ac.uk/). The TCOC has been monitoring the North Atlantic for the last 44 years, and we think we have an explanation for the recent drop in energy production by UN-deployed sea turbines."**
 
 A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. Dr. Fischmann, a tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the fjords surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
+
+The [meta-data (see "Chapter 3" on the right)](http://www.ipcc.ch/report/sr15/): 
+* global sea surface temperatures have increased to 1.7 deg C above pre-industrial era temperatures
+* sea levels have risen 0.64 meters since 2020
+* average temperature on the hottest day of the year has increased to 2.2 deg C above pre-industrial era temperatures
+* average temperature on the coldest night of the year has increased to 7.7 deg C above pre-industrial era temperatures
+* Gulf Stream has slowed by 65% since the late 1950s
+* [Atlantic Meridional Overturning Circulation](https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation) has been [declining at an average rate of 0.9 Sverdrup (a million cubic meters per second, the standard unit for ocean circulation) per year since 2004](http://science.sciencemag.org/content/348/6241/1255575).
+  * useful image: http://science.sciencemag.org/content/sci/348/6241/1255575/F1.large.jpg?width=800&height=600&carousel=1
+
+Some of the above data can be shown on this page, and some can be shown on the next page. 
 
 Dr. Fischmann: **"These videos are from 15 years ago, when intensely hot global temperatures caused a significant meltdown of the Greenland Ice Sheet. As you all well remember, this drastic phenomena finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions, and members of the Paris Agreement switched to [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation."**
 
@@ -506,7 +517,7 @@ Dr. Fischmann: **"These videos are from 15 years ago, when intensely hot global 
 
 ### Page 4
 
-The videos switch to another view of the same glacier, but a slightly different coastline. The glacier doesn't seem to be melting, and enormous, thick chunks of [drift ice](https://en.wikipedia.org/wiki/Drift_ice) clog up the sea like a traffic jam. 
+The videos switch to another view of the same glacier, now noticeably reduced, but a slightly different coastline. The glacier doesn't seem to be melting anymore, and enormous, thick chunks of [drift ice](https://en.wikipedia.org/wiki/Drift_ice) clog up the sea like a traffic jam. 
 
 Dr. Fischmann: **"This is the current view of the Greenland ice sheet, from remote sensor buoys in the Denmark Strait. Normally, the [West Ice](https://en.wikipedia.org/wiki/West_Ice) doesn't extend this far south, but we believe the drastic melting 15 years ago triggered a long-term, slow melting of the ice sheet, which has been quietly dumping fresh water into the Greenland Sea."**
 
