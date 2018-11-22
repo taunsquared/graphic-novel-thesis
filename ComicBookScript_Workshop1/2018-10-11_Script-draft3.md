@@ -496,7 +496,7 @@ Dr. Molina: **"Dios mío...la acidez--!"**
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-Dr. Fischmann: **"Members of the UN, good afternoon. My name is Dr. Geraldine Fischman, and I'm head of the environmental monitoring team for the Thermohaline Circulation Observation Collective, a branch of the [Rapid Climate Change program](http://www.rapid.ac.uk/). The TCOC has been monitoring the North Atlantic for the last 44 years, and we think we have an explanation for the recent drop in energy production by UN-deployed sea turbines."**
+Dr. Fischmann: **"Members of the UN, good afternoon. My name is Dr. Geraldine Fischman, and I'm head of the environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been monitoring the North Atlantic for the past 44 years, and we think we have an explanation for the recent drop in energy production by UN-deployed sea turbines."**
 
 A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. Dr. Fischmann, a tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the fjords surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
 
@@ -506,7 +506,7 @@ The [meta-data (see "Chapter 3" on the right)](http://www.ipcc.ch/report/sr15/):
 * average temperature on the hottest day of the year has increased to 2.2 deg C above pre-industrial era temperatures
 * average temperature on the coldest night of the year has increased to 7.7 deg C above pre-industrial era temperatures
 
-Dr. Fischmann: **"These videos are from 15 years ago, when intensely hot global temperatures caused a significant meltdown of the Greenland Ice Sheet. As you all well remember, this drastic phenomena finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions, and members of the Paris Agreement switched to [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation."**
+Dr. Fischmann: **"These videos are from 15 years ago, when a significant meltdown of the Greenland Ice Sheet finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions, and members of the Paris Agreement switched to [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation."**
 
 *note: [biggest usage of coal right now is currently for fuel, only 20% is for electricity](https://www.theguardian.com/environment/2016/mar/10/dangerous-global-warming-will-happen-sooner-than-thought-study)- did the world switch to renewables in time?*
 
