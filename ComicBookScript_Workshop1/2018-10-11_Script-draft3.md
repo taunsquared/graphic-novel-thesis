@@ -1120,7 +1120,7 @@ Asoka: *"Alright, 4 hours until sunrise..."*
 
 Asoka stretches, trying to get rid of the stiffness of hiding in a bilge for over a week.
 
-Iri: *"Walk for a bit to warm up--"*
+Iri: *"Yeah, warm up a bit first--"*
 
 Asoka takes off running, Iri clinging to their neck for dear life. 
 
@@ -1194,7 +1194,7 @@ The bright blue ball is now just about at the halfway point. Asoka collapses at 
 
 Iri: *"You **have** to stay in the shade!"*
 
-Asoka: *"Yeah? Ok...in that case, I'll rest a bit..."*
+Asoka: *"Yeah? Ok...in that case..."*
 
 Asoka immediately falls asleep where they sit. Iri dashes over and checks Asoka's vitals by running its arms along Asoka's outfit above their heart, lungs, stomach, and kidneys. As they do, the eSyrup cloth gives Iri readouts of each organs' functional well-being. Satisfied, Iri then starts to gather [Babassu](https://en.wikipedia.org/wiki/Attalea_speciosa) palm leaves from the forest floor to make into a makeshift sun canopy. 
 
@@ -1236,7 +1236,7 @@ Asoka: *"[Papaya](https://www.instagram.com/p/BWs7J_xBYvP/)!"*
 
 Asoka runs to the base of a papaya tree as Iri shimmies up the trunk. Iri brings down a large, bulbous fruit, and Asoka holds it reverently as their outfit scans the fruit to check its radiation content and ripeness. Simultaneously, Asoka's outfit checks the atmospheric content of the grove in which Asoka and Iri currently sit. Iri also takes in a huge breath of the air and does an independent analysis. 
 
-Iri: *"Ok, I think I agree with your suit, the air in here is actually **breathable**!"*
+Iri: *"Ok, I think I agree with your outfit, the air in here is actually **breathable**!"*
 
 Asoka tears off their face veil in order to ravenously tear into the papaya. Iri joyfully runs up the tree for more of the ripe fruits. 
 
@@ -1296,15 +1296,15 @@ Iri: *"You need...Portuguese!"*
 
 Asoka turns off their camou and now, finally fully visible, turns to the dark figure and puts both hands up in a gesture pleading for mercy. 
 
-Asoka: **"Please! Eu sou humano! Eu sou humano!!"**
+Asoka: **"Please! Eu sou humano!"**
 
-*translation: "I'm human! I'm human!!"*
+*translation: "I'm human!"*
 
 The dark figure, eyes still tightly closed, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
 
-Figure: **"O que você quer?!"**
+Figure: **"O que você quer??"**
 
-*translation: "What do you want?!"*
+*translation: "What do you want??"*
 
 ### Page 11
 
@@ -1379,9 +1379,9 @@ Min is drenched and Maraba has positioned the needle of the syringe full of raw 
 
 We see raw eSyrup spreading throughout Min's body, moving up her torso, across her arms and legs, over her face, and into her eyelids. Min's has cousin pulled out the syringe and placed it back on the basket. 
 
-### Page 4
-
 **"The raw eSyrup is engineered to look for radioactive proteins that mark the cells of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outermost layer the human embryo. Every Automata born in the Red Zone has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
+
+### Page 4
 
 As the intradermal shield continues into her mouth, nose, and sinuses, Min begins to cough and gag. The crowd chants **"Seja livre! Seja LIVRE! SEJA LIVRE!"** as Min finishes integrating the intradermal shield. 
 
@@ -1939,15 +1939,15 @@ Min reverently places the little origami dragon her shoulder, where it circles a
 
 Min looks up at the crying Asoka, who is trying hard to smile through their tears. Min grins. 
 
-Min: **"Don't you dare slack on your capoeira training, just because I'm gone!"**
+Min: **"Don't you slack on your capoeira training!"**
 
 Asoka and Min clasp hands as Asoka returns Min's grin, matching her fierceness with their own.
 
-Asoka: **"*You watch out! I'll train so hard, in 2 years I'll definitely be able to beat you!*"**
+Asoka: **"*In 2 years, you won't even recognize me in the roda!*"**
 
 Min throws back her head in a full-throated laugh.
 
-Min: **"Deal! Until we meet again, in orbit!"**
+Min: **"Deal! See you in orbit!"**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
