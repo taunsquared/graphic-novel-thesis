@@ -10,7 +10,9 @@
 
 # Table of Contents
 
-* [The Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#the-story)
+* [The Story, Part 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#the-story-part-1)
+
+  * [Prologue](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#prologue)
 
   * [Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-1-nostalgia)
 
@@ -21,6 +23,8 @@
   * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-2-where-thunder-goes-when-it-dies)
   
   * [Diagram 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-2-action-potential-versus-graded-potential)
+  
+* [The Story, Part 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#the-story-part-2)
 
   * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
   
@@ -50,7 +54,22 @@
 
 * [notes](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#notes)
 
-# The Story
+# The Story, Part 1
+
+## Prologue
+
+*They are the Architect and Engineer  
+who longed for space, longed for space  
+to hold the Planet dear,  
+the Architect and Engineer.*
+
+*Benevolent Farmer and First VIRS  
+who longed for space, longed for space  
+to see the ends of the Universe,  
+Benevolent Farmer and First VIRS.* 
+
+*--T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)"*
 
 ## Dream 1: Nostalgia
 
@@ -670,6 +689,8 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
+# The Story, Part 2
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
