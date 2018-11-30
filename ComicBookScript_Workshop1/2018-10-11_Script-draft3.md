@@ -71,6 +71,8 @@ Benevolent Farmer and First VIRS.*
 *--T. Sorriso  
 From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)"*
 
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
 ## Dream 1: Nostalgia
 
 ### Page 1
