@@ -734,7 +734,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using eSyrup technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves muddy, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
-Asoka: *"Dad...Pippa...Why??"*
+Asoka: *"Dad...Mom...Pippa!!"*
 
 We see Asoka clench their fist, then throw up their head, struggle to stand, eyes streaming with tears. 
 
