@@ -26,6 +26,8 @@
   
 * [The Story, Part 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#the-story-part-2)
 
+  * [Interlude](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#interlude)
+
   * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
   
   * [Diagram 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#diagram-3-the-chemical-synapse)
