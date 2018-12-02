@@ -1925,55 +1925,41 @@ The sun has set. Min and Asoka look out at the fantastic view before them, lit b
 
 Asoka: **"*You're so lucky...*"**
 
-Min: **"I know! I mean, I don't want to take any of this for granted..."**
+Min: **"Yeah, I love this forest..."**
 
 Asoka: **"*Then why do you want to leave?*"**
 
-Min: **"I don't want to stay up there! But I have to go, at least once, to learn about them."**
+Min: **"I have to, every Automata does."**
 
-Asoka: **"*But why do you care about understanding them? As far as I can tell, they're all just self-important jerks.*"**
-
-Min goes quiet, thoughtfully staring at the stars, ruminating on her answer. 
-
-Asoka: **"*Is it...because of Amadou? I noticed you have really similar back tattoos...*"**
-
-Min: **"Amadou, my gene father, has a bounty of 10,000 points on his head, and will never get anywhere near a Launch Station, much less get out into orbit."**
-
-Asoka: **"*Oh. Can I ask...what for?*"**
-
-Min: **"He killed an evil man, who happened to be a governor of the World Government."**
-
-### Page 12
+Asoka: **"*But why up there? Aren't you...scared?*"**
 
 Min traces the contours of the tree trunk beneath her hands. 
 
-Min: **"We say that 'to be autonomous is to be able to make *informed* and *un-coerced* decisions' -- and I don't think I can be fully informed or un-coerced if I don't understand the Orbiters...if I don't know what it's like to be up *there*. That's why I want to apply to the ISE Corps!"**
+Min: **"A bit...but not really. 'An Automata seeks to be *informed* and *un-coerced* in their decisions'... if I get to know the Orbiters, I'll be more informed and less coerced when deciding how to interact with them."**
+
+### Page 12
+
+Min grins widely and reaches up with both arms to feel the east wind. 
+
+Min: **"That's why I'm joining the ISE Corps!"**
 
 Asoka: **"*The ISE Corps?*"**
 
-Min stands in her excitement. 
+Min laughs with delight as her mohawk flutters in the gentle wind.
 
-Min: **"The International Space Exploration Corps! It's a school, usually only for Orbiters...but a few years ago they announced a 'Space Asylum Program', a scholarship for Earthers interested in space exploration! I'll make it into that program, no matter what it takes!"** 
+Min: **"The International Space Exploration Corps! It's usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers. And if you graduate top of your class, you get a free ride to Space University!"** 
 
-Min grins widely and reaches up with both arms to feel the east wind. Min laughs with delight as her mohawk whips about in the wind. 
+Asoka stares at Min, wide-eyed.  
 
-Asoka: **"*Understand the Orbiters...do you really think you can do that?*"**
+Asoka: **"*But...what if you fail?*"**
 
-Min turns to Asoka with a look of ferocious, gleeful determination. 
+Min turns to Asoka with a look of ferocious determination, grabbing their shoulder and looking almost angry. 
 
-Min: **"Only one way to find out, is there?"**
+Min: **"I have to take the chance. If I never make mistakes, if I'm not willing to get messy..."**
 
-Asoka stares at Min, open-mouthed. 
+Min looks up towards the untwinkling, bright lights of Orbiter vessels in the night sky. 
 
-Asoka: **"*But...what if the worst happens? What if you fail?*"**
-
-Min kneels in front of Asoka and looks at them with intense earnestness. 
-
-Min: **"Your elders must have failed many times before they made an eSyrup cloth as powerful as yours, but that wasn't the worst that could happen -- imagine if they hadn't even tried at all! You wouldn't be here, and I wouldn't be going on my First Quest."**
-
-Asoka: **"*But maybe then Pippa would still be alive...*"**
-
-Min: **"Maybe. But if they were, would they want you to spend the rest of your life feeling guilty about something that isn't your fault?"**
+Min: **"...then I'll never evolve!"**
 
 ## Diagram 7: Museum as a Lab
 
