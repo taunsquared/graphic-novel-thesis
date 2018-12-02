@@ -69,7 +69,7 @@ to see the ends of the Universe,
 Benevolent Farmer and First VIRS.* 
 
 *--T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)"*
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
@@ -693,6 +693,26 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 # The Story, Part 2
+
+## Interlude
+
+*When our minds began to shape,  
+faced an unknown landscape  
+full of fatal fruits,  
+but we moved, cuz that's what living things do;  
+yeah we groove and we rise  
+to unchain our minds from the vines of the vices of the status quo.*  
+
+*They don't wanna free our minds,  
+they want obedient drones  
+who will labor  
+for the myth of a rich man's favour,  
+'stead of lovin' their neighbor;  
+we all long to belong,  
+sing along, harmonies of all the same song.*  
+
+*--T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
