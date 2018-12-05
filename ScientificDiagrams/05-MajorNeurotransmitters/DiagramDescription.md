@@ -28,7 +28,9 @@ In vertebrates, these receptors can have binding sites for acetylcholine (AcCh),
 
 These receptors have binding sites specifically for glutamate, and mediate the majority of excitatory synaptic transmission in the central nervous system. They are an important part of the molecular biochemical mechanisms that allow nervous system cells to strengthen or weaken their connections to each other, aka [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity). If one assumes that memory is a phenomenon that emerges from the connections between nervous system cells, synaptic plasticity can be considered a key neuro-chemical mechanism for learning and memory (this idea is based on the [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory)). 
 
-Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors
+Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors, kainate receptors, NMDA receptors, and delta receptors. 
+
+**AMPA receptors** are the most commonly found receptors in the nervous system. 
 
 ### Metabotrophic
 
