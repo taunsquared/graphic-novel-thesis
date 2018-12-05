@@ -1,12 +1,16 @@
 # Major Neurotransmitters: "Big Picture" model of how neurotransmitters work
 
-## Which neurotransmitters are most often used
+**What is a neurotransmitter?**
+
+A neurotransmitter is any chemical that is created and released by a nervous system cell, which acts as a chemical messenger between a nervous system cell and another nervous system cell, muscle cell, or gland cell. 
+
+**Which neurotransmitters are most often used:**
 
 Central Nervous System --> Glutamate (excitatory), GABA (inhibitory)  
 Peripheral Nervous System (neuro-muscular junction) --> Acetylcholine  
 Enteric Nervous System --> Seratonin (often abbreviated as 5-HT)
 
-## How are the neurotransmitters used
+**How are neurotransmitters used:**
 
 [A single neuron can release multiple neurotransmitters](https://www.ncbi.nlm.nih.gov/books/NBK10818/). Once released, neurotransmitters can act on the post-synaptic cell in different ways depending on the post-synaptic cell's receptors. 
 
@@ -28,9 +32,11 @@ In vertebrates, these receptors can have binding sites for acetylcholine (AcCh),
 
 These receptors have binding sites specifically for glutamate, and mediate the majority of excitatory synaptic transmission in the central nervous system. They are an important part of the molecular biochemical mechanisms that allow nervous system cells to strengthen or weaken their connections to each other, aka [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity). If one assumes that memory is a phenomenon that emerges from the connections between nervous system cells, synaptic plasticity can be considered a key neuro-chemical mechanism for learning and memory (this idea is based on the [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory)). 
 
-Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors, kainate receptors, NMDA receptors, and delta receptors. 
+Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors, NMDA receptors, kainate receptors, and delta receptors. 
 
-**AMPA receptors** are the most commonly found receptors in the nervous system. 
+**AMPA receptors** are the most commonly found receptors in the nervous system. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. 
+
+**NMDA receptors** 
 
 ### Metabotrophic
 
