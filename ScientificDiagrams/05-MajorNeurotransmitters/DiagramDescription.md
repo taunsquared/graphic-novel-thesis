@@ -1,4 +1,40 @@
-# Major Neurotransmitters
+# Major Neurotransmitters: "Big Picture" model of how neurotransmitters work
+
+## Which neurotransmitters are most often used
+
+Central Nervous System --> Glutamate (excitatory), GABA (inhibitory)  
+Peripheral Nervous System (neuro-muscular junction) --> Acetylcholine  
+Enteric Nervous System --> Seratonin (often abbreviated as 5-HT)
+
+## How are the neurotransmitters used
+
+[A single neuron can release multiple neurotransmitters](https://www.ncbi.nlm.nih.gov/books/NBK10818/). Once released, neurotransmitters can act on the post-synaptic cell in different ways depending on the post-synaptic cell's receptors. 
+
+## 2 broad categories of neurotransmitter receptors
+
+### Ionotropic
+
+Ionotropic receptors are protein structures in the cell membrane that form an [ion channel pore](https://en.wikipedia.org/wiki/Ion_channel_pore). When a neurotransmitter binds to this receptor, the proteins create an opening for ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to travel into or out of the cell. 
+
+These receptors tend to cause very fast reactions in the post-synaptic cell (on the order of milliseconds), by either [depolarizing](https://en.wikipedia.org/wiki/Depolarization) the cell and causing an excitatory response, or by [hyperpolarizing](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell and causing an inhibitory response.  
+
+Ionotropic receptors are classified into 3 major groups, called "superfamilies": [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor), [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), and [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor). 
+
+#### Cys-loop receptors
+
+In vertebrates, these receptors can have binding sites for acetylcholine (AcCh), serotonin, glycine, glutamate and γ-aminobutyric acid (GABA). 
+
+#### Ionotropic glutamate receptors
+
+These receptors have binding sites specifically for glutamate, and mediate the majority of excitatory synaptic transmission in the central nervous system. They are an important part of the molecular biochemical mechanisms that allow nervous system cells to strengthen or weaken their connections to each other, aka [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity). If one assumes that memory is a phenomenon that emerges from the connections between nervous system cells, synaptic plasticity can be considered a key neuro-chemical mechanism for learning and memory (this idea is based on the [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory)). 
+
+Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors
+
+### Metabotrophic
+
+
+
+# More details (old stuff)
 
 ## Amino acids
 
