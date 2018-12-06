@@ -22,11 +22,7 @@ Ionotropic receptors are protein structures in the cell membrane that form an [i
 
 These receptors tend to cause very fast reactions in the post-synaptic cell (on the order of milliseconds), by either [depolarizing](https://en.wikipedia.org/wiki/Depolarization) the cell and causing an excitatory response, or by [hyperpolarizing](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell and causing an inhibitory response.  
 
-Ionotropic receptors are classified into 3 major groups, called "superfamilies": [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor), [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), and [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor). 
-
-#### Cys-loop receptors
-
-In vertebrates, these receptors can have binding sites for acetylcholine (AcCh), serotonin, glycine, glutamate and γ-aminobutyric acid (GABA). 
+Ionotropic receptors are classified into 3 major groups, called "superfamilies": [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor), and [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor). 
 
 #### Ionotropic glutamate receptors
 
@@ -34,13 +30,19 @@ These receptors have binding sites specifically for glutamate, and mediate the m
 
 Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors, NMDA receptors, kainate receptors, and delta receptors. 
 
-**AMPA receptors** are the most commonly found receptors in the nervous system. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. 
+**AMPA receptors** are the most commonly found receptors in the nervous system. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. These receptors were named AMPA receptors because they can be activated by α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), an artificial chemical compound whose structure is similar to glutamate. 
 
-**NMDA receptors** 
+**NMDA receptors** are excitatory receptors that raise the electrical potential of the cell by allowing both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. 
+
+require the simultaneous binding of 2 molecules (a glutamate molecule and either D-serine or glycine) *and* a change in voltage to open up into a channel for both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. The change in voltage, usually depolarization, removes the magnesium (Mg2+) or zinc (Zn2+) ion that blocks the channel created by NMDA receptors. 
 
 ### Metabotrophic
 
 
+
+#### Cys-loop receptors
+
+In vertebrates, these receptors can have binding sites for acetylcholine (AcCh), serotonin, glycine, glutamate and γ-aminobutyric acid (GABA). 
 
 # More details (old stuff)
 
