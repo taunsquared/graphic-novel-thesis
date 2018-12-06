@@ -22,23 +22,33 @@ Ionotropic receptors are protein structures in the cell membrane that form an [i
 * [depolarizes](https://en.wikipedia.org/wiki/Depolarization) the cell, causes an excitatory response; or 
 * [hyperpolarizes](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell, causing an inhibitory response.  
 
-Ionotropic receptors are classified into 3 major groups, called "superfamilies": [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor), and [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor). 
+*Question: do ionotropic receptors ALWAYS cause an action potential, or do they also mediate graded potentials?*
+
+Ionotropic receptors are involved in signals between cells that require quick responses, as they open and shut quickly (on the order of milliseconds). Ionotropic receptors are classified into 3 major groups, called "superfamilies": 
+* [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), 
+* [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor), and 
+* [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor). 
 
 #### Ionotropic glutamate receptors
 
-These receptors have binding sites specifically for glutamate, and mediate the majority of excitatory synaptic transmission in the central nervous system. They are an important part of the molecular biochemical mechanisms that allow nervous system cells to strengthen or weaken their connections to each other, aka [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity). If one assumes that memory is a phenomenon that emerges from the connections between nervous system cells, synaptic plasticity can be considered a key neuro-chemical mechanism for learning and memory (this idea is based on the [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory)). 
+These receptors have binding sites specifically for glutamate, and mediate the majority of excitatory synaptic transmission in the central nervous system. They are an important part of the molecular biochemical mechanisms that allow nervous system cells to strengthen or weaken their connections to each other, aka [**synaptic plasticity**](https://en.wikipedia.org/wiki/Synaptic_plasticity). If one assumes that memory is a phenomenon that emerges from the connections between nervous system cells, synaptic plasticity can be considered a key neuro-chemical mechanism for learning and memory (this idea is based on the [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory)). 
 
-Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors, NMDA receptors, kainate receptors, and delta receptors. 
+Ionotropic glutamate receptors can be divided into 3 major subtypes: NMDA receptors, AMPA receptors, and "Others". 
 
-**AMPA receptors** are the most commonly found receptors in the nervous system and is the main receptor involved in fast (on the order of milliseconds) exchanges of neurotransmitters at synapses. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. These receptors were named AMPA receptors because they can be activated by α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), an artificial chemical compound whose structure is similar to glutamate. 
-
-**NMDA receptors** are excitatory receptors that raise the electrical potential of the cell by allowing both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. The influx of Ca2+ can trigger numerous chemical chain reactions within the cell, which can eventually activate or deactivate certain enzymes, and even change protein expression. In order to activate NMDA receptors, 2 things need to happen: 
+**NMDA receptors** are excitatory receptors that raise the electrical potential of the cell by allowing both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. The influx of Ca2+ can trigger numerous chemical chain reactions within the cell, which can eventually activate or deactivate certain enzymes, and can even change the types of protein channels in the cell's membrane. These receptors are called "NMDA receptors" because the synthetic substance N-methyl-D-aspartate binds to and regulates **only** these receptors, and has no effect on any other glutamate receptors.  
+In order to activate NMDA receptors, 2 things need to happen: 
 * both a glutamate molecule, and either D-serine or glycine molecule, must bind to the receptor simultaneously; *and* 
 * electrical activity in the cell needs to change the voltage from baseline, in order to dislodge the magnesium (Mg2+) or zinc (Zn2+) ion that blocks the ion channel created by NMDA receptors while the cell is not electrically active (aka while the cell is at [resting potential](https://en.wikipedia.org/wiki/Resting_potential)). 
 
+**AMPA receptors** are the most commonly found receptors in the nervous system. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. This generates the necessary electrical activity to un-block NMDA receptors, and the influx of Ca2+ through NMDA channels can increase the number of AMPA receptors in the cell membrane; thus, AMPA and NMDA receptors work together to generate long-term changes to the connections between nervous system cells (a slow increase in the strength of a connection is called [long-term potentiation, or LTP](https://en.wikipedia.org/wiki/Long-term_potentiation), and a slow decrease in the strength of a connection is called [long-term depression, or LTD](https://en.wikipedia.org/wiki/Long-term_depression)). These receptors were named "AMPA receptors" because they can be activated by α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), an artificial chemical compound whose structure is similar to glutamate. 
+
+Much less is known about other ionotropic glutamate receptors; one example is kainate receptors. 
+
+**Kainate receptors** are very similar to AMPA receptors but are less involved in synaptic plasticity. Both sodium (Na+) and potassium (K+) ions can pass through the ion channels created by kainate receptors. They are named after kainic acid, a synthetic compound derived from seaweed, which selectively binds to these receptors. 
+
 ### Metabotrophic
 
-
+Instead of creating an ion channel in the cell membrane, metabotrophic receptors, when activated, trigger the cell to generate intracellular signalling molecules called "second messengers" (the chemicals that activate the receptors from outside the cell are called the "first messengers"). Metabotrophic receptors take much longer to open than ionotropic receptors, and they also stay open much longer, on the order of seconds to minutes. 
 
 #### Cys-loop receptors
 
