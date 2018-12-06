@@ -2,9 +2,9 @@
 
 **What is a neurotransmitter?**
 
-A neurotransmitter is any chemical that is created and released by a nervous system cell, which acts as a chemical messenger between a nervous system cell and another nervous system cell, muscle cell, or gland cell. 
+A neurotransmitter is any chemical that is created and released by a nervous system cell, which acts as a chemical messenger between a nervous system cell and another nervous system cell, muscle cell, or gland cell. When a chemical messenger is released in a synapse (places where the membranes of nervous system cells get very close to each other, allowing cells to very specifically and quickly target other cells), it has historically been labeled as a neurotransmitter. When a chemical messenger is released into extracellular space that is outside of a synapse, where the targeting is less specific and reactions are much slower, these chemicals have historically been labeled as neuromodulators. Some chemical messengers act as both neurotransmitters and neuromodulators. 
 
-**Which neurotransmitters are most often used:**
+**Which neurotransmitters are most often used, and where:**
 
 Central Nervous System --> Glutamate (excitatory), GABA (inhibitory)  
 Peripheral Nervous System (neuro-muscular junction) --> Acetylcholine  
@@ -18,9 +18,9 @@ Enteric Nervous System --> Seratonin (often abbreviated as 5-HT)
 
 ### Ionotropic
 
-Ionotropic receptors are protein structures in the cell membrane that form an [ion channel pore](https://en.wikipedia.org/wiki/Ion_channel_pore). When a neurotransmitter binds to this receptor, the proteins create an opening for ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to travel into or out of the cell. 
-
-These receptors tend to cause very fast reactions in the post-synaptic cell (on the order of milliseconds), by either [depolarizing](https://en.wikipedia.org/wiki/Depolarization) the cell and causing an excitatory response, or by [hyperpolarizing](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell and causing an inhibitory response.  
+Ionotropic receptors are protein structures in the cell membrane that form an [ion channel pore](https://en.wikipedia.org/wiki/Ion_channel_pore). When a neurotransmitter binds to this receptor, the proteins create an opening for ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to travel into or out of the cell. This movement of ions either 
+* [depolarizes](https://en.wikipedia.org/wiki/Depolarization) the cell, causes an excitatory response; or 
+* [hyperpolarizes](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell, causing an inhibitory response.  
 
 Ionotropic receptors are classified into 3 major groups, called "superfamilies": [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor), and [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor). 
 
@@ -30,11 +30,11 @@ These receptors have binding sites specifically for glutamate, and mediate the m
 
 Ionotropic glutamate receptors can be divided into 4 major subtypes: AMPA receptors, NMDA receptors, kainate receptors, and delta receptors. 
 
-**AMPA receptors** are the most commonly found receptors in the nervous system. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. These receptors were named AMPA receptors because they can be activated by α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), an artificial chemical compound whose structure is similar to glutamate. 
+**AMPA receptors** are the most commonly found receptors in the nervous system and is the main receptor involved in fast (on the order of milliseconds) exchanges of neurotransmitters at synapses. When glutamate binds to AMPA receptors, they open up a channel through which sodium ions flow into the cell and cause the cell to depolarize. These receptors were named AMPA receptors because they can be activated by α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA), an artificial chemical compound whose structure is similar to glutamate. 
 
-**NMDA receptors** are excitatory receptors that raise the electrical potential of the cell by allowing both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. 
-
-require the simultaneous binding of 2 molecules (a glutamate molecule and either D-serine or glycine) *and* a change in voltage to open up into a channel for both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. The change in voltage, usually depolarization, removes the magnesium (Mg2+) or zinc (Zn2+) ion that blocks the channel created by NMDA receptors. 
+**NMDA receptors** are excitatory receptors that raise the electrical potential of the cell by allowing both sodium (Na+) and calcium (Ca2+) ions to flow into the cell. The influx of Ca2+ can trigger numerous chemical chain reactions within the cell, which can eventually activate or deactivate certain enzymes, and even change protein expression. In order to activate NMDA receptors, 2 things need to happen: 
+* both a glutamate molecule, and either D-serine or glycine molecule, must bind to the receptor simultaneously; *and* 
+* electrical activity in the cell needs to change the voltage from baseline, in order to dislodge the magnesium (Mg2+) or zinc (Zn2+) ion that blocks the ion channel created by NMDA receptors while the cell is not electrically active (aka while the cell is at [resting potential](https://en.wikipedia.org/wiki/Resting_potential)). 
 
 ### Metabotrophic
 
