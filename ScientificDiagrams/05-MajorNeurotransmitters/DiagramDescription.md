@@ -7,8 +7,9 @@ A neurotransmitter is any chemical that is created and released by a nervous sys
 **Which neurotransmitters are most often used, and where:**
 
 Central Nervous System --> Glutamate (excitatory), GABA (inhibitory)  
-Peripheral Nervous System (neuro-muscular junction) --> Acetylcholine  
-Enteric Nervous System --> Seratonin (often abbreviated as 5-HT)
+Peripheral Nervous System, Somatic --> Acetylcholine  
+Peripheral Nervous System, Autonomic --> Acetylcholine, Norepinephrine, Epinephrine, Dopamine  
+[Enteric Nervous System](https://en.wikipedia.org/wiki/Enteric_nervous_system) --> Acetylcholine, Dopamine, Seratonin (often abbreviated as 5-HT)
 
 **How are neurotransmitters used:**
 
@@ -75,7 +76,7 @@ Examples:
 * [neuropeptide receptors](https://en.wikipedia.org/wiki/Neuropeptide)
 * [endocannabinoid receptors](https://en.wikipedia.org/wiki/Endocannabinoids)
 
-# More details (old stuff)
+# More details on neurotransmitters (old stuff)
 
 ## Amino acids
 
@@ -188,6 +189,5 @@ Examples: ATP, adenosine
 
 ## Other
 
-we are still discovering new neurotransmitters! And often they don't fit into any of the categories mentioned above. 
-
-Example: acetylcholine (used at neuromuscular junction, released by motor neurons to activate muscles). 
+* acetylcholine (used at neuromuscular junction, released by motor neurons to activate muscles). 
+* We are still discovering new neurotransmitters! And often they don't fit into any of the categories mentioned above. 
