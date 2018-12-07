@@ -14,7 +14,7 @@ Enteric Nervous System --> Seratonin (often abbreviated as 5-HT)
 
 [A single neuron can release multiple neurotransmitters](https://www.ncbi.nlm.nih.gov/books/NBK10818/). Once released, neurotransmitters can act on the post-synaptic cell in different ways depending on the post-synaptic cell's receptors. 
 
-## 2 broad categories of neurotransmitter receptors
+## 2 broad categories of neurotransmitter receptors: Ionotropic and Metabotrophic
 
 ### Ionotropic
 
@@ -24,10 +24,12 @@ Ionotropic receptors are protein structures in the cell membrane that form an [i
 
 *Question: do ionotropic receptors ALWAYS cause an action potential, or do they also mediate graded potentials?*
 
-Ionotropic receptors are involved in signals between cells that require quick responses, as they open and shut quickly (on the order of milliseconds). Ionotropic receptors are classified into 3 major groups, called "superfamilies": 
+Ionotropic receptors are involved in signals between cells that require quick responses, as they open and shut quickly (on the order of milliseconds). Ionotropic receptors include: 
 * [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), 
-* [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor), and 
-* [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor). 
+* [GABA receptors](https://en.wikipedia.org/wiki/GABAA_receptor),
+* [ATP-gated channels](https://en.wikipedia.org/wiki/P2X_purinoreceptor),  
+* [cys-loop receptors](https://en.wikipedia.org/wiki/Cys-loop_receptor), and
+* [PIP2-gated channels](https://en.wikipedia.org/wiki/Ligand-gated_ion_channel#PIP2-gated_channels)
 
 #### Ionotropic glutamate receptors
 
@@ -46,13 +48,32 @@ Much less is known about other ionotropic glutamate receptors; one example is ka
 
 **Kainate receptors** are very similar to AMPA receptors but are less involved in synaptic plasticity. Both sodium (Na+) and potassium (K+) ions can pass through the ion channels created by kainate receptors. They are named after kainic acid, a synthetic compound derived from seaweed, which selectively binds to these receptors. 
 
-### Metabotrophic
-
-Instead of creating an ion channel in the cell membrane, metabotrophic receptors, when activated, trigger the cell to generate intracellular signalling molecules called "second messengers" (the chemicals that activate the receptors from outside the cell are called the "first messengers"). Metabotrophic receptors take much longer to open than ionotropic receptors, and they also stay open much longer, on the order of seconds to minutes. 
+#### ATP-gated channels
 
 #### Cys-loop receptors
 
 In vertebrates, these receptors can have binding sites for acetylcholine (AcCh), serotonin, glycine, glutamate and γ-aminobutyric acid (GABA). 
+
+Most seratonin receptors are metabotrophic (G protein-coupled receptors). The only ionotropic seratonin receptor is called the [5-HT3 receptor](https://en.wikipedia.org/wiki/5-HT3_receptor). 
+
+#### PIP2-gated channels
+
+### Metabotrophic
+
+Instead of creating an ion channel in the cell membrane, metabotrophic receptors, when activated, trigger the cell to generate intracellular signalling molecules called "second messengers" (the chemicals that activate the receptors from outside the cell are called the "first messengers"). Metabotrophic receptors take much longer to open than ionotropic receptors, and they also stay open much longer, on the order of seconds to minutes. 
+
+Examples: 
+* [G protein-coupled receptors](https://en.wikipedia.org/wiki/G_protein-coupled_receptors)
+* [metabotrophic glutamate receptors](https://en.wikipedia.org/wiki/Metabotropic_glutamate_receptor)
+* [muscarinic acetylcholine receptors](https://en.wikipedia.org/wiki/Muscarinic_acetylcholine_receptor)
+* [GABA-B receptors](https://en.wikipedia.org/wiki/GABA-B_receptor)
+* [most seratonin receptors](https://en.wikipedia.org/wiki/Serotonin)
+* [norepinephrine receptors](https://en.wikipedia.org/wiki/Norepinephrine)
+* [epinephrine receptors](https://en.wikipedia.org/wiki/Epinephrine)
+* [histamine receptors](https://en.wikipedia.org/wiki/Histamine)
+* [dopamine receptors](https://en.wikipedia.org/wiki/Dopamine)
+* [neuropeptide receptors](https://en.wikipedia.org/wiki/Neuropeptide)
+* [endocannabinoid receptors](https://en.wikipedia.org/wiki/Endocannabinoids)
 
 # More details (old stuff)
 
