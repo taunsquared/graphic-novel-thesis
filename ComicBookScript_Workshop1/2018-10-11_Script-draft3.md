@@ -337,15 +337,15 @@ Felix: **"Vamos, Breno! *Nenhum* de nós venderia para Space Consortium."**
 
 ### Page 8
 
-Breno, smiles ruefully, eyes pitying: **"Oh sim? Esse dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia."**
+Breno, sadly rueful, eyes pitying: **"Esse dinheiro daria a minha mãe a mesma qualidade de tratamento que seu pai recebe de graça na Suécia."**
 
-*translation: "Oh yeah? That money would give my mother the same quality of treatment that your father gets for free in Sweden."*
+*translation: "That money would give my mother the same quality of treatment that your father gets for free in Sweden..."*
 
-Felix: **"Então coisa boa Majhee está pagando subornos dos médicos para sua mãe, no?!"**
+Kai: **"E é por isso o laboratório paga subornos dos médicos para sua mãe."**
 
-*translation: "So good thing Majhee is paying the doctors' bribes for your mother, no?!"*
+*translation: "And that's why the lab pays doctors' bribes for your mother."*
 
-We see the circle of researchers sitting in silence, Kai and Beatriz watching Breno and Felix nervously, Nova looking at Iara uncomfortably, Vec looking at Majhee, everyone betraying varying degrees of discomfort and fear. Over this view, Majhee speaks...
+We see the circle of researchers sitting in silence, everyone betraying varying degrees of discomfort and fear. Over this view, Majhee speaks...
 
 Majhee: **"Trabalho neste projeto, nesta cidade, agora...é verdade, é *muito* arriscado. Se precisar sair, eu vou tirar você e sua família desta cidade e fora do radar do Space Consortium."**
 
