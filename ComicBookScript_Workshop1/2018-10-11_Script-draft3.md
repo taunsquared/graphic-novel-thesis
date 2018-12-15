@@ -355,7 +355,7 @@ We see now the protesters outside, their desperate, hungry faces. They hold sign
 
 *translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
 
-Majhee: **"Mas se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium.
+Majhee: **"Mas se nós não começ estes protocolos de eSyrup no domínio público, muitos sofrerão porque não podem pagar o preço do Space Consortium."**
 
 *translation: "But if we don't get these eSyrup protocols into the public domain, many will suffer because they can't pay Space Consortium's price."*
 
