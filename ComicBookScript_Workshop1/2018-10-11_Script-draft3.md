@@ -341,7 +341,7 @@ Breno, sadly rueful, eyes pitying: **"Esse dinheiro daria a minha mãe a mesma q
 
 *translation: "That money would give my mother the same quality of treatment that your father gets for free in Sweden..."*
 
-Kai: **"E é por isso o laboratório paga subornos dos médicos para sua mãe."**
+Majhee: **"E é por isso o laboratório paga subornos dos médicos para sua mãe."**
 
 *translation: "And that's why the lab pays doctors' bribes for your mother."*
 
