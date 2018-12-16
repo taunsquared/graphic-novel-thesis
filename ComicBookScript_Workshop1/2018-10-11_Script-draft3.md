@@ -349,7 +349,7 @@ We see the circle of researchers sitting in silence, everyone betraying varying 
 
 Majhee: **"Trabalho neste projeto, nesta cidade, agora...é verdade, é *muito* arriscado. Se precisar sair, eu vou tirar você e sua família desta cidade e fora do radar do Space Consortium."**
 
-*translation: "Working on this project, in this city, right now...it's true, it's **very** risky. If you need to leave, I will get you and your family get out of this city and off Space Consortium's radar."*
+*translation: "Working on this project, in this city, right now...it's true, it's **very** risky. If you need to leave, I will get you and your family out of this city and off Space Consortium's radar."*
 
 We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
 
