@@ -453,7 +453,7 @@ Iúna: **"*The first successful splice of eSyrup with living cells - eSyrup *bio
 
 Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*"**
 
-Iúna: **"* Remember the mechapet idea? *It's possible now!!*"**
+Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 
 ## Diagram 1: Neuron Classification by Structure and Major Glial Cell Types
 
