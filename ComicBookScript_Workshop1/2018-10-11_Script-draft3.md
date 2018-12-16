@@ -441,9 +441,9 @@ Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"*
 
 Tahoe: **"*Seriously?*"**
 
-Iúna: **"*Yes. Pigsah was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children *won't* have any choice. They'll need body mods just to *survive*."**
+Iúna: **"*Yes. Pigsah was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children *won't* have any choice. They'll need body mods just to *survive."**
 
-Tahoe: **"*But...doesn't that feel too much like a *cult*??"**
+Tahoe: **"*But...doesn't that feel too much like a *cult??"**
 
 Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last month?*"**
 
