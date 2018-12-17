@@ -1170,9 +1170,9 @@ Character designs: Asoka Morei, Iri, Minka Oosou
 
 We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
-### Page 2
-
 Asoka: *"Alright, 4 hours until sunrise..."*
+
+### Page 2
 
 Asoka stretches, trying to get rid of the stiffness of hiding in a bilge for over a week.
 
