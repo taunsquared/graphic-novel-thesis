@@ -1240,7 +1240,7 @@ The sun is at its zenith. The air sizzles with heat, but Asoka and Iri are about
 
 Asoka quickly trudges into a dense grove, clearly uncomfortable and at the end of their strength. 
 
-Iri: *"Wow, that is **hot!!!**"*
+Iri: *"Wow, it is **hot!!!**"*
 
 On Asoka's face veil, outside temperature reads 52.8 deg celsius, and the temperature inside their outfit now reads 27.7 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Methane, CO2, and NO2 levels have dropped beneath 'fatally toxic', but the suit is unable to update the local atmospheric content in the grove due to its low power status. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
