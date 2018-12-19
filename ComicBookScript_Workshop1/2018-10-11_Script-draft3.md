@@ -1382,11 +1382,11 @@ Figure: **"O que é isso?"**
 
 The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
 
+### Page 12
+
 Figure: **"Merda--!!"**
 
 *translation: "Shit--!!"*
-
-### Page 12
 
 Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
