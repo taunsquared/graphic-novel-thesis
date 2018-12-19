@@ -1364,9 +1364,9 @@ Figure: **"O que você quer??"**
 
 ### Page 11
 
-Asoka: **"Por favor, um exército está vindo para te matar!"**
+Asoka: **"Um exército está vindo para te matar!"**
 
-*translation: "Please, an army is coming to kill you!"*
+*translation: "An army is coming to kill you!"*
 
 Figure: **"Mentiroso!!"**
 
