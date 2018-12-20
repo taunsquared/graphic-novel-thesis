@@ -824,11 +824,11 @@ Pippa beams with joy and gratitude.
 
 Pippa: **"*Really? Yes!*"**
 
+### Page 6
+
 Pippa runs off, crow mechapet flying overhead. 
 
 Pippa: **"*Thanks Soka! Come on Manut!*"**
-
-### Page 6
 
 Asoka looks at their cuttlefish mechapet, hands resolutely on their hips. 
 
