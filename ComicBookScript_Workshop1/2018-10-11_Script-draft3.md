@@ -788,6 +788,8 @@ Asoka: **"*You got this!*"**
 
 ### Page 4
 
+The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse.
+
 Asoka: **"*Wanna know a secret to making your luck better?*"**
 
 Pippa: **"*Yes!*"**
@@ -798,11 +800,11 @@ Pippa: **"*The worst?!*"**
 
 Asoka: **"*Then think about how you would get what you want even if you had the worst luck, and shout in your head, 'I don't care if the worst happens! I can handle it!!'*"**
 
-### Page 5
-
 Asoka: **"*Then the bad luck gets scared, and knows it can't have fun with you.*"**
 
-The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse. 
+### Page 5
+
+Iri and Manut play, as Asoka turns towards a delicious smell floating up the valley towards them. 
 
 Asoka: **"*Smells like Jeshua's making butter buns today...*"**
 
