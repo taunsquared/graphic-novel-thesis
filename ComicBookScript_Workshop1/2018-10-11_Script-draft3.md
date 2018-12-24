@@ -52,6 +52,8 @@
 
   * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#dream-the-last-comma-not-a-period)
   
+  * [Epilogue](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#epilogue)
+  
 * [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#map-of-locations-important-to-the-story)
 
 * [notes](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#notes)
@@ -59,6 +61,32 @@
 # The Story, Part 1
 
 ## Prologue
+
+*Little by little the night turns around  
+Counting the leaves which tremble at dawn  
+Lotuses lean on each other in yearning  
+Under the eaves the swallow is resting*
+
+*Set the controls for the heart of the sun*
+
+*Over the mountain watching the watcher  
+Breaking the darkness  
+Waking the grapevine  
+One inch of love is one inch of shadow  
+Love is the shadow that ripens the wine*
+
+*Set the controls for the heart of the sun  
+The heart of the sun, the heart of the sun*
+
+*Witness the man who raves at the wall  
+Making the shape of his questions to Heaven  
+Whether the sun will fall in the evening  
+Will he remember the lesson of giving?*
+
+*Set the controls for the heart of the sun  
+The heart of the sun, the heart of the sun*
+
+*--Pink Floyd,1968.*
 
 *They are the Architect and Engineer  
 who longed for space, longed for space  
@@ -697,6 +725,20 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 # The Story, Part 2
 
 ## Interlude
+
+*They are the Architect and Engineer  
+who longed for space, longed for space  
+to hold the Planet dear,  
+the Architect and Engineer.*
+
+*Benevolent Farmer and First VIRS  
+who longed for space, longed for space  
+to see the ends of the Universe,  
+Benevolent Farmer and First VIRS.* 
+
+*--T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+
 
 *When our minds began to shape,  
 faced an unknown landscape  
@@ -1994,6 +2036,26 @@ Min throws back her head in a full-throated laugh.
 Min: **"Deal! See you in orbit!"**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
+
+## Epilogue
+
+*When our minds began to shape,  
+faced an unknown landscape  
+full of fatal fruits,  
+but we moved, cuz that's what living things do;  
+yeah we groove and we rise  
+to unchain our minds from the vines of the vices of the status quo.*  
+
+*They don't wanna free our minds,  
+they want obedient drones  
+who will labor  
+for the myth of a rich man's favour,  
+'stead of lovin' their neighbor;  
+we all long to belong,  
+sing along, harmonies of all the same song.*  
+
+*--T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 # Map of locations important to the Story
 
