@@ -88,19 +88,6 @@ The heart of the sun, the heart of the sun*
 
 *--Pink Floyd,1968.*
 
-*They are the Architect and Engineer  
-who longed for space, longed for space  
-to hold the Planet dear,  
-the Architect and Engineer.*
-
-*Benevolent Farmer and First VIRS  
-who longed for space, longed for space  
-to see the ends of the Universe,  
-Benevolent Farmer and First VIRS.* 
-
-*--T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
-
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript_Workshop1/2018-10-11_Script-draft3.md#table-of-contents)
 
 ## Dream 1: Nostalgia
