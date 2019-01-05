@@ -2,7 +2,7 @@
 
 ## Action vs Graded Potential
 
-### Action Potential
+### Action Potential - important for LONG DISTANCE neural communication, aka between regions of the brain or to connect peripheral neural circuits to the brain
 
 Also known as a "nerve impulse", "spike", or "when a neuron fires". Occurs when the membrane potential of a specific axon location rapidly rises and falls due to the movement of charged particles. An action potential follows the physiological principle ["all or none"](https://en.wikipedia.org/wiki/All-or-none_law), meaning that if an incoming signal does not push the membrane potential past a certain threshold, no "spike" will occur. 
 
@@ -12,7 +12,7 @@ Also known as a "nerve impulse", "spike", or "when a neuron fires". Occurs when 
 * the ions are able to cross the cell membrane thanks to voltage-gated protein channels, specific to each ion
 * a sodium-potassium pump uses Adenosine Tri-phosphate (ATP, a molecule used for energy by all living cells) to push sodium and potassium ions against their concentration gradient to create the "resting potential"
 
-### [Graded Potential](https://en.wikipedia.org/wiki/Graded_potential)
+### [Graded Potential](https://en.wikipedia.org/wiki/Graded_potential) - used for most connections between neurons, especially for sensory neurons in sensory organs and for very short distance connections within regions of the brain
 
 These are changes to the membrane potential that vary in size and do NOT follow the principle of "all-or-none". 
 
@@ -31,3 +31,14 @@ Synapse - a biological junction that lets neurons exchange signals with each oth
 * the influx of calcium ions triggers the vesicles to fuse to the axon terminal membrane and release their neurotransmitters into the synaptic cleft
 * the neurotransmitters bind to receptor proteins on the post-synaptic membrane, which can trigger a number of actions by the post-synaptic cell
 * glial cells called astrocytes collect neurotransmitters from the synaptic cleft and break them down into nutrients that can be fed back to neurons
+
+### Astrocytes - the unsung heroes of synapses
+
+* most abundant macroglia in CNS
+* link neurons to blood supply while helping form blood-brain barrier
+* remove excess K+ from around neurons
+* recycle neurotransmitters released during synaptic transmission
+* signal to each other using ATP
+* 2 main physiological forms:
+  * protoplasmic - short, thick, highly branched processes. Most often found in grey matter.
+  * fibrons - long, thin, less branched processes. Most often found in white matter. 
