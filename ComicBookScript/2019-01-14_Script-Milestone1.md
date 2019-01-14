@@ -1,4 +1,4 @@
-# Script Draft 3
+# Script Milestone 01
 
 **NAMES IN BOLD AND ALL CAPS ARE PLACEHOLDERS**
 
