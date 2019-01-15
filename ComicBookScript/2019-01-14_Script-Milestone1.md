@@ -1475,7 +1475,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 ### Page 1
 
-We see Min peering after the rampaging military tanks, standing confidently at the tippy top of a tall emergent tree, giving her a bird's eye view across the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
+Min peers after the rampaging military tanks, standing confidently at the tippy top of a tall emergent tree, giving her a bird's eye view across the available canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
 
@@ -1499,7 +1499,7 @@ Min: *"Since when is 'The First Quest shall be of the Reborn's choosing' a confu
 
 ### Page 3
 
-We see Nicola stand and stretch on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from the edge. 
+Nicola stands and stretches on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from her feet to the edge. 
 
 Nicola: *"They weren't wrong. It's a big risk to take, and there's no 'undo' button. What's their pace?"*
 
@@ -1529,11 +1529,11 @@ Asoka: **"*I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of
 
 *--flashback--*
 
-We see, once more, Asoka clutching Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
+Asoka clutches Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
 Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
-We see Iri trying to get Asoka to look at it, to stop, as Asoka, eyes wide with terror and shock, slowly steps down the mountain.
+Iri tries to get Asoka to look at it, to stop, as Asoka, eyes wide with terror and shock, slowly steps down the mountain.
 
 Asoka: **"*Dad*..."**
 
@@ -1571,7 +1571,7 @@ Asoka is running and can't help looking back over their shoulder. We see the Bea
 
 ### Page 8
 
-We are back in the Amazon, up in the tree with Min. Min is no longer grinning. Asoka is looking up at Min, tears streaming down their face. 
+Back in the Amazon, up in the tree with Min. Min is no longer grinning. Asoka is looking up at Min, tears streaming down their face. 
 
 Asoka: **"*That's why we have to hurry!!*"**
 
