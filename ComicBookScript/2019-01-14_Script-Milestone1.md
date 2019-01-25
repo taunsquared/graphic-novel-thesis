@@ -577,7 +577,7 @@ The orderly protest crowds in front of the Laboratório Nacional de Biociências
 
 **"...1 month ago, when all the supermarkets started opening just once a week instead of every day, Breno moved with his mother back to her hometown, just north of Brasilia..."**
 
-**"...and 11 days ago, hours after celebrating the birth of Nimh, the first full mouse spliced with raw eSyrup, Iara was found on a rooftop in Centro, seemingly shot through the skull, but the bullet was never found..."**
+**"...and 11 days ago, hours after celebrating the birth of Nimh, the first mouse spliced with raw eSyrup, Iara's body was found on a rooftop in Centro..."**
 
 ### Page 6
 
