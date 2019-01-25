@@ -597,17 +597,17 @@ Majhee: **"Qual é a condição dela?"**
 
 *translation: "What's her condition?"*
 
-Vec: **"Há um vazamento, seu esofagus e traqueia não se juntam corretamente. Eu não acho que [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) é um vetor viável!"**
+Vec: **"Seu esofagus e traqueia não se juntam corretamente. Eu não acho que [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) é um vetor viável!"**
 
-*translation: "There's a leak, her esophogus and trachea didn't join properly. I don't think [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) is a viable vector!"*
+*translation: "Her esophogus and trachea didn't join properly. I don't think [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) is a viable vector!"*
 
 ### Page 7
 
 Majhee places a hand on Vec's shoulder to calm him. 
 
-Majhee: **"Que grande vazamento? Podemos remendá-lo?"**
+Majhee: **"Que grande é vazamento? Podemos remendá-lo?"**
 
-*translation: "How big of a leak? Can we patch it?"*
+*translation: "How big is the leak? Can we patch it?"*
 
 Vec: **"É fino, mas *longo*. Nova quer tentar, mas Kai e Beatriz acho que vai demorar muito tempo."**
 
