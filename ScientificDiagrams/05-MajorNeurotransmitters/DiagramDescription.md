@@ -19,11 +19,9 @@ Peripheral Nervous System, Autonomic --> Acetylcholine, Norepinephrine, Epinephr
 
 ### Ionotropic
 
-Ionotropic receptors are protein structures in the cell membrane that form an [ion channel pore](https://en.wikipedia.org/wiki/Ion_channel_pore). When a neurotransmitter binds to this receptor, the proteins create an opening for ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to travel into or out of the cell. This movement of ions either 
-* [depolarizes](https://en.wikipedia.org/wiki/Depolarization) the cell, causes an excitatory response; or 
-* [hyperpolarizes](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell, causing an inhibitory response.  
-
-*Question: do ionotropic receptors ALWAYS cause an action potential, or do they also mediate graded potentials?*
+Ionotropic receptors are protein structures in the cell membrane that form an [ion channel pore](https://en.wikipedia.org/wiki/Ion_channel_pore). When a neurotransmitter binds to this receptor, the proteins create an opening for ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to travel into or out of the cell. This movement of ions cause graded potentials that either 
+* [depolarizes](https://en.wikipedia.org/wiki/Depolarization) the cell, causing an excitatory response that makes it **more** likely that the cell will fire an action potential; or 
+* [hyperpolarizes](https://en.wikipedia.org/wiki/Hyperpolarization_(biology)) the cell, causing an inhibitory response that makes it **less** likely to fire an action potential.  
 
 Ionotropic receptors are involved in signals between cells that require quick responses, as they open and shut quickly (on the order of milliseconds). Ionotropic receptors include: 
 * [ionotropic glutamate receptors](https://en.wikipedia.org/wiki/Glutamate-gated_ion_channel_family), 
@@ -50,6 +48,8 @@ Much less is known about other ionotropic glutamate receptors; one example is ka
 **Kainate receptors** are very similar to AMPA receptors but are less involved in synaptic plasticity. Both sodium (Na+) and potassium (K+) ions can pass through the ion channels created by kainate receptors. They are named after kainic acid, a synthetic compound derived from seaweed, which selectively binds to these receptors. 
 
 #### ATP-gated channels
+
+These receptors open when extracellalar adenosine 5'-triphosphate (aka ATP) binds to them. These receptors are found on nerve terminals, glial cells, muscle cells, leukocytes (aka white blood cells), and blood platelets. 
 
 #### Cys-loop receptors
 
