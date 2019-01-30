@@ -615,15 +615,15 @@ Vec: **"É fino, mas *longo*. Nova quer tentar, mas Kai e Beatriz acho que vai d
 
 Vec looks emotionally wrecked. 
 
-Vec: **"Eu vou ajudar a nova, se *você* acha que é uma boa idéia.
+Vec: **"Eu vou ajudar a nova, se você acha que é uma boa idéia.
 
-*translation: "I will help Nova, if **you** think it's a good idea."*
+*translation: "I will help Nova, if you think it's a good idea."*
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"Mesmo que funcione, como vamos transportar um rato transgênico pós-operatório através de [chuva e inundação de ácida](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
+Majhee: **"Mesmo que funcione... como vamos transportar um rato transgênico pós-operatório através de [chuva e inundação de ácida](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
 
-*translation: "Even if it works, how will we transport a post-op transgenic mouse through [acid rain and flood](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"*
+*translation: "Even if it works... how do we transport a post-op transgenic mouse through [acid rain and flood](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"*
 
 Majhee: **"Dê a ela 20 microlitros de [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), e enviar todos os nossos dados para a Suécia. Felix terá mais tempo."**
 
