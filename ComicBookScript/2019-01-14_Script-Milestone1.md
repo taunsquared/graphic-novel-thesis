@@ -222,9 +222,9 @@ Majhee: **"*Você* empurrou essa colaboração, contra minhas inúmeras objeçõ
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger
 
-Marcia: **"Eu *sei*, mas como diretor eu tive que considerar as opiniões do conselho!"**
+Marcia: **"Eu *sei*, mas como presidente eu tive que considerar as opiniões do conselho!"**
 
-*translation: "I *know*, but as director I had to consider the opinions of the board!"*
+*translation: "I *know*, but as president I had to consider the opinions of the board!"*
 
 Majhee interrupts: **"Somos todos cientistas, Marcia! Nós devemos priorizar maior conhencimento e acesso para *tudos*...não apenas o insanamente rico!"**
 
