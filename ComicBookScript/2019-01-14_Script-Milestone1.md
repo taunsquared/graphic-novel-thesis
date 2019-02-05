@@ -1939,45 +1939,45 @@ Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest 
 
 ### Page 11
 
-The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squireel monkey is sprawled hilariously on its back, safely held in Mawé's arms. The other three look up with wonder and awe on their faces. 
+The sun has set. A fantastic view of the nighttime forest is lit by a full moon. Above is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Below, in a large tree with generous branches, is an eSyrup bubble. Inside, Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squireel monkey is sprawled hilariously on its back, safely held in Mawé's arms. Asoka and Iri look up around them with wonder and awe on their faces. Min is entranced by the flow of soft yet brilliant colors gently pulsating across Iri and Asoka's clothing. 
 
-Asoka: **"*You're so lucky...*"**
+Min: **"So, instead of an intradermal shield, you use cuttlefish cloth and mechapets?"**
 
-Min: **"Yeah, I love this forest..."**
+Asoka fondles a corner of their outfit, face sad but also proud.
 
-Asoka: **"*Then why do you want to leave?*"**
+Asoka: **"*Not all of the textiles we use are as advanced as this cuttlefish cloth...but yes, we integrate eSyrup into materials, like the way you splice eSyrup into your cells.*"**
 
-Min: **"I have to, every Automata does."**
+Min reverently touches the cloth near Asoka's hand. 
 
-Asoka: **"*But why up there? Aren't you...scared?*"**
+Min: **"You were able to hide from the World Government, even while stowing away on a submarine..."
 
-Min traces the contours of the tree trunk beneath her hands. 
+Min makes a determined fist and looks up at Asoka, grinning widely. 
 
-Min: **"A bit...but not really. 'An Automata seeks to be *informed* and *un-coerced* in their decisions'... if I get to know the Orbiters, I'll be more informed and less coerced when deciding how to interact with them."**
+Min: **"If you could pull that off, then I know I can figure out a way to get into the ISE Corps!!"**
 
 ### Page 12
 
-Min grins widely and reaches up with both arms to feel the east wind. 
-
-Min: **"That's why I'm joining the ISE Corps!"**
-
 Asoka: **"*The ISE Corps?*"**
 
-Min laughs with delight as her mohawk flutters in the gentle wind.
+Min laughs with delight as her mohawk flutters in the gentle wind inside the bubble. She looks up with unbridled adoration at the bright, untwinkling lights of Orbiter vessels up in the night sky. 
 
-Min: **"The International Space Exploration Corps! It's usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers. And if you graduate top of your class, you get a free ride to Space University!"** 
+Min: **"The International Space Exploration Corps! It's usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers."** 
+
+Min now locks eyes with Asoka. 
+
+Min: **"I'm gonna become the greatest space pilot the ISE has ever seen. And if you graduate top of your class, you get a free ride to Space University!"**
 
 Asoka stares at Min, wide-eyed.  
 
 Asoka: **"*But...what if you fail?*"**
 
-Min turns to Asoka with a look of ferocious determination, grabbing their shoulder and looking almost angry. 
+Min now grabs Asoka by the shoulders, looking angry. 
 
-Min: **"I have to take the chance. If I never make mistakes, if I'm not willing to get messy..."**
+Min: **"Who are the Orbiters to keep us here while they fly free?? We've survived the mess they made of this planet, and I *will* come and go as I please! And any challenges I face on the way..."**
 
-Min looks up towards the untwinkling, bright lights of Orbiter vessels in the night sky. 
+Min looks back up at the untwinkling lights of Orbiter vessels in the night sky, eyes fierce. 
 
-Min: **"...then I'll never evolve!"**
+Min: **"...will only make me stronger!"**
 
 ## Diagram 7: Museum as a Lab
 
