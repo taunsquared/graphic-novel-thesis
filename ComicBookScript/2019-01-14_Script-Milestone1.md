@@ -1613,7 +1613,7 @@ Min: **"Não entende?? Outros também conseguiram voltar à superfície!"**
 
 *translation: "Don't you understand?? Others have also made it back to the surface!"*
 
-Murmurs of surprise, shock, and wonder ripple through the crowd. Nova, unmoved, folds her arms and 
+Murmurs of surprise, shock, and wonder ripple through the crowd. Nova, unmoved, folds her arms.
 
 Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
 
