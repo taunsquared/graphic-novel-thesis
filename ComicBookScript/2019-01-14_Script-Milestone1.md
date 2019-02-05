@@ -1949,15 +1949,15 @@ Asoka: **"*Not all of the textiles we use are as advanced as this cuttlefish clo
 
 Min reverently touches the cloth near Asoka's hand. 
 
-Min: **"You were able to hide from the World Government, even while stowing away on a submarine..."
+Min: **"You were able to hide from the World Government, even while stowing away on a submarine..."**
 
 Min makes a determined fist and looks up at Asoka, grinning widely. 
 
 Min: **"If you could pull that off, then I know I can figure out a way to get into the ISE Corps!!"**
 
-### Page 12
-
 Asoka: **"*The ISE Corps?*"**
+
+### Page 12
 
 Min laughs with delight as her mohawk flutters in the gentle wind inside the bubble. She looks up with unbridled adoration at the bright, untwinkling lights of Orbiter vessels up in the night sky. 
 
@@ -1973,7 +1973,7 @@ Asoka: **"*But...what if you fail?*"**
 
 Min now grabs Asoka by the shoulders, looking angry. 
 
-Min: **"Who are the Orbiters to keep us here while they fly free?? We've survived the mess they made of this planet, and I *will* come and go as I please! And any challenges I face on the way..."**
+Min: **"Who are the Orbiters to keep us here while they fly free?? We're cleaning up the mess they made of this planet in order to get out there, so space is *our* birthright, not theirs! And any challenges I face along the way..."**
 
 Min looks back up at the untwinkling lights of Orbiter vessels in the night sky, eyes fierce. 
 
