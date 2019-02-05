@@ -1603,27 +1603,33 @@ Min: **"Eu solicito um conselho pelos Anciãos, para considerar esta aliança co
 
 Nova raises an eyebrow. 
 
-Nova: **"Você está tão ansioso por violência em nome de um povo muito longe para ver, ouvir ou tocar?"**
+Nova: **"Está tão ansioso por violência em nome de um povo muito longe para ver, ouvir ou tocar?"**
 
 *translation: "Are you so eager for violence in the name of a people too far away to see, hear, or touch?"*
 
-Min, furious, gets right in Nova's stony, unmoved face. 
+Min, furious, gets right in Nova's stony face, and throws her arm towards Asoka. 
 
-Min: **"Você não se importa com eles?? Eles também são Earthers!"**
+Min: **"Não entende?? Outros também conseguiram voltar à superfície!"**
 
-*translation: "Don't you care about them?? They're Earthers too!"*
+*translation: "Don't you understand?? Others have also made it back to the surface!"*
+
+Murmurs of surprise, shock, and wonder ripple through the crowd. Nova, unmoved, folds her arms and 
 
 Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
 
 *translation: "Aiii, little Minka, when will you learn **a little bit of patience**?"*
 
-Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
+Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min turns to her grandmother in desperation.
 
-Majhee turns to Asoka and lets her stern look soften into a grin below twinkling eyes. 
+Min: **"Avó Majhee, este é o neto de Iúna Morei, Mama Bird!!"**
 
-Majhee: **"Você trouxe um convidado! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
+*translation: "Grandma Majhee, this is the grandchild of Iúna Morei, Mama Bird!!"*
 
-*translation: "You brought a guest! So, first we eat. No one can think with an empty stomach!"*
+Majhee turns to Asoka and lets her stern look soften into a delighted grin below twinkling eyes. 
+
+Majhee: **"Oh meu...! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
+
+*translation: "Oh my...! So, first we eat. No one can think with an empty stomach!"*
 
 ### Page 10
 
@@ -1651,7 +1657,7 @@ Asoka: **"*Quem são eles?*"**
 
 *translation: "Who are they?"*
 
-Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
+Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly dramatic in physique out of the Automata -- with proud reverence.
 
 Min: **"Eles são os *cicladores de água*."**
 
