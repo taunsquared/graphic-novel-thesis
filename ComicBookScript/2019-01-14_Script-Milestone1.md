@@ -1603,27 +1603,33 @@ Min: **"Eu solicito um conselho pelos Anciãos, para considerar esta aliança co
 
 Nova raises an eyebrow. 
 
-Nova: **"Você está tão ansioso por violência em nome de um povo muito longe para ver, ouvir ou tocar?"**
+Nova: **"Está tão ansioso por violência em nome de um povo muito longe para ver, ouvir ou tocar?"**
 
 *translation: "Are you so eager for violence in the name of a people too far away to see, hear, or touch?"*
 
-Min, furious, gets right in Nova's stony, unmoved face. 
+Min, furious, gets right in Nova's stony face, and throws her arm towards Asoka. 
 
-Min: **"Você não se importa com eles?? Eles também são Earthers!"**
+Min: **"Não entende?? Outros também conseguiram voltar à superfície!"**
 
-*translation: "Don't you care about them?? They're Earthers too!"*
+*translation: "Don't you understand?? Others have also made it back to the surface!"*
+
+Murmurs of surprise, shock, and wonder ripple through the crowd. Nova, unmoved, folds her arms.
 
 Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
 
 *translation: "Aiii, little Minka, when will you learn **a little bit of patience**?"*
 
-Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min sheepishly withdraws and looks down, scowling. 
+Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min turns to her grandmother in desperation.
 
-Majhee turns to Asoka and lets her stern look soften into a grin below twinkling eyes. 
+Min: **"Avó Majhee, este é o neto de Iúna Morei, Mama Bird!!"**
 
-Majhee: **"Você trouxe um convidado! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
+*translation: "Grandma Majhee, this is the grandchild of Iúna Morei, Mama Bird!!"*
 
-*translation: "You brought a guest! So, first we eat. No one can think with an empty stomach!"*
+Majhee turns to Asoka and lets her stern look soften into a delighted grin below twinkling eyes. 
+
+Majhee: **"Oh meu...! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
+
+*translation: "Oh my...! So, first we eat. No one can think with an empty stomach!"*
 
 ### Page 10
 
@@ -1651,7 +1657,7 @@ Asoka: **"*Quem são eles?*"**
 
 *translation: "Who are they?"*
 
-Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly beautiful of the Automata -- with proud reverence.
+Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly dramatic in physique out of the Automata -- with proud reverence.
 
 Min: **"Eles são os *cicladores de água*."**
 
@@ -1933,45 +1939,45 @@ Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest 
 
 ### Page 11
 
-The sun has set. Min and Asoka look out at the fantastic view before them, lit by a full moon. Above both teens is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squireel monkey is sprawled hilariously on its back, safely held in Mawé's arms. The other three look up with wonder and awe on their faces. 
+The sun has set. A fantastic view of the nighttime forest is lit by a full moon. Above is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Below, in a large tree with generous branches, is an eSyrup bubble. Inside, Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squireel monkey is sprawled hilariously on its back, safely held in Mawé's arms. Asoka and Iri look up around them with wonder and awe on their faces. Min is entranced by the flow of soft yet brilliant colors gently pulsating across Iri and Asoka's clothing. 
 
-Asoka: **"*You're so lucky...*"**
+Min: **"So, instead of an intradermal shield, you use cuttlefish cloth and mechapets?"**
 
-Min: **"Yeah, I love this forest..."**
+Asoka fondles a corner of their outfit, face sad but also proud.
 
-Asoka: **"*Then why do you want to leave?*"**
+Asoka: **"*Not all of the textiles we use are as advanced as this cuttlefish cloth...but yes, we integrate eSyrup into materials, like the way you splice eSyrup into your cells.*"**
 
-Min: **"I have to, every Automata does."**
+Min reverently touches the cloth near Asoka's hand. 
 
-Asoka: **"*But why up there? Aren't you...scared?*"**
+Min: **"You were able to hide from the World Government, even while stowing away on a submarine..."**
 
-Min traces the contours of the tree trunk beneath her hands. 
+Min makes a determined fist and looks up at Asoka, grinning widely. 
 
-Min: **"A bit...but not really. 'An Automata seeks to be *informed* and *un-coerced* in their decisions'... if I get to know the Orbiters, I'll be more informed and less coerced when deciding how to interact with them."**
-
-### Page 12
-
-Min grins widely and reaches up with both arms to feel the east wind. 
-
-Min: **"That's why I'm joining the ISE Corps!"**
+Min: **"If you could pull that off, then I know I can figure out a way to get into the ISE Corps!!"**
 
 Asoka: **"*The ISE Corps?*"**
 
-Min laughs with delight as her mohawk flutters in the gentle wind.
+### Page 12
 
-Min: **"The International Space Exploration Corps! It's usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers. And if you graduate top of your class, you get a free ride to Space University!"** 
+Min laughs with delight as her mohawk flutters in the gentle wind inside the bubble. She looks up with unbridled adoration at the bright, untwinkling lights of Orbiter vessels up in the night sky. 
+
+Min: **"The International Space Exploration Corps! It's usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers."** 
+
+Min now locks eyes with Asoka. 
+
+Min: **"I'm gonna become the greatest space pilot the ISE has ever seen. And if you graduate top of your class, you get a free ride to Space University!"**
 
 Asoka stares at Min, wide-eyed.  
 
 Asoka: **"*But...what if you fail?*"**
 
-Min turns to Asoka with a look of ferocious determination, grabbing their shoulder and looking almost angry. 
+Min now grabs Asoka by the shoulders, looking angry. 
 
-Min: **"I have to take the chance. If I never make mistakes, if I'm not willing to get messy..."**
+Min: **"Who are the Orbiters to keep us here while they fly free?? We're cleaning up the mess they made of this planet in order to get out there, so space is *our* birthright, not theirs! And any challenges I face along the way..."**
 
-Min looks up towards the untwinkling, bright lights of Orbiter vessels in the night sky. 
+Min looks back up at the untwinkling lights of Orbiter vessels in the night sky, eyes fierce. 
 
-Min: **"...then I'll never evolve!"**
+Min: **"...will only make me stronger!"**
 
 ## Diagram 7: Museum as a Lab
 
