@@ -1094,7 +1094,7 @@ Asoka: **"This is *beautiful*. Where did it come from?"**
 
 Serena: **"Many years ago, your Green Haven Council visited us with this wooden dresser and a beautiful child's outfit made of the finest eSyrup cloth we've ever seen. They asked us to safeguard the outfit, and never show it to anyone, until a child with a mechapet begs us for sanctuary."**
 
-Eireena: **"It's called *'cuttlefish cloth'* - it can be 'voltage-treated' by the electrical activity of your nervous system. It'll help you survive both colder and hotter environments, filter and purify insanely dirty water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
+Eireena: **"It's called *'cuttlefish cloth'* - it can be 'voltage-treated' by the electrical activity of your nervous system. It'll help you survive both colder and hotter environments, filter and purify the dirtiest water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
 Serena's eyes twinkle. 
 
