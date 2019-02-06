@@ -22,7 +22,7 @@
 
   * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#chapter-2-where-thunder-goes-when-it-dies)
   
-  * [Diagram 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-2-action-potential-versus-graded-potential)
+  * [Diagram 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-2-chemical-synapses-and-electrical-potentials)
   
 * [The Story, Part 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#the-story-part-2)
 
@@ -30,21 +30,21 @@
 
   * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
   
-  * [Diagram 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-3-the-chemical-synapse)
+  * [Diagram 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-3-major-neurotransmitters)
 
   * [Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
   
-  * [Diagram 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-4-major-neurotransmitters)
+  * [Diagram 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-4-the-4-bloodbraincsf-barriers)
 
   * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#chapter-5-lilacs-out-of-the-dead-land)
   
-  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-5-the-4-bloodbraincsf-barriers)
+  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-5-cuttlefish-hunting-diagram)
 
   * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#dream-2-rites-of-passage)
 
   * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#chapter-6)
   
-  * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-6-cuttlefish-hunting-diagram)
+  * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#diagram-6-knowns-and-unknowns)
 
   * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#chapter-7-mistakes-are-how-we-evolve)
   
@@ -688,7 +688,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 **"That 'further notice' came 23 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
-## Diagram 2: Action potential versus Graded potential
+## Diagram 2: Chemical Synapses and Electrical Potentials
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
 
@@ -970,7 +970,7 @@ Eireena now looks hard at Asoka.
 
 Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous path...there is another option."**
 
-## Diagram 3: The Chemical Synapse
+## Diagram 3: Major Neurotransmitters
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2097-011..."**
 
@@ -1156,9 +1156,9 @@ Asoka: *"Iri, look..."*
 
 We zoom out to see before Asoka an enormous open space, lined with pipes and floor flooded with bilge water. On several large metal platforms, safely above the water level, is a pack of enormous, sleeping Beasts. 
 
-## Diagram 4: Major Neurotransmitters
+## Diagram 4: The 4 Blood/Brain/CSF Barriers
 
-**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2097-011..."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2098-010..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
 
@@ -1402,9 +1402,9 @@ Figure: **"Merda--!!"**
 
 Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
-## Diagram 5: The 4 Blood/Brain/CSF Barriers
+## Diagram 5: Cuttlefish Hunting Diagram
 
-**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2098-010..."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
 
@@ -1693,7 +1693,7 @@ Min: **"Certo, *agora* podemos comer."**
 
 Asoka looks at the happy people, warm food, families and children laughing in the sunlight, and they burst into tears, burying their face in their hands. Iri wraps its arms around Asoka tenderly as Majhee gently rubs Asoka's back. 
 
-## Diagram 6: Cuttlefish Hunting Diagram
+## Diagram 6: Knowns and Unknowns
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
 
@@ -1981,7 +1981,7 @@ Min: **"...will only make me stronger!"**
 
 ## Diagram 7: Museum as a Lab
 
-**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-097..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
 
