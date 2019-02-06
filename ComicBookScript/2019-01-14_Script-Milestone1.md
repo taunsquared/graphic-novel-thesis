@@ -60,31 +60,18 @@
 
 ## Prologue
 
-*Little by little the night turns around  
-Counting the leaves which tremble at dawn  
-Lotuses lean on each other in yearning  
-Under the eaves the swallow is resting*
+*They are the Architect and Engineer  
+who longed for space, longed for space  
+to hold the Planet dear,  
+the Architect and Engineer.*
 
-*Set the controls for the heart of the sun*
+*Benevolent Farmer and First VIRS  
+who longed for space, longed for space  
+to see the ends of the Universe,  
+Benevolent Farmer and First VIRS.* 
 
-*Over the mountain watching the watcher  
-Breaking the darkness  
-Waking the grapevine  
-One inch of love is one inch of shadow  
-Love is the shadow that ripens the wine*
-
-*Set the controls for the heart of the sun  
-The heart of the sun, the heart of the sun*
-
-*Witness the man who raves at the wall  
-Making the shape of his questions to Heaven  
-Whether the sun will fall in the evening  
-Will he remember the lesson of giving?*
-
-*Set the controls for the heart of the sun  
-The heart of the sun, the heart of the sun*
-
-*--Pink Floyd,1968.*
+*--T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
 
@@ -711,18 +698,31 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 ## Interlude
 
-*They are the Architect and Engineer  
-who longed for space, longed for space  
-to hold the Planet dear,  
-the Architect and Engineer.*
+*Little by little the night turns around  
+Counting the leaves which tremble at dawn  
+Lotuses lean on each other in yearning  
+Under the eaves the swallow is resting*
 
-*Benevolent Farmer and First VIRS  
-who longed for space, longed for space  
-to see the ends of the Universe,  
-Benevolent Farmer and First VIRS.* 
+*Set the controls for the heart of the sun*
 
-*--T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*Over the mountain watching the watcher  
+Breaking the darkness  
+Waking the grapevine  
+One inch of love is one inch of shadow  
+Love is the shadow that ripens the wine*
+
+*Set the controls for the heart of the sun  
+The heart of the sun, the heart of the sun*
+
+*Witness the man who raves at the wall  
+Making the shape of his questions to Heaven  
+Whether the sun will fall in the evening  
+Will he remember the lesson of giving?*
+
+*Set the controls for the heart of the sun  
+The heart of the sun, the heart of the sun*
+
+*--Pink Floyd,1968.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
 
