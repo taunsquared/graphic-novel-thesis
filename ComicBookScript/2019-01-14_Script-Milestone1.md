@@ -1981,7 +1981,7 @@ Min: **"...will only make me stronger!"**
 
 ## Diagram 7: Museum as a Lab
 
-**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-097..."**
+**"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
 
