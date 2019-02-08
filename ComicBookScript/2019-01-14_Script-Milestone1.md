@@ -608,11 +608,11 @@ Majhee stares at the pouring rain outside, the streets below awash with sea wate
 
 Majhee: **"Mesmo que funcione... como vamos transportar um rato transgênico pós-operatório através de [chuva e inundação de ácida](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
 
-*translation: "Even if it works... how do we transport a post-op transgenic mouse through [acid rain and flood](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"*
+*translation: "Even if it works... how do we transport a post-op transgenic rat through [acid rain and flood](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"*
 
-Majhee: **"Dê a ela 20 microlitros de [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), e enviar todos os nossos dados para a Suécia. Felix terá mais tempo."**
+Majhee: **"Dê a ela 3 millilitros de [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), e enviar todos os nossos dados para a Suécia. Felix terá mais tempo."**
 
-*translation: "Give her 20 microliters of [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), and send all of our data to Sweden. Felix will have more time."*
+*translation: "Give her 3 milliliters of [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), and send all of our data to Sweden. Felix will have more time."*
 
 ### Page 8
 
