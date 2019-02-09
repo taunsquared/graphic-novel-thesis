@@ -76,7 +76,7 @@ Benevolent Farmer and First VIRS.*
 *--T. Sorriso  
 From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Dream 1: Nostalgia
 
@@ -100,7 +100,7 @@ From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www
 
 **"FREE."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 1: Calm Before the Storm
 
@@ -462,7 +462,7 @@ Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
@@ -696,7 +696,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 # The Story, Part 2
 
@@ -728,7 +728,7 @@ The heart of the sun, the heart of the sun*
 
 *--Pink Floyd,1968.*
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
@@ -978,7 +978,7 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2097-011..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
@@ -1166,7 +1166,7 @@ We zoom out to see before Asoka an enormous open space, lined with pipes and flo
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2098-010..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 5: Lilacs Out Of The Dead Land
 
@@ -1412,7 +1412,7 @@ Suddenly a tank plows through the grove of papaya trees, completely destroying e
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Dream 2: Rites of Passage
 
@@ -1463,7 +1463,7 @@ As the intradermal shield continues into her mouth, nose, and sinuses, Min begin
 
 After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 6
 
@@ -1703,7 +1703,7 @@ Asoka looks at the happy people, warm food, families and children laughing in th
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-097..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 7: Mistakes Are How We Evolve
 
@@ -1989,7 +1989,7 @@ Min: **"...will only make me stronger!"**
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Dream, the last: Comma, not a Period
 
@@ -2015,7 +2015,7 @@ Min throws back her head in a full-throated laugh.
 
 Min: **"Deal! See you in orbit!"**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Epilogue
 
@@ -2037,7 +2037,7 @@ sing along, harmonies of all the same song.*
 *--T. Sorriso  
 From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 # Map of locations important to the Story
 
