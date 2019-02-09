@@ -1,7 +1,14 @@
 # graphic-novel-thesis
-This is where I'll be developing the story script for my graphic novel thesis. The most current draft of the script can be found here: 
+This is where I'll be developing the story script for my graphic novel thesis.  
+The most current draft of the script can be found here: 
 
-https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-01-14_Script-Milestone1.md
+https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md
+
+## graphic novel plates
+
+Milestone 1: https://www.dropbox.com/sh/i0e21fxjc28s39a/AAD-v1hkEiO9m1cfN6rwfO_Na?dl=0 
+
+Milestone 2: https://www.dropbox.com/sh/zzu53m29wpf5kmb/AACT6f9HJElgurzSgnVGB5IMa?dl=0
 
 ## project timeline, last update: Nov 14 2018
 ### October
