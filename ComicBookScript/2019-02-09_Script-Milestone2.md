@@ -1945,13 +1945,13 @@ Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest 
 
 ### Page 11
 
-The sun has set. A fantastic view of the nighttime forest is lit by a full moon. Above is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Below, in a large tree with generous branches, is an eSyrup bubble. Inside, Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squireel monkey is sprawled hilariously on its back, safely held in Mawé's arms. Asoka and Iri look up around them with wonder and awe on their faces. Min is entranced by the flow of soft yet brilliant colors gently pulsating across Iri and Asoka's clothing. 
+The sun has set. A fantastic view of the nighttime forest is lit by a full moon. Above is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Below, in a large tree with generous branches, is an eSyrup bubble. Inside, Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squirell monkey is sprawled hilariously on its back, safely held in Mawé's arms. Asoka and Iri look up around them with wonder and awe on their faces. Min is entranced by the flow of soft yet brilliant colors gently pulsating across Iri and Asoka's clothing. 
 
 Min: **"So, instead of an intradermal shield, you use cuttlefish cloth and mechapets?"**
 
-Asoka fondles a corner of their outfit, face sad but also proud.
+Asoka fondles a corner of their outfit, face sad but also proud as they fondly scratch Iri above its eye ridges. 
 
-Asoka: **"*Not all of the textiles we use are as advanced as this cuttlefish cloth...but yes, we stitch and splice eSyrup into materials, like the way you splice eSyrup into your cells.*"**
+Asoka: **"*Yeah...both Iri and I are connected to the outfit, so the cloth also connects us. We're still learning how to control the cloth, just like how it takes you a while to learn how to control your shield.*"**
 
 Min reverently touches the cloth near Asoka's hand. 
 
@@ -1963,27 +1963,41 @@ Min: **"If you could pull that off, then I know I can figure out a way to get in
 
 Asoka: **"*The ISE Corps?*"**
 
-### Page 12
-
 Min laughs with delight as her mohawk flutters in the gentle wind inside the bubble. She looks up with unbridled adoration at the bright, untwinkling lights of Orbiter vessels up in the night sky. 
 
-Min: **"The International Space Exploration Corps! It's usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers."** 
+Min: **"The International Space Exploration Corps...usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers."**
 
 Min now locks eyes with Asoka. 
 
-Min: **"I'm gonna become the greatest space swimmer the ISE has ever seen. And if you graduate top of your class, you get a free ride to Space University!"**
+Min: **"I'm gonna become the greatest space swimmer the ISE has ever seen. And if I graduate in the top ten, I'll get a free ride to Space University!"**
 
-Asoka stares at Min, wide-eyed.  
+### Page 12
 
-Asoka: **"*But...what if you fail?*"**
+Asoka looks down at Mawé and squirell monkey, sleeping so peacefully in Min's lap, face full of fear.  
 
-Min now grabs Asoka by the shoulders, looking angry. 
+Asoka: **"*But...what if you fail, or get caught? What if the World Government tries to wipe out the Automata, like they're trying to do to the Biononymous?*"**
 
-Min: **"Who are the Orbiters to keep us here while they fly free?? We're cleaning up the mess they made of this planet, fighting to save it while they hide up in space, so space is *our* birthright, not theirs!! And any challenges I face along the way..."**
+Min looks down at Mawé and gently cups his little chubby face. 
 
-Min looks back up at the untwinkling lights of Orbiter vessels in the night sky, eyes fierce. 
+Min: **"Avó Majhee told me that regrowing the [Amazonia](https://en.wikipedia.org/wiki/Amazon_rainforest) will take a long, *long* time...but if we don't do it, humans will never reclaim the surface."
 
-Min: **"...will only make me stronger!"**
+Min looks up at Asoka with a determined look on her face.
+
+Min: **"The Automata *have* to survive, and what I learn from the Orbiters will help us. But we can't do it alone...the Biononymous must *also* survive!"
+
+Asoka looks up at the stars, chewing on Min's words. After a moment, Min face softens and she leans back, turning her gaze back up to the stars. She speaks in fierce whisper.
+
+Min: **"Who are the Orbiters to keep us here while they fly free? They made a mess of this planet and left us to clean it up, so space is just as much ours as it is theirs!"**
+
+Asoka: **"You're right..."**
+
+Asoka turns to Min, a fire suddenly alight in their eyes. 
+
+Asoka: **"...we'll *all* make it, and anyone who tries to stop us..."**
+
+Asoka clasps Min on the shoulder. 
+
+Asoka: **"...will only make us stronger!"**
 
 ## Diagram 7: Museum as a Lab
 
