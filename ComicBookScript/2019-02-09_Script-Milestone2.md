@@ -1951,7 +1951,7 @@ Min: **"So, instead of an intradermal shield, you use cuttlefish cloth and mecha
 
 Asoka fondles a corner of their outfit, face sad but also proud as they fondly scratch Iri above its eye ridges. 
 
-Asoka: **"*Yeah...both Iri and I are connected to the outfit, so the cloth also connects us. We're still learning how to control the cloth, just like how it takes you a while to learn how to control your shield.*"**
+Asoka: **"Yeah...both Iri and I are connected to the outfit, so the cloth also connects us. We're still learning how to control the cloth, just like how it takes you a while to learn how to control your shield."**
 
 Min reverently touches the cloth near Asoka's hand. 
 
@@ -1961,7 +1961,7 @@ Min makes a determined fist and looks up at Asoka, grinning widely.
 
 Min: **"If you could pull that off, then I know I can figure out a way to get into the ISE Corps!!"**
 
-Asoka: **"*The ISE Corps?*"**
+Asoka: **"The ISE Corps?"**
 
 Min laughs with delight as her mohawk flutters in the gentle wind inside the bubble. She looks up with unbridled adoration at the bright, untwinkling lights of Orbiter vessels up in the night sky. 
 
@@ -1975,7 +1975,7 @@ Min: **"I'm gonna become the greatest space swimmer the ISE has ever seen. And i
 
 Asoka looks down at Mawé and squirell monkey, sleeping so peacefully in Min's lap, face full of fear.  
 
-Asoka: **"*But...what if you fail, or get caught? What if the World Government tries to wipe out the Automata, like they're trying to do to the Biononymous?*"**
+Asoka: **"But...what if you fail, or get caught? What if the World Government tries to wipe out the Automata, like they're trying to do to the Biononymous?"**
 
 Min looks down at Mawé and gently cups his little chubby face. 
 
@@ -1989,15 +1989,15 @@ Asoka looks up at the stars, chewing on Min's words. After a moment, Min face so
 
 Min: **"Who are the Orbiters to keep us here while they fly free? They made a mess of this planet and left us to clean it up, so space is just as much ours as it is theirs!"**
 
-Asoka: **"*You're right...*"**
+Asoka: **"You're right..."**
 
 Asoka turns to Min, a fire suddenly alight in their eyes. 
 
-Asoka: **"*...we'll *all* make it, and anyone who tries to stop us...*"**
+Asoka: **"...we'll *all* make it, and anyone who tries to stop us..."**
 
 Asoka clasps Min on the shoulder as Min grins back at them. 
 
-Asoka: **"*...will only make us stronger!*"**
+Asoka: **"...will only make us stronger!"**
 
 ## Diagram 7: Museum as a Lab
 
