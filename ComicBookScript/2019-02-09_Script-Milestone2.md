@@ -1979,25 +1979,25 @@ Asoka: **"*But...what if you fail, or get caught? What if the World Government t
 
 Min looks down at Mawé and gently cups his little chubby face. 
 
-Min: **"Avó Majhee told me that regrowing the [Amazonia](https://en.wikipedia.org/wiki/Amazon_rainforest) will take a long, *long* time...but if we don't do it, humans will never reclaim the surface."
+Min: **"Avó Majhee told me that regrowing the [Amazonia](https://en.wikipedia.org/wiki/Amazon_rainforest) will take a long, *long* time...but if we don't do it, humans will never reclaim the surface."**
 
 Min looks up at Asoka with a determined look on her face.
 
-Min: **"The Automata *have* to survive, and what I learn from the Orbiters will help us. But we can't do it alone...the Biononymous must *also* survive!"
+Min: **"The Automata *have* to survive, and what I learn from the Orbiters will help us. But we can't do it alone...the Biononymous must *also* survive!"**
 
 Asoka looks up at the stars, chewing on Min's words. After a moment, Min face softens and she leans back, turning her gaze back up to the stars. She speaks in fierce whisper.
 
 Min: **"Who are the Orbiters to keep us here while they fly free? They made a mess of this planet and left us to clean it up, so space is just as much ours as it is theirs!"**
 
-Asoka: **"You're right..."**
+Asoka: **"*You're right...*"**
 
 Asoka turns to Min, a fire suddenly alight in their eyes. 
 
-Asoka: **"...we'll *all* make it, and anyone who tries to stop us..."**
+Asoka: **"*...we'll *all* make it, and anyone who tries to stop us...*"**
 
-Asoka clasps Min on the shoulder. 
+Asoka clasps Min on the shoulder as Min grins back at them. 
 
-Asoka: **"...will only make us stronger!"**
+Asoka: **"*...will only make us stronger!*"**
 
 ## Diagram 7: Museum as a Lab
 
