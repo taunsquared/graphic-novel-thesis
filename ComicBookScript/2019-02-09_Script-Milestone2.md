@@ -1039,6 +1039,37 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2097-011..."**
 
+-- What is a Neurotransmitter? --  
+
+A **neurotransmitter** is any chemical that is created and released by a nervous system cell, and which acts as a chemical messenger between a nervous system cell and another nervous system cell, muscle cell, or gland cell. When a chemical messenger is released in a **synapse** (places where the membranes of nervous system cells get very close to each other, allowing cells to very specifically and quickly target other cells), it has historically been labeled as a "neurotransmitter". When a chemical messenger is released into extracellular space that is **not** a synapse, where the targeting is less specific and reactions are much slower, these chemicals have historically been labeled as "**neuromodulators**". Some chemical messengers act as both neurotransmitters and neuromodulators. 
+
+-- Which Neurotransmitters are most often used, and Where -- 
+
+**Central Nervous System**: Glutamate (excitatory), GABA (inhibitory)  
+**Peripheral Nervous System, Somatic**: Acetylcholine  
+**Peripheral Nervous System, Autonomic**: Acetylcholine, Norepinephrine, Epinephrine, Dopamine  
+**Enteric Nervous System**: Acetylcholine, Dopamine, Seratonin (often abbreviated as 5-HT)  
+
+A single neuron can release multiple neurotransmitters. Once released, neurotransmitters can act on the post-synaptic cell in different ways defending on the post-synaptic cell's **receptors**. Neurotransmitter receptors can be categorized into 2 broad categories: **Ionotropic** and **Metabotrophic**
+
+### Ionotropic
+
+**Ionotropic receptors** are protein structures in the cell membrane that form an **ion channel pore**, or a hole through which ions can cross the membrane. When a neurotransmitter binds to this receptor, it opens to allow ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to enter or leave the cell. This movement of ions cause graded potentials that either
+* **depolarizes** the cell, causing an excitatory response that makes it more likely that the cell will fire an action potential; or 
+* **hyperpolarizes** the cell, causing an inhibitory response that makes it less likely to fire an action potential. 
+
+Ionotropic receptors are involved in signals between cells that require **quick responses**, as they open and shut quickly (**on the order of milliseconds**). 
+
+Examples: Ionotropic glutamate receptors (NMDAR, AMPAR), GABA receptors, ATP-gated channels, cys-loop receptors, and PIP2-gated channels. 
+
+### Metabotrophic 
+
+Instead of creating an ion channel in the cell membrane, **metabotrophic receptors**, when activated, trigger the cell to generate intracellular signalling molecules called "**second messengers**" (the chemicals that activate the receptors from outside the cell are called the "**first messengers**"). 
+
+Metabotrophic receptors take much longer to open that ionotropic receptors, and they also stay open much longer, **on the order of seconds to minutes**. 
+
+Examples: G protein-coupled receptors, metabotrophic glutamate receptors, muscarinic acetylcholine receptors, GABA-B receptors, most seratonin receptors, norepinephrine receptors, epinephrine receptors, histamine receptors, dopamine receptors, neuropeptide receptors, endocannabinoid receptors
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
