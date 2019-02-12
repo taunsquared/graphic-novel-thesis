@@ -458,9 +458,52 @@ Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*
 
 Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 
-## Diagram 1: Neuron Classification by Structure and Major Glial Cell Types
+## Diagram 1: Major Neural and Glial Cell Types
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
+
+### Neuron Classification by Structure
+
+-- Unipolar --  
+[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Unipolar neurons are common in insects. [Unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) were first described in 1977 in the rat cerebellar cortex. 
+
+-- Bipolar --  
+[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron) have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon)), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite)). Bipolar neurons are specialized sensory neurons involved in smell, sight, taste, hearing, and vestibular (hearing, equilibrium, motion detection) functions. They are found in the [retina](https://en.wikipedia.org/wiki/Retina), [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve), and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion). 
+
+-- Pseudounipolar --  
+**Pseudounipolar neurons are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion) of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. 
+
+-- Multipolar --  
+The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surround by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion). 
+
+-- Anaxonic --  
+[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but the axon cannot be differentiated from the dendrites purely based on structure. Anaxonic neurons can be found in the brain and retina of vertebrates, and modulate directional and posture coordinating behaviours. They are also found in [invertebrates](https://en.wikipedia.org/wiki/Invertebrate). These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Non-spiking neurons can influence the electrical excitability of spiking neurons. 
+
+### Major Glial Cell Types
+
+A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these non-neuronal cells of the nervous system have **four main functions**: 
+* surround neurons and hold them in place
+* supply nutrients and oxygen to neurons 
+* electrically insulate neurons from each other
+* destroy germs and remove dead neurons
+
+-- [Macroglia](https://en.wikipedia.org/wiki/Glia#Macroglia) of the [Peripheral Nervous System (PNS)](https://en.wikipedia.org/wiki/Peripheral_nervous_system) --
+
+[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell) provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
+
+[**Satellite cells**](https://en.wikipedia.org/wiki/Satellite_glial_cell) surround neurons in [sensory](https://en.wikipedia.org/wiki/Dorsal_root_ganglion), [sympathetic](https://en.wikipedia.org/wiki/Sympathetic_ganglion), and [parasympathetic ganglia](https://en.wikipedia.org/wiki/Parasympathetic_ganglion); are interconnected by [gap junctions](https://en.wikipedia.org/wiki/Gap_junction); and are highly sensitive to [inflammation](https://en.wikipedia.org/wiki/Inflammation) and pain. 
+
+-- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system) -- 
+
+[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte) coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
+
+[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess K+ from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using ATP. 
+
+[**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma) (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system) of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma), a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier). They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid). 
+
+-- Microglia -- 
+
+[**Microglia**](https://en.wikipedia.org/wiki/Microglia) are much smaller than macroglia and can change shape in order to move around the entire nervous system. They multiply when the brain is damaged, and constantly sample their environment in order to direct [immune system](https://en.wikipedia.org/wiki/Immune_system) responses to damage or danger in the nervous system. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
