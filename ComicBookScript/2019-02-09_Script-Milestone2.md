@@ -21,7 +21,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
   * [Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-1-calm-before-the-storm)
   
-  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-1-neuron-classification-by-structure-and-major-glial-cell-types)
+  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-1-major-neural-and-glial-cell-types)
 
   * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-2-where-thunder-goes-when-it-dies)
   
@@ -41,7 +41,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
   * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-5-lilacs-out-of-the-dead-land)
   
-  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-5-cuttlefish-hunting-diagram)
+  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-5-hunting-behaviour-of-the-common-cuttlefish)
 
   * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-2-rites-of-passage)
 
@@ -51,7 +51,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
   * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-7-mistakes-are-how-we-evolve)
   
-  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-7-museum-as-a-lab)
+  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-7-closing-the-loop-between-studying-the-brain-and-living-with-one)
 
   * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-the-last-comma-not-a-period)
   
@@ -2163,7 +2163,7 @@ Asoka clasps Min on the shoulder as Min grins back at them.
 
 Asoka: **"...will only make us stronger!"**
 
-## Diagram 7: Museum as a Lab
+## Diagram 7: Closing the Loop Between Studying the Brain and Living with One
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
 
