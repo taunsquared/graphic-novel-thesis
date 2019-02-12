@@ -953,7 +953,7 @@ We see Eireena McLeland, High Priestess of the Biononymous and leader of this Gr
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and mid-summer blossoms. 
 
-Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
+Eireena: **"I didn't think our ecosystem had recovered enough to support large carnivores, not after we [lost so many insects](https://www.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature) during the Burning...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
 
 ### Page 9
 
@@ -1257,6 +1257,12 @@ We zoom out to see before Asoka an enormous open space, lined with pipes and flo
 ## Diagram 4: The 4 Blood/Brain/CSF Barriers
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2098-010..."**
+
+The **Ventricular System** of the brain consists of 4 interconnected tunnels (called "cavities" or "ventricles") where **cerebro-spinal fluid (CSF)** is produced and circulated. The ventricular system of the brain is connected to the central canal of the spinal cord, and creates 4 barriers between brain tissue, blood vessels, and CSF ventricles: the **Blood-Brain barrier**, the **Blood-CSF barrier**, the **Brain-CSF barrier**, and the **CSF-Brain barrier**. 
+
+### Blood-Brain barrier
+
+This barrier is created by tight junctions between **endothelial cells** (which make up the inner lining of blood vessels and lymphatic vessels) of capillaries in the central nervous system
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
