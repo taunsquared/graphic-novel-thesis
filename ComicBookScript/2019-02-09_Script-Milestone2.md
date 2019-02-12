@@ -1212,7 +1212,7 @@ Serena: **"Besides, the first outfit was for a little one just barely able to wa
 
 Asoka looks horrified. Eireena hides her smile. 
 
-Eireena: **"*Anyways*, every year since then, your Council has visited us with a new outfit, and every year, they took back the old one."**
+Eireena: **"*Anyways*, every year since then, your Council has visited us with a bigger outfit, taking back the old one each time to keep the cuttlefish cloth a well-guarded secret."**
 
 ### Page 10
 
@@ -1262,7 +1262,25 @@ The **Ventricular System** of the brain consists of 4 interconnected tunnels (ca
 
 ### Blood-Brain barrier
 
-This barrier is created by tight junctions between **endothelial cells** (which make up the inner lining of blood vessels and lymphatic vessels) of capillaries in the central nervous system
+This barrier is created by tight junctions between **endothelial cells** (which make up the inner lining of blood vessels and lymphatic vessels) of capillaries in the central nervous system (CNS). The blood-brain barrier **separates circulating blood from the extracellular fluid surrounding CNS cells**, restricting the diffusion of bacteria and large or hydrophillic molecules while allowing the diffusion of hydrophobic molecules (like O2, CO2, and hormones) and small polar molecules. 
+
+Additional cells involved in this barrier include:  
+* **astrocyte cell projections** called "astrocytic feet" or glia limitans
+* **pericytes**, contractile cells that regulate capillary blood flow and the permeability of the blood-brain barrier.
+
+### Blood-CSF barrier
+
+This barrier is composed of a pair of membranes that separate blood from CSF and CSF from brain tissue. Like the blood-brain barrier, it **restricts the passage of blood-borne substances into the brain**; different substances can enter the brain at each barrier. The Blood-CSF barrier also **modulates the entry of leukocytes and other immune system cells into the brain.**
+
+A major component of this barrier is the **choroid plexus**, a branching network of capillaries, ventricles, and **ependymal cells**. The choroid plexus produces CSF and secretes **transferrin**, a blood protein that binds to iron. 
+
+### Brain-CSF barrier
+
+This barrier consists of the **arachnoid mater** (a.k.a. "arachnoid membrane") and the **pia mater**, two of the three protective membranes that cover the brain and spinal cord. The **dura mater**, the outermost membrane, is attached to the skull; the **pia mater** is attached to brain tissue; and the arachnoid mater sits between them. Between the arachnoid mater and pia mater is the **subarachnoid space**, filled with CSF. **Arachnoid villi** (small protrusions of the arachnoid membrane into the blood vessels in the dura mater) allow CSF to exit the subarachnoid space and enter the blood stream, but make sure that blood cannot enter the subarachnoid space. 
+
+### CSF-Brain barrier 
+
+This barrier is composed of a type of glial cell called **ependymocytes**, which line the CSF-filled ventricles of the brain and spinal cord, and are involved in the production of CSF. Ependymocytes are covered in **cilia** (slender, hair-like protuberances) that help circulate CSF. There is also growing evidence that ependymocytes can serve as "**resevoir cells**", which, once activated, can help grow new neurons. However, the ependymocytes do not self-renew and can only grow new neurons aa limited number of times, meaning they do not meet the requirements to be considered stem cells. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
