@@ -446,7 +446,7 @@ Iúna ponders for a moment, her face furrowed with grief and concentration.
 
 Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"**
 
-Tahoe: **"*Seriously?*"**
+Tahoe: **"*...seriously?*"**
 
 Iúna: **"*Yes. Pigsah was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
 
