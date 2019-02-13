@@ -737,7 +737,7 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 ### Page 12
 
-**"That 'further notice' came 23 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
+**"That 'further notice' came 33 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Diagram 2: Chemical Synapses and Electrical Potentials
 
@@ -1170,11 +1170,11 @@ Next, the mural moves on to when the Biononymous, led by Mother Bird, the First 
 
 The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"'World Government'...ha! Cowards who hid up in orbit for nearly *23 years*. So many people died because they couldn't get their body mods repaired or replaced, especially when we first went underground..."**
+Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 17 years later. To think that Howes Cave City abandoned you after *33 years* of farming service..."**
 
-Serena: **"Everyone was so grateful that the Biononymous were willing to come above ground, but barely a generation has passed and they already feel entitled to their food...now they treat us as if we're Orbiter bots, perfect slaves that can be abused and abandoned without consequence!"**
+Serena: **"Everyone was so grateful when the Biononymous first got above ground and put fresh food back into people's diets, but now they treat us like we're a bunch of Orbiter bots! Ever since the Orbiters came back 16 years ago and declared themselves the 'World Government', the Underground Cities have gotten more and more hostile towards the Biononymous..."
 
-Eireena: **"...this might sound ridiculous, but I wouldn't be surprised if the Beasts were created by the Orbiters...besides the Biononymous, there [hasn't been a creature bigger than a fox on the surface ever since the Burning](https://www.forbes.com/sites/shaenamontanari/2015/08/10/extreme-climate-warming-episode-lead-to-smaller-mammals-but-how/#70fc49157c4f), and they've been after our eSyrup splicing techniques for decades..."**
+Eireena: **"...this might sound ridiculous, but I wouldn't be shocked if the Beasts were created by the Orbiters as an excuse to interfere with the Havens...why else would their first target be Green Haven Howes? Space Consortium has been after Iúna's eSyrup splicing techniques for decades..."**
 
 ### Page 7
 
