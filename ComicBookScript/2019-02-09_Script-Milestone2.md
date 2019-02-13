@@ -1104,7 +1104,7 @@ Iri, shimmering with invisibility, carefully sneaks out of the escape portal int
 
 We see the tightly packed engine room of a nuclear submarine. A Peacekeeper wearing the insignia of [Culinary specialist](https://en.wikipedia.org/wiki/Culinary_specialist_(United_States_Navy)) ducks into the door while yelling out behind them. 
 
-Culinary specialist: **"Let me just go get the throttle spuds!"**
+Culinary specialist: **"Let me grab the last batch of throttle spuds!"**
 
 We see an unattended pile of potatoes, individually wrapped in aluminum foil, sitting on top of a metal-plated surface in the engine room. 
 
