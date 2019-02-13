@@ -21,7 +21,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
   * [Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-1-calm-before-the-storm)
   
-  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-1-neuron-classification-by-structure-and-major-glial-cell-types)
+  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-1-major-neural-and-glial-cell-types)
 
   * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-2-where-thunder-goes-when-it-dies)
   
@@ -41,7 +41,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
   * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-5-lilacs-out-of-the-dead-land)
   
-  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-5-cuttlefish-hunting-diagram)
+  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-5-hunting-behaviour-of-the-common-cuttlefish)
 
   * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-2-rites-of-passage)
 
@@ -51,7 +51,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
   * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-7-mistakes-are-how-we-evolve)
   
-  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-7-museum-as-a-lab)
+  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-7-closing-the-loop-between-studying-the-brain-and-living-with-one)
 
   * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-the-last-comma-not-a-period)
   
@@ -462,9 +462,52 @@ Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*
 
 Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 
-## Diagram 1: Neuron Classification by Structure and Major Glial Cell Types
+## Diagram 1: Major Neural and Glial Cell Types
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
+
+### Neuron Classification by Structure
+
+-- Unipolar --  
+[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Unipolar neurons are common in insects. [Unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) were first described in 1977 in the rat cerebellar cortex. 
+
+-- Bipolar --  
+[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron) have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon)), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite)). Bipolar neurons are specialized sensory neurons involved in smell, sight, taste, hearing, and vestibular (hearing, equilibrium, motion detection) functions. They are found in the [retina](https://en.wikipedia.org/wiki/Retina), [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve), and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion). 
+
+-- Pseudounipolar --  
+**Pseudounipolar neurons** are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion) of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. 
+
+-- Multipolar --  
+The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surround by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion). 
+
+-- Anaxonic --  
+[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but the axon cannot be differentiated from the dendrites purely based on structure. Anaxonic neurons can be found in the brain and retina of vertebrates, and modulate directional and posture coordinating behaviours. They are also found in [invertebrates](https://en.wikipedia.org/wiki/Invertebrate). These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Non-spiking neurons can influence the electrical excitability of spiking neurons. 
+
+### Major Glial Cell Types
+
+A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these non-neuronal cells of the nervous system have **four main functions**: 
+* surround neurons and hold them in place
+* supply nutrients and oxygen to neurons 
+* electrically insulate neurons from each other
+* destroy germs and remove dead neurons
+
+-- [Macroglia](https://en.wikipedia.org/wiki/Glia#Macroglia) of the [Peripheral Nervous System (PNS)](https://en.wikipedia.org/wiki/Peripheral_nervous_system) --
+
+[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell) provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
+
+[**Satellite cells**](https://en.wikipedia.org/wiki/Satellite_glial_cell) surround neurons in [sensory](https://en.wikipedia.org/wiki/Dorsal_root_ganglion), [sympathetic](https://en.wikipedia.org/wiki/Sympathetic_ganglion), and [parasympathetic ganglia](https://en.wikipedia.org/wiki/Parasympathetic_ganglion); are interconnected by [gap junctions](https://en.wikipedia.org/wiki/Gap_junction); and are highly sensitive to [inflammation](https://en.wikipedia.org/wiki/Inflammation) and pain. 
+
+-- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system) -- 
+
+[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte) coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
+
+[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess K+ from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using ATP. 
+
+[**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma) (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system) of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma), a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier). They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid). 
+
+-- Microglia -- 
+
+[**Microglia**](https://en.wikipedia.org/wiki/Microglia) are much smaller than macroglia and can change shape in order to move around the entire nervous system. They multiply when the brain is damaged, and constantly sample their environment in order to direct [immune system](https://en.wikipedia.org/wiki/Immune_system) responses to damage or danger in the nervous system. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -478,7 +521,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Finished loading...'A Beginner's Guide to eSyrup: Introduction'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers managed to create a [yeast](https://en.wikipedia.org/wiki/Yeast) mutant that, when cultured with lactic acid bacteria and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. When left unperturbed, this self-replicating bacterial culture generates spontaneous patterned electrical activity that move like waves across the culture, similar to the electrical activity in developing animal eyes called [retinal waves](https://en.wikipedia.org/wiki/Retinal_waves), which induce the atoms within this culture to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections which can then mimic the behaviour of any component in a classical electronic circuit. Furthermore, eSyrup cultures can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to engineer structures to meet custom designs and needs. Interestingly, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
+**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers managed to create a [yeast](https://en.wikipedia.org/wiki/Yeast) mutant that, when cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria) and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. When left unperturbed, this self-replicating bacterial culture generates spontaneous patterned electrical activity that move like waves across the culture, similar to the electrical activity in developing animal eyes called [retinal waves](https://en.wikipedia.org/wiki/Retinal_waves). These waves of electrical activity induce the atoms within raw eSyrup to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections, which then mimic the behaviour of a classical electronic circuit. Interestingly, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
 
 ### Page 1
 
@@ -700,6 +743,22 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
 
+A **chemical synapse** is a biological junction that lets neurons exchange chemicals called **neurotransmitters** with each other and with other non-neuronal cells (glial, muscle, or gland cells). A synapse includes a pre-synaptic membrane, a synaptic cleft, and a post-synaptic membrane. 
+
+Electrical activity occurs in nervous system cells when charged particles called **ions** move back and forth across the membrane. When the collective charge of these particles is more positive or more negative on one side of the cell membrane (either inside or outside the cell), this cell has generated an **electrical potential**. Neural cells can experience three kinds of electrical potentials: **Action Potentials, Graded Potentials,** and the **Resting Potential**. 
+
+**Action Potentials**, a.k.a. "**nerve impulses**", "**spikes**", or "**when a neuron fires**", are important for **long distance** communication between regions of the brain or to connect peripheral neural circuits to the brain. 
+
+Neurons use sodium (Na+) and potassium (K+) ions during action potentials. These ions are able to enter or leave the cell thanks to **voltage-gated protein channels**, holes in the membrane that open based on the electrical potential of the cell. However, neurons don't "pass" electrical signals directly to each other - this is called a "gap junction", which most neurons do **not** use. Instead, neurons use action potentials to quickly trigger the release of chemicals at a synapse, especially when the synapse is relatively very far from the neuron's body. 
+
+Action Potentials are "**all or none**", meaning that if the cell's electrical potential isn't pushed past a certain threshold (meaning, if not enough ions have been collected on one side of the cell membrane), no "spike" will occur. This also means that most action potentials are very similar in size (strength) and shape (timing and duration). 
+
+On the other hand, **Graded Potentials** can have very different sizes and shapes because they do **not** follow the principle of "all-or-none", but they can "add up" to generate an Action Potential. During graded potentials, ions typically enter or leave the cell via **ligand-gated ion channel proteins**, which are holes in the membrane that open when a chemical attaches itself to the hole (kind of like a lock and key - the chemical is the "key" that "unlocks" the hole in the membrane). This means that even very small chemical signals can trigger graded potentials, which can either make the cell more likely to fire an action potential ("**excitatory**"), or less likely to fire an action potential ("**inhibitory**"). Graded potentials are used most often by neurons in sensory organs and by neurons that make very short distance connections within regions of the brain. 
+
+Both graded and action potentials can lead to **synaptic activity**. When the pre-synaptic membrane experiences a strong enough electrical potential, **voltage-dependent calcium channels** open up in the pre-synaptic membrane and let a ton of calcium (Ca2+) ions rush into the cell. In response to the increased Ca2+ levels, tiny bags containing neurotransmitters, called **vesicles**, fuse to the pre-synaptic membrane and release neurotransmitters into the synaptic cleft. The neurotransmitters then bind to the post-synaptic membrane, triggering many different actions by the post-synaptic cell. Glial cells called **astrocytes** collect neurotransmitters from the synaptic cleft and break them down into nutrients that can be fed back to the neuron. 
+
+When neural cells are not using action or graded potentials, they go into a quieter state called the "**resting potential**". To get to this state, **sodium-potassium pumps** in the cell membranes use **adenosine tri-phosphate** (ATP, a molecule used for energy by all living cells) to push sodium ions out of the cell and potassium ions into the cell. This keeps the cells ready for the next graded or action potential. 
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 # The Story, Part 2
@@ -744,7 +803,9 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Stitching'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"By forming chains or three-dimensional networks of eSyrup hyphae, using a form of [polymerization](https://en.wikipedia.org/wiki/Polymerization), eSyrup can be molecularly "stitched" to various inorganic materials, such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic materials, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with eSyrup. The exact nature of this electro-chemical flexibility depends on the grade of eSyrup used in the stitching process. In certain grades of eSyrup, the [septum](https://en.wikipedia.org/wiki/Septum) separating the cells of the hyphae are bioengineered to be composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) with a very high density of pores to increase the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. The hexagonal sections of septum are flexibly linked to each other, and the resulting eSyrup product can be independently reconfigured almost indefinitely (called "flexible eSyrup" or "flex-eSyrup"). However, these grades of eSyrup require more frequent feeding in order to power their reactivity. Cheaper grades of eSyrup are made of hyphae with less porous septums, which are also composed of larger hexagons; this severely limits the ability of these grades to reconfigure (called "fixed eSyrup")..."**
+**"Using a reaction process derived from [polymerization](https://en.wikipedia.org/wiki/Polymerization), eSyrup hyphae can be molecularly "stitched" to various inorganic materials, such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic materials, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with eSyrup, using processes derived from [*in situ* polymerization](https://en.wikipedia.org/wiki/In_situ_polymerization) and [dip-coating](https://en.wikipedia.org/wiki/Dip-coating). Once these hybrid structures have been created, eSyrup cultures can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to meet custom designs and needs."**
+
+**"The exact nature of an eSyrup-treated material's electro-chemical flexibility depends on the grade of eSyrup used in the stitching process. In certain grades of eSyrup, the [septum](https://en.wikipedia.org/wiki/Septum) separating the cells of the hyphae are bioengineered to be composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) with a very high density of pores to increase the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. The hexagonal sections of septum are flexibly linked to each other, and the resulting eSyrup product can be independently reconfigured almost indefinitely (called "flexible eSyrup" or "flex-eSyrup"). However, these grades of eSyrup require more frequent feeding in order to power their reactivity. Cheaper grades of eSyrup are made of hyphae with less porous septums, which are also composed of larger hexagons. While this reduces the frequency of feedings required to use and maintain these grades of eSyrup, this severely limits the ability of these grades to reconfigure (called "fixed eSyrup")..."**
 
 ### Page 1
 
@@ -896,7 +957,7 @@ We see Eireena McLeland, High Priestess of the Biononymous and leader of this Gr
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting eSyrup candles and scent-only eSyrup incense, and mid-summer blossoms. 
 
-Eireena: **"I don't think any of the Biononymous anticipated that very many other animals would survive The Burning, especially large carnivores...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
+Eireena: **"I didn't think our ecosystem had recovered enough to support large carnivores, not after we [lost so many insects](https://www.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature) during the Burning...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
 
 ### Page 9
 
@@ -982,6 +1043,37 @@ Eireena: **"If you take your sanctuary with us, this is the life we forsee havin
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2097-011..."**
 
+-- What is a Neurotransmitter? --  
+
+A **neurotransmitter** is any chemical that is created and released by a nervous system cell, and which acts as a chemical messenger between a nervous system cell and another nervous system cell, muscle cell, or gland cell. When a chemical messenger is released in a **synapse** (places where the membranes of nervous system cells get very close to each other, allowing cells to very specifically and quickly target other cells), it has historically been labeled as a "neurotransmitter". When a chemical messenger is released into extracellular space that is **not** a synapse, where the targeting is less specific and reactions are much slower, these chemicals have historically been labeled as "**neuromodulators**". Some chemical messengers act as both neurotransmitters and neuromodulators. 
+
+-- Which Neurotransmitters are most often used, and Where -- 
+
+**Central Nervous System**: Glutamate (excitatory), GABA (inhibitory)  
+**Peripheral Nervous System, Somatic**: Acetylcholine  
+**Peripheral Nervous System, Autonomic**: Acetylcholine, Norepinephrine, Epinephrine, Dopamine  
+**Enteric Nervous System**: Acetylcholine, Dopamine, Seratonin (often abbreviated as 5-HT)  
+
+A single neuron can release multiple neurotransmitters. Once released, neurotransmitters can act on the post-synaptic cell in different ways defending on the post-synaptic cell's **receptors**. Neurotransmitter receptors can be categorized into 2 broad categories: **Ionotropic** and **Metabotrophic**
+
+### Ionotropic
+
+**Ionotropic receptors** are protein structures in the cell membrane that form an **ion channel pore**, or a hole through which ions can cross the membrane. When a neurotransmitter binds to this receptor, it opens to allow ions such as sodium (Na+), potassium (K+), calcium (Ca2+), and/or chloride (Cl-) to enter or leave the cell. This movement of ions cause graded potentials that either
+* **depolarizes** the cell, causing an excitatory response that makes it more likely that the cell will fire an action potential; or 
+* **hyperpolarizes** the cell, causing an inhibitory response that makes it less likely to fire an action potential. 
+
+Ionotropic receptors are involved in signals between cells that require **quick responses**, as they open and shut quickly (**on the order of milliseconds**). 
+
+Examples: Ionotropic glutamate receptors (NMDAR, AMPAR), GABA receptors, ATP-gated channels, cys-loop receptors, and PIP2-gated channels. 
+
+### Metabotrophic 
+
+Instead of creating an ion channel in the cell membrane, **metabotrophic receptors**, when activated, trigger the cell to generate intracellular signalling molecules called "**second messengers**" (the chemicals that activate the receptors from outside the cell are called the "**first messengers**"). 
+
+Metabotrophic receptors take much longer to open that ionotropic receptors, and they also stay open much longer, **on the order of seconds to minutes**. 
+
+Examples: G protein-coupled receptors, metabotrophic glutamate receptors, muscarinic acetylcholine receptors, GABA-B receptors, most seratonin receptors, norepinephrine receptors, epinephrine receptors, histamine receptors, dopamine receptors, neuropeptide receptors, endocannabinoid receptors
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
@@ -994,11 +1086,11 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Splicing'; [Classification: *Clearance*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"Similar to inorganic materials "stitched" with eSyrup, organic materials "spliced" with eSyrup can be either "flexible" or "fixed". In general, reconfiguring spliced eSyrup is easier than reconfiguring stitched eSyrup. eSyrup was spliced with living cells for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw eSyrup and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing eSyrup with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
+**"In theory, eSyrup can be genetically modified to integrate with living cells, using a process derived from the [CRISPR/Cas gene editing system](https://en.wikipedia.org/wiki/CRISPR#Use_for_gene_editing). The eSyrup-spliced host cells would have modified organelles and cell parts, such as [membrane proteins](https://en.wikipedia.org/wiki/Membrane_protein) that can hold or transport a much higher concentration of [ions](https://en.wikipedia.org/wiki/Ion) at once, allowing them to generate very powerful electromagnetic events within biological tissue while safely dealing with any undesired thermal effects. To date, both flexible and fixed eSyrup-splicing has only been successful in tissue cultures [in vitro](https://en.wikipedia.org/wiki/In_vitro). However, reconfiguring spliced eSyrup has proven easier than reconfiguring stitched eSyrup. eSyrup was spliced with living cells [in vivo](https://en.wikipedia.org/wiki/In_vivo) for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw eSyrup and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing eSyrup with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
 
 ### Page 1
 
-We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water. A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV has just cut the cable. We see an exhilerated Iri taking its first swim in a real ocean. 
+We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water, shadowed by a [thick, dark blanket of plastic waste floating up above on the surface](https://en.wikipedia.org/wiki/North_Atlantic_garbage_patch). A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV, surrounded by [additional human industrial waste that has sunk to the sea floor](https://www.nature.com/articles/s41559-016-0051), has just cut the cable. We see an exhilerated Iri taking its first swim in a real ocean, sending bubbles and ripples through the [microplastics floating in the water](https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006/pdf). 
 
 ### Page 2
 
@@ -1124,7 +1216,7 @@ Serena: **"Besides, the first outfit was for a little one just barely able to wa
 
 Asoka looks horrified. Eireena hides her smile. 
 
-Eireena: **"*Anyways*, every year since then, your Council has visited us with a new outfit, and every year, they took back the old one."**
+Eireena: **"*Anyways*, every year since then, your Council has visited us with a bigger outfit, taking back the old one each time to keep the cuttlefish cloth a well-guarded secret."**
 
 ### Page 10
 
@@ -1169,6 +1261,30 @@ We zoom out to see before Asoka an enormous open space, lined with pipes and flo
 ## Diagram 4: The 4 Blood/Brain/CSF Barriers
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2098-010..."**
+
+The **Ventricular System** of the brain consists of 4 interconnected tunnels (called "cavities" or "ventricles") where **cerebro-spinal fluid (CSF)** is produced and circulated. The ventricular system of the brain is connected to the central canal of the spinal cord, and creates 4 barriers between brain tissue, blood vessels, and CSF ventricles: the **Blood-Brain barrier**, the **Blood-CSF barrier**, the **Brain-CSF barrier**, and the **CSF-Brain barrier**. 
+
+### Blood-Brain barrier
+
+This barrier is created by tight junctions between **endothelial cells** (which make up the inner lining of blood vessels and lymphatic vessels) of capillaries in the central nervous system (CNS). The blood-brain barrier **separates circulating blood from the extracellular fluid surrounding CNS cells**, restricting the diffusion of bacteria and large or hydrophillic molecules while allowing the diffusion of hydrophobic molecules (like O2, CO2, and hormones) and small polar molecules. 
+
+Additional cells involved in this barrier include:  
+* **astrocyte cell projections** called "astrocytic feet" or glia limitans
+* **pericytes**, contractile cells that regulate capillary blood flow and the permeability of the blood-brain barrier.
+
+### Blood-CSF barrier
+
+This barrier is composed of a pair of membranes that separate blood from CSF and CSF from brain tissue. Like the blood-brain barrier, it **restricts the passage of blood-borne substances into the brain**; different substances can enter the brain at each barrier. The Blood-CSF barrier also **modulates the entry of leukocytes and other immune system cells into the brain.**
+
+A major component of this barrier is the **choroid plexus**, a branching network of capillaries, ventricles, and **ependymal cells**. The choroid plexus produces CSF and secretes **transferrin**, a blood protein that binds to iron. 
+
+### Brain-CSF barrier
+
+This barrier consists of the **arachnoid mater** (a.k.a. "arachnoid membrane") and the **pia mater**, two of the three protective membranes that cover the brain and spinal cord. The **dura mater**, the outermost membrane, is attached to the skull; the **pia mater** is attached to brain tissue; and the arachnoid mater sits between them. Between the arachnoid mater and pia mater is the **subarachnoid space**, filled with CSF. **Arachnoid villi** (small protrusions of the arachnoid membrane into the blood vessels in the dura mater) allow CSF to exit the subarachnoid space and enter the blood stream, but make sure that blood cannot enter the subarachnoid space. 
+
+### CSF-Brain barrier 
+
+This barrier is composed of a type of glial cell called **ependymocytes**, which line the CSF-filled ventricles of the brain and spinal cord, and are involved in the production of CSF. Ependymocytes are covered in **cilia** (slender, hair-like protuberances) that help circulate CSF. There is also growing evidence that ependymocytes can serve as "**resevoir cells**", which, once activated, can help grow new neurons. However, the ependymocytes do not self-renew and can only grow new neurons aa limited number of times, meaning they do not meet the requirements to be considered stem cells. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -1412,9 +1528,33 @@ Figure: **"Merda--!!"**
 
 Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
-## Diagram 5: Cuttlefish Hunting Diagram
+## Diagram 5: Hunting Behaviour of the Common Cuttlefish
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
+
+The **common cuttlefish** (*Sepia officinalis*) is an invertebrate marine creature of the molluscan class **Cephalopoda**, which also includes octopus, squid, and nautilus. All cuttlefish have elongated bodies (called their "**mantle**") which get their shape from the **cuttlebone**, a hard brittle internal shell that also helps cuttlefish control their buoyancy. With the exception of their cuttlebone, cuttlefish bodies are entirely soft and flexible. The sides and tail of the mantle is edged with a skirt fin that helps them maneuver. At the front of their mantle is a siphon, which can eject water for fast backwards movement, and above the siphon, their head, where *eight arms** surround a beaked mouth. Tucked up by the mouth, just below sophisticated, **light-polarization-sensitive** eyes with **w-shaped pupils**, are **two tentacles** whose ends are covered in suckers. 
+
+Cuttlefish are stealth hunters, who spend much of their time hiding while waiting for **shrimp, crab, worms, fish, octopus, or even other cuttlefish** to wander within reach. Cuttlefish are particularly good at hiding thanks to structures in their skin that can quickly and actively change their **colour, texture, and pattern** (including the polarization of the reflected light) in response to neuro-muscular action, an ability called "**active camouflage**". Cuttlefish hunting behaviour can be described in four phases: 
+* Phase 1: **At rest**
+* Phase 2: **Attention**
+* Phase 3: **Positioning**
+* Phase 4: **Seizure**
+
+### Phase 1: At rest
+
+When a cuttlefish is "at rest", or just hanging out, all of its arms lie flat over its mouth. Its eyes are usually on the sides of its head, in a position optimal for having a 360 degree view all around them. The body pattern on the top of the cuttlefish's mantle, or back, is optimised to camouflage the cuttlefish and blend into its surroundings. 
+
+### Phase 2: Attention
+
+When a cuttlefish first notices food or prey, it will turn to face the food or prey, and often it will raise its two middle arms. As the cuttlefish visually tracks its prey, its eyes can converge, or squish towards the front, in order to gain better motion and depth perception. 
+
+### Phase 3: Positioning
+
+The cuttlefish now sneaks closer to its prey, or lets its prey come closer if it has hidden by camouflaging itself or by burrowing into the sand on the ocean floor. The two middle arms often remain raised in front of its face. When the cuttlefish is about one body length away from its food or prey, the next four arms create a barrel to guide and aim their tentacles, the tips of which can become visible during this phase. 
+
+### Phase 4: Seizure 
+
+When the cuttlefish is ready, it will throw its tentacles towards the food or prey, a moment that we call "**tentacles go ballistic**" (TGB). The middle two arms are usually still raised, and the next four arms are still formed into a "barrel" to aim the tentacles. During this phase, the bottom two arms spread out, as if to create a stabilizing base for the moment when the tentacles go ballistic. The TGB moment also marks the appearance of the "**tentacle shot pattern**", a unique, highly fractalated body pattern that appears only in this moment and not in any other part of the cuttlefish's behavioural repetoire. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -1706,6 +1846,30 @@ Asoka looks at the happy people, warm food, families and children laughing in th
 ## Diagram 6: Knowns and Unknowns
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-097..."**
+
+-- "Why do we need minds?" A hypothesis for a general principle governing nervous systems -- 
+
+The world is full of both **knowns** (things we know) and **unknowns** (things we don't know). 
+
+When we know something so well that we can sufficiently transfer that knowledge via a recipe, computer script, or step-by-step instructions, I would call this a "**known known**" (upper left quadrant in figure). 
+
+When we know something well enough to predict it very reliably, using tools such as probability and statistics, and when large sets of examples can sufficiently transfer this ability to "guess well", I would call this a "**known unknown**" (upper right quadrant in figure). 
+
+I would argue that these two categories of knowns - the "known knowns" and the "known unknowns" - make up your "**model of the world**", or how you think things "should" work. We use our "model of the world" every day in order to plan and predict our daily lives. 
+
+Of course, sometimes we have to update and improve our model of the world, and sometimes, we even need to break it completely and re-build it. This is a possibility anytime we enter a new situation, or face a new challenge we've never faced before. The very **first** time we encounter these conditions is when we enter the realm of the unknowns, the bottom two quadrants, because as soon as we've had one experience with something, they become a known known or a known unknown. 
+
+Sometimes, what we encounter is something so improbable that we couldn't have predicted it, and yet, in that moment, we are able to harness everything we know about ourselves and our environment to come up with a solution. I would call this situation the discovery of an "**unknown known**" (lower left quadrant in the figure), knowledge or abilities that you didn't realise you had until the very instant it was needed. 
+
+I would call this sort of unknown knowledge a "**rapid psychomotor response**" (RPR), which is a rapidly deployed action or set of actions that one has never done before, and which takes into account everything one knows about one's context and about one's abilities. RPRs don't have a standard trigger and can look completely different each time they manifest. This is **in contrast to a reflex**, which is the same action or set of actions triggered by a known event. 
+
+Examples of RPRs include: musical or theatrical improvisation, escaping an impromptu avalanche while skiing, flinging yourself out of harm's way when a car unexpectedly veers onto the sidewalk, or pulling your child back to safety as they are slipping off a cliff and while you are wearing flipflops and carrying another child on your shoulders. 
+
+Later, we often describe our actions in these moments as **something we did "without thinking", because things "happened too quickly"**. (But then again, what does it mean to think?)
+
+Lastly, we know that there are things we don't even know we don't know, and we only know that we will probably have to deal with things we don't even know we don't know. So how do we prepare for these "**unknown unknowns**" (lower right quadrant in figure)? I would argue that our **imaginations** and our **ability to speculate** upon possible futures and alternate realities developed as adaptations for facing unknown unknowns that may arise from our external environment; and practices such as **self-reflection** and **meditation** were developed as adaptations for facing unknown unknowns that may arise from within ourselves. And what might be our most powerful tool for communicating the complex, multi-facetd, context-dependent insights we gain from these adaptive behaviours?
+
+**A good story.**
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -2003,9 +2167,11 @@ Asoka clasps Min on the shoulder as Min grins back at them.
 
 Asoka: **"...will only make us stronger!"**
 
-## Diagram 7: Museum as a Lab
+## Diagram 7: Closing the Loop Between Studying the Brain and Living with One
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
+
+
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
