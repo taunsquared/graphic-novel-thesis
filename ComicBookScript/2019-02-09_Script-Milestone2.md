@@ -1208,7 +1208,7 @@ Asoka: **"Wait, what??"**
 
 Serena's eyes never waver, face inscrutable. We see an image of an enormous network of neurons clinging to a decidedly less sexy set of intestines.
 
-Serena: **"Everything that passes through your gut is processed by your [enteric nervous system](https://en.wikipedia.org/wiki/Enteric_nervous_system), a network of *500 million* neurons - that's *5 times* as many as the neurons in your *spine*. You better respect what you eat, cuz now your guts also power your protective outfit."**
+Serena: **"Why do you think we're so careful about what we eat? Your gut directly influences [*500 million* neurons](https://en.wikipedia.org/wiki/Enteric_nervous_system)...and now, they also power your protective outfit."**
 
 Serena grins now. 
 
