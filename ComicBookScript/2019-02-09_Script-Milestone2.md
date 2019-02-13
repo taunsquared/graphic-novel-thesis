@@ -1154,7 +1154,7 @@ Asoka and Iri realise that everyone is looking at them. They exchange a glance.
 
 Asoka: **"Me? Why would you do that?"**
 
-Serena: **"You're generation is the first to grow up with mechapets...and you need a mechapet if you're going to wear it."**
+Serena: **"Your generation is the first to grow up with mechapets...and you need a mechapet if you're going to wear it."**
 
 Asoka: **"Wear what?"**
 
