@@ -1172,7 +1172,7 @@ The final scene of the mural shows the Space Barges coming back to Earth, as the
 
 Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 17 years later. To think that Howes Cave City abandoned you after *33 years* of farming service..."**
 
-Serena: **"Everyone was so grateful when the Biononymous first got above ground and put fresh food back into people's diets, but now they treat us like we're a bunch of Orbiter bots! Ever since the Orbiters came back 16 years ago and declared themselves the 'World Government', the Underground Cities have gotten more and more hostile towards the Biononymous..."
+Serena: **"Everyone was so grateful when the Biononymous first got above ground and put fresh food back into people's diets, but now they treat us like we're a bunch of Orbiter bots! Ever since the Orbiters came back 16 years ago and declared themselves the 'World Government', the Underground Cities have gotten more and more hostile towards the Biononymous..."**
 
 Eireena: **"...this might sound ridiculous, but I wouldn't be shocked if the Beasts were created by the Orbiters as an excuse to interfere with the Havens...why else would their first target be Green Haven Howes? Space Consortium has been after Iúna's eSyrup splicing techniques for decades..."**
 
