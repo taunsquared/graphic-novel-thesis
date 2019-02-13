@@ -1198,8 +1198,6 @@ Serena: **"Many years ago, your Green Haven Council visited us with this wooden 
 
 Eireena: **"It's called *'cuttlefish cloth'* - this outfit can be 'voltage-treated' by your mechapet, but it will take some time for Iri to learn how to do it smoothly and reliably. The outfit will help you survive extreme temperatures, filter and purify the dirtiest water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
-Asoka: **"Just like Iri can do already!"**
-
 Serena's eyes twinkle. 
 
 Serena: **"And it's powered by your waste products."**
