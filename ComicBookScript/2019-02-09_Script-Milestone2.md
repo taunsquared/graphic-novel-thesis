@@ -1442,7 +1442,7 @@ Asoka: **"Mmmmmm!!!"**
 
 Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness. Iri cuddles their leg and looks up at Asoka. 
 
-Iri: *"You know...it wasn't your fault."*
+Iri: *"Almost like the orchards at home..."*
 
 We see Asoka's fists clench for a moment. Then they resolutely wipe their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. Methane, CO2, and NO2 levels are safely within 'short-term breathable' levels. Asoka's face is grim, angry.
 
