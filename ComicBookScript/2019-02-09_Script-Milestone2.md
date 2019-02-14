@@ -1328,7 +1328,7 @@ As Asoka runs, their face veil shows them overlays of annotations about the envi
 
 In addition the annotations about the flora around them, Asoka's face veil shows two temperature readings, one for the environment inside Asoka's clothes, and one for the outside environment. The outside temp is currently 36.2 deg celsius, while the temp inside Asoka's clothes is 23.1. 
 
-Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is very high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/), much higher than CO2 and NO2 levels, which are also at fatally toxic levels (indicate with a color scale?). 
+Asoka's face veil also shows the atmospheric content in a dynamically changing pie chart. By the flooded ruins of Manaus, with its many dead trees and vegetation, [the methane content is very high](https://massivesci.com/articles/methane-trees-greenhouse-gas-wetlands/), much higher than CO2 and NO2 levels, which are also at varying levels of toxicity (indicated via a color scale: green is safe, yellow is slightly toxic, orange is moderately toxic, purple is highly toxic, red is extremely toxic). 
 
 ### Page 3
 
