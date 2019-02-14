@@ -1372,7 +1372,7 @@ Iri gives Asoka a look.
 
 Iri: *"Maybe...you should eat soon?"*
 
-Asoka: *"If you can find a cave? But I want to keep walking..."*
+Asoka: *"Do **you** see anywhere I could take off my face veil? Besides, I want to keep walking..."*
 
 ### Page 5
 
