@@ -469,7 +469,7 @@ Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 ### Neuron Classification by Structure
 
 -- Unipolar --  
-[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Unipolar neurons are common in insects. [Unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) were first described in 1977 in the rat cerebellar cortex. 
+[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Many primary sensory neurons, which are the first step in translating chemicals, light, or vibrations from the outside world into neural signals, are unipolar cells. [Unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) have been found in the cerebellar cortex and cochlear nucleus (part of the brainstem). 
 
 -- Bipolar --  
 [**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron) have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon)), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite)). Bipolar neurons are specialized sensory neurons involved in smell, sight, taste, hearing, and vestibular (hearing, equilibrium, motion detection) functions. They are found in the [retina](https://en.wikipedia.org/wiki/Retina), [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve), and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion). 
