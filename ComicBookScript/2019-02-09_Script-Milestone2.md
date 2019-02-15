@@ -2155,19 +2155,21 @@ Min looks up at Asoka with a determined look on her face.
 
 Min: **"The Automata *have* to survive, and what I learn from the Orbiters will help us. But we can't do it alone...the Biononymous must *also* survive!"**
 
-Asoka looks up at the stars, chewing on Min's words. After a moment, Min face softens and she leans back, turning her gaze back up to the stars. She speaks in fierce whisper.
+Asoka looks up at the stars and Orbiter vessels, chewing on Min's words. After a moment, they speak in fierce whisper.
 
-Min: **"Who are the Orbiters to keep us here while they fly free? They made a mess of this planet and left us to clean it up, so space is just as much ours as it is theirs!"**
+Asoka: **"The Orbiters made a mess of this planet and then ran away...and now that we've worked so hard to clean it up, they want to take it back again. Who are they to decide?"**
 
-Asoka: **"You're right..."**
+Asoka, a fire suddenly alight in their eyes, turns back to Min, who is still watching them. 
 
-Asoka turns to Min, a fire suddenly alight in their eyes. 
+Asoka: **"I want to help the Biononymous survive...and I *also* want to join the ISE corps!"**
 
-Asoka: **"...we'll *all* make it, and anyone who tries to stop us..."**
+Min let's out a wild and joyful whoop, nearly dislodging Mawé and the squirrel monkey, then grabs Asoka by the shoulders. 
 
-Asoka clasps Min on the shoulder as Min grins back at them. 
+Min: **"Yes! And anyone who tries to stop us..."**
 
-Asoka: **"...will only make us stronger!"**
+Zoom in on Min and Asoka's faces, who are touching foreheads. 
+
+Min: **"...will only make us stronger!"**
 
 ## Diagram 7: Closing the Loop Between Studying the Brain and Living with One
 
