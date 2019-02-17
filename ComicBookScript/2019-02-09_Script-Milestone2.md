@@ -521,7 +521,9 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Finished loading...'A Beginner's Guide to eSyrup: Introduction'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers managed to create a [yeast](https://en.wikipedia.org/wiki/Yeast) mutant that, when cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria) and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. When left unperturbed, this self-replicating bacterial culture generates spontaneous patterned electrical activity that move like waves across the culture, similar to the electrical activity in developing animal eyes called [retinal waves](https://en.wikipedia.org/wiki/Retinal_waves). These waves of electrical activity induce the atoms within raw eSyrup to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections, which then mimic the behaviour of a classical electronic circuit. Interestingly, eSyrup structures do not seem to be powered by electricity; instead, they seem to convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
+**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers managed to create a [yeast](https://en.wikipedia.org/wiki/Yeast) mutant that, when cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria) and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. When left unperturbed, this self-replicating bacterial culture generates spontaneous patterned electrical activity that move like waves across the culture, similar to the electrical activity in developing animal eyes called [retinal waves](https://en.wikipedia.org/wiki/Retinal_waves). These waves of electrical activity induce the atoms within raw eSyrup to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections, which can then flexibly mimic the behaviour of a classical [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)."**
+
+**"The exact nature of this flexibility depends on how the eSyrup has been engineered to grow hyphae, referred to as the eSyrup's "grade". In certain grades of eSyrup, the [septum](https://en.wikipedia.org/wiki/Septum) separating the cells of the hyphae are bioengineered to be composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) that are flexibly linked to each other. In these "higher" grades of eSyrup, the septum have a very high density of pores to increase the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. The resulting eSyrup product can be independently reconfigured almost indefinitely, and are called "flexible eSyrup" or "flex-eSyrup"; however, these grades of eSyrup require more frequent feeding in order to power their reactivity. Cheaper grades of eSyrup grow hyphae with septum composed of larger hexagons and with fewer pores. While this structure limits the ability of these grades, called "fixed eSyrup", to reconfigure, these "lower" grades also require less frequent feedings to stay viable. While the energy conversion process in eSyrup is not fully known, a growing body of evidence suggests that eSyrup cultures convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
 
 ### Page 1
 
@@ -803,9 +805,13 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Stitching'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"Using a reaction process derived from [polymerization](https://en.wikipedia.org/wiki/Polymerization), eSyrup hyphae can be molecularly "stitched" to various inorganic materials, such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic materials, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with eSyrup, using processes derived from [*in situ* polymerization](https://en.wikipedia.org/wiki/In_situ_polymerization) and [dip-coating](https://en.wikipedia.org/wiki/Dip-coating). Once these hybrid structures have been created, eSyrup cultures can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to meet custom designs and needs."**
+**"Using a reaction process derived from [polymerization](https://en.wikipedia.org/wiki/Polymerization), eSyrup hyphae can be molecularly "stitched" to various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate), such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with eSyrup, using processes derived from [*in situ* polymerization](https://en.wikipedia.org/wiki/In_situ_polymerization) and [dip-coating](https://en.wikipedia.org/wiki/Dip-coating)."**
 
-**"The exact nature of an eSyrup-treated material's electro-chemical flexibility depends on the grade of eSyrup used in the stitching process. In certain grades of eSyrup, the [septum](https://en.wikipedia.org/wiki/Septum) separating the cells of the hyphae are bioengineered to be composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) with a very high density of pores to increase the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. The hexagonal sections of septum are flexibly linked to each other, and the resulting eSyrup product can be independently reconfigured almost indefinitely (called "flexible eSyrup" or "flex-eSyrup"). However, these grades of eSyrup require more frequent feeding in order to power their reactivity. Cheaper grades of eSyrup are made of hyphae with less porous septums, which are also composed of larger hexagons. While this reduces the frequency of feedings required to use and maintain these grades of eSyrup, this severely limits the ability of these grades to reconfigure (called "fixed eSyrup")..."**
+**"Thanks to the enormous range of eSyrup grades, substrates stitched with eSyrup (called "hybrid materials") can display a wide range of environmental reactivity. Hybrid materials stitched with low grade eSyrup, once configured, act as "set" hardware that cannot modify their own physical structure but can run a variety of software programs, similar to the [computing hardware](https://en.wikipedia.org/wiki/Computer_hardware) from the late 20th and early 21st centuries. These hybrid materials must be "un-stitched", a process derived from [depolymerization](https://en.wikipedia.org/wiki/Depolymerization), and then re-stitched in order to change their physical structure. Hybrid materials stitched with higher grade eSyrup can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to adjust their physical structures based on external conditions and context-dependent needs."** 
+
+**"The "hardware flexibility index", or HFI, of hybrid materials can, in theory, be extended even further, where substrates are stitched with eSyrup so flexible that the hybrid material is able to modify its *own* structure in response to external conditions and context-dependent needs. The choice of substrate and the initial shape of the hybrid material structure would constrain the space of possible modifications, but the hybrid material structure would react to the environment in a fully autonomous way, leading to what some scientists are willing to label "autonomous behaviour"..."**
+
+*note: THIS LEADS TO THE ETHICAL CONUNDRUM, which the Orbiters are approaching with their bots as tools, keeping the Beasts not intelligent enough to be autonomous; the Biononymous are creating symbiotes with the mechapets, but need to hold very strictly to a moral code that always associates mechapets to a human. BUT, if the Orbiters get a hold of the Biononymous tech, will they have the same scruples?*
 
 ### Page 1
 
@@ -837,7 +843,7 @@ Biononymous child holding the fist of straws: **"*Think of it this way, Pippa...
 
 Pippa: **"*But it's not fair, Io! I'm the smallest, and it's so far away!*"**
 
-Io: **"*We all agreed!*"**
+Io: **"*No, that's cheating!*"**
 
 We see tiny gloved hands try to shove the short straw back into an only slightly larger fist of straws. 
 
@@ -851,7 +857,7 @@ Asoka: **"*Come on, Pippa, I'll help you.*"**
 
 Asoka and Pippa roll two large plastic barrels on a grassy path up a steep, terraced hill, towards a long row of tall greenhouses. The barrels are heavy with water and the two children lean their whole bodies into the endeavor. The cuttlefish mechapet holds two large woven shade-fans over the children's heads, while the crow mechapet moves sticks and other obstacles out of their path. 
 
-Pippa: **"*No, *Soka-aa*, Io was cheating, I know it! They haven't had to work further away than the apple trees ever since we started trying out all of their 'work assignment algorithms'...*"**
+Pippa: **"*No Sokaaa,* Io *was cheating, I know it! They haven't had to work further away than the apple trees ever since we started trying out all of their 'work assignment algorithms'...*"**
 
 Asoka: **"*But don't you like being above ground? This is my favorite part of being a Biononymous!*"**
 
@@ -1488,7 +1494,7 @@ Figure: **"Aaaaaaaahhhh!!"**
 
 Iri is dazed but alright. They shakily climb up Asoka's arm onto their shoulders and places two arms over Asoka's ears. 
 
-Iri: *"You need...Portuguese!"*
+Iri: *"You need...Portugues!"*
 
 Asoka turns off their camou and now, finally fully visible, turns to the dark figure and puts both hands up in a gesture pleading for mercy. 
 
@@ -1516,9 +1522,9 @@ Asoka: **"No! Por favor--"**
 
 Suddenly Asoka notices the ground rumbling gently. 
 
-Figure: **"O que é isso?"**
+Figure: **"O que é *esso*?"**
 
-*translation: "What is it?"*
+*translation: "What is **that**?"*
 
 The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
 
