@@ -44,6 +44,8 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
   * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-5-hunting-behaviour-of-the-common-cuttlefish)
 
   * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-2-rites-of-passage)
+  
+  * [Interlude 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude-2)
 
   * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-6)
   
