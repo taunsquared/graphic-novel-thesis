@@ -29,7 +29,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
   
 * [The Story, Part 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#the-story-part-2)
 
-  * [Interlude](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude)
+  * [Interlude 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude-1)
 
   * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
   
@@ -61,8 +61,6 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
 
 # The Story, Part 1
 
-## Prologue
-
 *They are the Architect and Engineer  
 who longed for space, longed for space  
 to hold the Planet dear,  
@@ -73,7 +71,51 @@ who longed for space, longed for space
 to see the ends of the Universe,  
 Benevolent Farmer and First VIRS.* 
 
-*--T. Sorriso  
+*--"The Beginning", by T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+
+## Prologue
+
+*Jackets in June  
+just ain't my kind o' tune  
+for a plump summer. 
+Voraciously take  
+the heat that it make,  
+decimate, glutton's pace,  
+bake and eat our cake  
+today,  
+don't wanna wait,  
+today,  
+won't be long 'til we're gone,  
+so be merry with the fates.* 
+
+*They itch for your blood,  
+they will make it flood  
+into cold coffers.  
+Procedural twine  
+ensnares our minds,  
+you're inclined to be blind,  
+turn the other cheek  
+today,  
+can't handle the weight  
+of today,  
+won't be long 'til it's gone,  
+now we're wedded to our fate.* 
+
+*Too dazed  
+to look beyond the haze  
+of money-makin' plays,  
+they eat the atmosphere,  
+don't know how to yield.* 
+
+*Too wasted  
+by the race to be a  
+money-makin' face,  
+they only keep us to bleed us  
+and feed their machine of  
+lust.*
+
+*--["Jackets in June"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), by T. Sorriso  
 From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
@@ -765,33 +807,26 @@ When neural cells are not using action or graded potentials, they go into a quie
 
 # The Story, Part 2
 
-## Interlude
+## Interlude 1
 
-*Little by little the night turns around  
-Counting the leaves which tremble at dawn  
-Lotuses lean on each other in yearning  
-Under the eaves the swallow is resting*
+*We don't need  
+the robots to feel for us,  
+if someone else breathes  
+no oxygen fills my lungs,  
+remember to feed  
+the organ that believes in the spirit of being kind,  
+hands and mind are mine to give to you.*
 
-*Set the controls for the heart of the sun*
+*We don't need  
+the robots to work for us,  
+if someone else sweats  
+I have not gained your trust,  
+remember we bleed  
+from underneath an armour pretending to save us time,  
+hands and mind are mind to give you.* 
 
-*Over the mountain watching the watcher  
-Breaking the darkness  
-Waking the grapevine  
-One inch of love is one inch of shadow  
-Love is the shadow that ripens the wine*
-
-*Set the controls for the heart of the sun  
-The heart of the sun, the heart of the sun*
-
-*Witness the man who raves at the wall  
-Making the shape of his questions to Heaven  
-Whether the sun will fall in the evening  
-Will he remember the lesson of giving?*
-
-*Set the controls for the heart of the sun  
-The heart of the sun, the heart of the sun*
-
-*--Pink Floyd,1968.*
+*--"We don't need the robots but it's okay to love them", by T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -1616,6 +1651,32 @@ As the intradermal shield continues into her mouth, nose, and sinuses, Min begin
 After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+
+## Interlude 2
+
+*W-eyes, looking side to side  
+squish to the front when the shrimp's on the run.  
+A morpheus tangle, got eight arms to wrangle,  
+no spine, but masterminds of foolin' your sight.*
+
+*Are you ready to hunt?  
+Then middle arms up!  
+Sneak, sneak, sneak, sneak,  
+stretch, stretch, stretch, stretch.  
+Now prepare the tentacles,  
+make a tripod and throw!  
+Did you catch or miss?  
+The pattern is how I know!*
+
+*Chromatic array in their skin  
+is how they betray  
+when they decide whether to attack or hide.  
+But when they have a secret,  
+they know how to keep it,  
+cuz light they polarize for colorblind eyes!*  
+
+*--"Cuttlefish Song", by T. Sorriso  
+From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
 
 ## Chapter 6
 
