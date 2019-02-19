@@ -2,13 +2,88 @@
 
 This script will be published as a "companion booklet" to the graphic novel, for those interested in taking a deeper dive into the science that inspired various aspects of the story. 
 
-Script written by Danbee Kim. 
-
 *"Dialogue in italics are thoughts of characters."*
 
 **"*Dialogue in italics and bold are spoken by the Biononymous while wearing the uniforms of their cult, which layers audio effects on their voices such that they cannot be identified by the sound of their speech.*"**
 
 **"Dialogue in bold is without an associated character is narrative text or sound effects, not spoken by any character."**
+
+# Credits
+
+STORY and LETTERING  
+Danbee Kim
+
+GRAPHIC NOVEL TITLE PAGE CONCEPT ARTIST  
+Gideon Gerlt
+
+CHAPTER 1 TITLE PAGE CONCEPT ARTIST  
+Xiao Xiao
+
+CHAPTER 1 ILLUSTRATOR and COLOURIST  
+Matteo Farinella
+
+SCIENTIFIC DIAGRAM 1 ILLUSTRATOR AND COLOURIST  
+Sara Vukson
+
+CHAPTER 2 TITLE PAGE CONCEPT ARTIST  
+Miguel Soler Montellano
+
+CHAPTER 2 ILLUSTRATOR AND COLOURIST  
+Miguel Soler Montellano
+
+SCIENTIFIC DIAGRAM 2 ILLUSTRATOR AND COLOURIST  
+Kuang-Ting (Emma) Cheng
+
+CHAPTER 3 TITLE PAGE CONCEPT ARTIST  
+Monica Keszler
+
+CHAPTER 3 ILLUSTRATOR AND COLOURIST  
+Graham Marema
+
+SCIENTIFIC DIAGRAM 3 ILLUSTRATOR AND COLOURIST  
+Gil Costa
+
+CHAPTER 4 TITLE PAGE CONCEPT ARTIST  
+Julia Zimmerman
+
+CHAPTER 4 ILLUSTRATOR AND COLOURIST  
+Julia Zimmerman
+
+SCIENTIFIC DIAGRAM 4 ILLUSTRATOR AND COLOURIST  
+Anncharlott Berglar
+
+CHAPTER 5 TITLE PAGE CONCEPT ARTIST  
+Dominique Duong
+
+CHAPTER 5 ILLUSTRATOR AND COLOURIST  
+Dominique Duong
+
+SCIENTIFIC DIAGRAM 5 ILLUSTRATOR AND COLOURIST  
+Jennifer Deutscher
+
+CHAPTER 6 TITLE PAGE CONCEPT ARTIST  
+Priyanka Das Rajkakati 
+
+CHAPTER 6, PAGES 1-8 ILLUSTRATOR AND COLOURIST  
+Julia Zimmerman
+
+CHAPTER 6, PAGES 9-12 ILLUSTRATOR AND COLOURIST  
+Gideon Gerlt
+
+SCIENTIFIC DIAGRAM 6 ILLUSTRATOR AND COLOURIST  
+Danbee Kim
+
+CHAPTER 7 TITLE PAGE CONCEPT ARTIST  
+Gideon Gerlt
+
+CHAPTER 7 ILLUSTRATOR AND COLOURIST  
+Jesso Wang
+
+SCIENTIFIC DIAGRAM 7 ILLUSTRATOR AND COLOURIST  
+Melissa Jedrysiak
+
+DREAM SEQUENCES ILLUSTRATOR AND COLOURIST  
+Emma Leavitt
 
 # Table of Contents
 
