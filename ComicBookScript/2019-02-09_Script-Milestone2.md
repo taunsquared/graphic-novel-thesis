@@ -443,9 +443,9 @@ Iara: **"Aparentemente esse não foi a primeira vez...ele tem uma oferta semelha
 
 *translation: "Apparently that wasn't the first time...he got a similar offer last year, but he thought it wasn't worth mentioning."*
 
-Nova, aghast: **"10.000.000.000 reais... isso é mais do que a *investidura do Instituto*..."**
+Nova, aghast: **"10.000.000.000 reais... isso é mais do que a [*investidura do Instituto*](https://en.wikipedia.org/wiki/Lists_of_institutions_of_higher_education_by_endowment)..."**
 
-*translation: "10 billion reais...that's more than the **institute's endowment**..."*
+*translation: "10 billion reais...that's more than the [**institute's endowment**](https://en.wikipedia.org/wiki/Lists_of_institutions_of_higher_education_by_endowment)..."*
 
 Breno: **"Vale a pena. Uma emenda estável com bacteriana é o primeiro passo para as emendas vivas de eSyrup...que monopólio que seria..."**
 
