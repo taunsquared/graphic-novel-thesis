@@ -1,14 +1,14 @@
 # Script Milestone 02
 
-**NAMES IN BOLD AND ALL CAPS ARE PLACEHOLDERS**
+This script will be published as a "companion booklet" to the graphic novel, for those interested in taking a deeper dive into the science that inspired various aspects of the story. 
+
+Script written by Danbee Kim. 
 
 *"Dialogue in italics are thoughts of characters."*
 
 **"*Dialogue in italics and bold are spoken by the Biononymous while wearing the uniforms of their cult, which layers audio effects on their voices such that they cannot be identified by the sound of their speech.*"**
 
 **"Dialogue in bold is without an associated character is narrative text or sound effects, not spoken by any character."**
-
-This script will be published as a "companion booklet" to the graphic novel, for those interested in taking a deeper dive into the science that inspired various aspects of the story. 
 
 # Table of Contents
 
