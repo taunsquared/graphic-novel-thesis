@@ -377,13 +377,13 @@ Majhee: **"Entou. Seu pai foi diagnosticada otra vez."**
 
 The circle of researchers: **Felix Grael**, a pale but handsome man in his late 20s, raised in Rio de Janeiro by Swedish immigrants who have since returned to Europe, his face lined with fear and sadness, head in hands as his elbows rest on his knees; **Kai Oliveira**, a much older woman of Japanese-Portuguese descent, grey-haired and hook-nosed, stern-faced and sitting stiffly in her chair; **Beatriz Cavalcanti**, a tall woman in her 30s, a Brazilian of Italian descent, mouth set in a grim line even as her hands squeeze Felix's shoulders in a motherly, comforting gesture; **Breno Leite**, a dark, thin man in his early 30s, born and raised in the streets of São Paulo by his young Brazilian single mother, who worked every day of her life before falling ill in order to send her son to university; **Nova Jatobá**, a young graduate student in her mid-20s, descended from indiginous Brazilians from deeper inland, her plump face lined with exhaustion; **Iara Gracie**, another young grad student in her mid-20s, who was born into an [old Brazilian martial arts family](https://en.wikipedia.org/wiki/Gracie_family) but chose the life of a scientist instead; **Vec Barbosa**, a portly Brazilian man of West African descent in his 40s, hands resignedly folded over a substantial beer belly, face troubled and sad behind a rather bushy yet neatly-trimmed beard.
 
-Vec, to Felix: **"Já nós demos a equipe médica de seu pai no acesso ao nosso banco de dados sobre pacientes com câncer de cutânea repetido."**
+Vec, to Felix: **"Já nós demos a equipe médica de seu pai no acesso ao nosso banco de dados sobre pacientes com [câncer de cutânea](https://en.wikipedia.org/wiki/Skin_cancer) repetido."**
 
-*translation: "We've already given your father's medical team access to our database on repeat skin cancer patients."*
+*translation: "We've already given your father's medical team access to our database on repeat [skin cancer](https://en.wikipedia.org/wiki/Skin_cancer) patients."*
 
-Beatriz, kindly: **"Mas seu pai teve um transplante de fígado, no? Se queres ir casa..."**
+Beatriz, kindly: **"Mas seu pai teve um [transplante de fígado](https://skincancer.ucsf.edu/transplant-patients), no? Se queres ir casa..."**
 
-*translation: "But your father had a liver transplant last year, no? If you want to go home..."*
+*translation: "But your father had a [liver transplant](https://skincancer.ucsf.edu/transplant-patients) last year, no? If you want to go home..."*
 
 Felix, defeated: **"Não há nada que eu possa fazer lá de qualquer maneira..."**
 
