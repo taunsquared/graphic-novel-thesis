@@ -155,7 +155,7 @@ From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www
 
 *Jackets in June  
 just ain't my kind o' tune  
-for a plump summer. 
+for a plump summer.  
 Voraciously take  
 the heat that it make,  
 decimate, glutton's pace,  
