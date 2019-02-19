@@ -411,9 +411,9 @@ Kai: **"Não podemos terminar a tempo sem o Felix. Emenda é mais arte do que o 
 
 Kai's brow furrows with frustration. 
 
-Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou sua eSyrup-emendado [células solares](https://www.cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) há alguns dias atras. Além disso, esta manhã eu tenho *isso*."**
+Kai: **"Embora... nosso melhor pode não ser suficiente... Space Consortium anunciou sua eSyrup-emendado [células solares](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) há alguns dias atras. Além disso, esta manhã eu tenho *isso*."**
 
-*translation: "Although...our best may not be enough...Space Consortium just announced their eSyrup-spliced [solar cells](https://www.cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) a few days ago. Also, this morning I got **this**."*
+*translation: "Although...our best may not be enough...Space Consortium just announced their eSyrup-spliced [solar cells](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08) a few days ago. Also, this morning I got **this**."*
 
 Kai passes up a small card to Majhee. Majhee reads from it.
 
