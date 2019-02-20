@@ -1087,7 +1087,7 @@ Eireena: **"I didn't think our ecosystem had recovered enough to support large c
 
 The fabric flap to this room opens, and another Biononymous adult enters. He addresses Eireena.
 
-Biononymous man: **"Apologies, High Priestess, but World Government Peacekeepers have just arrived. They request an audience with you immediately."**
+Biononymous man: **"Apologies, High Priestess! World Government Peacekeepers have just arrived. They request an audience with you immediately."**
 
 The other woman, sitting beside Eireena, raises an eyebrow. Her eye has a hard glint.  
 
