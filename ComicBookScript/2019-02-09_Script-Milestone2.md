@@ -267,7 +267,7 @@ A lot of the news is about the new space arboretum, but a few mention the new re
 
 **"Last year's [total evaporation of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to massive lootings at yet another hydropower station."**
 
-**"An extremely aggressive water-borne disease has placed [yet another city in northeast India under quarantine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)"**
+**"An extremely aggressive water-borne disease has placed [another city in northeast India under quarantine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)"**
 
 **"In the past 10 years, illnesses from sun radiation, such as skin cancer, have had a [hundred-fold jump in rate of diagnosis](http://www.who.int/uv/faq/skincancer/en/index1.html) around the world."**
 
