@@ -136,6 +136,8 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
   
 * [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#map-of-locations-important-to-the-story)
 
+* [License](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#license)
+
 # The Story, Part 1
 
 *They are the Architect and Engineer  
