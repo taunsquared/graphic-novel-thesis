@@ -549,13 +549,13 @@ Under this dialogue we see close-up views of the baby strapped to Iúna's front.
 
 ### Page 12
 
-Iúna: **"*Tahoe, have you been able to contact Joshua Tree?*"**
+Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
 
 Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
 Iúna: **"*How is Tahoe?*"**
 
-Tahoe: **"*Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary.*"**
+Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wiki/Fresno,_California), but we're getting ready to offer sanctuary.*"**
 
 Iúna: **"*So...it *was* the body mod?*"**
 
@@ -569,7 +569,7 @@ Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"*
 
 Tahoe: **"*...seriously?*"**
 
-Iúna: **"*Yes. Pigsah was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
+Iúna: **"*Yes. [Pigsah](https://en.wikipedia.org/wiki/Pisgah_National_Forest) was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
 
 Tahoe: **"*But...doesn't that feel too much like a* cult??"**
 
