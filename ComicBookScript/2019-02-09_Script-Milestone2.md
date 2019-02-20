@@ -1049,7 +1049,7 @@ Asoka: **"*Hope Pippa didn't get too distracted in the Market Cave--*"**
 
 Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
-Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack!"**
+Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack!*"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
