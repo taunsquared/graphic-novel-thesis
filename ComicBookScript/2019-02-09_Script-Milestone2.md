@@ -1049,13 +1049,17 @@ Asoka: **"*Hope Pippa didn't get too distracted in the Market Cave--*"**
 
 Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
-Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack! Repeat, *WE ARE UNDER ATTA*--Aaaaaaaaahh!!!*"**
+Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack!"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
 Asoka: **"*Attack?!*"**
 
-Asoka scoops up Iri and begins running down the valley, but Iri suddenly re-animates and broadcasts another voice not its own. 
+Asoka scoops up Iri and begins running down the valley.
+
+Iri: **"Repeat, *WE ARE UNDER ATTA--*"**
+
+Iri suddenly re-animates and broadcasts another voice not its own. 
 
 Iri: **"Soka, stay away, don't come back!!"**
 
@@ -1063,7 +1067,7 @@ Asoka clutches Iri to their chest, looking down the mountainside with terrified 
 
 Asoka: **"*Dad??!!*"**
 
-Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
+Iri/João (Asoka's Dad): **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 ### Page 8
 
