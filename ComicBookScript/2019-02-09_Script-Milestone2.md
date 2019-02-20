@@ -1570,6 +1570,8 @@ Asoka: *"Let's do this."*
 
 Asoka crouches, ready to run. They are caught completely unawares by a blurry figure kicking them in the back of the head with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs).  
 
+Asoka: **"Unggh!"**
+
 The figure squeals with terror. 
 
 Figure: **"Aaauuuuuuggh, é real!!!"**
@@ -1579,6 +1581,8 @@ Figure: **"Aaauuuuuuggh, é real!!!"**
 ### Page 9
 
 Asoka's entire head scarf and veil have been kicked off entirely, and Asoka is frantically trying to put their head gear back on while hiding their face behind their arms and hair. Iri jumps up onto Asoka to cover their face with its body, becoming visible and puffing itself up as big as it can go, glowing an eery, ghostly white. Iri's belly, smashed up against Asoka's face, displays what Iri sees so that Asoka isn't left blind. 
+
+Asoka, from under Iri's belly: **"What the...?"**
 
 The figure facing Asoka and Iri is small, dark-skinned, and dressed only in loose, flowing trousers that cinch at the knees and have large open slits down the sides. They crouch in battle-ready pose, menacing Iri with what looks like a short, broad spike of metal curved wickedly at its jagged end. Their eyes are tightly shut, yet they seem to know exactly where Iri seemingly floated above the forest floor. They are sweating and trembling with terror. 
 
@@ -1616,7 +1620,7 @@ Asoka: **"Please! Eu sou humano!"**
 
 *translation: "I'm human!"*
 
-The dark figure, eyes still tightly closed, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
+The dark figure, eyes now wide open with shock and fear, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
 
 Figure: **"O que você quer??"**
 
@@ -1636,19 +1640,23 @@ Asoka: **"No! Por favor--"**
 
 Suddenly Asoka notices the ground rumbling gently. 
 
+The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
+
 Figure: **"O que é *esso*?"**
 
 *translation: "What is **that**?"*
 
-The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
-
 ### Page 12
 
-Figure: **"Merda--!!"**
+Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. 
 
-*translation: "Shit--!!"*
+Asoka: **"Aaaaaah!!!"**
 
-Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
+Figure: **"Merda!!"**
+
+*translation: "Shit!!"*
+
+Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
 ## Diagram 5: Hunting Behaviour of the Common Cuttlefish
 
