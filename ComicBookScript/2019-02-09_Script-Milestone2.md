@@ -1074,6 +1074,8 @@ Iri/João (Asoka's Dad): **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 ### Page 8
 
+**"Green Haven Clarksville, North America"**
+
 It's night. A village with a central housing structure identical to Asoka's home village, also surrounded by greenhouses, sleeps tranquilly amongst rolling hills and a soft, nearly full moon. A faint orange glow is visible in one corner of the central housing structure. 
 
 Eireena, off-panel: **"I'm so sorry for your loss, Asoka."**
