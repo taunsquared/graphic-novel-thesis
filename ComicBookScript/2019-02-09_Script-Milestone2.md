@@ -150,8 +150,9 @@ who longed for space, longed for space
 to see the ends of the Universe,  
 Benevolent Farmer and First VIRS.* 
 
-*--"The Beginning", by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- "The Beginning", by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 ## Prologue
 
@@ -194,8 +195,9 @@ they only keep us to bleed us
 and feed their machine of  
 lust.*
 
-*--["Jackets in June"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["Jackets in June"](https://soundcloud.com/taunsquared/03-jackets-demo-20170921), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -904,8 +906,9 @@ remember we bleed
 from underneath an armour pretending to save us time,  
 hands and mind are mind to give you.* 
 
-*--"We don't need the robots but it's okay to love them", by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["We don't need the robots but it's okay to love them"](https://soundcloud.com/taunsquared/04-robots-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -1766,8 +1769,9 @@ But when they have a secret,
 they know how to keep it,  
 cuz light they polarize for colorblind eyes!*  
 
-*--"Cuttlefish Song", by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["Cuttlefish Song"](https://soundcloud.com/taunsquared/02-cutelfish-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 ## Chapter 6
 
@@ -2380,8 +2384,9 @@ for the myth of a rich man's favour,
 we all long to belong,  
 sing along, harmonies of all the same song.*  
 
-*--T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["Mind Shape"](https://soundcloud.com/taunsquared/01-mindshape-demo-20170921-1?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
