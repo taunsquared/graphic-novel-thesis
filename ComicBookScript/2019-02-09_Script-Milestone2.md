@@ -824,9 +824,9 @@ Nicola squeels and smiles shyly, raising her arms and hiding her face in her fat
 
 Majhee shifts her attention to Amana. 
 
-Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos mergulhar? Você vai vir comigo para trazer as roupas de mergulho aqui."**
+Majhee: **"Amana, lembras-te do nosso último retiro de laboratório, quando fomos mergulhar? Você vai vir comigo para trazer as roupas de mergulho aqui."**
 
-*translation: "Do you remember our last lab retreat, when we went SCUBA diving? You're gonna help me bring the wetsuits up here."*
+*translation: "Amana, do you remember our last lab retreat, when we went SCUBA diving? You're gonna help me bring the wetsuits up here."*
 
 ### Page 10
 
