@@ -656,7 +656,7 @@ We see a bustling harbour town, everything about it small and cute except for th
 
 **"Industrialized eSyrup production, however, needs quite a bit of silica."**
 
-**"Sand mining was out of the question - wouldn't want to tarnish Space Consortium's brand with news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
+**"Sand mining was out of the question...wouldn't want to tarnish Space Consortium's brand with news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
 
 **"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
 
