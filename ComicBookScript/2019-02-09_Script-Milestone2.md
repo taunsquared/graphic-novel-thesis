@@ -1775,7 +1775,7 @@ cuz light they polarize for colorblind eyes!*
 *From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
 2nd edition.*
 
-## Chapter 6
+## Chapter 6: If you're not scared you're not in love
 
 Character designs: Asoka Morei, Iri, Minka Barbosa Traoré, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
