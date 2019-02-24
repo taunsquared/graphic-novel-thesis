@@ -12,7 +12,7 @@ In order of appearance:
 [Iri](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#iri)  
 [Eireena McLeland](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#eireena-mcleland)  
 [Serena Ramirez](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#serena-ramirez)  
-[Minka Traoré](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#minka-oosou)  
+[Minka Traoré](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#minka-traor%C3%A9)  
 [Jina Suh Barbosa](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#jina-suh-barbosa)  
 [Maraba Barbosa Jatobá](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#maraba-barbosa-jatob%C3%A1)  
 
