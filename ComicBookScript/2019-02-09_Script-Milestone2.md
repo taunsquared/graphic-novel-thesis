@@ -122,7 +122,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
   
   * [Interlude 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude-2)
 
-  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-6)
+  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-6-if-youre-not-scared-youre-not-in-love)
   
   * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-6-knowns-and-unknowns)
 
