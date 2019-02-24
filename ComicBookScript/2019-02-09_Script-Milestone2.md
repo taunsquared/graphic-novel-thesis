@@ -1419,7 +1419,7 @@ This barrier is composed of a type of glial cell called **ependymocytes**, which
 
 ## Chapter 5: Lilacs Out Of The Dead Land
 
-Character designs: Asoka Morei, Iri, Minka Oosou
+Character designs: Asoka Morei, Iri, Minka Traoré
 
 ### Chapter Title Page
 
@@ -1777,7 +1777,7 @@ cuz light they polarize for colorblind eyes!*
 
 ## Chapter 6
 
-Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
+Character designs: Asoka Morei, Iri, Minka Barbosa Traoré, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Chapter Title Page
 
@@ -2041,7 +2041,7 @@ Lastly, we know that there are things we don't even know we don't know, and we o
 
 ## Chapter 7: Mistakes Are How We Evolve
 
-Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
+Character designs: Asoka Morei, Iri, Minka Traoré, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Chapter Title Page
 
@@ -2059,9 +2059,9 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
-Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
+Majhee: **"Minka Traoré, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
 
-*translation: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
+*translation: "Minka Traoré, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
 
 View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
 
