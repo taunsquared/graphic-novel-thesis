@@ -12,7 +12,7 @@ In order of appearance:
 [Iri](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#iri)  
 [Eireena McLeland](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#eireena-mcleland)  
 [Serena Ramirez](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#serena-ramirez)  
-[Minka Oosou](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#minka-oosou)  
+[Minka Traoré](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#minka-oosou)  
 [Jina Suh Barbosa](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#jina-suh-barbosa)  
 [Maraba Barbosa Jatobá](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2018-09-23_Character-Profiles.md#maraba-barbosa-jatob%C3%A1)  
 
@@ -299,7 +299,7 @@ Birthday: November 9, 2088
   * head scarf and face veil is dark grey
   * jacket is embroidered with schematic representations of the crystal structure of [stishovite](https://en.wikipedia.org/wiki/Stishovite), an extremely hard and dense polymorph of silica. 
 
-## Minka Oosou
+## Minka Traoré
 
 Earther, member of the Automata Clan (South America). Fiercely loyal, loudly opinionated, and stubbornly principled. Argumentative and very blunt, incredibly competitive and belligerently anti-authoritarian. Has a terrible soft spot for underdogs and can't help getting involved in a fight if she feels that someone is being bullied or abused. Cares deeply for Asoka.
 
@@ -371,7 +371,7 @@ Jina is the daughter of Majhee Suh and Vec Barbosa.
 
 Birthday: November 20, 2079
 
-When Jina spent her year in the Underground Cities, she met and fell in love with Amadou. Jina helps Amadou return to his home cave and overthrow the tyrannical governor. They succeed, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, Amadou kills the tyrannical governor, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou on the condition that he will be a "child" forever - he will never receive a subdermal shield. 
+When Jina spent her year in the Underground Cities, she met and fell in love with Amadou Traoré. Jina helps Amadou return to his home cave and overthrow the tyrannical governor. They succeed, but at a terribly high cost - many of the cave's residents died, including Amadou's parents. In the end, Amadou kills the tyrannical governor, and a more humane governing system was established. However, Amadou was now wanted by World Government Peacekeepers for killing a World Government appointed governor, so Jina brought him back with her to the Automata. This was the first time someone had returned from their year away with an Underground Earther, and it caused great debate amongst the Elders. In the end, they accept Amadou on the condition that he will be a "child" forever - he will never receive a subdermal shield. 
 
 ### Visual checklist for character designs
 
