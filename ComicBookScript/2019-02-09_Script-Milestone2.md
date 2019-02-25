@@ -1791,6 +1791,8 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Traoré, Majhee Suh, Nova Jat
 
 ### Page 1
 
+**"Approximately 32 miles north of the ruins of Manaus..."**
+
 Min peers after the rampaging military tanks, standing confidently at the tippy top of one of the few tall trees in the area, giving her a bird's eye view across the scant and scraggly canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
