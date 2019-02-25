@@ -1797,7 +1797,7 @@ Min peers after the rampaging military tanks, standing confidently at the tippy 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
 
-Min: *"They're making a bee line for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
+Min: *"They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
 ### Page 2
 
