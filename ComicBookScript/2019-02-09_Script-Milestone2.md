@@ -1801,7 +1801,9 @@ Min: *"They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS
 
 ### Page 2
 
-Nicola Cavalcanti is sitting on a tree platform, somewhere far to the west, in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
+**"Approximately 400 miles northwest of the ruins of Manaus..."**
+
+Nicola Cavalcanti is sitting on a tree platform in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
 
 Nicola Cavalcanti: *"Lovely...50 years, and they really **haven't** changed their satellite sensors..."*
 
