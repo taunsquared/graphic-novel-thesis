@@ -1849,6 +1849,8 @@ Asoka: **"*I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of
 
 *--flashback--*
 
+**"12 days ago..."**
+
 Asoka clutches Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
 Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
