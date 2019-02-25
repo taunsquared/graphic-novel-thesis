@@ -960,11 +960,11 @@ Biononymous child holding the fist of straws: **"*Think of it this way, Pippa...
 
 Pippa: **"*But it's not fair, Io! I'm the smallest, and it's so far away!*"**
 
-Io: **"*No, that's cheating!*"**
-
 We see tiny gloved hands try to shove the short straw back into an only slightly larger fist of straws. 
 
 Pippa: **"*Take it back, let me pick again!*"**
+
+Io: **"*No, that's cheating!*"**
 
 A taller, lankier Biononymous child, a cuttlefish mechapet curled around their neck, steps in between them and calmly separates them. 
 
