@@ -59,7 +59,7 @@ CHAPTER 5 ILLUSTRATOR AND COLOURIST
 [Dominique Duong](https://domduong.com/)
 
 SCIENTIFIC DIAGRAM 5 ILLUSTRATOR AND COLOURIST  
-Jennifer Deutscher
+[Jennifer Deutscher](http://www.alithographica.com/)
 
 CHAPTER 6 TITLE PAGE CONCEPT ARTIST  
 Priyanka Das Rajkakati 
