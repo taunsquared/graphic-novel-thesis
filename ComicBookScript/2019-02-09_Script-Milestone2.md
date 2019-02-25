@@ -50,13 +50,13 @@ CHAPTER 4 ILLUSTRATOR AND COLOURIST
 Julia Zimmerman
 
 SCIENTIFIC DIAGRAM 4 ILLUSTRATOR AND COLOURIST  
-Anncharlott Berglar
+[Anncharlott Berglar](http://www.acb-images.com/)
 
 CHAPTER 5 TITLE PAGE CONCEPT ARTIST  
-Dominique Duong
+[Dominique Duong](https://domduong.com/)
 
 CHAPTER 5 ILLUSTRATOR AND COLOURIST  
-Dominique Duong
+[Dominique Duong](https://domduong.com/)
 
 SCIENTIFIC DIAGRAM 5 ILLUSTRATOR AND COLOURIST  
 Jennifer Deutscher
