@@ -1915,6 +1915,8 @@ Asoka: **"*Then the Biononymous need your help!*"**
 
 ### Page 9
 
+**"7 days later, approximately 220 miles northwest of Manaus..."**
+
 The scene has transitioned to the Central Hearth of the Automata campsite, an tree-house-like structure made from a single, giant eSyrup-bubble. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka holds their head scarf and face veil nervously in front of them, anxiously glancing at Min for cues, not used to being bare-faced in front of so many strangers, but wanting to make a good first impression. Iri sits on Asoka's shoulders, arms wrapped protectively around Asoka's head and neck. Elders look troubled or curious, or a torn mixture of both. Children openly stare at Iri, and at Asoka's unfamiliar clothing. Many of the Automata carry small monkeys, birds, or lizards on their person, docile animals perched on shoulders, curled around necks, or clinging to heads. 
 
 Min addresses Nova Jatobá, currently serving as Head Councilor of Elders, around whom the curious crowd has gathered. 
