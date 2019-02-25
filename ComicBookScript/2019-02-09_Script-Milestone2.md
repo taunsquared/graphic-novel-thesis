@@ -1797,7 +1797,7 @@ Min peers after the rampaging military tanks, standing confidently at the tippy 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
 
-Min: *"They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
+Min: *"Nicola, they're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
 ### Page 2
 
@@ -1809,7 +1809,7 @@ Nicola Cavalcanti: *"Lovely...50 years, and they really **haven't** changed thei
 
 Min: *"We were right!"*
 
-Nicola: *"Does this mean you'll come home now?"*
+Nicola: *"Minkinha, does this mean you'll come home now?"*
 
 Min: *"Not until I get an **apology**! Why am I the only one who has to **prove** that my First Quest is **necessary**?"*
 
