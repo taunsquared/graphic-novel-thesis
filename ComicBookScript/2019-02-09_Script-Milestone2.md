@@ -1801,7 +1801,7 @@ Min: *"They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS
 
 ### Page 2
 
-**"Approximately 400 miles northwest of the ruins of Manaus..."**
+**"Approximately 400 miles west of the ruins of Manaus..."**
 
 Nicola Cavalcanti is sitting on a tree platform in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
 
