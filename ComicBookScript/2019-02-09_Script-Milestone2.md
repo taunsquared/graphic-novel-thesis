@@ -50,16 +50,16 @@ CHAPTER 4 ILLUSTRATOR AND COLOURIST
 Julia Zimmerman
 
 SCIENTIFIC DIAGRAM 4 ILLUSTRATOR AND COLOURIST  
-Anncharlott Berglar
+[Anncharlott Berglar](http://www.acb-images.com/)
 
 CHAPTER 5 TITLE PAGE CONCEPT ARTIST  
-Dominique Duong
+[Dominique Duong](https://domduong.com/)
 
 CHAPTER 5 ILLUSTRATOR AND COLOURIST  
-Dominique Duong
+[Dominique Duong](https://domduong.com/)
 
 SCIENTIFIC DIAGRAM 5 ILLUSTRATOR AND COLOURIST  
-Jennifer Deutscher
+[Jennifer Deutscher](http://www.alithographica.com/)
 
 CHAPTER 6 TITLE PAGE CONCEPT ARTIST  
 Priyanka Das Rajkakati 
@@ -122,7 +122,7 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
   
   * [Interlude 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude-2)
 
-  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-6)
+  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-6-if-youre-not-scared-youre-not-in-love)
   
   * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-6-knowns-and-unknowns)
 
@@ -136,6 +136,8 @@ https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/
   
 * [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#map-of-locations-important-to-the-story)
 
+* [License](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#license)
+
 # The Story, Part 1
 
 *They are the Architect and Engineer  
@@ -148,8 +150,9 @@ who longed for space, longed for space
 to see the ends of the Universe,  
 Benevolent Farmer and First VIRS.* 
 
-*--"The Beginning", by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- "The Beginning", by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 ## Prologue
 
@@ -192,8 +195,9 @@ they only keep us to bleed us
 and feed their machine of  
 lust.*
 
-*--["Jackets in June"](http://www.danbeekim.org/brainplay/2017-09-14-Pilot-Data-Aronauts-EP/), by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["Jackets in June"](https://soundcloud.com/taunsquared/03-jackets-demo-20170921), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -231,7 +235,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with the Green Havens (biodiversity sanctuaries around the world that preserve Earth's agricultural traditions) in order to conduct research into exo-hydroponics (plants useful for space travel) and permaculture in low gravity. Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, The Shuttle Barges, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before The Burning..."**
+**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Shuttle Barges, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before The Burning..."**
 
 ### Page 1
 
@@ -265,7 +269,7 @@ A lot of the news is about the new space arboretum, but a few mention the new re
 
 **"Last year's [total evaporation of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to massive lootings at yet another hydropower station."**
 
-**"An extremely aggressive water-borne disease has placed [yet another city in northeast India under quarantine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)"**
+**"An extremely aggressive water-borne disease has placed [another city in northeast India under quarantine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)"**
 
 **"In the past 10 years, illnesses from sun radiation, such as skin cancer, have had a [hundred-fold jump in rate of diagnosis](http://www.who.int/uv/faq/skincancer/en/index1.html) around the world."**
 
@@ -547,13 +551,13 @@ Under this dialogue we see close-up views of the baby strapped to Iúna's front.
 
 ### Page 12
 
-Iúna: **"*Tahoe, have you been able to contact Joshua Tree?*"**
+Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
 
 Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
 Iúna: **"*How is Tahoe?*"**
 
-Tahoe: **"*Fire hasn't gotten further than Fresno, but we're getting ready to offer sanctuary.*"**
+Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wiki/Fresno,_California), but we're getting ready to offer sanctuary.*"**
 
 Iúna: **"*So...it *was* the body mod?*"**
 
@@ -567,7 +571,7 @@ Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"*
 
 Tahoe: **"*...seriously?*"**
 
-Iúna: **"*Yes. Pigsah was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
+Iúna: **"*Yes. [Pigsah](https://en.wikipedia.org/wiki/Pisgah_National_Forest) was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
 
 Tahoe: **"*But...doesn't that feel too much like a* cult??"**
 
@@ -597,10 +601,10 @@ Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 **Pseudounipolar neurons** are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion) of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. Pseudounipolar neurons develop from bipolar neurons. 
 
 -- Multipolar --  
-The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surround by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion). 
+The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surrounded by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion). 
 
 -- Anaxonic --  
-[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but the axon cannot be differentiated from the dendrites purely based on structure. Anaxonic neurons can be found in the brain and retina of vertebrates, and modulate directional and posture coordinating behaviours. They are also found in [invertebrates](https://en.wikipedia.org/wiki/Invertebrate). These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Non-spiking neurons can influence the electrical excitability of spiking neurons. 
+[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23); however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732) of vertebrates, and in the central nervous system of [invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf).  
 
 ### Major Glial Cell Types
 
@@ -620,7 +624,7 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 [**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte) coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
 
-[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess K+ from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using ATP. 
+[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using ATP. 
 
 [**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma) (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system) of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma), a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier). They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid). 
 
@@ -654,7 +658,7 @@ We see a bustling harbour town, everything about it small and cute except for th
 
 **"Industrialized eSyrup production, however, needs quite a bit of silica."**
 
-**"Sand mining was out of the question - wouldn't want to tarnish Space Consortium's brand with news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
+**"Sand mining was out of the question...wouldn't want to tarnish Space Consortium's brand with news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
 
 **"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
 
@@ -822,9 +826,9 @@ Nicola squeels and smiles shyly, raising her arms and hiding her face in her fat
 
 Majhee shifts her attention to Amana. 
 
-Majhee: **"Lembras-te do nosso último retiro de laboratório, quando fomos mergulhar? Você vai vir comigo para trazer as roupas de mergulho aqui."**
+Majhee: **"Amana, lembras-te do nosso último retiro de laboratório, quando fomos mergulhar? Você vai vir comigo para trazer as roupas de mergulho aqui."**
 
-*translation: "Do you remember our last lab retreat, when we went SCUBA diving? You're gonna help me bring the wetsuits up here."*
+*translation: "Amana, do you remember our last lab retreat, when we went SCUBA diving? You're gonna help me bring the wetsuits up here."*
 
 ### Page 10
 
@@ -902,8 +906,9 @@ remember we bleed
 from underneath an armour pretending to save us time,  
 hands and mind are mind to give you.* 
 
-*--"We don't need the robots but it's okay to love them", by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["We don't need the robots but it's okay to love them"](https://soundcloud.com/taunsquared/04-robots-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -955,11 +960,11 @@ Biononymous child holding the fist of straws: **"*Think of it this way, Pippa...
 
 Pippa: **"*But it's not fair, Io! I'm the smallest, and it's so far away!*"**
 
-Io: **"*No, that's cheating!*"**
-
 We see tiny gloved hands try to shove the short straw back into an only slightly larger fist of straws. 
 
 Pippa: **"*Take it back, let me pick again!*"**
+
+Io: **"*No, that's cheating!*"**
 
 A taller, lankier Biononymous child, a cuttlefish mechapet curled around their neck, steps in between them and calmly separates them. 
 
@@ -1047,13 +1052,17 @@ Asoka: **"*Hope Pippa didn't get too distracted in the Market Cave--*"**
 
 Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
-Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack! Repeat, *WE ARE UNDER ATTA*--Aaaaaaaaahh!!!*"**
+Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack!*"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
 Asoka: **"*Attack?!*"**
 
-Asoka scoops up Iri and begins running down the valley, but Iri suddenly re-animates and broadcasts another voice not its own. 
+Asoka scoops up Iri and begins running down the valley.
+
+Iri: **"Repeat, *WE ARE UNDER ATTA--*"**
+
+Iri suddenly re-animates and broadcasts another voice not its own. 
 
 Iri: **"Soka, stay away, don't come back!!"**
 
@@ -1061,9 +1070,11 @@ Asoka clutches Iri to their chest, looking down the mountainside with terrified 
 
 Asoka: **"*Dad??!!*"**
 
-Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
+Iri/João (Asoka's Dad): **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 ### Page 8
+
+**"Green Haven Clarksville, North America"**
 
 It's night. A village with a central housing structure identical to Asoka's home village, also surrounded by greenhouses, sleeps tranquilly amongst rolling hills and a soft, nearly full moon. A faint orange glow is visible in one corner of the central housing structure. 
 
@@ -1081,7 +1092,7 @@ Eireena: **"I didn't think our ecosystem had recovered enough to support large c
 
 The fabric flap to this room opens, and another Biononymous adult enters. He addresses Eireena.
 
-Biononymous man: **"Apologies, High Priestess, but World Government Peacekeepers have just arrived. They request an audience with you immediately."**
+Biononymous man: **"Apologies, High Priestess! World Government Peacekeepers have just arrived. They request an audience with you immediately."**
 
 The other woman, sitting beside Eireena, raises an eyebrow. Her eye has a hard glint.  
 
@@ -1288,7 +1299,7 @@ Next, the mural moves on to when the Biononymous, led by Mother Bird, the First 
 
 The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 17 years later. To think that Howes Cave City abandoned you after *33 years* of farming service..."**
+Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 12 years later. To think that Howes Cave City abandoned you after *21 years* of farming service..."**
 
 Serena: **"Everyone was so grateful when the Biononymous first got above ground and put fresh food back into people's diets, but now they treat us like we're a bunch of Orbiter bots! Ever since the Orbiters came back 16 years ago and declared themselves the 'World Government', the Underground Cities have gotten more and more hostile towards the Biononymous..."**
 
@@ -1408,7 +1419,7 @@ This barrier is composed of a type of glial cell called **ependymocytes**, which
 
 ## Chapter 5: Lilacs Out Of The Dead Land
 
-Character designs: Asoka Morei, Iri, Minka Oosou
+Character designs: Asoka Morei, Iri, Minka Traoré
 
 ### Chapter Title Page
 
@@ -1568,6 +1579,8 @@ Asoka: *"Let's do this."*
 
 Asoka crouches, ready to run. They are caught completely unawares by a blurry figure kicking them in the back of the head with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs).  
 
+Asoka: **"Unggh!"**
+
 The figure squeals with terror. 
 
 Figure: **"Aaauuuuuuggh, é real!!!"**
@@ -1577,6 +1590,8 @@ Figure: **"Aaauuuuuuggh, é real!!!"**
 ### Page 9
 
 Asoka's entire head scarf and veil have been kicked off entirely, and Asoka is frantically trying to put their head gear back on while hiding their face behind their arms and hair. Iri jumps up onto Asoka to cover their face with its body, becoming visible and puffing itself up as big as it can go, glowing an eery, ghostly white. Iri's belly, smashed up against Asoka's face, displays what Iri sees so that Asoka isn't left blind. 
+
+Asoka, from under Iri's belly: **"What the...?"**
 
 The figure facing Asoka and Iri is small, dark-skinned, and dressed only in loose, flowing trousers that cinch at the knees and have large open slits down the sides. They crouch in battle-ready pose, menacing Iri with what looks like a short, broad spike of metal curved wickedly at its jagged end. Their eyes are tightly shut, yet they seem to know exactly where Iri seemingly floated above the forest floor. They are sweating and trembling with terror. 
 
@@ -1614,7 +1629,7 @@ Asoka: **"Please! Eu sou humano!"**
 
 *translation: "I'm human!"*
 
-The dark figure, eyes still tightly closed, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
+The dark figure, eyes now wide open with shock and fear, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
 
 Figure: **"O que você quer??"**
 
@@ -1634,25 +1649,29 @@ Asoka: **"No! Por favor--"**
 
 Suddenly Asoka notices the ground rumbling gently. 
 
+The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
+
 Figure: **"O que é *esso*?"**
 
 *translation: "What is **that**?"*
 
-The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
-
 ### Page 12
 
-Figure: **"Merda--!!"**
+Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. 
 
-*translation: "Shit--!!"*
+Asoka: **"Aaaaaah!!!"**
 
-Suddenly a tank plows through the grove of papaya trees, completely destroying everything in its path. Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
+Figure: **"Merda!!"**
+
+*translation: "Shit!!"*
+
+Asoka, Iri, and the dark figure scream with terror and frantically get out of the way of the incoming stampede of military vehicles, which pay no mind to anything in their way, be it flora, fauna, or unusual, out-of-place humans and mechapet. 
 
 ## Diagram 5: Hunting Behaviour of the Common Cuttlefish
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
 
-The **common cuttlefish** (*Sepia officinalis*) is an invertebrate marine creature of the molluscan class **Cephalopoda**, which also includes octopus, squid, and nautilus. All cuttlefish have elongated bodies (called their "**mantle**") which get their shape from the **cuttlebone**, a hard brittle internal shell that also helps cuttlefish control their buoyancy. With the exception of their cuttlebone, cuttlefish bodies are entirely soft and flexible. The sides and tail of the mantle is edged with a skirt fin that helps them maneuver. At the front of their mantle is a siphon, which can eject water for fast backwards movement, and above the siphon, their head, where *eight arms** surround a beaked mouth. Tucked up by the mouth, just below sophisticated, **light-polarization-sensitive** eyes with **w-shaped pupils**, are **two tentacles** whose ends are covered in suckers. 
+The **common cuttlefish** (*Sepia officinalis*) is an invertebrate marine creature of the molluscan class **Cephalopoda**, which also includes octopus, squid, and nautilus. All cuttlefish have elongated bodies (called their "**mantle**") which get their shape from the **cuttlebone**, a hard brittle internal shell that also helps cuttlefish control their buoyancy. With the exception of their cuttlebone, cuttlefish bodies are entirely soft and flexible. The sides and tail of the mantle is edged with a skirt fin that helps them maneuver. At the front of their mantle is a siphon, which can eject water for fast backwards movement, and above the siphon, their head, where **eight arms** surround a beaked mouth. Tucked up by the mouth, just below sophisticated, **light-polarization-sensitive** eyes with **w-shaped pupils**, are **two tentacles** whose ends are covered in suckers. 
 
 Cuttlefish are stealth hunters, who spend much of their time hiding while waiting for **shrimp, crab, worms, fish, octopus, or even other cuttlefish** to wander within reach. Cuttlefish are particularly good at hiding thanks to structures in their skin that can quickly and actively change their **colour, texture, and pattern** (including the polarization of the reflected light) in response to neuro-muscular action, an ability called "**active camouflage**". Cuttlefish hunting behaviour can be described in four phases: 
 * Phase 1: **At rest**
@@ -1752,12 +1771,13 @@ But when they have a secret,
 they know how to keep it,  
 cuz light they polarize for colorblind eyes!*  
 
-*--"Cuttlefish Song", by T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["Cuttlefish Song"](https://soundcloud.com/taunsquared/02-cutelfish-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
-## Chapter 6
+## Chapter 6: If you're not scared you're not in love
 
-Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
+Character designs: Asoka Morei, Iri, Minka Barbosa Traoré, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Chapter Title Page
 
@@ -1771,21 +1791,25 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Oosou, Majhee Suh, Nova Jatob
 
 ### Page 1
 
-Min peers after the rampaging military tanks, standing confidently at the tippy top of one of the few tall trees in the area, giving her a bird's eye view across the scant and scraggly canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells. Through those cells are filtered just enough energy for Min's eyes, safely behind the lids, to see. A brisk wind ruffles her mohawk. 
+**"Approximately 32 miles north of the ruins of Manaus..."**
+
+Min peers after the rampaging military tanks, standing confidently at the tippy top of one of the few tall trees in the area, giving her a bird's eye view across the scant and scraggly canopy. Min's eyelids are shut, the thin skin full of eSyrup-infected cells that enhance her night and distance vision. A brisk wind ruffles her mohawk. 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
 
-Min: *"They're making a bee line for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
+Min: *"Nicola! It worked! They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
 ### Page 2
 
-Nicola Cavalcanti is sitting on a tree platform, somewhere far to the west, in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
+**"Approximately 400 miles west of the ruins of Manaus..."**
+
+Nicola Cavalcanti is sitting on a tree platform in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
 
 Nicola Cavalcanti: *"Lovely...50 years, and they really **haven't** changed their satellite sensors..."*
 
 Min: *"We were right!"*
 
-Nicola: *"Does this mean you'll come home now?"*
+Nicola: *"Minkinha, does this mean you'll come home now?"*
 
 Min: *"Not until I get an **apology**! Why am I the only one who has to **prove** that my First Quest is **necessary**?"*
 
@@ -1824,6 +1848,8 @@ Asoka: **"*I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of
 ### Page 5
 
 *--flashback--*
+
+**"12 days ago..."**
 
 Asoka clutches Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
@@ -1888,6 +1914,8 @@ Min: **"Ha! We totally fooled them!!"**
 Asoka: **"*Then the Biononymous need your help!*"**
 
 ### Page 9
+
+**"7 days later, approximately 220 miles northwest of Manaus..."**
 
 The scene has transitioned to the Central Hearth of the Automata campsite, an tree-house-like structure made from a single, giant eSyrup-bubble. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka holds their head scarf and face veil nervously in front of them, anxiously glancing at Min for cues, not used to being bare-faced in front of so many strangers, but wanting to make a good first impression. Iri sits on Asoka's shoulders, arms wrapped protectively around Asoka's head and neck. Elders look troubled or curious, or a torn mixture of both. Children openly stare at Iri, and at Asoka's unfamiliar clothing. Many of the Automata carry small monkeys, birds, or lizards on their person, docile animals perched on shoulders, curled around necks, or clinging to heads. 
 
@@ -2021,7 +2049,7 @@ Lastly, we know that there are things we don't even know we don't know, and we o
 
 ## Chapter 7: Mistakes Are How We Evolve
 
-Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
+Character designs: Asoka Morei, Iri, Minka Traoré, Majhee Suh, Nova Jatobá, Jina Suh Barbosa, Maraba Barbosa Jatobá
 
 ### Chapter Title Page
 
@@ -2039,9 +2067,9 @@ Character designs: Asoka Morei, Iri, Minka Oosou, Majhee Suh, Nova Jatobá, Jina
 
 It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
-Majhee: **"Minka Oosou, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
+Majhee: **"Minka Traoré, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
 
-*translation: "Minka Oosou, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
+*translation: "Minka Traoré, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
 
 View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
 
@@ -2366,11 +2394,19 @@ for the myth of a rich man's favour,
 we all long to belong,  
 sing along, harmonies of all the same song.*  
 
-*--T. Sorriso  
-From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)", 2nd edition, Dec 2245.*
+*-- ["Mind Shape"](https://soundcloud.com/taunsquared/01-mindshape-demo-20170921-1?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
 # Map of locations important to the Story
 
 https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E
+
+# License
+
+The following license applies to this story script and story universe:
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Vigilante Intergalactic Roustabout Scholars (VIRS)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="danbeekim.org" property="cc:attributionName" rel="cc:attributionURL">Danbee Kim</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.danbeekim.org/projects/2018/02/28/VIRS-concept/" rel="dct:source">http://www.danbeekim.org/projects/2018/02/28/VIRS-concept/</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="danbeekim.org" rel="cc:morePermissions">danbeekim.org</a>.
+
