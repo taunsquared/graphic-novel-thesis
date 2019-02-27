@@ -1997,13 +1997,13 @@ Asoka: **"*Espere, o que??*"**
 
 *translation: "Wait, what??"*
 
-### Page 12
-
-The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder.
-
 Min: **"Você não ouviu? Nós tivemos uma crise da água. Cada gota é preciosa."**
 
 *translation: "Didn't you hear? We had a Water Crisis. Every drop is precious."*
+
+### Page 12
+
+The Water Cyclers have all poured their bowls of water into the enormous pitchers. They detach the origami flower bowl from the pitcher and in one confident, practiced shake, release the cloth from its shape. They then fold the cloth neatly and place it back on one shoulder.
 
 The Water Cyclers have each brought their pitcher to a table and poured themselves a glass. They all raise their glasses together.
 
