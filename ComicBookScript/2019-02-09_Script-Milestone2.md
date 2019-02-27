@@ -1299,7 +1299,7 @@ Next, the mural moves on to when the Biononymous, led by Mother Bird, the First 
 
 The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 12 years later. To think that Howes Cave City abandoned you after *21 years* of farming service..."**
+Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 7 years later. To think that Howes Cave City abandoned you after *26 years* of farming service..."**
 
 Serena: **"Everyone was so grateful when the Biononymous first got above ground and put fresh food back into people's diets, but now they treat us like we're a bunch of Orbiter bots! Ever since the Orbiters came back 16 years ago and declared themselves the 'World Government', the Underground Cities have gotten more and more hostile towards the Biononymous..."**
 
