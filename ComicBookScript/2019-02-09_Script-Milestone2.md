@@ -1701,6 +1701,8 @@ When the cuttlefish is ready, it will throw its tentacles towards the food or pr
 
 ### Page 1
 
+**"April 20, 2116"**
+
 Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth in which the embroidery moves fluidly, in response to the lighting, the sounds, the wearers moods...
 
 Drums beat in the background...
