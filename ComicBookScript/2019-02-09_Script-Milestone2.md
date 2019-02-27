@@ -2092,6 +2092,8 @@ Min: **"...mesmo FORA DO PLANETA!"**
 
 ### Page 2
 
+**"On the day Minka Traoré brought Asoka Morei to the Central Hearth..."**
+
 We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but most of the Elders are clustered towards the center. Asoka, face still streaked with tear-marks but composure regained, is sitting at the edge of the crowd and letting Mahjee comb their hair. A small crowd of Automata children have gathered around Iri and are watching the mechapet morph shape and colour with gleeful awe. 
 
 The sun is just past midday. Min is standing with her hand on a waist-high pedestal, made of an enormous [amythest quartz geode](https://en.wikipedia.org/wiki/Amethyst), blue-purple crystals exposed at the top section under Min's hand. The eSyrup bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the delicate re-growing forest last night. Jina and a heavily-muscled dark man sit close to Min. The man is Min's gene father Amadou, and his back, like Min, is covered in a star field tattoo. Many of the Elders wince at the show of thoughtless destruction being shown above. Nicola sits near Min and the pedestal, and addresses the Central Hearth. 
@@ -2143,6 +2145,8 @@ Amadou raises a finger and smiles.
 Amadou: **"It's called a 'liquid [MOSFET](https://en.wikipedia.org/wiki/MOSFET) [sievert](https://en.wikipedia.org/wiki/Sievert) shield'."**
 
 ### Page 5
+
+**"6 hours later..."**
 
 The sun is setting in the sky, and everyone looks exhausted.
 
