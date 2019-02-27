@@ -2032,7 +2032,7 @@ When we know something well enough to **predict** it very reliably, using tools 
 
 I would argue that these two categories of knowns - the “known knowns” and the “known unknowns” - make up your **“model of the world”**, or **how you think things “should” work**. We use our “model of the world” every day in order to **plan** and **predict** our daily lives.
 
-Of course, sometimes we have to **update** and **improve** our model of the world, and sometimes, we even need to **break it completely and re-build it**. This is a possibility anytime we **enter a new situation** or **face a new challenge** we’ve never experienced before. The very first time we encounter these conditions is when we enter **the realm of the unknowns**.
+Of course, sometimes we have to **update** and **improve** our model of the world, and sometimes, we even need to **break it completely and re-build it**. This is a possibility anytime we **enter a new situation** or **face a new challenge** we’ve never experienced before. The **very first time** we encounter these conditions is when we enter **the realm of the unknowns**.
 
 Sometimes, we encounter something **so improbable** that we couldn’t have predicted it, and yet, in that moment, we are able to **harness everything we know about ourselves and our environment** to come up with a solution. I would call this situation the discovery of an **“unknown known”**, or **knowledge that you didn’t realise you had until the very instant it was needed**.
 
