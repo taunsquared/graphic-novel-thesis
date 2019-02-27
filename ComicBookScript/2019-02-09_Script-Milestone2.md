@@ -2021,27 +2021,24 @@ Asoka looks at the happy people, warm food, families and children laughing in th
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-097..."**
 
--- "Why do we need minds?" A hypothesis for a general principle governing nervous systems -- 
+**-- “Why do we need minds?” --  
+Or, a hypothesis for a general principle governing nervous systems.**
 
-The world is full of both **knowns** (things we know) and **unknowns** (things we don't know). 
+**The world is full of both knowns (things we know) and unknowns (things we don’t know).**
 
-When we know something so well that we can sufficiently transfer that knowledge via a recipe, computer script, or step-by-step instructions, I would call this a "**known known**" (upper left quadrant in figure). 
+**When we know something so well that we can sufficiently transfer that knowledge via a recipe, computer script, or step-by-step instructions, I would call this a “known known” (upper left quadrant in figure).**
 
-When we know something well enough to predict it very reliably, using tools such as probability and statistics, and when large sets of examples can sufficiently transfer this ability to "guess well", I would call this a "**known unknown**" (upper right quadrant in figure). 
+**When we know something well enough to predict it very reliably, using tools such as probability and statistics, and when large sets of examples can sufficiently transfer this ability to “guess well”, I would call this a “known unknown” (upper right quadrant in figure).**
 
-I would argue that these two categories of knowns - the "known knowns" and the "known unknowns" - make up your "**model of the world**", or how you think things "should" work. We use our "model of the world" every day in order to plan and predict our daily lives. 
+**I would argue that these two categories of knowns - the “known knowns” and the “known unknowns” - make up your “model of the world”, or how you think things “should” work. We use our “model of the world” every day in order to plan and predict our daily lives.**
 
-Of course, sometimes we have to update and improve our model of the world, and sometimes, we even need to break it completely and re-build it. This is a possibility anytime we enter a new situation, or face a new challenge we've never faced before. The very **first** time we encounter these conditions is when we enter the realm of the unknowns, the bottom two quadrants, because as soon as we've had one experience with something, they become a known known or a known unknown. 
+**Of course, sometimes we have to update and improve our model of the world, and sometimes, we even need to break it completely and re-build it. This is a possibility anytime we enter a new situation, or face a new challenge we’ve never experienced before. The very first time we encounter these conditions is when we enter the realm of the unknowns (the bottom two quadrants).**
 
-Sometimes, what we encounter is something so improbable that we couldn't have predicted it, and yet, in that moment, we are able to harness everything we know about ourselves and our environment to come up with a solution. I would call this situation the discovery of an "**unknown known**" (lower left quadrant in the figure), knowledge or abilities that you didn't realise you had until the very instant it was needed. 
+**Sometimes, we encounter something so improbable that we couldn’t have predicted it, and yet, in that moment, we are able to harness everything we know about ourselves and our environment to come up with a solution. I would call this situation the discovery of an “unknown known” (lower left quadrant in figure), knowledge that you didn’t realise you had until the very instant it was needed.**
 
-I would call this sort of unknown knowledge a "**rapid psychomotor response**" (RPR), which is a rapidly deployed action or set of actions that one has never done before, and which takes into account everything one knows about one's context and about one's abilities. RPRs don't have a standard trigger and can look completely different each time they manifest. This is **in contrast to a reflex**, which is the same action or set of actions triggered by a known event. 
+**An example of this sort of unknown knowledge a “rapid psychomotor response” (RPR), which is a rapidly deployed action or set of actions that one has never done before, and which takes into account everything one knows about one’s context and about one’s abilities. RPRs don’t have a standard trigger and can look completely different each time they manifest (This is in contrast to a reflex, which is the same action or set of actions triggered by a known event). Examples of RPR include musical or theatrical improvisation, flinging yourself out of harm’s way when a car unexpectedly veers onto the sidewalk, or pulling your child back to safety as they’re slipping off a cliff and while you’re wearing flip-flops and carrying another child on your shoulders. Later, we often describe our actions in these moments as something we did “without thinking”, because things “happened too quickly”. (But then, what does it mean to think?)**
 
-Examples of RPRs include: musical or theatrical improvisation, escaping an impromptu avalanche while skiing, flinging yourself out of harm's way when a car unexpectedly veers onto the sidewalk, or pulling your child back to safety as they are slipping off a cliff and while you are wearing flipflops and carrying another child on your shoulders. 
-
-Later, we often describe our actions in these moments as **something we did "without thinking", because things "happened too quickly"**. (But then again, what does it mean to think?)
-
-Lastly, we know that there are things we don't even know we don't know, and we only know that we will probably have to deal with things we don't even know we don't know. So how do we prepare for these "**unknown unknowns**" (lower right quadrant in figure)? I would argue that our **imaginations** and our **ability to speculate** upon possible futures and alternate realities developed as adaptations for facing unknown unknowns that may arise from our external environment; and practices such as **self-reflection** and **meditation** were developed as adaptations for facing unknown unknowns that may arise from within ourselves. And what might be our most powerful tool for communicating the complex, multi-facetd, context-dependent insights we gain from these adaptive behaviours?
+**Lastly, we know that there are things we don’t even know we don’t know, and we know that we will have to deal with them at some point or another. So how do we prepare for these “unknown unknowns” (lower right quadrant in figure)? I would argue that our imaginations and our ability to tell stories, about possible futures and alternate realities, developed as adaptations for facing unknown unknowns that may arise from our external environment. Similarly, practices such as meditation and self-reflection may have developed as adaptations for facing unknown unknowns that may arise from within ourselves. And what might be our most powerful tool for communicating the complex, multi-faceted, context-dependent insights we gain from these adaptive behaviours?**
 
 **A good story.**
 
