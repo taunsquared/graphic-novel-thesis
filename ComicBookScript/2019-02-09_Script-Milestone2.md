@@ -2260,6 +2260,8 @@ Min: **"Mawé helped me make it...it's [patua juice](https://en.wikipedia.org/wi
 
 Mawé squeels with delight as Iri suddenly glows for a moment in response to the unfamiliar drink; at the same time, Asoka's clothing also briefly flash a new pattern, looking like a fractal tangle of blood vessels. Startled, the monkey rushes back onto Mawé's head, chittering and scolding everyone loudly. Asoka, watching Mawé and the monkey play with Iri, is suddenly and painfully reminded of Pippa. Asoka chokes up with sudden tears. 
 
+Asoka: *"Just like Pippa..."*
+
 Through their tears, Asoka sees a cup of patua juice, held out by small but strong hands. Asoka looks up to see an unexpectedly solemn Mawé, monkey now calm and peering at Asoka with intensity.   
 
 Mawé: **"When I'm having a bad day, patua juice makes my luck better."**
