@@ -239,7 +239,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 ### Page 1
 
-**"2066: Mae Jemison Memorial Arboretum"**
+**"April 7, 2066: Mae Jemison Memorial Arboretum"**
 
 **"It was a day of hope and wonder."** 
 
@@ -650,7 +650,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 ### Page 1
 
-**"2067: Ushuaia, Argentina"**
+**"October 19, 2067: Ushuaia, Argentina"**
 
 We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or modern high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
@@ -946,7 +946,7 @@ Asoka: *"Must...reach...the next...Haven!"*
 
 **"Earlier that morning..."**
 
-**"2116: Green Haven Howes, North America"**
+**"June 7, 2116: Green Haven Howes, North America"**
 
 We see a fist holding a bunch of wheat straws, and another hand reaching for a straw. 
 
@@ -1435,7 +1435,7 @@ Character designs: Asoka Morei, Iri, Minka Traoré
 
 ### Page 1 
 
-**"The Watery Ruins of [Manaus, Brazil](https://en.wikipedia.org/wiki/Manaus)"**
+**"3 days later: the watery ruins of [Manaus, Brazil](https://en.wikipedia.org/wiki/Manaus)"**
 
 We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
@@ -2369,6 +2369,8 @@ Min: **"...will only make us stronger!"**
 ## Dream, the last: Comma, not a Period
 
 ### Page 1
+
+**"September 21, 2116"**
 
 The Automata have gathered to say goodbye to Min. Today, she leaves for her Year Underground. Min is dressed in lightweight travel gear and has a substantial pack strapped to her back. Pinned to Min's clothing and pack are flowers, leaves, tiny delicate knotwork for good fortune, and other small trinkets of affection and remembrance. Maraba adjusts a good luck knot in Min's hair and gives Min a huge, albeit teary, grin. Amadou kneels to be face to face with his rather short daughter. His eyes are full of tears, and he opens his mouth to speak, but then finds that he cannot. Instead, he pulls Min into a huge bear hug. Father and daughter embrace fiercely. Amadou kisses Min on the forehead, then stands as Min turns to hug Jina, just as fiercely. Min then tenderly hugs Majhee, who chuckles and shoos Min along the line of well-wishers.
 
