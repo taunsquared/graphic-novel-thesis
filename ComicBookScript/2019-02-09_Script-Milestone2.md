@@ -2156,7 +2156,7 @@ Nova: **"It seems our consensus is building towards moving our re-forestation ef
 
 The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. 
 
-Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive a intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive an intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
 
 The gathered Elders are again all silent, many turning to look at Asoka, who is still sitting at the edge of the Central Hearth. Asoka, hair now braided into a neat, pretty crown, with Iri in their lap, looks a little embarrased by the attention but relieved.  Min is watching Amadou, who looks a bit sad and distant. Jina gives Asoka a smile, but there is the tiniest hint of pity in her smile. Asoka glances at Majhee, who gives them a huge, warm smile of encouragement. 
 
