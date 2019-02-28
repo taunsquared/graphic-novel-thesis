@@ -832,13 +832,13 @@ Majhee: **"Amana, lembras-te do nosso último retiro de laboratório, quando fom
 
 ### Page 10
 
-**"In 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes, heavy with silicon tetraflouride, into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and lowering the pH of an already fatally acidic ocean."**
+**"On October 12, 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes, heavy with silicon tetraflouride, into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and lowering the pH of an already fatally acidic ocean."**
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The catastrophe killed 32 people and sank the harvesting rig into the sea. For weeks, the silicon tetraflouride plumes belched unchecked into the Antarctic Convergence."**
+**"The catastrophe killed 32 people and sank the harvesting rig into the sea. Space Consortium did not publicly disclose the incident for a week, as silicon tetraflouride plumes belched unchecked into the Antarctic Convergence."**
 
-**"Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping across the globe in terrifyingly [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
+**"News of the disaster triggered panic. Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping across the globe in terrifyingly [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
 Over a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity, we see:
 * Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and breathing masks and rubber boots. 
