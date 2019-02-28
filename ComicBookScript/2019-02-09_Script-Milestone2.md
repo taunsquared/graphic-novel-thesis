@@ -1845,7 +1845,7 @@ Asoka: **"*We have to hurry! They'll get to your village by morning!!*"**
 
 Min tilts her head to the side, looking down at Asoka with curiosity. 
 
-Min: **"So you're not an evil spirit...but you don't look like an Orbiter either..."**
+Min: **"So you're *not* an evil spirit...but you don't look like an Orbiter either..."**
 
 A dark rage suddenly flares up on Asoka's face. 
 
