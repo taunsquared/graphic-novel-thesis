@@ -2198,15 +2198,15 @@ Min: **"Asoka, I'm coming in!"**
 
 Min steps through the bubble membrane. Iri discreetly places their arms over Asoka's ears and turns their head towards Min obligingly. 
 
-Min: **"Almoço?"**
+Min: **"...almoço?"**
 
-*translation: "Lunch?"*
+*translation: "...lunch?"*
 
 Asoka doesn't move or answer. Iri chirps worriedly at Asoka, then looks at Min apologetically. 
 
 Iri: **"Maybe...not today..."**
 
-Min: **"Don't be ridiculous. You skipped yesterday also."**
+Min: **"Don't be ridiculous. You skipped yesterday also!"**
 
 Asoka still doesn't answer. Min attempts to be funny. 
 
@@ -2225,6 +2225,8 @@ Iri: *"You have to get out of bed..."*
 Asoka starts to cry again. Their stomach rumbles loudly, pityingly, and Iri looks exasperated. 
 
 Iri: *"Soka, eat something, please??"*
+
+Off-panel: **"HEY!!!"**
 
 Suddenly, the trees are full of rambunctious Automata children and many of their [animal companions](http://www.srl.caltech.edu/personnel/krubal/rainforest/Edit560s6/www/animals.html). They are chase each other through the branches as they pass a [peteca](https://en.wikipedia.org/wiki/Peteca) back and forth, reveling in the twists and jumps and turns they are able to incorporate into their movement. Amongst them is Min, who hits the peteca with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs), foot making solid impact with the weighted fabric bottom, one hand on a tree trunk and body practically horizontal while mid-air. Wrapped and secured to Min's back is a large [bojagi](en.wikipedia.org/wiki/Bojagi).
 
