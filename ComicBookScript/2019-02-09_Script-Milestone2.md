@@ -2234,7 +2234,11 @@ A very tiny Automata child, a tiny [squirrel monkey](https://en.wikipedia.org/wi
 
 Automata child: **"Aaaaaaaaaahaahahahahahahaha!"**
 
-The tiny Automata child lands on top of Asoka's sleeping bubble with a gelatinous bounce. The whole bubble ripples but holds its shape. The child, exhilerated from the game and his fall, falls back into the eSyrup bubble stomach first, gasping with laughter and exertion as he looks happily down at Asoka and waves. The monkey on his shoulder chirps and turns its head in a hilarious caricature of curiosity. Asoka stares back, hunger and crushing depression momentarily forgotten. 
+The tiny Automata child lands on top of Asoka's sleeping bubble with a gelatinous bounce. 
+
+Automata child: **"UUF!!"**
+
+The whole bubble ripples but holds its shape. The child, exhilerated from the game and his fall, falls back into the eSyrup bubble stomach first, gasping with laughter and exertion as he looks happily down at Asoka and waves. The monkey on his shoulder chirps and turns its head in a hilarious caricature of curiosity. Asoka stares back, hunger and crushing depression momentarily forgotten. 
 
 Automata child: **"You're Min's evil spirit! We brought you food!"**
 
