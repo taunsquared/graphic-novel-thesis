@@ -2152,7 +2152,7 @@ Amadou: **"It's called a 'liquid [MOSFET](https://en.wikipedia.org/wiki/MOSFET) 
 
 The sun is setting in the sky, and everyone looks exhausted.
 
-Nova: **"It seems our consensus is building towards moving our re-forestation efforts away from Manaus and Gruta Judeia for at least a year, and keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+Nova: **"It seems our consensus is building towards moving our re-forestation efforts away from Manaus and Gruta de Judeia for at least a year, and keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
 The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. 
 
