@@ -1835,13 +1835,17 @@ Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked h
 
 ### Page 4
 
-Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka clings to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
+Min, ears and temple also no longer glowing, climbs down from the canopy, grumbling to herself.
+
+Min: **"Hmph! I didn't run away, I just came here to check the groves..."**
+
+Below her, Asoka clings to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
 Asoka: **"*We have to hurry! They'll get to your village by morning!!*"**
 
 Min tilts her head to the side, looking down at Asoka with curiosity. 
 
-Min: **"You don't look like an Orbiter..."**
+Min: **"So you're not an evil spirit...but you don't look like an Orbiter either..."**
 
 A dark rage suddenly flares up on Asoka's face. 
 
