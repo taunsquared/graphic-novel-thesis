@@ -1907,7 +1907,7 @@ Min squats and stares down the approximately 5 meters of tree trunk down at Asok
 
 Min: **"There is no village. 'The Clan is fluid upon the land'...it's just a decoy."**
 
-Asoka: **"*Wha--what?*"**
+Asoka: **"*Wait, what??*"**
 
 Min: **"The Peacekeepers will find the remains of a beautiful waterfall, which they'll totally fail to appreciate..."**
 
