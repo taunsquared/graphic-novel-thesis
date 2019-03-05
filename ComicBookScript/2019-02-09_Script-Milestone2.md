@@ -868,9 +868,18 @@ PA: **"Please step away from the safety barrier!! Please step AWAY from the safe
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2095-007..."**
 
-A **chemical synapse** is a biological junction that lets neurons exchange chemicals called **neurotransmitters** with each other and with other non-neuronal cells (glial, muscle, or gland cells). A synapse includes a pre-synaptic membrane, a synaptic cleft, and a post-synaptic membrane. 
+A [**chemical synapse**](https://en.wikipedia.org/wiki/Chemical_synapse) is formed when the membranes of two neurons come **very close** to each other without actually touching. At this "biological junction", neurons exchange chemicals called **neurotransmitters** with each other and with other non-neuronal cells (glial, muscle, or gland cells). A synapse includes a pre-synaptic membrane, a synaptic cleft (the tiny gap between the membranes), and a post-synaptic membrane. 
 
-Electrical activity occurs in nervous system cells when charged particles called **ions** move back and forth across the membrane. When the collective charge of these particles is more positive or more negative on one side of the cell membrane (either inside or outside the cell), this cell has generated an **electrical potential**. Neural cells can experience three kinds of electrical potentials: **Action Potentials, Graded Potentials,** and the **Resting Potential**. 
+Electrical activity occurs in nervous system cells when charged particles called **ions** move back and forth across the membrane. When the collective charge of these particles is more positive or more negative on one side of the cell membrane, this cell has generated an **electrical potential**. Neural cells can experience three kinds of electrical potentials: the **Resting Potential**, **Graded Potentials**, and **Action Potentials**. 
+
+By default, neural cells maintain an electrical state called the "resting potential". In this state, "sodium-potassium pumps" in the cell membranes use Adenosine Tri-phosphate (ATP) to push 3 sodium ions (Na+) out of the cell for every 2 potassium ions (K+) pushed into the cell. By keeping the inside of the cell more negative than the outside (between 40 to 80 millivolts more, to be exact), the Na+/K+ pumps create a sort of “electrical pressure”, such that when other protein channels (or holes) in the membrane open, ions will rush into the cell. 
+
+There are 2 main types of protein channels, or holes, in the membrane of nervous system cells, where ions can enter or exit the cell. 
+
+
+On the other hand, **Graded Potentials** can have very different sizes and shapes because they do **not** follow the principle of "all-or-none", but they can "add up" to generate an Action Potential. During graded potentials, ions typically enter or leave the cell via **ligand-gated ion channel proteins**, which are holes in the membrane that open when a chemical attaches itself to the hole (kind of like a lock and key - the chemical is the "key" that "unlocks" the hole in the membrane). This means that even very small chemical signals can trigger graded potentials, which can either make the cell more likely to fire an action potential ("**excitatory**"), or less likely to fire an action potential ("**inhibitory**"). Graded potentials are used most often by neurons in sensory organs (["receptor potentials"](https://en.wikipedia.org/wiki/Receptor_potential)) and by neurons that make very short distance connections within regions of the brain. 
+
+
 
 **Action Potentials**, a.k.a. "**nerve impulses**", "**spikes**", or "**when a neuron fires**", are important for **long distance** communication between regions of the brain or to connect peripheral neural circuits to the brain. 
 
@@ -878,11 +887,13 @@ Neurons use sodium (Na+) and potassium (K+) ions during action potentials. These
 
 Action Potentials are "**all or none**", meaning that if the cell's electrical potential isn't pushed past a certain threshold (meaning, if not enough ions have been collected on one side of the cell membrane), no "spike" will occur. This also means that most action potentials are very similar in size (strength) and shape (timing and duration). 
 
-On the other hand, **Graded Potentials** can have very different sizes and shapes because they do **not** follow the principle of "all-or-none", but they can "add up" to generate an Action Potential. During graded potentials, ions typically enter or leave the cell via **ligand-gated ion channel proteins**, which are holes in the membrane that open when a chemical attaches itself to the hole (kind of like a lock and key - the chemical is the "key" that "unlocks" the hole in the membrane). This means that even very small chemical signals can trigger graded potentials, which can either make the cell more likely to fire an action potential ("**excitatory**"), or less likely to fire an action potential ("**inhibitory**"). Graded potentials are used most often by neurons in sensory organs (["receptor potentials"](https://en.wikipedia.org/wiki/Receptor_potential)) and by neurons that make very short distance connections within regions of the brain. 
 
-Both graded and action potentials can lead to **synaptic activity**. When the pre-synaptic membrane experiences a strong enough electrical potential, **voltage-dependent calcium channels** open up in the pre-synaptic membrane and let a ton of calcium (Ca2+) ions rush into the cell. In response to the increased Ca2+ levels, tiny bags containing neurotransmitters, called **vesicles**, fuse to the pre-synaptic membrane and release neurotransmitters into the synaptic cleft. The neurotransmitters then bind to the post-synaptic membrane, triggering many different actions by the post-synaptic cell. Glial cells called **astrocytes** collect neurotransmitters from the synaptic cleft and break them down into nutrients that can be fed back to the neuron. 
 
-When neural cells are not using action or graded potentials, they go into a quieter state called the "**resting potential**". To get to this state, **sodium-potassium pumps** in the cell membranes use **adenosine tri-phosphate** (ATP, a molecule used for energy by all living cells) to push sodium ions out of the cell and potassium ions into the cell. This keeps the cells ready for the next graded or action potential. 
+Both graded and action potentials can lead to **synaptic activity**.
+ 
+
+
+When the pre-synaptic membrane experiences a strong enough electrical potential, **voltage-dependent calcium channels** open up in the pre-synaptic membrane and let a ton of calcium (Ca2+) ions rush into the cell. In response to the increased Ca2+ levels, tiny bags containing neurotransmitters, called **vesicles**, fuse to the pre-synaptic membrane and release neurotransmitters into the synaptic cleft. The neurotransmitters then bind to the post-synaptic membrane, triggering many different actions by the post-synaptic cell. Glial cells called **astrocytes** collect neurotransmitters from the synaptic cleft and break them down into nutrients that can be fed back to the neuron. 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
