@@ -44,10 +44,10 @@ SCIENTIFIC DIAGRAM 3 ILLUSTRATOR AND COLOURIST
 Gil Costa
 
 CHAPTER 4 TITLE PAGE CONCEPT ARTIST  
-Julia Zimmerman
+[Julia Zimmerman](http://juliazimmermanart.com/)
 
 CHAPTER 4 ILLUSTRATOR AND COLOURIST  
-Julia Zimmerman
+[Julia Zimmerman](http://juliazimmermanart.com/)
 
 SCIENTIFIC DIAGRAM 4 ILLUSTRATOR AND COLOURIST  
 [Anncharlott Berglar](http://www.acb-images.com/)
@@ -65,7 +65,7 @@ CHAPTER 6 TITLE PAGE CONCEPT ARTIST
 Priyanka Das Rajkakati 
 
 CHAPTER 6, PAGES 1-8 ILLUSTRATOR AND COLOURIST  
-Julia Zimmerman
+[Julia Zimmerman](http://juliazimmermanart.com/)
 
 CHAPTER 6, PAGES 9-12 ILLUSTRATOR AND COLOURIST  
 Gideon Gerlt
