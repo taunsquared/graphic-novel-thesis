@@ -11,7 +11,7 @@ This script will be published as a "companion booklet" to the graphic novel, for
 # Credits
 
 STORY and LETTERING  
-Danbee Kim
+[Danbee Kim](http://www.danbeekim.org/)
 
 GRAPHIC NOVEL TITLE PAGE CONCEPT ARTIST  
 Gideon Gerlt
@@ -32,10 +32,10 @@ CHAPTER 2 ILLUSTRATOR AND COLOURIST
 Miguel Soler Montellano
 
 SCIENTIFIC DIAGRAM 2 ILLUSTRATOR AND COLOURIST  
-Kuang-Ting (Emma) Cheng
+[Kuang-Ting (Emma) Cheng](https://www.instagram.com/emma_cheng__/)
 
 CHAPTER 3 TITLE PAGE CONCEPT ARTIST  
-Monica Keszler
+[Monica Keszler](http://willowescapee.wixsite.com/artportfolio)
 
 CHAPTER 3 ILLUSTRATOR AND COLOURIST  
 Graham Marema
@@ -44,10 +44,10 @@ SCIENTIFIC DIAGRAM 3 ILLUSTRATOR AND COLOURIST
 Gil Costa
 
 CHAPTER 4 TITLE PAGE CONCEPT ARTIST  
-Julia Zimmerman
+[Julia Zimmerman](http://juliazimmermanart.com/)
 
 CHAPTER 4 ILLUSTRATOR AND COLOURIST  
-Julia Zimmerman
+[Julia Zimmerman](http://juliazimmermanart.com/)
 
 SCIENTIFIC DIAGRAM 4 ILLUSTRATOR AND COLOURIST  
 [Anncharlott Berglar](http://www.acb-images.com/)
@@ -62,16 +62,16 @@ SCIENTIFIC DIAGRAM 5 ILLUSTRATOR AND COLOURIST
 [Jennifer Deutscher](http://www.alithographica.com/)
 
 CHAPTER 6 TITLE PAGE CONCEPT ARTIST  
-Priyanka Das Rajkakati 
+[Priyanka Das Rajkakati](https://www.behance.net/priancart)
 
 CHAPTER 6, PAGES 1-8 ILLUSTRATOR AND COLOURIST  
-Julia Zimmerman
+[Julia Zimmerman](http://juliazimmermanart.com/)
 
 CHAPTER 6, PAGES 9-12 ILLUSTRATOR AND COLOURIST  
 Gideon Gerlt
 
 SCIENTIFIC DIAGRAM 6 ILLUSTRATOR AND COLOURIST  
-Danbee Kim
+[Danbee Kim](http://www.danbeekim.org/)
 
 CHAPTER 7 TITLE PAGE CONCEPT ARTIST  
 Gideon Gerlt
