@@ -62,7 +62,7 @@ SCIENTIFIC DIAGRAM 5 ILLUSTRATOR AND COLOURIST
 [Jennifer Deutscher](http://www.alithographica.com/)
 
 CHAPTER 6 TITLE PAGE CONCEPT ARTIST  
-Priyanka Das Rajkakati 
+[Priyanka Das Rajkakati](https://www.behance.net/priancart)
 
 CHAPTER 6, PAGES 1-8 ILLUSTRATOR AND COLOURIST  
 [Julia Zimmerman](http://juliazimmermanart.com/)
