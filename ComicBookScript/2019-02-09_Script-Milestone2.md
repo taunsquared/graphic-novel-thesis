@@ -11,7 +11,7 @@ This script will be published as a "companion booklet" to the graphic novel, for
 # Credits
 
 STORY and LETTERING  
-Danbee Kim
+[Danbee Kim](http://www.danbeekim.org/)
 
 GRAPHIC NOVEL TITLE PAGE CONCEPT ARTIST  
 Gideon Gerlt
@@ -71,7 +71,7 @@ CHAPTER 6, PAGES 9-12 ILLUSTRATOR AND COLOURIST
 Gideon Gerlt
 
 SCIENTIFIC DIAGRAM 6 ILLUSTRATOR AND COLOURIST  
-Danbee Kim
+[Danbee Kim](http://www.danbeekim.org/)
 
 CHAPTER 7 TITLE PAGE CONCEPT ARTIST  
 Gideon Gerlt
