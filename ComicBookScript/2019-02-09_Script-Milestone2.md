@@ -35,7 +35,7 @@ SCIENTIFIC DIAGRAM 2 ILLUSTRATOR AND COLOURIST
 Kuang-Ting (Emma) Cheng
 
 CHAPTER 3 TITLE PAGE CONCEPT ARTIST  
-Monica Keszler
+[Monica Keszler](http://willowescapee.wixsite.com/artportfolio)
 
 CHAPTER 3 ILLUSTRATOR AND COLOURIST  
 Graham Marema
