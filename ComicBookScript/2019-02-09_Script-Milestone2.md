@@ -80,7 +80,7 @@ CHAPTER 7 ILLUSTRATOR AND COLOURIST
 [Jesso Wang](http://www.jessowang.com/)
 
 SCIENTIFIC DIAGRAM 7 ILLUSTRATOR AND COLOURIST  
-[Melissa Jedrysiak](www.melissajedrysiak.com)
+[Melissa Jedrysiak](https://www.melissajedrysiak.com/)
 
 DREAM SEQUENCES ILLUSTRATOR AND COLOURIST  
 Emma Leavitt
