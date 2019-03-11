@@ -14,22 +14,22 @@ STORY and LETTERING
 [Danbee Kim](http://www.danbeekim.org/)
 
 GRAPHIC NOVEL TITLE PAGE CONCEPT ARTIST  
-Gideon Gerlt
+[Gideon Gerlt](https://www.gideongerlt.com/)
 
 CHAPTER 1 TITLE PAGE CONCEPT ARTIST  
-Xiao Xiao
+[Xiao Xiao](http://portfolio.xiaosquared.com/)
 
 CHAPTER 1 ILLUSTRATOR and COLOURIST  
-Matteo Farinella
+[Matteo Farinella](https://matteofarinella.com/)
 
 SCIENTIFIC DIAGRAM 1 ILLUSTRATOR AND COLOURIST  
-Sara Vukson
+[Sara Vukson](http://www.saravukson.com/)
 
 CHAPTER 2 TITLE PAGE CONCEPT ARTIST  
-Miguel Soler Montellano
+[Miguel Soler Montellano](https://www.instagram.com/0kavango/?hl=en)
 
 CHAPTER 2 ILLUSTRATOR AND COLOURIST  
-Miguel Soler Montellano
+[Miguel Soler Montellano](https://www.instagram.com/0kavango/?hl=en)
 
 SCIENTIFIC DIAGRAM 2 ILLUSTRATOR AND COLOURIST  
 [Kuang-Ting (Emma) Cheng](https://www.instagram.com/emma_cheng__/)
@@ -41,7 +41,7 @@ CHAPTER 3 ILLUSTRATOR AND COLOURIST
 Graham Marema
 
 SCIENTIFIC DIAGRAM 3 ILLUSTRATOR AND COLOURIST  
-Gil Costa
+[Gil Costa](https://www.gilcosta.com/)
 
 CHAPTER 4 TITLE PAGE CONCEPT ARTIST  
 [Julia Zimmerman](http://juliazimmermanart.com/)
@@ -68,19 +68,19 @@ CHAPTER 6, PAGES 1-8 ILLUSTRATOR AND COLOURIST
 [Julia Zimmerman](http://juliazimmermanart.com/)
 
 CHAPTER 6, PAGES 9-12 ILLUSTRATOR AND COLOURIST  
-Gideon Gerlt
+[Gideon Gerlt](https://www.gideongerlt.com/)
 
 SCIENTIFIC DIAGRAM 6 ILLUSTRATOR AND COLOURIST  
 [Danbee Kim](http://www.danbeekim.org/)
 
 CHAPTER 7 TITLE PAGE CONCEPT ARTIST  
-Gideon Gerlt
+[Gideon Gerlt](https://www.gideongerlt.com/)
 
 CHAPTER 7 ILLUSTRATOR AND COLOURIST  
-Jesso Wang
+[Jesso Wang](http://www.jessowang.com/)
 
 SCIENTIFIC DIAGRAM 7 ILLUSTRATOR AND COLOURIST  
-Melissa Jedrysiak
+[Melissa Jedrysiak](www.melissajedrysiak.com)
 
 DREAM SEQUENCES ILLUSTRATOR AND COLOURIST  
 Emma Leavitt
