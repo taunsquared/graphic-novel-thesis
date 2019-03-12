@@ -32,7 +32,7 @@ CHAPTER 2 ILLUSTRATOR AND COLOURIST
 [Miguel Soler Montellano](https://www.instagram.com/0kavango/?hl=en)
 
 SCIENTIFIC DIAGRAM 2 ILLUSTRATOR AND COLOURIST  
-[Kuang-Ting (Emma) Cheng](https://www.instagram.com/emma_cheng__/)
+[Kuang-Ting (Emma) Cheng](https://www.emmacheng.com/)
 
 CHAPTER 3 TITLE PAGE CONCEPT ARTIST  
 [Monica Keszler](http://willowescapee.wixsite.com/artportfolio)
