@@ -2,9 +2,9 @@
 
 ### 2040
 
-Education is still in crisis, cities are overcrowded, and rural communities are dying. Many of the scientists and engineers who once worked with Elon Musk and SpaceX have gone on to establish The Space Consortium, which has just established a research base on Mars. 
+Education is still in crisis, cities are overcrowded, and rural communities are dying. Many of the scientists and engineers who once worked with Elon Musk and SpaceX have gone on to establish The Space Consortium. 
 
-A group of researchers working on genetically engineered yeast for monitoring female reproductive health accidentally culture a mutant strain that at its glass vial and turned into a slug-worm-shaped mass that melted away after a few hours. The researchers made note of the process that produced this yeast mutant in an online, freely accessible publication on a report on "failed" genetically engineered yeast biofactories. 
+A group of researchers working on genetically engineered yeast for monitoring female reproductive health accidentally culture a mutant strain that ate its glass vial and turned into a slug-worm-shaped mass that melted away after a few hours in isolation. The researchers made note of the process that produced this yeast mutant in an online, freely accessible publication on a report on "failed" genetically engineered yeast biofactories. 
 
 ### 2041
 
@@ -26,23 +26,21 @@ Majhee, a young PhD student in organometallic chemistry, discovers the report on
 
 Space Consortium begins launching pieces of its first Orbital arboretum.  
 
-### 2046
-
 Majhee realises that the bacterial superorganism can "spin" thread-like mycelium structures that generate spontaneous bursts of electrical activity that move like waves down the length of the thread. Her entire PhD thesis is now focused on the yeast mutant, now called "electrophoretic mycelium yeast", or "thread-worms". 
 
 ### 2047
 
 Space Consortium's first Orbital arboretum, **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**, is completed. 
 
-### 2049
-
 Majhee defends her PhD thesis, "BactoFET: Using genetically modified yeast for the fabrication of low-cost organic field-effect transistors". 
+
+### 2049
 
 The Space Consortium reports successful harvest of crops grown in low gravity, more than enough to feed the crew aboard **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**.
 
-### 2050
-
 Majhee is now a post-doc researcher at Laboratório Nacional de Biociências e Saúde Pública refining the process of cultivating thread-worms to optimize their production of electrophoretic mycelium, dubbed "Synaptic Thread" or "SynTh". She and her colleagues develop methods for mass producing and harvesting SynTh. 
+
+### 2050
 
 First Space Barge makes its virgin flight to **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. The Space Consortium begins distributing their first excess yield of orbit-grown crops to planetside countries in need.
 
@@ -58,57 +56,49 @@ Majhee and her collaborators have set up several thousand "thread-worm nursuries
 
 First Orbital home pod is successfully launched from the **PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. Within months, nearly 200 home pods are successfully launched, with residents. 
 
+The Laboratório Nacional de Biociências e Saúde Pública is approached by the Space Consortium, who are interested in thread-worm research and are looking to collaborate. Based on the rapidly growing collection of studies on thread-worms, the Space Consortium also believes that SynTh can be manufactured into a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
+
 ### 2055
 
-The Laboratório Nacional de Biociências e Saúde Pública is approached by the Space Consortium, who are interested in thread-worm research and are looking to collaborate. Based on the rapidly growing collection of studies on thread-worms, the Space Consortium also believes that SynTh can be manufactured into a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
+Majhee and her collaborators begin distributing bactoFET air/water filters and sun-safe textiles via the World Health Organization and Doctor's Without Borders to countries in the "Global South".
 
 While conducting their own research on more efficient ways to integrate SynTh onto textiles, Iúna and her collaborators discover that the electrophoretic mycelium spun by thread-worms can provide alternative means for long-distance, wireless communication. 
 
-### 2056
-
-Majhee and her collaborators begin distributing bactoFET air/water filters and sun-safe textiles via the World Health Organization and Doctor's Without Borders to countries in the "Global South". 
-
-The Laboratório Nacional de Biociências e Saúde Pública publishes their first successful surgical implantation in mice of a medical device made with bactoFETs, which monitors for the presence of cancerous cells in the skin. Just a few months later, Space Consortium submits an exclusive patent for a very similar bactoFET medical device for humans, sparking criticism from members of the Laboratório Nacional de Biociências e Saúde Pública and human rights activists. 
-
 ### 2057
 
-Space Consortium's second Orbital arboretum, **ANNIE EASELY MEMORIAL ARBORETUM**, is completed. Orbiter population is now 1,000. Space Consortium immediately begins construction on a third orbiting arboretum, experimenting with orbit-based construction methods. 
+The Laboratório Nacional de Biociências e Saúde Pública publishes their first successful surgical implantation in mice of a medical device made with bactoFETs, which monitors for the presence of cancerous cells in the skin. Just a few months later, Space Consortium submits an exclusive patent for a very similar bactoFET medical device for humans even before initiating human trials on their device design, sparking criticism from members of the Laboratório Nacional de Biociências e Saúde Pública and human rights activists. 
+
+Space Consortium's second Orbital arboretum, **ANNIE EASELY MEMORIAL ARBORETUM**, is completed. Orbiter population is now over 2,000. Space Consortium immediately begins construction on a third orbiting arboretum, experimenting with orbit-based construction methods. 
 
 ### 2058
 
+The Space Consortium begins to mass-manufacture commercial SynTh products, using bactoFET chips to create tiny implantable organic electronics that can replace all of the functionality of "smart mobile phones" that were commonplace during the early 21st century. Space Consortium demands that they be allowed to have proprietary access and rights to these SynTh products for at least 10 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
+
 The Space Barge fleet, comprising of 34 vessels, now makes daily trips from the Earth's surface to the Space Consortium's two Orbital arboretums.
 
-Majhee and colleagues begin experimenting with splicing SynTh into skin cells from several species, including mice and humans. Thanks to a worldwide network of collaborators and open science activists, Majhee and colleagues are able to continuously publish advances to thread-worm research as open source academic work faster than Space Consortium can patent commercial applications. 
+### 2061
 
-### 2059
+SynTh body mods are now quite popular. SynTh clothing are also starting to become part of high-fashion labels, initially marketed as luxury clothing that can morph color or texture. Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
 
 Orbiter population reaches 8,000. 
 
-In collaboration with the Laboratório Nacional de Biociências e Saúde Pública, the Space Consortium develops thread-worm batteries, which can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. Space Consortium once again submits an exclusive patent for the thread batteries. 
-
-Amadou is born in Monte Alegre, Pará, Brazil. 
-
-### 2062
-
-The Space Consortium begins to mass-manufacture commercial SynTh products, which they can make tiny and flexible thanks to the properties of thread batteries. Space Consortium demands that they be allowed to have proprietary access and rights to these SynTh products for at least 10 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
-
-### 2063
-
-SynTh body mods are now quite popular. Many have subdermally inserted bactoFET chips that can replace all of the functionality of "smart mobile phones" that were commonplace during the early 21st century. SynTh clothing are also starting to become part of high-fashion labels, initially marketed as luxury clothing that can morph color or texture. Some industries are providing their employees with company-subsidized occupationally-specific body mods.  
+Amadou is born in Monte Alegre, Pará, Brazil.  
 
 ### 2064
 
-The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical SynTh implants, is founded. The Biononymous believe that SynTh mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Raquel Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create SynTh clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
+Majhee and colleagues begin experimenting with splicing SynTh into skin cells from several species, including mice and humans. Thanks to a worldwide network of collaborators and open science activists, Majhee and colleagues are able to continuously publish advances to thread-worm research as open source academic work faster than Space Consortium can patent commercial applications. 
+
+The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical SynTh implants, is quietly founded by activists concerned with the human rights implications of SynTh mods. The Biononymous believe that SynTh mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Raquel Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create SynTh clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
 
 ### 2065
 
 SynTh clothing and accessories of all kinds are now widely available, and even secondhand stores and charity shops have SynTh items on a regular basis. 
 
-The Space Consortium establishes the **International Space Exploration Corps** in order to sustain interest in space exploration into the next generation, and to find the best and the brightest for their projects. Youth from around the world spend 1-3 years at various planet-side launch stations learning about space travel and communication while helping maintain the space barges that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISB Corps is a year-round pre-university training institution that prepares youth for Space University (which is in turn affiliated with several nations' military and space exploration departments), and it quickly becomes popular amongst the well-educated elite of the world.
-
 Raquel Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
 ### 2066
+
+In collaboration with the Laboratório Nacional de Biociências e Saúde Pública, the Space Consortium develops thread-worm batteries, which can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. Space Consortium once again submits an exclusive patent for the thread batteries. 
 
 The River Niger dries up, causing panic in northern Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world. 
 
@@ -140,11 +130,15 @@ Majhee and her collective of 67 humans establish a secret fortified community in
 
 Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of nearly 60,000 refugees plus just over 12,000 "Original Orbiters".  
 
+### 2078
+
+The Space Consortium establishes the **International Space Exploration Corps** in order to sustain interest in space exploration into the next generation, and to find the best and the brightest for their projects. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the space barges that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the well-educated elite.
+
 ### 2094
 
 The UN declares itself as the World Government. With military support from the Space Consortium, the World Government commandeers the former UN Green Havens that have survived The Global Water Crisis, which are now the only source of planetside agriculture. They force the people who have either remained in the Green Havens or have sought refuge in the Green Havens to farm for the World Government's agenda of meeting humanity's food needs, both planetside and in orbit. 
 
-The **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISB Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
+The **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
 
 The Space Barge fleet resumes its daily trips between planetside launch stations and the space arboretums. 
 
@@ -162,7 +156,7 @@ Historians later come to call the years between 2067 and 2095 "The Global Water 
 
 ### 2097 
 
-The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and fully employs the refugee population on the 2 space arboretums, completely easing the strain on the space arboretums. However, even more laborers are needed for the construction, so nearly 200,000 Earthers from the ISB Corps are assigned to work up in orbit. 
+The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and fully employs the refugee population on the 2 space arboretums, completely easing the strain on the space arboretums. However, even more laborers are needed for the construction, so nearly 200,000 Earthers from the ISE Corps are assigned to work up in orbit. 
 
 Amadou's father is part of the first cohort of Earthers conscripted to go into orbit and work on the construction of **SPACE UNIVERSITY STATION** and **GEMINI ARBORETUM**. 
 
