@@ -32,13 +32,13 @@ Majhee realises that the bacterial superorganism can "spin" thread-like mycelium
 
 ### 2048
 
-Majhee defends her PhD thesis, "BactoFET: Using genetically modified yeast for the fabrication of low-cost organic field-effect transistors". 
+Majhee defends her PhD thesis, "Synaptic Thread: Using genetically modified bacterial colonies to fabricate living organic semiconductors".
 
 Space Consortium's first Orbital arboretum, **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**, is completed. 
 
 ### 2049
 
-Majhee is now a post-doc researcher at Laboratório Nacional de Biociências e Saúde Pública refining the process of cultivating thread-worms to optimize their production of electrophoretic mycelium, dubbed "Synaptic Thread" or "SynTh". She and her colleagues develop methods for mass producing and harvesting SynTh. 
+Majhee is now a post-doc researcher at Laboratório Nacional de Biociências e Saúde Pública refining the process of cultivating thread-worms to optimize their production of electrophoretic mycelium, dubbed "Synaptic Thread" or "SynTh". She and her colleagues develop methods for mass producing and harvesting SynTh in order to fabricate low-cost bacterial field-effect transistors, or BactoFETs, which can be used as biosensors and bio-compatible electronics. 
 
 ### 2050
 
@@ -46,7 +46,7 @@ The Space Consortium reports the first successful harvest of crops grown in low 
 
 ### 2051
 
-Majhee and her colleagues present a proposal to the United Nations to develop affordable and sustainable bactoFET air/water filters and SynTh textiles to protect humans from the increasingly polluted environment. Majhee and colleagues plan to distribute seed cultures of thread-worms in communities where they've trained people to cultivate the yeast mutants. Because the thread-worms require only water and silica for food, these communities should be able to sustain the thread-worms with silica from local sand, rocks, recycled glass, and even certain plants. Majhee and her colleagues are awarded a 10-year research and development grant, which earns Majhee a position as research group leader at the Laboratório Nacional de Biociências e Saúde Pública. 
+Majhee and her colleagues present a proposal to the United Nations to develop affordable and sustainable bactoFET air/water filters and SynTh textiles to protect humans from the increasingly polluted environment. Majhee and colleagues plan to distribute seed cultures of thread-worms in communities where they've trained people to cultivate the yeast mutants. Because the thread-worms require only water and silica for food, these communities should be able to sustain the thread-worms with silica from local sand, rocks, recycled glass, and even certain plants. Majhee and her colleagues are awarded a 10-year world health development grant, which earns Majhee a position as research group leader at the Laboratório Nacional de Biociências e Saúde Pública. 
 
 ### 2053
 
@@ -58,13 +58,11 @@ Majhee and her collaborators have set up several thousand "thread-worm nursuries
 
 First Orbital home pod is successfully launched from the **PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. Within months, nearly 200 home pods are successfully launched, with residents. 
 
-The Laboratório Nacional de Biociências e Saúde Pública is approached by the Space Consortium, who are interested in thread-worm research and are looking to collaborate. Based on the rapidly growing collection of studies on thread-worms, the Space Consortium also believes that SynTh can be manufactured into a replacement for rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Tecnologia agrees to the collaboration, sparking criticism and protests. 
+The Laboratório Nacional de Biociências e Saúde Pública is approached by the Space Consortium, who are interested in thread-worm research and are looking to collaborate. Based on the rapidly growing collection of studies on thread-worms, the Space Consortium believes that it may be possible to process SynTh into an energy-dense liquid that can replace rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Saúde Pública agrees to the collaboration, despite many concerns  and protests amongst the faculty and staff of the Laboratório Nacional de Biociências e Saúde Pública. 
 
 ### 2055
 
 Majhee and her collaborators begin distributing bactoFET air/water filters and sun-safe textiles via the World Health Organization and Doctor's Without Borders to countries in the "Global South".
-
-While conducting their own research on more efficient ways to integrate SynTh onto textiles, Iúna and her collaborators discover that the electrophoretic mycelium spun by thread-worms can provide alternative means for long-distance, wireless communication. 
 
 ### 2057
 
@@ -74,31 +72,39 @@ Space Consortium's second Orbital arboretum, **ANNIE EASELY MEMORIAL ARBORETUM**
 
 ### 2058
 
-The Space Consortium begins to mass-manufacture commercial SynTh products, using bactoFET chips to create tiny implantable organic electronics that can replace all of the functionality of "smart mobile phones" that were commonplace during the early 21st century. Space Consortium demands that they be allowed to have proprietary access and rights to these SynTh products for at least 10 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
+The Space Consortium begins to mass-manufacture commercial SynTh products, using bactoFET chips to create tiny implantable organic electronics that can replace all of the functionality of "smart mobile phones" that were commonplace during the early 21st century. 
 
 The Space Barge fleet, comprising of 34 vessels, now makes daily trips from the Earth's surface to the Space Consortium's two Orbital arboretums.
 
-### 2061
+In collaboration with Iúna and her collaborators, Majhee's lab begins experimenting with splicing SynTh directly into other organic cell cultures. Thanks to a worldwide network of collaborators and open science activists, Majhee and colleagues are able to continuously publish their advances as open source and freely-accessible academic work. 
 
-SynTh body mods are now quite popular. SynTh clothing are also starting to become part of high-fashion labels, initially marketed as luxury clothing that can morph color or texture. Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
+### 2060
+
+Majhee and colleagues begin experimenting with splicing SynTh into skin cells from several species, including mice and humans. They win a 6-year technology innovation grant from the UN to develop SynTh-hybrid skin, a self-cleaning and self-mending fabric that can grow with a human throughout one's whole life, to be used to make clothing for refugees and the poverty-stricken. 
+
+### 2061
 
 Orbiter population reaches 8,000. 
 
+While conducting their own research on more efficient ways to integrate SynTh onto textiles, Iúna and her collaborators discover that the electrophoretic mycelium spun by thread-worms can provide alternative means for long-distance, wireless communication. 
+
 ### 2064
 
-Majhee and colleagues begin experimenting with splicing SynTh into skin cells from several species, including mice and humans. Thanks to a worldwide network of collaborators and open science activists, Majhee and colleagues are able to continuously publish advances to thread-worm research as open source academic work faster than Space Consortium can patent commercial applications. 
+SynTh body mods are now quite popular. 
 
-The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical SynTh implants, is quietly founded by activists concerned with the human rights implications of SynTh mods. The Biononymous believe that SynTh mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Raquel Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create SynTh clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
+Majhee and colleagues struggle to create SynTh-hybrid skin, but have acheived a SynTh-hybrid textile that can change color or texture based on the application of certain electromagnetic frequencies. SynTh clothing makes an explosively successful entrance on the scenes of luxury clothing labels and technical outdoor gear. Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
+
+The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical SynTh implants, is quietly founded by activists concerned with the human rights implications of SynTh mods. The Biononymous believe that SynTh mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Iúna Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create SynTh clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
 
 ### 2065
 
 SynTh clothing and accessories of all kinds are now widely available, and even secondhand stores and charity shops have SynTh items on a regular basis. 
 
-Raquel Morei gives birth to João Morei in Randolph Center, Vermont, USA.
+Iúna Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
 ### 2066
 
-In collaboration with the Laboratório Nacional de Biociências e Saúde Pública, the Space Consortium develops thread-worm batteries, which can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. Space Consortium once again submits an exclusive patent for the thread batteries. 
+In collaboration with the Laboratório Nacional de Biociências e Saúde Pública, the Space Consortium develops SynTh batteries, which can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. Space Consortium demands that they be allowed to have proprietary access and rights to these SynTh products for at least 25 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
 
 The River Niger dries up, causing panic in northern Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world. 
 
