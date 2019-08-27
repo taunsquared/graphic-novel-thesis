@@ -39,10 +39,10 @@ Phenotype: Korean. Straight, black hair cropped short in a bowl pixie cut; light
 Later when Majhee is an Automata matriarch and Tree Surfer...
 
 * wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * left nostril 
   * ears: both lobes are pierced and stretched with 10mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)).  
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * back: an enormous artistic rendition of the [*Cariniana legalis*](https://en.wikipedia.org/wiki/Cariniana_legalis) tree
   * right arm: a sleeve tattoo showing the journey from São Paulo to the Matto Grosso Plateau, which Majhee led when the Water Crisis hit
   * left arm: a sleeve tattoo showing the seasonal migrations of the Automata Clan
@@ -50,13 +50,13 @@ Later when Majhee is an Automata matriarch and Tree Surfer...
 
 ### What does this character want?
 
-Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of eSyrup. However, after the Space Consortium demanded to be able to patent eSyrup fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many eSyrup applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic eSyrup research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
+Majhee has always wanted to discover a way to directly interface biological tissue with digital computing circuits, in order to build better medical devices that would integrate with the body's anatomy and physiology. When she got the 10-year research and development grant from the UN, her whole focus was on developing better, less expensive air and water filters for the "Global South", and she hardly paid attention to the fact that Space Consortium was patenting bespoke technological applications of SynTh. However, after the Space Consortium demanded to be able to patent SynTh fuel even though it was a basic research finding and not a custom commercial application, then sues the shit out of Majhee's research institute in order to gain exclusive IP ownership, Majhee becomes obsessed with publishing as many SynTh applications into the public domain as fast as possible to prevent Space Consortium from patenting any more basic SynTh research and gaining a monopoly on knowledge and tech crucial to daily life and public health. 
 
-When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice eSyrup into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with toxic acids. 
+When the Global Water Crisis hits, Majhee decides to relocate further inland, to the edge of the Amazon Rainforest, bringing with her anyone from her research group and her community back in São Paulo who wishes to join her. There, she focuses on developing a way to splice SynTh into the human body so that humans can freely move about on the planet's surface again, protected against the sun's radiations; the overload of nitrogen dioxide, carbon dioxide, and other toxic gases in the atmosphere; and surface water, which is now both hyper-salinated and often contaminated with toxic acids. 
 
 ## Kai Oliveira
 
-Born in São Paulo, Kai's parents immigrated from Japan to Brazil a year before Kai was born. Kai's father was originally from São Paulo, and while in Japan for business, met and fell in love with Kai's mother. Kai graduated from Unicamp ([Universidade Estadual de Campinas](https://en.wikipedia.org/wiki/University_of_Campinas)) with a bachelor's degree in organic chemistry and a master's degree in materials science before going to Seoul, Korea to pursue a PhD in "bio-silicate interfaces". There she met a young and ambitious Majhee, who convinced Kai that academic researchers need to take a more active stance on how their research is applied. When Majhee decided to go into global public health, Kai recommended that Majhee check out a research group at Unicamp doing humanitarian work and science education in addition to creating better tools for understanding one's own genetic profile and biases. Majhee went off to São Paulo while Kai stayed in Seoul for a few more years. When Majhee got her appointment as group leader at the Laboratório Nacional de Biociências e Saúde Pública, she contact Kai and begged her to come back to São Paulo and work with Majhee on eSyrup doping and splicing experiments. 
+Born in São Paulo, Kai's parents immigrated from Japan to Brazil a year before Kai was born. Kai's father was originally from São Paulo, and while in Japan for business, met and fell in love with Kai's mother. Kai graduated from Unicamp ([Universidade Estadual de Campinas](https://en.wikipedia.org/wiki/University_of_Campinas)) with a bachelor's degree in organic chemistry and a master's degree in materials science before going to Seoul, Korea to pursue a PhD in "bio-silicate interfaces". There she met a young and ambitious Majhee, who convinced Kai that academic researchers need to take a more active stance on how their research is applied. When Majhee decided to go into global public health, Kai recommended that Majhee check out a research group at Unicamp doing humanitarian work and science education in addition to creating better tools for understanding one's own genetic profile and biases. Majhee went off to São Paulo while Kai stayed in Seoul for a few more years. When Majhee got her appointment as group leader at the Laboratório Nacional de Biociências e Saúde Pública, she contact Kai and begged her to come back to São Paulo and work with Majhee on SynTh doping and splicing experiments. 
 
 Birthday: May 21, 2020
 
@@ -91,10 +91,10 @@ Birthday: April 14, 2031
 Later an as Automata Elder and Water Cycler...
 
 * wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * [septum of the nose](https://en.wikipedia.org/wiki/Nose_piercing#Septum_piercing)
   * ears: both lobes are pierced with three small, delicate rings
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * back: a wide ribbon of water, imitating the curves of the Amazon River, starting at the left shoulder and growing rapidly in width until it disappears off the back at the right buttock. A [common basilisk](https://en.wikipedia.org/wiki/Common_basilisk) runs across the river. 
   * right shoulder, front, just under the clavicle: a Giant Helicopter Damselfly (Mecistogaster linearis)
   * across the chest: a swarm of delicate and brilliantly-coloured Amazonian dragonflies
@@ -119,10 +119,10 @@ Birthday: July 26, 2042
 Later, as an Automata Elder and Inker...
 
 * wears soft, loose trousers that cinch at the knees and a chest wrap to support the breasts
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * a ring in the right nostril
   * ears: both lobes have 2 piercings -- the inner one has a long, hook-like piercing with spiralled ends; the outer hole has a simple stud
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * back: a wide ribbon of water, imitating the curves of the Amazon River, starting at the left shoulder and growing rapidly in width until it disappears off the back at the right buttock. A [common basilisk](https://en.wikipedia.org/wiki/Common_basilisk) runs across the river. 
   * right shoulder, front, just under the clavicle: a Giant Helicopter Damselfly (Mecistogaster linearis)
   * across the chest: a swarm of delicate and brilliantly-coloured Amazonian dragonflies
@@ -146,7 +146,7 @@ Birthday: March 16, 2024
 
 ## Iúna Serrano Morei
 
-Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing company that ends up collaborating with the UN to implement Majhee's design for eSyrup air and water filters. 
+Born in 2043 in Watertown, Massachusetts, USA. Runs a textile manufacturing company that ends up collaborating with the UN to implement Majhee's design for SynTh air and water filters. 
 
 Birthday: July 5, 2036
 
@@ -177,14 +177,14 @@ Birthday: October 18, 2063
 * eyes: dark green
 * skin: dark olive
 * typical outfit (as an adult Automata): loose trousers that cinch at the knees, chest wrap for breast support
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * left eyebrow
   * piercings all the way up the helix of both ears, filled with thin, delicate rings; lobes of both ears have one small, delicate stud piercing
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * back: cyclonic cloud formations
   * above the right hip: a [New World Quail](https://en.wikipedia.org/wiki/New_World_quail)
   * left shoulder: a stylized image of [the chemical structure of the repeating unit of polychloroprene](https://en.wikipedia.org/wiki/Neoprene#/media/File:Polychloroprene.png), the polymer that makes up neoprene. 
-  * right hand: a depiction of an eSyrup culture; near the elbow, the culture bubbles as droplets of water and a sprinkling of sand fall into the eSyrup culture; by the wrist, the culture funnels into a syringe, its tip traveling down the palm to end in a point at the middle finger tip.
+  * right hand: a depiction of an SynTh culture; near the elbow, the culture bubbles as droplets of water and a sprinkling of sand fall into the SynTh culture; by the wrist, the culture funnels into a syringe, its tip traveling down the palm to end in a point at the middle finger tip.
   * legs: dendritic line art that encodes Nicola's lineage and Automata history
 
 ## Asoka Morei
@@ -215,7 +215,7 @@ Outfit components:
 * baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez), cinched at the ankle and worn tucked into boots
 * light-weight long sleeve jacket, loose and fastening up the front, covered in a variety of simple geometric embroidery patterns, sleeves cinched at the wrists
 * gloves, tucked into the sleeves
-* head scarf and face veil with the schematic of a face embroidered onto each with eSyrup thread 
+* head scarf and face veil with the schematic of a face embroidered onto each with SynTh thread 
 * socks that go above the ankle
 * boots
 
@@ -235,9 +235,9 @@ Cuttlefish Cloth makes several improvements to "normal" Biononymous cloth. In ad
 
 ### Where is this character from?
 
-Asoka was born in a Green Haven somewhere in the former United States of America. The Biononymous have continued to live in strict adherence to their religious principles: always wearing their full religious outfits and using synthesized, unidentifiable voices in public, in order to maintain their anonymity; cultivating cotton, hemp, and flax to transform into eSyrup textiles; and training every member of their cult in the ways of self-defense and anti-surveillance. By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe, growing food for themselves and nearby Underground Cities on farms/monastaries/wildlife sanctuaries called Green Havens. The Biononymous had also established a form of benevolent governance and trade with the Underground Cities, nurturing culture and growth where the World Government expected to find only chaos and barbarians. Asoka's Green Haven has also now perfected eSyrup mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. Asoka is part of the first generation of the Biononymous who have been given a mechapet at birth, a companion who will grow and develop with the human child. 
+Asoka was born in a Green Haven somewhere in the former United States of America. The Biononymous have continued to live in strict adherence to their religious principles: always wearing their full religious outfits and using synthesized, unidentifiable voices in public, in order to maintain their anonymity; cultivating cotton, hemp, and flax to transform into SynTh textiles; and training every member of their cult in the ways of self-defense and anti-surveillance. By the time the World Government made itself known to the Earthers, the Biononymous were already back above ground in both North America and Europe, growing food for themselves and nearby Underground Cities on farms/monastaries/wildlife sanctuaries called Green Havens. The Biononymous had also established a form of benevolent governance and trade with the Underground Cities, nurturing culture and growth where the World Government expected to find only chaos and barbarians. Asoka's Green Haven has also now perfected SynTh mechapets, which are synthetic creatures that can provide numerous technological/digital computing functions to the Biononymous, including instantaneous long-distance communication. Asoka is part of the first generation of the Biononymous who have been given a mechapet at birth, a companion who will grow and develop with the human child. 
 
-The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. The World Government was desperate to find ways of feeding the Orbiter population, which was suddenly increased by about 60,000 during the Global Water Crisis. The World Government aggressively negotiated with the Biononymous, demanding a tithe of 30% of the Green Havens' yearly harvest, which would supplement the yield of the 3 orbiting space farms, in exchange for the World Government acknowledging the Biononymous as a legitimate political entity and allowing the Biononymous to continue practicing the tenents of their religion without interference. The Biononymous are wary of the World Government and their true motives, but as it was hard to argue with the need to feed people and a promise of non-interference, so the Biononymous agreed. However, the Biononymous become even more subtle and clever, now that they know that the World Government wants the Green Havens for themselves. A secret group of Biononymous begin working on new eSyrup textiles with greater camouflage and anti-surveillance properties.  
+The World Government was not pleased that they couldn't just take over the Green Havens and commandeer the Green Havens' agricultural resources. The World Government was desperate to find ways of feeding the Orbiter population, which was suddenly increased by about 60,000 during the Global Water Crisis. The World Government aggressively negotiated with the Biononymous, demanding a tithe of 30% of the Green Havens' yearly harvest, which would supplement the yield of the 3 orbiting space farms, in exchange for the World Government acknowledging the Biononymous as a legitimate political entity and allowing the Biononymous to continue practicing the tenents of their religion without interference. The Biononymous are wary of the World Government and their true motives, but as it was hard to argue with the need to feed people and a promise of non-interference, so the Biononymous agreed. However, the Biononymous become even more subtle and clever, now that they know that the World Government wants the Green Havens for themselves. A secret group of Biononymous begin working on new SynTh textiles with greater camouflage and anti-surveillance properties.  
 
 About 20 years later, enormous demonic beasts, later dubbed "Death Dogs", began appearing with horrifying frequency and begin terrorizing Green Havens in North America and Europe. These huge carvivorous creatures descend upon Green Havens and horribly mangle anyone they can get their teeth on. Usually, the entire population of a Green Haven is wiped out, crops are trampled, and buildings are destroyed. This happens to Asoka's Green Haven when Asoka is 15-years-old, and Asoka, who had been tending the most distant fields, just barely escapes with their mechapet Iri. 
 
@@ -245,7 +245,7 @@ About 20 years later, enormous demonic beasts, later dubbed "Death Dogs", began 
 
 At first, Asoka felt that establishing an alliance between the Biononymous and the Automata was their one true goal, but after the Elders decide to decline the alliance and the Automata go further into hiding, Asoka, feeling as though they failed, falls into a deep depression, and becomes bed-ridden. Min gets tired of seeing Asoka mope, so she finds Asoka and reminds them that if they do not want the deaths of their friends and family to be in vain, Asoka needs to live, and survive, and find a reason to stand every day. 
 
-Min has decided that Asoka is cool enough to be her friend, so Min expresses her disappointment with the Elders' decision. Min shares with Asoka her desire to join the International Space Exploration Corps and become a space explorer. Stirred by Min's passion and ferocious energy, Asoka presents themselves to the Elders, and answers all of their questions about the Biononymous and Biononymous tech. Based on the new knowledge they gain from Asoka, the Automata are able to vastly improve their eSyrup bubbles, the flexible eSyrup-textile-based structures they use for shelter, which look very akin to big top circus tents. 
+Min has decided that Asoka is cool enough to be her friend, so Min expresses her disappointment with the Elders' decision. Min shares with Asoka her desire to join the International Space Exploration Corps and become a space explorer. Stirred by Min's passion and ferocious energy, Asoka presents themselves to the Elders, and answers all of their questions about the Biononymous and Biononymous tech. Based on the new knowledge they gain from Asoka, the Automata are able to vastly improve their SynTh bubbles, the flexible SynTh-textile-based structures they use for shelter, which look very akin to big top circus tents. 
 
 Over the next year, while living with the Automata, Asoka slowly recovers from the trauma and realises a new desire: to honour the deaths of their parents and their entire Green Haven, by figuring out a way to defeat the Beasts, to deny the World Government the power they so hungrily seek, and to free the Biononymous from oppression. Even though Asoka's parents kept Asoka out of the loop when it came to their research (in order to protect Asoka), Asoka still picked up their distrust of the World Government and their fear that the Biononymous' desire to live private lives, without hyper-documentation by a central authority, may soon be crushed. Reinforced by the insights of Eireena, Asoka realises that although the Biononymous are not trackable or surveillable as individuals, the whole cult is now trapped on the Green Havens, and the Biononymous may lose the leverage they've enjoyed as a religious organization to be free from government oversight. 
 
@@ -259,7 +259,7 @@ A cuttlefish mechapet and companion of Asoka. Iri can fluidly change its shape, 
 
 Asoka's generation is the first generation of Biononymous to have mechapets. 
 
-Mechapets are made from flexible and deformable inorganic materials doped with eSyrup. The outer "skin" of every mechapet is actually a shell made of tiny eSyrup-doped metal plates, so small and connected with so many degrees of freedom that in concert, they can mimic any biological skin, fur, feather, and scale texture. 
+Mechapets are made from flexible and deformable inorganic materials doped with SynTh. The outer "skin" of every mechapet is actually a shell made of tiny SynTh-doped metal plates, so small and connected with so many degrees of freedom that in concert, they can mimic any biological skin, fur, feather, and scale texture. 
 
 Asoka's mechapet Iri is actually the "template" mechapet for all other mechapets. Akin to the similarities between the early stages of embryonic development across vertebrate species, all mechapets first develop into an amorphous 'cephalopod-like' structure, then are voltage-treated to differentiate their outer shell appearance to look like other animals, such as birds, reptiles, mammals, etc. The voltage-treatment on these other mechapet models changes the default configuration of their outer shell, meaning that once a mechapet has differentiated into a species besides the 'cephalopod-like' template, their new appearance is now the lowest energy state for their outer shell. With practice and experience, all mechapets can learn how to change the energy state of their outer shell, aka morph. 
 
@@ -316,10 +316,10 @@ Phenotype: East Asian/West African. Thick dark brown curly hair, shaved into a m
 * hair: dark, thick, slightly kinky, shaved into a mohawk
 * eyes: dark brown
 * skin: deep chocolate brown
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * stud in the left nostril 
   * ears: left ear has a thick lobe piercing in a shape that imitates a Space Barge; right ear has matching lobe piercing and a much smaller piercing in the [forward helix](https://en.wikipedia.org/wiki/Cartilage_piercing).
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * back: star field, as visible from the Amazon rainforest, on her birthday (see this [star map](https://www.skymaponline.net/view.aspx?r=600&x=600&y=600&lat=-3.7436735&long=-73.2516326&time=21000218224800&rotation=90&w=1038&h=800&gmtoffset=0&loc=Iquitos,%20Peru&id=97c5bc55))
   * head: on left side of mohawk is papaya flowers, on the right side of the mohawk is the "cana-do-rio" [*Gynerium sagittatum*](https://en.wikipedia.org/wiki/Gynerium) 
   * legs: dendritic line art that encodes Min's lineage and Automata history
@@ -347,9 +347,9 @@ Min is a member of the Automata, a nomadic clan dedicated to reviving the Amazon
 
 The Automata believe true autonomy is the ability to make informed, un-coerced decisions. To the Automata, this implies that every member of their clan be raised with the skills and awareness required to govern themselves while co-existing with the rest of the world. Most members of the Automata interpret this collective awareness and responsibility to extend only towards other Earthers, and are happy to ignore the Orbiters, whom the Automata speak of dismissively as "the ones who abandoned us out of fear, who hide in their sterile coffins up in the sky."
 
-When Automata children are considered adults by the Clan when they become an Expert in one of their crafts: Tree Surfer (one who studies and cares for trees and plants), Water Cycler (one who studies and cares for the water and waste cycles of the Automata), and Inker (one who studies and cares for the raw eSyrup cultures, secret treasure of the Automata). When an Automata has trained and proven their competence in a craft, they undergo the Rite of the Mothers - they must travel, with a single escort, to the sacred burial caves of the Automata, where a secret spring of clean, clear water, one of the rarest things in the modern world, bursts out of the cave rock. There they must meditate amongst their dead ancestors for 7 days, with no food and no speech during that time. 
+When Automata children are considered adults by the Clan when they become an Expert in one of their crafts: Tree Surfer (one who studies and cares for trees and plants), Water Cycler (one who studies and cares for the water and waste cycles of the Automata), and Inker (one who studies and cares for the raw SynTh cultures, secret treasure of the Automata). When an Automata has trained and proven their competence in a craft, they undergo the Rite of the Mothers - they must travel, with a single escort, to the sacred burial caves of the Automata, where a secret spring of clean, clear water, one of the rarest things in the modern world, bursts out of the cave rock. There they must meditate amongst their dead ancestors for 7 days, with no food and no speech during that time. 
 
-After 7 days, their escort helps them return to the main body of the Clan, where they receive an injection of raw eSyrup directly into their skin. This injection becomes their **subdermal shield**, a layer of eSyrup in their skin, which connects directly with their nervous system. With guidance, discipline, and much practice, the Automata are able to modify their subdermal shield in order to give themselves protection from harmful solar radiations, to eat directly the fruits and vegetables grown in wild gardens, to drink surface water without intensive treatment and filtration, to filter the current atmosphere with their own sinuses. 
+After 7 days, their escort helps them return to the main body of the Clan, where they receive an injection of raw SynTh directly into their skin. This injection becomes their **subdermal shield**, a layer of SynTh in their skin, which connects directly with their nervous system. With guidance, discipline, and much practice, the Automata are able to modify their subdermal shield in order to give themselves protection from harmful solar radiations, to eat directly the fruits and vegetables grown in wild gardens, to drink surface water without intensive treatment and filtration, to filter the current atmosphere with their own sinuses. 
 
 Once the subdermal shield has been fully assimilated by the individual, they are asked, "What does it mean to be Free?" These are the first words of every adult Automata; this is the question upon which they meditate in the sacred caves of the ancestors. Each Automata's answer is expected to share how they plan to spend their Year Underground - after 6 months of training on how to use their subdermal shield, Automata are expected to disguise themselves as Underground Earthers and spend a year living in the Underground Cities, to gain perspective on the Automata lifestyle and to generate closer empathy with their fellow planetside humans. 
 
@@ -380,10 +380,10 @@ When Jina spent her year in the Underground Cities, she met and fell in love wit
 * hair: dark, thick, slightly kinky, worn in long dreds that go down to the small of her back
 * eyes: dark brown
 * skin: light chocolate brown
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * belly-button 
   * ears: both lobes are pierced and stretched with 20mm diameter ear [plugs](https://en.wikipedia.org/wiki/Plug_(jewellery)). The left [tragus](https://en.wikipedia.org/wiki/Earring) is also pierced with a short bar. 
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * torso: A thorny trunk of a [silk floss tree](https://en.wikipedia.org/wiki/Ceiba_speciosa) winds from her lower belly (between her hipbones) up past her belly button, under left armpit, and ends by curling back over her right shoulder. Leaves and flowers are scattered along this trunk, and just under her left breast is [an open fruit pod](https://en.wikipedia.org/wiki/Ceiba_speciosa#/media/File:C._speciosa-1.JPG).  
   * neck, behind the right ear: a baby [mata mata turtle](https://en.wikipedia.org/wiki/Mata_mata)
   * legs: dendritic line art that encodes Jina's lineage and Automata history
@@ -402,10 +402,10 @@ Birthday: July 4, 2097
 * hair: a big bushy fro of kinky light brown hair
 * eyes: large, nearly black-brown, wide-set
 * skin: dark, nearly blue-brown
-* piercings made of eSyrup metal, meaning they can shape-shift
+* piercings made of SynTh metal, meaning they can shape-shift
   * right eyebrow 
   * ears: the right lobe is pierced twice, the outer piercing a metal stud, the inner piercing a longer, delicate-seeming dangle of metal fronds. The left lobe is pierced once, with a thick hoop of relatively small diameter. The left also has an [industrial](https://en.wikipedia.org/wiki/Earring) piercing. 
-* tattoos made of eSyrup ink, meaning they can shape-shift
+* tattoos made of SynTh ink, meaning they can shape-shift
   * back: rendition of the golden ratio overlaid on the shell of a [Giant Land Snail](en.wikipedia.org/wiki/Lissachatina_fulica)
   * along the inside of the left forearm: a cut-through of a ripe [common fig](https://en.wikipedia.org/wiki/Ficus), the stem-side pointed towards the wrist, where it becomes a tattoo inking needle, with its tip at the tip of Maraba's middle finger
   * legs: dendritic line art that encodes Maraba's lineage and Automata history

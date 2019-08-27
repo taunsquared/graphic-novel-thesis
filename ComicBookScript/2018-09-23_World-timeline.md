@@ -32,7 +32,7 @@ Majhee realises that the bacterial superorganism can "spin" thread-like mycelium
 
 ### 2048
 
-Majhee defends her PhD thesis, "Synaptic Thread: Using genetically modified bacterial colonies to fabricate living organic semiconductors".
+Majhee defends her PhD thesis, "Using genetically modified bacterial colonies to fabricate living organic semiconductors".
 
 Space Consortium's first Orbital arboretum, **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**, is completed. 
 
@@ -76,13 +76,13 @@ The Space Consortium begins to mass-manufacture commercial SynTh products, using
 
 The Space Barge fleet, comprising of 34 vessels, now makes daily trips from the Earth's surface to the Space Consortium's two Orbital arboretums.
 
-In collaboration with Iúna and her collaborators, Majhee's lab begins experimenting with splicing SynTh directly into other organic cell cultures. Thanks to a worldwide network of collaborators and open science activists, Majhee and colleagues are able to continuously publish their advances as open source and freely-accessible academic work. 
+In collaboration with Iúna and her collaborators, Majhee's lab begins experimenting with splicing SynTh directly into other organic cell cultures. A growing worldwide network of citizen scientists and open science activists coalesce into an online DIY SynTh enthusiasts forum, called the Open SynTh Exchange. Through these networks of collaborators, Majhee and colleagues are able to continuously publish their advances as open source and freely-accessible academic work. 
 
 ### 2060
 
-Majhee and colleagues begin experimenting with splicing SynTh into skin cells from several species, including mice and humans. They win a 6-year technology innovation grant from the UN to develop SynTh-hybrid skin, a self-cleaning and self-mending fabric that can grow with a human throughout one's whole life, to be used to make clothing for refugees and the poverty-stricken. 
+Majhee and colleagues begin experimenting with splicing SynTh into skin cells from several species, including mice and humans. They win a 10-year technology innovation grant from the UN to develop SynTh-hybrid skin, a self-cleaning and self-mending fabric that can grow with a human throughout one's whole life, to be used to make clothing for refugees and the poverty-stricken. 
 
-### 2061
+### 2062
 
 Orbiter population reaches 8,000. 
 
@@ -92,13 +92,11 @@ While conducting their own research on more efficient ways to integrate SynTh on
 
 SynTh body mods are now quite popular. 
 
-Majhee and colleagues struggle to create SynTh-hybrid skin, but have acheived a SynTh-hybrid textile that can change color or texture based on the application of certain electromagnetic frequencies. SynTh clothing makes an explosively successful entrance on the scenes of luxury clothing labels and technical outdoor gear. Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
-
 The Biononymous, a cult-like religious movement that forbids the use of body mods and surgical SynTh implants, is quietly founded by activists concerned with the human rights implications of SynTh mods. The Biononymous believe that SynTh mods will lead to direct biological data harvesting, malicious bio-hacking, and oppressive surveillance. One of the founders of the Biononymous, Iúna Morei, is a volunteer for the World Health Organization and the owner of several textile manufacturing plants, and develops a secretive textile research program to create SynTh clothing that will not only protect wearers from harmful solar radiations, but will also prevent any wireless transmissions from entering or exiting their bodies/clothing, and will obscure their presence on surveillance cameras, many of which use infrared light. The Biononymous movement becomes particularly popular at the UN Green Havens.
 
 ### 2065
 
-SynTh clothing and accessories of all kinds are now widely available, and even secondhand stores and charity shops have SynTh items on a regular basis. 
+Majhee and colleagues struggle to create SynTh-hybrid skin, but have acheived a SynTh-hybrid textile that can change color or texture based on the application of certain electromagnetic frequencies. SynTh clothing makes an explosively successful entrance on the scenes of luxury clothing labels and technical outdoor gear. Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
 
 Iúna Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
@@ -118,7 +116,7 @@ Majhee and her colleagues successfully create the first biofilm made from thread
 
 A deep-sea silica harvesting rig in the Antarctic Convergence accidentally vents deep-sea volcanic plumes, full of [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride), directly into the air above the ocean from a leak just below the surface. This creates a huge cloud of hydrogen flouride and transforms the surrounding ocean into a deadly sea of hydroflouric acid. The poisonous cloud blinds the rig's crew, and the hydroflouric acid boils anyone who falls into the ocean, so the deep-sea volcanic plumes belch unchecked into the Antarctic Convergence. Ocean currents spread the hydroflouric acid into the Indian Ocean Gyre, the Southern Pacific Gyre, and the Southern Atlantic Gyre, destroying ecosystems and utterly disrupting the water cycle on the planet. The enormous cloud of hydrogen flouride is picked up by global wind currents and spreads throughout the atmosphere. Panic leads to military action, riots, and an incredible death toll. 
 
-Meanwhile, in São Paulo, Majhee and her colleagues have just one year ago successfully spliced thread-worm with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first thread-worm-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. Majhee and her colleagues pack up all of their raw thread-worm cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
+Meanwhile, in São Paulo, Majhee and her colleagues have just successfully spliced thread-worm with eukaryotic cell cultures for the first time, and now they are witnessing the birth of the first thread-worm-spliced mammal, a rat-like creature named Nimh. Nimh lives 11 days. Nimh dies on the day that the news of the deep-sea silica harvesting rig disaster reaches the Laboratório Nacional de Biociências e Saúde Pública. Majhee and her colleagues pack up all of their raw thread-worm cultures and research and flee with their families inland. They hide with friends and family in caves deep under the Amazon Rainforest. 
 
 Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride.
 

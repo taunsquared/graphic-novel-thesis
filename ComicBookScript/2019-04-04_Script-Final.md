@@ -190,7 +190,7 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 **"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Shuttle Barges, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
+**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
 
 ### Page 1
 
@@ -246,7 +246,7 @@ Majhee sneaks into an alleyway to enter the research facility via a back door.
 
 Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-**"...Space Consortium's actions have been publicly condemned by researchers at the Laboratório Nacional de Biociências e Saúde Pública, including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
+**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP(Laboratório Nacional de Biociências e Saúde Pública), including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
 
 Majhee: **"Mornin', Paulo!"**
 
@@ -260,11 +260,11 @@ Paulo: **"Did you go to the hospital?"**
 
 Majhee: **"No, I can't afford it right now."**
 
-Paulo: **"You mean you don't get health insurance from Space Co?"**
+Paulo: **"Doesn't the LNBSP give you health insurance?"**
 
-Majhee: **"I do, but I'm not covered for injuries that occur off the work site...and technically, I was outside the front gates when I got hit by that oxygen tank."**
+Majhee: **"Yes, but I'm not covered for injuries that occur off the work site...and technically, I was outside the front gates when the oxygen tank hit me."**
 
-Paulo: **"You've gotta be kidding me...what the hell are they thinking??"**
+Paulo: **"You're joking...what kinda messed up thinkin' is that??"**
 
 Majhee removes her boots and steps into the decontamination chamber.
 
@@ -272,7 +272,14 @@ Majhee: **"Yeah, well...everyone's hungry...can't think when you're hungry."**
 
 ### Page 4
 
-**"...STUFF ABOUT BACTOFETS AND THREAD WORMS AND SYNTH..."**
+A floating digital page reads the following:
+
+**"Open SynTh Exchange"**  
+**" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh textiles' "**  
+**"Asked 2.5 years ago Active 7 months ago Viewed 40k times"**  
+**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
+**"Keywords: Tesla, synchronicity, textile interactions, replication work"**
+**"Posted 11 Aug 2063 at 13:42 by QueenBee42"**
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
@@ -292,19 +299,19 @@ Marcia: **"Majhee, I have no time for your political agenda today. I need you to
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
-Majhee: **"Do you *really* believe science is done in a social vacuum?? You are taking dirty money and everyone knows it!"** 
+Majhee: **"Do you *really* believe science is done in a vacuum?? You're taking dirty money and everyone knows it!"** 
 
 Marcia, immediately apologetic, hands up to ward off Majhee's anger.
 
 Marcia: **"Majhee, right now, there are *no other sources* of funding. None."**
 
-Majhee: **"What about the UN grants that are funding *my* lab??"**
+Majhee: **"What about the UN grants funding *my* lab??"**
 
-Marcia: **"Fine, there are no other *easy* sources of *big* funding. I know what you'll say, that we're trading ethical integrity for easier paperwork, but I legitimately *cannot* get our sponsors to care."**
+Marcia: **"Fine, no other *easy* sources of *big* funding. I know what you'll say, that we're trading ethical integrity for easier paperwork, but I *cannot* get our sponsors to care."**
 
 Majhee looks at Marcia miserably. 
 
-Majhee: **"Why did you accept the director position? The woman who asked me to come back to develop open science in São Paulo would have *made* our sponsors care."**
+Majhee: **"The woman who asked me to help her fight corruption in São Paulo with open science would have *made* our sponsors care."**
 
 Marcia: **"I know, but...look, can we just go for a walk?"**
 
@@ -314,7 +321,7 @@ Majhee: **"I can't, I'm already late. See, Felix is coming to fetch his delinque
 
 Felix, a scientist in Majhee's lab, appears at the doorway.
 
-Felix: **"Sorry to interrupt Director Netto, but can we get Marcia? Lab meeting was supposed to start an hour ago..."**
+Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago..."**
 
 Majhee: **"No no, my bad, we're wrapping up now. Marcia, I'll give you a call later."**
 
@@ -326,21 +333,23 @@ The circle of researchers: **Felix Grael**, a pale but handsome man in his late 
 
 Beatriz: **"So...it's back?"**
 
-Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)..."**
+Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)...my father had one last year..."**
 
 Beatriz, gently: **"Do you want to go home? The lab can cover your flight..."**
 
 Felix: **"Are you sure?"**
 
-Vec, to Felix: **"Of course! And if your father's medical team wants access to our tissue database, you just let me know."**
+Beatriz: **"Of course!"**
 
-Felix: **"Thanks, everyone...I know my mom will really appreciate this..."**
+Vec, to Felix: **"And if your father's doctors want access to our tissue database, you just let me know."**
+
+Felix: **"I don't know...I know my mom would really appreciate having me at home..."**
 
 Suddenly Felix screws up his face with anger and frustration. 
 
-Felix: **"But...goddamn Space Co!"**
+Felix: **"But...we're so close, and so is Space Co--"**
 
-Beatriz: **"Look, family comes first, and that's ok."**
+Beatriz: **"Hey, family comes first, and that's ok."**
 
 Felix: **"But Kai's hands--"**
 
@@ -348,7 +357,7 @@ Felix: **"But Kai's hands--"**
 
 Kai, arms folded, looking down at her lap with hard eyes.
 
-Kai: **"My hands hurt but we'll manage. Just try to setup a splicing station in Sweden as soon as you can...you're my best student, and we won't be able to finish in time without you."**
+Kai: **"Yes, my hands hurt, but we'll manage long enough for you to set up a splicing station in Sweden...you're my best student, and we won't be able to finish in time without you."**
 
 Majhee: **"What do you mean, 'in time'?"**
 
@@ -356,23 +365,23 @@ Kai hands Majhee a letter covered in legal jargon.
 
 Kai: **"It was in our mail pile this morning..."**
 
-Majhee: **"This is from Space Co? '...Due to the numerous challenges arising from our pursuit of exclusive patents on the derivatives of our previous collaboration, we are writing to inform you of a forthcoming publication embargo on all research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08).' What??"**
+Majhee: **"This is from Space Co? '...Due to the challenges arising from our pursuit of exclusive patents on derivatives of a previous collaboration, we write to inform you of a forthcoming publication embargo on all research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08).' What??"**
 
 Nova, looking shocked: **"Are they announcing another patent already??"**
 
-Kai: **"I told you, they'll only wait long enough for the publicity cycle to make a big splash... then the next one's out."**
+Kai: **"Not today...supposedly they will in 3 weeks. I told you, they'll only wait long enough for the publicity cycle to make a big splash..."**
 
 Majhee, angrily: **"Yeah, keep the momentum going while everyone is still pissing their pants over what to do."**
 
-Iara: **"So... not to be the voice of depressing reality, but they're not going to *stop* trying to steamroll over open access, so trying to outrun them to every possible application of SynTh isn't sustainable long-term."**
+Iara: **"Well... not to be the voice of depressing reality, but they're not going to *stop* steamrolling over open access, so trying to outrun them to *every* application of SynTh isn't sustainable."**
 
 Felix: **"So what's your alternative strategy?"**
 
 Nova: **"I think we should go silent after publishing this biofilm paper and put everything we've got towards developing the SynTh-hybrid skin idea."**
 
-Iara: **"I agree. No more low-hanging fruit. We had some training sprints with Space Co, and now we're gonna run the marathon."**
+Iara: **"I agree. No more low-hanging fruit. The past few sprints with Space Co were training. Now, we run the marathon."**
 
-Bruno: **"You talk like we already know how to do it and we just gotta crunch some numbers. We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism, and we still haven't really talked about the ethical implications of creating it."**
+Bruno: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism... and we still haven't *really* talked about the ethical implications of creating it."**
 
 Felix: **"We have some idea! We know at least 22 ways that *don't* work!"**
 
@@ -380,23 +389,23 @@ Felix: **"We have some idea! We know at least 22 ways that *don't* work!"**
 
 Majhee: **"Kai, Vec, Bea? What do you think?"**
 
-Kai: **"I say we get started straight away! Felix and I are going to review the latest thread-worm recipe together-- tonight!"**
+Kai: **"I say we start straight away! Felix and I will review the latest thread-worm recipe together-- tonight!"**
 
 Felix looks dazed already. 
 
-Vec: **"I'll start setting up a [scrambled](https://en.wikipedia.org/wiki/Scrambler) line to Sweden."**
+Vec: **"I'll set up a [scrambled](https://en.wikipedia.org/wiki/Scrambler) line to Sweden."**
 
 Beatriz: **"I'll get Felix his flight."**
 
 Majhee quirks an eyebrow.
 
-Majhee: **"You all...are the *best* people...I've ever worked with...ever known...thank you for trusting me. Working on this project, in this city, right now... "*
+Majhee: **"You all...are the *best* people I've ever worked with...*thank you*...for trusting me...for working on this project, in this city, right now..."*
 
 We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
 
 *translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
 
-Majhee: **"If you need to leave, I *will* get you and your family out of this city and off Space Co's radar."**
+Majhee: **"And if anyone else needs to leave...I promise to get you and your family safely out of São Paulo and off Space Co's radar."**
 
 ### Page 9
 
@@ -404,7 +413,7 @@ Majhee: **"If you need to leave, I *will* get you and your family out of this ci
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
-Off-panel, secretary: **"Iúna, the folks from the World Health Organization are here."**
+Off-panel, secretary: **"Hey boss, the folks from the World Health Organization are here."**
 
 Off-panel, Iúna: **"Thanks, I'll be with them in a minute."**
 
@@ -416,15 +425,21 @@ Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
 ### Page 10
 
-Iúna: **"Hi, I'm Iúna("Aye-*oo*-nah"). Thanks for bringing the new protocols from São Paulo."**
+Woman leading the UN delegation: **"Hi, I'm Amelie Kauffman, and with me are Javier Fuentes-Conte and Esteban Maranon."**
+
+Iúna: **"I'm Iúna*. Thanks for bringing the new protocols from São Paulo."**
+
+* *pronounced "Aye-**oo**-nah"*
 
 Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
 
 Iúna gives the delegation from the World Health Organization a kind smile. 
 
-Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body modifications and SynTh implants. I'm extremely grateful that you've taken the time to travel all this way from DC."**
+Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...I'm extremely grateful that you've taken the time to travel all this way from DC."**
 
-Dr. Kauffmann: **"We were already in Boston, so it wasn't far. Besides, I've wanted to thank you in person. No one can beat your [MERV ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)...I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"It's alright, we were in Boston this morning anway...besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)...I've got your organzas in every window of my house."**
+
+* *MERV= Minimum efficiency reporting value*
 
 Iúna: **"Just doing what we can. What's happening in Boston?"**
 
@@ -436,7 +451,7 @@ Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
 
 Iúna: **"Really? From where?"** 
 
-Dr. Kauffmann: **"This morning, Los Angelos. A police raid started a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona..."**
+Dr. Kauffmann: **"This morning, Los Angelos. A police raid turned into a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona..."**
 
 Iúna: **"Damn. How many dead?"**
 
@@ -444,7 +459,7 @@ Dr. Kauffmann: **"Haven't had a chance to count yet. Thousands are homeless..."*
 
 Iúna: **"How does a *police raid* start a *state-wide fire*??"**
 
-Dr. Kauffmann: **"It's all that plastic furniture, they're basically *solid* petroleum...I'm sorry, I should have realised you hadn't heard yet...do you know anyone over there?"**
+Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with plastic furniture, which are basically *solid* petroleum, and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
 Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
 
@@ -464,7 +479,7 @@ Tahoe: **"*Fire hasn't gotten further than [Fresno](https://en.wikipedia.org/wik
 
 Iúna: **"*...was it...[Portzy](https://en.wikipedia.org/wiki/Portiuncula)?*"**
 
-Tahoe: **"*...*"**
+Tahoe: **"*...no one else had a body mod, Mama Bird...*"**
 
 Under this dialogue, we see Iúna, who is now outside, and her baby is no longer strapped to her chest. Instead, her face is covered in a thick veil and she wears what looks like a heavy, full-sleeved and full-length apron. SynTh circuits flash within the weave of both Iúna's veil and apron. She stands, facing west, arms flung out wide, back straight and tall, legs apart, boots planted firmly in the frosty grass. 
 
@@ -474,7 +489,7 @@ Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"*
 
 Tahoe: **"*...seriously?*"**
 
-Iúna: **"*Yes. [Pigsah](https://en.wikipedia.org/wiki/Pisgah_National_Forest) was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
+Iúna: **"*Yes. Portzy was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
 
 Tahoe: **"*But...doesn't that feel too much like a* cult??"**
 
