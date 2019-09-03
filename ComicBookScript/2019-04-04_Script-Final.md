@@ -182,8 +182,6 @@ Gentle Farmer and First VIRS.*
 
 ## Chapter 1: Calm Before the Storm
 
-Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa
-
 ### Chapter Title Page
 
 **"Loading Universal Record..."**
@@ -191,6 +189,48 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 **"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
+
+### Chapter 1 Cast
+
+**Majhee Suh**:  
+[Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
+PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
+
+**Iúna Morei**:  
+CEO of Morei Textiles  
+Codename "Mama Bird"  
+
+**Kai Oliveira**:  
+Bio-materials Scientist  
+PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate) interfaces"  
+
+**Vec Barbosa**:  
+Animal technician, Veterinarian, and SCUBA diving instructor  
+
+**Beatriz Cavalcanti**:  
+Laboratory Manager  
+PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification) in coastal ecosystems"  
+
+**Nova Jatobá**:  
+Research Assistant  
+B.Sc. in Nutrition and Information Management  
+
+**Marcia Netto**:  
+President and Director of Laboratório Nacional de Biociências e Saúde Pública  
+
+**Iara Gracie**:  
+Research Assistant  
+B.Sc. in Animal Husbandry  
+Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
+
+**Felix Grael**:  
+Research Technician  
+B.Sc. in Biophysics  
+Home-brewed beer enthusiast  
+
+**Breno Leite**:  
+Physiologist and Geneticist  
+PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome) responses to daily movement practice"
 
 ### Page 1
 
@@ -224,7 +264,7 @@ A lot of the news is about the new space arboretum, but most of the individual b
 
 **"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/) and many are migrating east to escape the *severe drought*..."**
 
-**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)"**
+**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)..."**
 
 **"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to *massive lootings* at yet another hydropower station..."**
 
@@ -283,47 +323,41 @@ A floating digital page reads the following:
 
 Majhee stands in her office, seemingly floating in the center of a giant transparent bacteria made of light. The light model of the bacteria is exquisitely detailed, and a section of the nucleoid is blown up for closer inspection. Majhee's fingers are raised in a well-practiced yet complicated gesture. Her face is darkened with barely contained rage. 
 
-Off panel: **"...and if you just *give away* your research we'll *fail* our next audit and then we'll *never* get another grant!"*
+Off panel: **"...and you shouldn't even *be* here right now, not after that hit to the head last night! Majhee, could you at least *look* at me when I'm talking to you??"**
 
-Majhee: **"Márcia, are you seriously talking to me about audits right now?"**
+We see Marcia Netto, Director of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, looking exasperated. Majhee sullenly turns from her digital bubble. 
 
-We see Marcia Netto, Director of the Laboratório Nacional de Biociências e Saúde Pública, in Majhee's doorway, looking exasperated yet sheepish.
+Marcia: **"My *point* is... our sponsors are just trying to make the best of our situation right now. I agree, Space Co has changed a *lot* in the last 12 years...but ending the collaboration now will *cripple* every lab in the building, including yours. At the end of the day, we *need* to stay on good terms with Space Co."**
 
-Marcia: **"Right, sorry...I'm *very* grateful that you've come in today, I know you're going through a lot, but we need to address this situation with Space Co before it *ruins* us!"*
+Majhee: **"More than those protestors outside *need* clean air and affordable food?"**
 
-Majhee: **"If by 'address this situation with Space Co', you mean 'end the exploitation of Earthers by Orbiters', then I'm 100% on board."**
+Marcia loses her patience. 
 
-Marcia: **"Majhee, I have no time for your political agenda today. I need you to focus on the science, not be a social justice warrior!"**
+Marcia: **"Majhee, we are *just* a research institute. How are we supposed to police the largest international corporation on *and* off the planet??"**
 
 ### Page 5
 
 Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
 
-Majhee: **"Do you *really* believe science is done in a vacuum?? You're taking dirty money and everyone knows it!"** 
+Majhee: **"We work at the *biggest* research center in Brazil, and have *way* more privilege than most folks on the street, so if *we* can't stand up to unethical behaviour, who can??"**
 
-Marcia, immediately apologetic, hands up to ward off Majhee's anger.
+Marcia: **"Majhee, if Space Co can't work with us, they'll just go to some other institute. We don't *actually* have any leverage."**
 
-Marcia: **"Majhee, right now, there are *no other sources* of funding. None."**
+Majhee looks away miserably. 
 
-Majhee: **"What about the UN grants funding *my* lab??"**
+Majhee: **"Well...if the sponsors want me out, *fine*. I'm not taking back *anything* I've said against Space Co."**
 
-Marcia: **"Fine, no other *easy* sources of *big* funding. I know what you'll say, that we're trading ethical integrity for easier paperwork, but I *cannot* get our sponsors to care."**
+Marcia: **"To be honest, they can't seem to decide whether to hate you or love you. You're the youngest scientist in the world with *two* UN grants..."**
 
-Majhee looks at Marcia miserably. 
+Majhee, dryly: **"Are you saying I have redeeming qualities in the eyes of our prestige- and money-hungry overlords?"**
 
-Majhee: **"The woman who asked me to help her fight corruption in São Paulo with open science would have *made* our sponsors care."**
-
-Marcia: **"I know, but...look, can we just go for a walk?"**
-
-Majhee: **"I can't, I'm already late. See, Felix is coming to fetch his delinquent P.I.*"**
-
-* *P.I. = Principle Investigator*
+Marcia, hissing: **"Majhee! The walls...ears--!"**
 
 Felix, a scientist in Majhee's lab, appears at the doorway.
 
 Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago..."**
 
-Majhee: **"No no, my bad, we're wrapping up now. Marcia, I'll give you a call later."**
+Majhee: **"I know, I'm sorry, I'm coming. Marcia, I'll give you a call later."**
 
 ### Page 6
 
@@ -333,21 +367,21 @@ The circle of researchers: **Felix Grael**, a pale but handsome man in his late 
 
 Beatriz: **"So...it's back?"**
 
-Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)...my father had one last year..."**
+Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)..."**
 
 Beatriz, gently: **"Do you want to go home? The lab can cover your flight..."**
 
 Felix: **"Are you sure?"**
 
-Beatriz: **"Of course!"**
+Vec: **"Of course!"**
 
-Vec, to Felix: **"And if your father's doctors want access to our tissue database, you just let me know."**
+Majhee, to Felix: **"And let us know if your father's doctors want access to our tissue database."**
 
-Felix: **"I don't know...I know my mom would really appreciate having me at home..."**
+Felix: **"Thanks...I know my mom will really appreciate having me at home..."**
 
 Suddenly Felix screws up his face with anger and frustration. 
 
-Felix: **"But...we're so close, and so is Space Co--"**
+Felix: **"But...we're so close--"**
 
 Beatriz: **"Hey, family comes first, and that's ok."**
 
@@ -355,35 +389,33 @@ Felix: **"But Kai's hands--"**
 
 ### Page 7
 
-Kai, arms folded, looking down at her lap with hard eyes.
+Kai looks down at her lap with hard eyes.
 
-Kai: **"Yes, my hands hurt, but we'll manage long enough for you to set up a splicing station in Sweden...you're my best student, and we won't be able to finish in time without you."**
-
-Majhee: **"What do you mean, 'in time'?"**
+Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but you'll have to make it quick..."**
 
 Kai hands Majhee a letter covered in legal jargon. 
 
-Kai: **"It was in our mail pile this morning..."**
+Kai: **"*This* was in our mail pile this morning..."**
 
-Majhee: **"This is from Space Co? '...Due to the challenges arising from our pursuit of exclusive patents on derivatives of a previous collaboration, we write to inform you of a forthcoming publication embargo on all research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08).' What??"**
+Majhee: **"From Space Co? '...challenges arising from our pursuit of exclusive patents ... we write to inform you of a forthcoming publication embargo on research concerning SynTh-spliced [photon-harvesting biofilms](https://cen.acs.org/energy/solar-power/Organic-solar-cell-smashes-performance/96/web/2018/08)...*IN 6 WEEKS*'??"**
 
-Nova, looking shocked: **"Are they announcing another patent already??"**
+Nova: **"I'm *convinced* they're lurking in the OSE forums."**
 
-Kai: **"Not today...supposedly they will in 3 weeks. I told you, they'll only wait long enough for the publicity cycle to make a big splash..."**
+*OSE = Open SynTh Exchange*
 
-Majhee, angrily: **"Yeah, keep the momentum going while everyone is still pissing their pants over what to do."**
+Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan..."**
 
-Iara: **"Well... not to be the voice of depressing reality, but they're not going to *stop* steamrolling over open access, so trying to outrun them to *every* application of SynTh isn't sustainable."**
+Nova: **"So what do we do?"**
 
-Felix: **"So what's your alternative strategy?"**
+Majhee, angrily: **"No more low-hanging fruit. We sprint to finish the biofilm paper...then I say we put everything we've got towards developing the SynTh-hybrid skin idea!"**
 
-Nova: **"I think we should go silent after publishing this biofilm paper and put everything we've got towards developing the SynTh-hybrid skin idea."**
+Nova: **"Yes. The past sprints were training...now, we run the marathon!"**
 
-Iara: **"I agree. No more low-hanging fruit. The past few sprints with Space Co were training. Now, we run the marathon."**
+Iara: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism..."**
 
-Bruno: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism... and we still haven't *really* talked about the ethical implications of creating it."**
+Felix: **"And the *ethical implications*..."**
 
-Felix: **"We have some idea! We know at least 22 ways that *don't* work!"**
+Breno: **"That hasn't stopped the *22 failed experiments* already published on the OSE..."**
 
 ### Page 8
 
@@ -393,27 +425,31 @@ Kai: **"I say we start straight away! Felix and I will review the latest thread-
 
 Felix looks dazed already. 
 
-Vec: **"I'll set up a [scrambled](https://en.wikipedia.org/wiki/Scrambler) line to Sweden."**
+Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing)"**
 
 Beatriz: **"I'll get Felix his flight."**
 
+Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing)."**
+
 Majhee quirks an eyebrow.
 
-Majhee: **"You all...are the *best* people I've ever worked with...*thank you*...for trusting me...for working on this project, in this city, right now..."*
+Majhee: **"You're all amazing. Thank you for massively improving my terrible week."**
 
 We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
 
 *translation: "Do not serve tyrants in orbit!", "Educate human children, not coporate machines!", "Feed humans not rockets!"*
 
-Majhee: **"And if anyone else needs to leave...I promise to get you and your family safely out of São Paulo and off Space Co's radar."**
+Majhee: **"Now, 22 failures...that's quite a lot of information..."**
 
 ### Page 9
 
-**"6 months later: Massachusetts, USA"**
+**"2 months later: Massachusetts, USA"**
 
 We see rolling countryside, vibrant with autumn colors, behind a low row of concrete warehouses, labeled "Morei Textiles". 
 
-Off-panel, secretary: **"Hey boss, the folks from the World Health Organization are here."**
+Off-panel, secretary: **"Hey [Iúna*](https://en.wikipedia.org/wiki/Capoeira_toques#I%C3%BAna), the folks from the World Health Organization are here."**
+
+*pronounced "Aye-**oo**-nah"*
 
 Off-panel, Iúna: **"Thanks, I'll be with them in a minute."**
 
@@ -425,21 +461,17 @@ Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
 ### Page 10
 
-Woman leading the UN delegation: **"Hi, I'm Amelie Kauffman, and with me are Javier Fuentes-Conte and Esteban Maranon."**
-
-Iúna: **"I'm Iúna*. Thanks for bringing the new protocols from São Paulo."**
-
-* *pronounced "Aye-**oo**-nah"*
+Iúna: **"Thanks for bringing the new protocols from São Paulo."**
 
 Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
 
 Iúna gives the delegation from the World Health Organization a kind smile. 
 
-Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...I'm extremely grateful that you've taken the time to travel all this way from DC."**
+Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...but I *am* very grateful that you've taken the time to travel all this way from DC."**
 
-Dr. Kauffmann: **"It's alright, we were in Boston this morning anway...besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)...I've got your organzas in every window of my house."**
+Dr. Kauffmann: **"It's alright, we were in Boston this morning anyway... besides, I wanted to thank you in person. No one beats your [MERV* ratings](https://en.wikipedia.org/wiki/Minimum_efficiency_reporting_value)... I've got your organzas in every window of my house."**
 
-* *MERV= Minimum efficiency reporting value*
+*MERV= Minimum efficiency reporting value*
 
 Iúna: **"Just doing what we can. What's happening in Boston?"**
 
@@ -447,19 +479,13 @@ Under this dialogue is a view of Iúna's desk. We see sneak peek's of the new sp
 
 ### Page 11
 
-Dr. Kauffmann: **"They're preparing themselves for a huge wave of refugees."**
+Dr. Kauffmann: **"They're prepping for a huge wave of refugees."**
 
 Iúna: **"Really? From where?"** 
 
-Dr. Kauffmann: **"This morning, Los Angelos. A police raid turned into a huge fire that's spread halfway up the coast of California. It's so big it's getting blown over the mountains into Arizona..."**
+Dr. Kauffmann: **"Los Angelos. A police raid last night turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
 
-Iúna: **"Damn. How many dead?"**
-
-Dr. Kauffmann: **"Haven't had a chance to count yet. Thousands are homeless..."**
-
-Iúna: **"How does a *police raid* start a *state-wide fire*??"**
-
-Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with plastic furniture, which are basically *solid* petroleum, and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
+Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
 Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
 
@@ -493,7 +519,7 @@ Iúna: **"*Yes. Portzy was right - once schools require head mods for every stud
 
 Tahoe: **"*But...doesn't that feel too much like a* cult??"**
 
-Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last month?*"**
+Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last week??*"**
 
 Tahoe: **"*What?*"**
 
@@ -601,17 +627,50 @@ lust.*
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
-Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, Nova Jatobá, Vec Barbosa, Nicola Cavalcanti
-
 ### Chapter Title Page
 
 **"Loading Universal Record..."**
 
 **"Finished loading...'A Beginner's Guide to SynTh: Introduction'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"eSyrup was first synthesized in the 2040s by researchers trying to directly interface silicon circuits with biological tissue. These researchers managed to create a [yeast](https://en.wikipedia.org/wiki/Yeast) mutant that, when cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria) and fed water and sand, decomposes the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand. When left unperturbed, this self-replicating bacterial culture generates spontaneous patterned electrical activity that move like waves across the culture, similar to the electrical activity in developing animal eyes called [retinal waves](https://en.wikipedia.org/wiki/Retinal_waves). These waves of electrical activity induce the atoms within raw eSyrup to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections, which can then flexibly mimic the behaviour of a classical [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)."**
+**"Synaptic Thread, commonly called 'SynTh', is spun by the bacterial superorganism [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast), commonly called 'thread-worms'.  When cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria), thread worms can decompose the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand to produce thread-like mycelium structures called 'Raw SynTh'. As it is being spun, raw SynTh generates [spontaneous bursts of electrical activity](https://en.wikipedia.org/wiki/Retinal_waves), inducing its atoms to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections. These sections can then flexibly mimic the behaviours of a classical [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)."**
 
-**"The exact nature of this flexibility depends on how the eSyrup has been engineered to grow hyphae, referred to as the eSyrup's "grade". In certain grades of eSyrup, the [septum](https://en.wikipedia.org/wiki/Septum) separating the cells of the hyphae are bioengineered to be composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) that are flexibly linked to each other. In these "higher" grades of eSyrup, the septum have a very high density of pores to increase the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. The resulting eSyrup product can be independently reconfigured almost indefinitely, and are called "flexible eSyrup" or "flex-eSyrup"; however, these grades of synaptic thread require more frequent feeding in order to power their reactivity. Cheaper grades of synaptic thread grow hyphae with septum composed of larger hexagons and with fewer pores. While this structure limits the ability of these grades, called "fixed synaptic thread", to reconfigure, these "lower" grades also require less frequent feedings to stay viable. While the energy conversion process in thread-worms is not fully known, a growing body of evidence suggests that thread-worm cultures convert CO2 into glucose via an unknown method that may be related to or derived from the [Calvin cycle](https://en.wikipedia.org/wiki/Light-independent_reactions)..."**
+**"The exact nature of this flexibility is described by the SynTh's 'grade', determined by the characteristics of the [septum](https://en.wikipedia.org/wiki/Septum) separating its hyphae cells. In 'higher' grades of SynTh, the septum are composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) and have a greater density of pores, increasing the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. These grades of 'flexible SynTh' or 'flexi-SynTh' can be reconfigured almost indefinitely; however, they require frequent feedings to maintain. In cheaper grades of SynTh, called 'static Synth', the septum are composed of larger hexagons and have fewer pores, which limits static SynTh's [reconfigurability](https://en.wikipedia.org/wiki/Reconfigurability) but also reduces its sand consumption..."**
+
+### Chapter 1 Cast
+
+**Majhee Suh**  
+Born in [Seoul, Korea](https://en.wikipedia.org/wiki/Seoul) on May 20, 2029  
+
+**Vec Barbosa**  
+Born in [Fortaleza, Brazil](https://en.wikipedia.org/wiki/Fortaleza) on March 16, 2024  
+
+**Kai Oliviera**  
+Born in [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) on May 21, 2020  
+
+**Nova Jatobá**  
+Born in [Nova Mutum, Brazil](https://en.wikipedia.org/wiki/Nova_Mutum) on July 26, 2042  
+
+**Beatriz Cavalcanti**  
+Born in [Florianópolis, Brazil](https://en.wikipedia.org/wiki/Florian%C3%B3polis) on April 14, 2031
+
+**Nicola Cavalcanti**  
+Born in [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) on November 20, 2064
+
+**Iúna Serrano Morei**  
+Born in [Watertown, USA](https://en.wikipedia.org/wiki/Watertown,_Massachusetts) on July 5, 2036
+
+**Geraldine Fischman**  
+Head of the Environmental Monitoring Team for the [Thermohaline Circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) Observation Collective
+
+**Amana Jatobá**  
+Nova's younger brother
+
+**Demetrio Cavalcanti**  
+Beatriz's husband, father of Nicola and Nerio
+
+**Nerio Cavalcanti**  
+Son of Beatriz and Demetrio Cavalcanti
 
 ### Page 1
 
@@ -619,13 +678,13 @@ Character designs: Majhee Suh, Iúna Morei, Kai Oliveira, Beatriz Cavalcanti, No
 
 We see a bustling harbour town, everything about it small and cute except for the occassional warehouse factory or modern high rise office building - these were clearly very recent additions to a place that otherwise hadn't changed very much in many hundreds of years.
 
-**"When growing a personal supply of SynTh, say, for research or for fun, you can feed it enough silica just by running down to the beach once a week with a soup bowl."**
+**"When spinning a personal supply of SynTh, you can easily feed your thread worms by running down to the beach once a week with a soup bowl."**
 
-**"Industrialized SynTh production, however, needs quite a bit of silica."**
+**"Industrial SynTh production, however, requires much more silica."**
 
-**"Sand mining was out of the question...wouldn't want to tarnish Space Consortium's brand with news of their operations destroying delicate coastal ecosystems or picturesque beachside communities."**
+**"Sand mining was out of the question...wouldn't do for Space Co to be seen destroying delicate coastal ecosystems or picturesque beachside communities..."**
 
-**"So they turned to the next biggest source of biogenic silica - deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
+**"So they turned to the next biggest source of biogenic silica: deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
 
 We see close-ups of the [wildlife at Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. A tiny plume of smoke, looking both innocent and foreboding, curls up from the rig. 
 
@@ -641,17 +700,11 @@ Dr. Molina, already looking harried, sticks their head into the room.
 
 *Dr. Molina is a descendent of [Hilda Molina](https://en.wikipedia.org/wiki/Hilda_Molina).*
 
-Dr. Molina: **"¿Qué es?"**
+Dr. Molina: **"What is it?"**
 
-*translation: "What is it?"*
+Tech: **"Look!"**
 
-Tech: **"Mira!"**
-
-*translation: "Look!"*
-
-Dr. Molina: **"Dios mío...la acidez--!"**
-
-*translation: "My god...the acidity--!"*
+Dr. Molina: **"My god...the acidity--!"**
 
 *See the articles ["The Science of Abrupt Climate Change: Should we be worried?"](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and ["Future ocean acidification will be amplified by hypoxia
 in coastal habitats"](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_cod101608/Tema_8-acidificaciÃ³n/hypoxia%20%26%20OA%20Melzner.pdf) for more information.*
@@ -660,7 +713,11 @@ in coastal habitats"](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_
 
 **"Thermohaline Circulation Observation Centre, Orkney Islands"**
 
-Dr. Fischmann: **"Members of the UN, good afternoon. My name is Dr. Geraldine Fischman, and I'm head of the environmental monitoring team for the Thermohaline Circulation Observation Collective. The TCOC has been monitoring the North Atlantic for the past 44 years, and we think we have an explanation for the recent drop in energy production by UN-deployed sea turbines."**
+UN rep: **"Dr. Fischman, are you saying the slow down isn't reversible?"**
+
+Another UN rep: **"And [if ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), the UK and northern Europe will *freeze*??"
+
+Dr. Fischmann: **"I said it *may* not be reversible, and yes...we *will* freeze. See this video of the Greenland Ice Sheet 15 years ago, just 8 months after members of the Paris Agreement first switched to [marine currents](https://en.wikipedia.org/wiki/Marine_current_power) for electricity."**
 
 A room-sized **INFO-SPHERE** creates photonic representations of several government leaders around the world. Dr. Fischmann, a tall, hook-nosed woman with incredibly built thighs walks through a 3-dimensional video recording of rivers and waterfalls *pouring* off of a glacier into the fjords surrounding it. Overlayed with light are labels with meta data and more in-depth treatments of certain phenomena being shown in the video, appearing when one of the photonic representations of government leaders move their gaze over that part of the video. 
 
@@ -670,26 +727,24 @@ The [meta-data (see "Chapter 3" on the right of the page)](http://www.ipcc.ch/re
 * average temperature on the hottest day of the year has increased to 2.2 deg C above pre-industrial era temperatures
 * average temperature on the coldest night of the year has increased to 7.7 deg C above pre-industrial era temperatures
 
-Dr. Fischmann: **"These videos are from 15 years ago, when a significant meltdown of the Greenland Ice Sheet finally convinced the United States and China to place a meaningful tax on carbon dioxide emissions, and members of the Paris Agreement switched to [marine current power](https://en.wikipedia.org/wiki/Marine_current_power) for electricity generation."**
-
 *note: [biggest usage of coal right now is currently for fuel, only 20% is for electricity](https://www.theguardian.com/environment/2016/mar/10/dangerous-global-warming-will-happen-sooner-than-thought-study)- did the world switch to renewables in time?*
 
 ### Page 4
 
 The videos switch to another view of the same glacier, now noticeably reduced, but a slightly different coastline. The glacier doesn't seem to be melting anymore, and enormous, thick chunks of [drift ice](https://en.wikipedia.org/wiki/Drift_ice) clog up the sea like a traffic jam. 
 
-Dr. Fischmann: **"This is a view of Greenland earlier this year, from sensor buoys in the Denmark Strait. Normally, the [West Ice](https://en.wikipedia.org/wiki/West_Ice) doesn't extend this far south, but the drastic melting 15 years ago triggered a long-term, slow melting of the ice sheet."**
+Dr. Fischmann: **"This is what it looks like today. All of the glacier melt is extending the [West Ice](https://en.wikipedia.org/wiki/West_Ice) further south than *ever* before..."**
 
 Now the meta data shows: 
 * Gulf Stream has slowed by 65% since the late 1950s
 * [Atlantic Meridional Overturning Circulation](https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation) has been [declining at an average rate of 0.9 Sverdrup (a million cubic meters per second, the standard unit for ocean circulation) per year since 2004](http://science.sciencemag.org/content/348/6241/1255575).
   * useful image: http://science.sciencemag.org/content/sci/348/6241/1255575/F1.large.jpg?width=800&height=600&carousel=1
 
-Dr. Fischmann: **"The fresh water freezes more readily than the salty sea, resulting in more ice on the ocean's surface. We believe that this greater incidence of pack ice is blocking major currents that run through the Denmark Strait."**
+Dr. Fischmann: **"We believe this greater incidence of pack ice is *blocking* major currents that run through the Denmark Strait."**
 
-Gov official: **"Can't we just clear the ice, then?"**
+Gov official: **"So then, we need to clear the ice?"**
 
-Dr. Fischmann: **"It's not so simple. Our [original predictions](https://tethys.pnnl.gov) about the impact of sea turbines on the marine ecosystem seem to have been...optimistic. This slow down may not be reversible, and [if ocean currents stop entirely](https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation), the UK and northern Europe will *freeze*."**
+Dr. Fischmann: **"We need to stop the sea turbines *immediately*. Our [original predictions](https://tethys.pnnl.gov) about their impact on the marine ecosystem have turned out to be *rather optimistic*..."**
 
 *(cite [this article](https://www.wunderground.com/resources/climate/abruptclimate.asp) and [the wikipedia page on thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation))*
 
@@ -699,111 +754,81 @@ Dr. Fischmann: **"It's not so simple. Our [original predictions](https://tethys.
 
 The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in polluted, acidic ocean water. Rain, highly dosed with nitric acid, pours from the sky. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-**"2 months ago, when [NO2 poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	landed half of the city in hospitals, Felix moved back to Sweden to be with his dying father..."**
+**"3 months ago, when [NO2 poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	landed half of the city in hospitals, Felix's father died..."**
 
-**"...1 month ago, when all the supermarkets started opening just once a week instead of every day, Breno moved with his mother back to her hometown, just north of Brasilia..."**
+**"...1 month ago, when the shops began to open only once a week, Breno moved with his mother back to her hometown, just north of Brasilia..."**
 
-**"...and 11 days ago, hours after celebrating the birth of Nimh, the first mouse spliced with raw SynTh, Iara's body was found on a rooftop in Centro..."**
+**"...and 11 days ago, hours after the birth our first mouse spliced with raw SynTh, Iara's body was found on a rooftop in Centro..."**
 
 ### Page 6
 
 Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab meeting, last we saw them - now they are frantically packing lab equipment and SynTh cultures, and copying research notes then deleting/shredding/destroying them. Off to one side is an unfamiliar older man and a teenaged boy keeping two very young children out of the fray. The teenaged boy looks related to Nova. The two young children look related to the unfamiliar older man and Beatriz, one looking about 6 and the other looking about 3. The little one has short hair, tied into a puffy short ponytail at the very top of her head; the older one has long straight hair that just brushes his shoulders; they both stare at the frantic activity with wide eyes. 
 
-Majhee: **"Precisamos terminar de embalar *agora*."**
-
-*translation: "We need to finish packing **now**."*
+Majhee: **"We need to finish packing *now*."**
 
 Vec pulls aside Majhee. Vec looks incredibly troubled.  
 
-Vec: **"Majhee, o que fazemos com Nimh??"**
+Vec: **"Majhee, what do we with Nimh??"**
 
-*translation: "Majhee, what do we with Nimh??"*
+Majhee: **"What's her condition?"**
 
-Majhee: **"Qual é a condição dela?"**
-
-*translation: "What's her condition?"*
-
-Vec: **"Seu esofagus e traqueia não se juntam corretamente. Eu não acho que [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) é um vetor viável!"**
-
-*translation: "Her esophogus and trachea didn't join properly. I don't think [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) is a viable vector!"*
+Vec: **"Her esophogus and trachea didn't join properly. I don't think [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) is a viable vector!"**
 
 ### Page 7
 
 Majhee places a hand on Vec's shoulder to calm him. 
 
-Majhee: **"Que grande é vazamento? Podemos remendá-lo?"**
+Majhee: **"How big is the leak? Can we patch it?"**
 
-*translation: "How big is the leak? Can we patch it?"*
-
-Vec: **"É fino, mas *longo*. Nova quer tentar, mas Kai e Beatriz acho que vai demorar muito tempo."**
-
-*translation: "It's thin but *long*. Nova wants to try, but Kai and Beatriz think it's a waste of time."*
+Vec: **"It's thin but *long*. Nova wants to try, but Kai and Beatriz think it's a waste of time."**
 
 Vec looks emotionally wrecked. 
 
-Vec: **"Eu vou ajudar a nova, se você acha que é uma boa idéia.
-
-*translation: "I will help Nova, if you think it's a good idea."*
+Vec: **"I will help Nova, if *you* think it's a good idea."**
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"Mesmo que funcione... como vamos transportar um rato transgênico pós-operatório através de [chuva e inundação de ácida](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
+Majhee: **"Even if it works... how do we transport a *post-op transgenic rat* through [*acid rain and flood*](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
 
-*translation: "Even if it works... how do we transport a post-op transgenic rat through [acid rain and flood](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"*
-
-Majhee: **"Dê a ela 3 millilitros de [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), e enviar todos os nossos dados para a Suécia. Felix terá mais tempo."**
-
-*translation: "Give her 3 milliliters of [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), and send all of our data to Sweden. Felix will have more time."*
+Majhee: **"Give her 3 milliliters of [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), and send all of our data to Sweden. Felix will have more time."**
 
 ### Page 8
 
 Majhee turns back to the rest of the room and greets the older man with a hug and a kiss on the cheek. He gives Majhee a tired smile. 
 
-Majhee: **"Que bom que está aqui, Demetrio, como está?"**
+Majhee: **"Glad you're here, Demetrio, how are you?"**
 
-*translation: "Glad you're here, Demetrio, how are you?"*
-
-Demetrio: **"Assim como um pode ser, dada a situação."**
-
-*translation: "As well as one can be, given the situation."*
+Demetrio: **"As well as one can be, given the situation."**
 
 Majhee hugs the teenaged boy. 
 
-Majhee: **"E Amana, todo bem?"**
-
-*translation: "And Amana, you alright?"*
+Majhee: **"And Amana, you alright?"**
 
 Amana looks terrified, and nearly crying from the effort of keeping his cool in front of the smaller children. 
 
-Amana: **"Dr. Suh, onde estamos indo?"**
-
-*translation: "Dr. Suh, where are we going?"*
+Amana: **"Dr. Suh, where are we going?"**
 
 ### Page 9
 
 Majhee squats to be eye level with the two little children, and gathers them and Amana around her. Demetrio crouches behind the two little ones and places a comforting hand on the boy's shoulder. Majhee smiles extra brightly at the little girl. 
 
-Majhee: **"Então! Nicola, Nerio, vamos caminhar *muito longe*, para uma montanha com um *parte superior lisa*, como uma mesa! *Mas*, no caminho, a *chuva* é *lava*, eo *ar* é lava, por isso precisamos manter a lava *fora* de nossas peles, *não importa o que*. Me entende?"**
-
-*translation: "So! Nicola, Nerio, we are going walk *very far*, to a mountain with a *flat top*, like a table! *But*, on the way, the *rain* is *lava*, and the *air* is lava, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
+Majhee: **"So! Nicola, Nerio, we are going walk *very far*, to a mountain with a flat top, like a table! *But*, on the way, the *rain* is *lava*, and the *air* is *lava*, so we need to keep the lava *off* of our skins, *no matter what*. Do you understand?"**
 
 Nicola squeels and smiles shyly, raising her arms and hiding her face in her father's knee. Nerio nods somber-faced, one hand on his father's other knee. 
 
 Majhee shifts her attention to Amana. 
 
-Majhee: **"Amana, lembras-te do nosso último retiro de laboratório, quando fomos mergulhar? Você vai vir comigo para trazer as roupas de mergulho aqui."**
-
-*translation: "Amana, do you remember our last lab retreat, when we went SCUBA diving? You're gonna help me bring the wetsuits up here."*
+Majhee: **"Amana, do you remember our last lab retreat, when we went SCUBA diving? You're gonna help me bring the wetsuits up here."**
 
 ### Page 10
 
-**"On October 12, 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes, heavy with silicon tetraflouride, into the southern ocean currents. The disaster belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas into an already critically damaged atmosphere, and lowering the pH of an already fatally acidic ocean."**
+**"On October 12, 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes, heavy with silicon tetraflouride, into the southern ocean currents. The disaster also belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas with an already damaged atmosphere, and lowering the pH of an already acidic ocean."**
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The catastrophe killed 32 people and sank the harvesting rig into the sea. Space Consortium did not publicly disclose the incident for a week, as silicon tetraflouride plumes belched unchecked into the Antarctic Convergence."**
+**"The catastrophe killed 32 people and sank the harvesting rig into the sea. Space Consortium did not publicly disclose the incident for a week, as highly volatile chemicals belched unchecked into the [Antarctic Convergence](https://en.wikipedia.org/wiki/Antarctic_Convergence)."**
 
-**"News of the disaster triggered panic. Everyone fled underground, trying to hide from the huge clouds of poisonous gas and acid rain that were sweeping across the globe in terrifyingly [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
+**"News of the disaster triggered panic. People fled underground, trying to hide from the poisonous gas and acid rain sweeping across the globe in [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
 Over a backdrop of the "Earth as a marble in space" image, showing intense cyclonic activity, we see:
 * Majhee leading her research team as they get their first glimpse of the [Mato Grasso Plateau](https://www.britannica.com/place/Mato-Grosso-Plateau), all of them completely covered in neoprene and goggles and breathing masks and rubber boots. 
@@ -813,17 +838,17 @@ Over a backdrop of the "Earth as a marble in space" image, showing intense cyclo
 
 **"Amid the chaos, nearly 60,000 planetside humans fled into orbit."**
 
-A huge crowd of desperate people try to shove themselves onto four enormous Space Barges attached to the same [elevator cable](https://en.wikipedia.org/wiki/Space_elevator#Climbers), but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Barges have already closed their doors, their energy cells glowing as they prepare to climb up the SynTh-doped elevator cable. 
+A huge crowd of desperate people try to shove themselves onto four enormous Space Ferries attached to the same [elevator cable](https://en.wikipedia.org/wiki/Space_elevator#Climbers), but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Ferries have already closed their doors, their energy cells glowing as they prepare to climb up the SynTh-spun elevator cable. 
 
 There are nearly 10 additional empty [launch tracks](https://www.smithsonianmag.com/innovation/people-are-still-trying-build-space-elevator-180957877/) but they are all empty.   
 
-Person in the crowd: **"Why aren't the other barges coming back???"**
+Person in the crowd: **"Why aren't the other ferries coming *back*???"**
 
 The last Space Barge begins to close its doors. People totally lose their shit. 
 
-PA: **"Please step away from the safety barrier!! Please step AWAY from the safety barrier!!"**
+PA: **"Please step *away* from the safety barrier! Please *STEP AWAY* from the safety barrier!!"**
 
-**"Afraid to take on more refugees, the Space Consortium shut down the Shuttle Barge service, 'until further notice'."**
+**"Afraid to take on more refugees, the Space Consortium shut down the Shuttle Ferry service, 'until further notice'."**
 
 ### Page 12
 
@@ -887,11 +912,11 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Finished loading...'A Beginner's Guide to SynTh: SynTh Stitching'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"Using a process derived from [artificial cell-fibre engineering techniques](https://www.researchgate.net/profile/Shintaroh_Iwanaga2/publication/236094208_Metre-long_cell-laden_microfibres_exhibit_tissue_morphologies_and_functions/links/555ee6d808ae9963a1143381.pdf), eSyrup hyphae can be [molecularly "stitched"](https://en.wikipedia.org/wiki/Tissue_engineering#Long_fiber_generation) with various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate), such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with eSyrup."**
+**"Using a process derived from [artificial cell-fibre engineering techniques](https://www.researchgate.net/profile/Shintaroh_Iwanaga2/publication/236094208_Metre-long_cell-laden_microfibres_exhibit_tissue_morphologies_and_functions/links/555ee6d808ae9963a1143381.pdf), SynTh hyphae can be [molecularly "stitched"](https://en.wikipedia.org/wiki/Tissue_engineering#Long_fiber_generation) with various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate), such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with SynTh."**
 
-**"Thanks to the enormous range of eSyrup grades, substrates stitched with eSyrup (called "hybrid materials") can display a wide range of environmental reactivity. Hybrid materials stitched with low grade eSyrup, once configured, act as "set" hardware that cannot modify their own physical structure but can run a variety of software programs, similar to the [computing hardware](https://en.wikipedia.org/wiki/Computer_hardware) from the late 20th and early 21st centuries. These hybrid materials must be "un-stitched", a process derived from [depolymerization](https://en.wikipedia.org/wiki/Depolymerization), and then re-stitched in order to change their physical structure. Hybrid materials stitched with higher grade eSyrup can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to adjust their physical structures based on external conditions and context-dependent needs."** 
+**"Thanks to the enormous range of SynTh grades, substrates stitched with SynTh (called "hybrid materials") can display a wide range of environmental reactivity. Hybrid materials stitched with low grade SynTh, once configured, act as "set" hardware that cannot modify their own physical structure but can run a variety of software programs, similar to the [computing hardware](https://en.wikipedia.org/wiki/Computer_hardware) from the late 20th and early 21st centuries. These hybrid materials must be "un-stitched", a process derived from [depolymerization](https://en.wikipedia.org/wiki/Depolymerization), and then re-stitched in order to change their physical structure. Hybrid materials stitched with higher grade SynTh can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to adjust their physical structures based on external conditions and context-dependent needs."** 
 
-**"The "hardware flexibility index", or HFI, of hybrid materials can, in theory, be extended even further, where substrates are stitched with eSyrup so flexible that the hybrid material is able to modify its *own* structure in response to external conditions and context-dependent needs. The choice of substrate and the initial shape of the hybrid material structure would constrain the space of possible modifications, but the hybrid material structure would react to the environment in a fully autonomous way, leading to what some scientists are willing to label "autonomous behaviour"..."**
+**"The "hardware flexibility index", or HFI, of hybrid materials can, in theory, be extended even further, where substrates are stitched with SynTh so flexible that the hybrid material is able to modify its *own* structure in response to external conditions and context-dependent needs. The choice of substrate and the initial shape of the hybrid material structure would constrain the space of possible modifications, but the hybrid material structure would react to the environment in a fully autonomous way, leading to what some scientists are willing to label "autonomous behaviour"..."**
 
 *note: THIS LEADS TO THE ETHICAL CONUNDRUM, which the Orbiters are approaching with their bots as tools, keeping the Beasts not intelligent enough to be autonomous; the Biononymous are creating symbiotes with the mechapets, but need to hold very strictly to a moral code that always associates mechapets to a human. BUT, if the Orbiters get a hold of the Biononymous tech, will they have the same scruples?*
 
@@ -1178,9 +1203,9 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Beginner's Guide to eSyrup: eSyrup Splicing'; [Classification: *Clearance*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
+**"Finished loading...'A Beginner's Guide to SynTh: SynTh Splicing'; [Classification: *Clearance*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In theory, eSyrup can be genetically modified to integrate with living cells, using a process derived from the [CRISPR/Cas gene editing system](https://en.wikipedia.org/wiki/CRISPR#Use_for_gene_editing). The eSyrup-spliced host cells would have modified organelles and cell parts, such as [membrane proteins](https://en.wikipedia.org/wiki/Membrane_protein) that can hold or transport a much higher concentration of [ions](https://en.wikipedia.org/wiki/Ion) at once, allowing them to generate very powerful electromagnetic events within biological tissue while safely dealing with any undesired thermal effects. To date, both flexible and fixed eSyrup-splicing has only been successful in tissue cultures [in vitro](https://en.wikipedia.org/wiki/In_vitro). However, reconfiguring spliced eSyrup has proven easier than reconfiguring stitched eSyrup. eSyrup was spliced with living cells [in vivo](https://en.wikipedia.org/wiki/In_vivo) for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw eSyrup and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing eSyrup with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
+**"In theory, SynTh can be genetically modified to integrate with living cells, using a process derived from the [CRISPR/Cas gene editing system](https://en.wikipedia.org/wiki/CRISPR#Use_for_gene_editing). The SynTh-spliced host cells would have modified organelles and cell parts, such as [membrane proteins](https://en.wikipedia.org/wiki/Membrane_protein) that can hold or transport a much higher concentration of [ions](https://en.wikipedia.org/wiki/Ion) at once, allowing them to generate very powerful electromagnetic events within biological tissue while safely dealing with any undesired thermal effects. To date, both flexible and fixed SynTh-splicing has only been successful in tissue cultures [in vitro](https://en.wikipedia.org/wiki/In_vitro). However, reconfiguring spliced SynTh has proven easier than reconfiguring stitched SynTh. SynTh was spliced with living cells [in vivo](https://en.wikipedia.org/wiki/In_vivo) for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw SynTh and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing SynTh with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
 
 ### Page 1
 
@@ -2027,7 +2052,7 @@ Character designs: Asoka Morei, Iri, Minka Traoré, Majhee Suh, Nova Jatobá, Ji
 
 **"The [Legged Squad Support System](https://en.wikipedia.org/wiki/Legged_Squad_Support_System), or LS3, was a military project by the former United States of America during the early 21st century, with the goal of creating legged robots that could function as autonomous packhorses for land-based military operations. Inital work on this concept between 2009 and 2015 resulted in important insights about autonomous robotic technology, but the robots created at the time were deemed too noisy, too challenging to repair in the field, and unsuitable for integration into traditional military operational structures."**
 
-**"On March 16, 2096, Lt. Gen. Janine [Diamandis](https://en.wikipedia.org/wiki/Peter_Diamandis), Surgeon General of the World Government Military, presented to the World Government Security Council a proposal to resurrect the LS3 concept, in order to reduce the health risk to planetside human military personnel. Thanks to the many advancements in eSyrup technology since the Global Water Crisis, Lt. Gen. Diamandis reported high confidence in currently available methods to create intelligent, self-repairing, and silent biomemetic robots that could function as part of scouting and re-supplying teams for planetside operations. Based on the Surgeon General's report, the World Government Security Council passed Resolution 222, authorizing a top secret research collaboration with [Space University](https://en.wikipedia.org/wiki/International_Space_University) to build SynTh-based robotic pack animals..."**
+**"On March 16, 2096, Lt. Gen. Janine [Diamandis](https://en.wikipedia.org/wiki/Peter_Diamandis), Surgeon General of the World Government Military, presented to the World Government Security Council a proposal to resurrect the LS3 concept, in order to reduce the health risk to planetside human military personnel. Thanks to the many advancements in SynTh technology since the Global Water Crisis, Lt. Gen. Diamandis reported high confidence in currently available methods to create intelligent, self-repairing, and silent biomemetic robots that could function as part of scouting and re-supplying teams for planetside operations. Based on the Surgeon General's report, the World Government Security Council passed Resolution 222, authorizing a top secret research collaboration with [Space University](https://en.wikipedia.org/wiki/International_Space_University) to build SynTh-based robotic pack animals..."**
 
 ### Page 1
 

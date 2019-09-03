@@ -32,7 +32,7 @@ Majhee realises that the bacterial superorganism can "spin" thread-like mycelium
 
 ### 2048
 
-Majhee defends her PhD thesis, "Using genetically modified bacterial colonies to fabricate living organic semiconductors".
+Majhee defends her PhD thesis, "Cultivating electrophoretic mycelium yeast to fabricate living organic semiconductors".
 
 Space Consortium's first Orbital arboretum, **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**, is completed. 
 
@@ -58,7 +58,7 @@ Majhee and her collaborators have set up several thousand "thread-worm nursuries
 
 First Orbital home pod is successfully launched from the **PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. Within months, nearly 200 home pods are successfully launched, with residents. 
 
-The Laboratório Nacional de Biociências e Saúde Pública is approached by the Space Consortium, who are interested in thread-worm research and are looking to collaborate. Based on the rapidly growing collection of studies on thread-worms, the Space Consortium believes that it may be possible to process SynTh into an energy-dense liquid that can replace rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Saúde Pública agrees to the collaboration, despite many concerns  and protests amongst the faculty and staff of the Laboratório Nacional de Biociências e Saúde Pública. 
+The Laboratório Nacional de Biociências e Saúde Pública is approached by the Space Consortium, who are interested in thread-worm research and are looking to collaborate. Based on the rapidly growing collection of studies on thread-worms, the Space Consortium believes that it may be possible to process SynTh into an energy-dense liquid that can replace rocket fuel. This would allow Space Consortium to make space farming even more efficient and cost-effective. The President of the Laboratório Nacional de Biociências e Saúde Pública agrees to the collaboration, despite many concerns and protests amongst the faculty and staff of the Laboratório Nacional de Biociências e Saúde Pública. 
 
 ### 2055
 
@@ -96,13 +96,17 @@ The Biononymous, a cult-like religious movement that forbids the use of body mod
 
 ### 2065
 
-Majhee and colleagues struggle to create SynTh-hybrid skin, but have acheived a SynTh-hybrid textile that can change color or texture based on the application of certain electromagnetic frequencies. SynTh clothing makes an explosively successful entrance on the scenes of luxury clothing labels and technical outdoor gear. Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
+Majhee and colleagues struggle to create SynTh-hybrid skin, but have acheived a SynTh-hybrid textile that can change color or texture based on the application of certain electromagnetic frequencies. 
+
+Some industries are providing their employees with company-subsidized occupationally-specific body mods. 
 
 Iúna Morei gives birth to João Morei in Randolph Center, Vermont, USA.
 
 ### 2066
 
 In collaboration with the Laboratório Nacional de Biociências e Saúde Pública, the Space Consortium develops SynTh batteries, which can provide rechargable portable power equivalent to a conventional battery at least 20 times larger by volume. Space Consortium demands that they be allowed to have proprietary access and rights to these SynTh products for at least 25 years. This sparks rigorous protests throughout the world, and the Laboratório Nacional de Biociências e Tecnologia refuses to agree. The Space Consortium takes legal action, and is granted right to profits. 
+
+SynTh clothing, based on the SynTh-hybrid textile material published by Majhee the previous year, makes an explosively successful entrance on the scenes of luxury clothing labels and technical outdoor gear. 
 
 The River Niger dries up, causing panic in northern Africa. An extremely aggressive water-borne disease wipes out several major urban areas in China and India. Illnesses from sun radiation, such as skin cancer, have a thousand-fold jump in rate of diagnosis around the world. 
 
