@@ -188,7 +188,7 @@ Gentle Farmer and First VIRS.*
 
 **"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In 2054, Space Consortium presented the United Nations with a proposal to collaborate with planetside farms and biodiversity sanctuaries (predecessors to the modern-day Green Havens) in order to conduct research into plants useful for space travel and permaculture in low gravity. In return for funding and logistical support from the UN, Space Consortium offered to use this research to help fight the global food shortage with food grown in space, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources back and forth between orbiting farms and planetside. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
+**"In 2054, Space Consortium began collaborating with planetside farms to advance research on space-tolerance in plants and insects. Space Consortium offered to use this research to help fight Earth's food shortage, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources between Earth and orbiting farms. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
 
 ### Chapter 1 Cast
 
@@ -197,40 +197,31 @@ Gentle Farmer and First VIRS.*
 PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
 
 **Iúna Morei**:  
-CEO of Morei Textiles  
-Codename "Mama Bird"  
+CEO of Morei Textiles, Codename "Mama Bird"  
 
 **Kai Oliveira**:  
-Bio-materials Scientist  
-PhD thesis: "Methods for genetically modifying bacterial colonies to build [Bio-Silicate](https://en.wikipedia.org/wiki/Silicate) interfaces"  
+Bio-materials Scientist, ramen connoisseur, and operatic metal enthusiast
 
 **Vec Barbosa**:  
 Animal technician, Veterinarian, and SCUBA diving instructor  
 
 **Beatriz Cavalcanti**:  
-Laboratory Manager  
-PhD thesis: "Ecophysiological responses to [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification) in coastal ecosystems"  
+Laboratory Manager, Marine Ecologist, and avid seabird watcher
 
 **Nova Jatobá**:  
-Research Assistant  
-B.Sc. in Nutrition and Information Management  
+Research Assistant, B.Sc. in Nutrition, and cryptocurrency hobbyist
 
 **Marcia Netto**:  
 President and Director of Laboratório Nacional de Biociências e Saúde Pública  
 
 **Iara Gracie**:  
-Research Assistant  
-B.Sc. in Animal Husbandry  
-Red/White belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
+Research Assistant, B.Sc. in Animal Husbandry, and red/white belt in [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu)  
 
 **Felix Grael**:  
-Research Technician  
-B.Sc. in Biophysics  
-Home-brewed beer enthusiast  
+Research Technician, B.Sc. in Biophysics, and home-brewed beer enthusiast  
 
 **Breno Leite**:  
-Physiologist and Geneticist  
-PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome) responses to daily movement practice"
+Developmental Physiologist, Geneticist, and capoeirista
 
 ### Page 1
 
@@ -240,7 +231,7 @@ PhD thesis: "Human [transcriptomic](https://en.wikipedia.org/wiki/Transcriptome)
 
 **"It was a day of hope and wonder."** 
 
-**"The Space Consortium had just completed their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
+**"Space Consortium had just completed their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
 
 We see beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, made with synapic thread fabric programmed to fluidly change colours in response to the lights, the music, and their wearers' moods.
 
@@ -248,7 +239,7 @@ We see beautiful, important people draped in gorgeously fashionable and unspeaka
 
 In the viewing port of the Arboretum, we see a huge mass of gathered Orbiter home pods, floating in synchronised orbit next to the Arboretum.
 
-**"...of delicate, mouth-watering hors d'oeuvres made from succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
+**"...and of the tiny, mouth-watering hors d'oeuvres made from succulent crops grown at the two older space farms, in carefully filtered water and pristine soil..."**
 
 **"...for the world was becoming too dirty, too extreme in its weather, to support industrial planetside farming..."**
 
@@ -276,17 +267,21 @@ We see Majhee walk past a large research facility, metal and glass architecture 
 
 The front of the research facility is teeming with protesters, who chant "Não sirva aos tiranos em órbita!" and "Educar crianças humanas, não máquinas corporativas!"
 
-**"...fifth day of violent demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's collaboration with Space Consortium..."**
+**"...fifth day of *violent* demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's *collaboration* with Space Consortium..."**
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. 
 
-**"...last week the space exploration conglomerate announced the first ever patent on a device made with synaptic thread technology, commonly known as SynTh..."**
+**"...who recently announced the first ever *patent* on a device made with the *traditionally open source* synaptic thread technology, commonly known as SynTh..."**
 
 ### Page 3
 
 Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP(Laboratório Nacional de Biociências e Saúde Pública), including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
+**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP..."**
+
+*LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
+
+**"...including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
 
 Majhee: **"Mornin', Paulo!"**
 
@@ -298,26 +293,28 @@ Majhee: **"Not great, but I'll live..."**
 
 Paulo: **"Did you go to the hospital?"**
 
-Majhee: **"No, I can't afford it right now."**
+Majhee: **"No, it would have taken all night to see a doctor..."**
 
-Paulo: **"Doesn't the LNBSP give you health insurance?"**
+Paulo: **"Doesn't the LNBSP give you private health care?"**
 
 Majhee: **"Yes, but I'm not covered for injuries that occur off the work site...and technically, I was outside the front gates when the oxygen tank hit me."**
 
-Paulo: **"You're joking...what kinda messed up thinkin' is that??"**
+Paulo: **"*Seriously??* The SAMU should've just reported it as a worksite injury!"**
+
+*SAMU = Serviço de Atendimento Móvel de Urgência (Mobile Emergency Attendance Service)*
 
 Majhee removes her boots and steps into the decontamination chamber.
 
-Majhee: **"Yeah, well...everyone's hungry...can't think when you're hungry."**
+Majhee: **"Well...everyone's hungry...can't think when you're hungry."**
 
 ### Page 4
 
 A floating digital page reads the following:
 
 **"Open SynTh Exchange"**  
-**" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh textiles' "**  
+**" 'Applying Tesla’s Theory of Wireless Energy Transmission to SynTh [bactoFETs](https://en.wikipedia.org/wiki/Field-effect_transistor)??' "**  
 **"Asked 2.5 years ago Active 7 months ago Viewed 40k times"**  
-**"Just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I'm fascinated with the parallels I see between Tesla's experiments with wireless energy transmission and the 'synchronized SynTh textiles' effect. I'm keen to systematically replicate Tesla's apparatuses in SynTh circuitry and would love to discuss further with anyone interested in collaborating."**
+**"It's been over 10 years since body mods replaced smartphones...we should have better wireless charging for SynTh bactoFET components by now! I just finished reading [Nikola Tesla: On His Work With Alternating Currents and Their Application to Wireless Telegraphy, Telephony and Transmission of Power](http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC), and I see many parallels between Tesla's wireless energy transmission and the 'synchronized SynTh' effect. Would love to discuss further with anyone interested in collaborating."**
 **"Keywords: Tesla, synchronicity, textile interactions, replication work"**
 **"Posted 11 Aug 2063 at 13:42 by QueenBee42"**
 
@@ -329,7 +326,9 @@ We see Marcia Netto, Director of the Laboratório Nacional de Biociências e Sa�
 
 Marcia: **"My *point* is... our sponsors are just trying to make the best of our situation right now. I agree, Space Co has changed a *lot* in the last 12 years...but ending the collaboration now will *cripple* every lab in the building, including yours. At the end of the day, we *need* to stay on good terms with Space Co."**
 
-Majhee: **"More than those protestors outside *need* clean air and affordable food?"**
+Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
+
+Majhee: **"Sure Marcia, more than those protestors outside *need* clean air and affordable food?"**
 
 Marcia loses her patience. 
 
@@ -337,9 +336,7 @@ Marcia: **"Majhee, we are *just* a research institute. How are we supposed to po
 
 ### Page 5
 
-Majhee angrily turns off the giant bacteria of light with an impatient gesture as she turns to Marcia, furious.
-
-Majhee: **"We work at the *biggest* research center in Brazil, and have *way* more privilege than most folks on the street, so if *we* can't stand up to unethical behaviour, who can??"**
+Majhee: **"Marcia, we work at the *biggest* research center in Brazil. If *we* can't stand up to unethical behaviour, who can??"**
 
 Marcia: **"Majhee, if Space Co can't work with us, they'll just go to some other institute. We don't *actually* have any leverage."**
 
@@ -347,15 +344,13 @@ Majhee looks away miserably.
 
 Majhee: **"Well...if the sponsors want me out, *fine*. I'm not taking back *anything* I've said against Space Co."**
 
-Marcia: **"To be honest, they can't seem to decide whether to hate you or love you. You're the youngest scientist in the world with *two* UN grants..."**
+Marcia: **"To be honest, they can't seem to decide whether to hate you or love you. You're the youngest scientist in the world with *two* U.N. grants..."**
 
 Majhee, dryly: **"Are you saying I have redeeming qualities in the eyes of our prestige- and money-hungry overlords?"**
 
-Marcia, hissing: **"Majhee! The walls...ears--!"**
-
 Felix, a scientist in Majhee's lab, appears at the doorway.
 
-Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago..."**
+Felix: **"Hi, sorry to interrupt...can we get Majhee please? Lab meeting was supposed to start an hour ago."**
 
 Majhee: **"I know, I'm sorry, I'm coming. Marcia, I'll give you a call later."**
 
@@ -369,7 +364,7 @@ Beatriz: **"So...it's back?"**
 
 Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)..."**
 
-Beatriz, gently: **"Do you want to go home? The lab can cover your flight..."**
+Beatriz, gently: **"Felxi, do you want to go home? We could cover your flight..."**
 
 Felix: **"Are you sure?"**
 
@@ -381,7 +376,7 @@ Felix: **"Thanks...I know my mom will really appreciate having me at home..."**
 
 Suddenly Felix screws up his face with anger and frustration. 
 
-Felix: **"But...we're so close--"**
+Felix: **"But...Bea, we're so close--"**
 
 Beatriz: **"Hey, family comes first, and that's ok."**
 
@@ -391,7 +386,7 @@ Felix: **"But Kai's hands--"**
 
 Kai looks down at her lap with hard eyes.
 
-Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but you'll have to make it quick..."**
+Kai: **"I'll manage long enough for you to set up a splicing station in Sweden...but we'll need you to be quick..."**
 
 Kai hands Majhee a letter covered in legal jargon. 
 
@@ -409,31 +404,29 @@ Nova: **"So what do we do?"**
 
 Majhee, angrily: **"No more low-hanging fruit. We sprint to finish the biofilm paper...then I say we put everything we've got towards developing the SynTh-hybrid skin idea!"**
 
-Nova: **"Yes. The past sprints were training...now, we run the marathon!"**
+Nova: **"*Yes!!* Self-cleaning and self-mending fabric, here we come!"**
 
-Iara: **"You talk like we just need to crunch some numbers! We still have *no idea* how to spin the SynTh into a structure that can emerge into a superorganism..."**
+Iara: **"But Nova, so far we've only ever managed fabric that changes color and texture...and Breno's confirmed that Space Co's patent on SynTh batteries *cuts us out*. We need a different source of fuel."**
 
-Felix: **"And the *ethical implications*..."**
+Felix: **"Bastards! They would've taken *at least* another 5 years without us or the OSE!"**
 
-Breno: **"That hasn't stopped the *22 failed experiments* already published on the OSE..."**
+Breno: **"Lucky for us, *22 failed experiments* trying other sources of fuel are already up on the OSE..."**
 
 ### Page 8
 
 Majhee: **"Kai, Vec, Bea? What do you think?"**
 
-Kai: **"I say we start straight away! Felix and I will review the latest thread-worm recipe together-- tonight!"**
+Kai: **"Let's punch these corporate windbags in the teeth! I'll go start the kettle...gonna need *lots* of tea and ramen for this..."**
 
-Felix looks dazed already. 
-
-Vec: **"I'll help Nova update the OSE's [garlic protocols](https://en.wikipedia.org/wiki/Garlic_routing)"**
+Vec: **"I'll help Nova kick Space Co out of the OSE forums."**
 
 Beatriz: **"I'll get Felix his flight."**
 
-Iara: **"Breno and I will finish the [unit tests](https://en.wikipedia.org/wiki/Unit_testing)."**
+Iara: **"Breno and I can start reading the failed experiments. Majhee, wanna join us?"**
 
 Majhee quirks an eyebrow.
 
-Majhee: **"You're all amazing. Thank you for massively improving my terrible week."**
+Majhee: **"Sound great, Iara. Everyone...you're all *amazing*. Thank you for *massively* improving my terrible week."**
 
 We see now the protesters outside, their desperate, hungry faces. They hold signs and wave flags with slogans like "Não sirva aos tiranos em órbita!", "Educar crianças humanas, não máquinas corporativas!", and "Alimentar humanos não foguetes!" 
 
@@ -453,9 +446,9 @@ Off-panel, secretary: **"Hey [Iúna*](https://en.wikipedia.org/wiki/Capoeira_toq
 
 Off-panel, Iúna: **"Thanks, I'll be with them in a minute."**
 
-We see the inside of a warehouse, where long rows of industrial looms weave SynTh textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a bun, an infant with thick black hair strapped to her front, walks briskly and confidently away from a door labeled "Quiet Room" towards a group of humans waiting near the main entrance of the warehouse. 
+We see the inside of a warehouse, where long rows of industrial looms weave SynTh textiles. Their combined activity generates a gently deafening **"WHIRRRRR"**. Iúna Morei, a tall shapely American woman of Portuguese descent in her early 30s, lustrous wavy brown hair pulled up into a ponytail, an infant with thick black hair strapped to her front, walks briskly and confidently towards a group of humans waiting near the main entrance of the warehouse. 
 
-Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO of Morei Textiles".
+Iúna smiles and yells as she waves towards her office door, just next to the entrance to the warehouse and labeled "Iúna Morei, CEO".
 
 Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 
@@ -464,8 +457,6 @@ Iúna: **"HELLO! SHALL WE STEP INTO MY OFFICE?"**
 Iúna: **"Thanks for bringing the new protocols from São Paulo."**
 
 Dr. Kauffmann: **"You know, you'd get these updates a lot faster if you'd just get a body mod..."**
-
-Iúna gives the delegation from the World Health Organization a kind smile. 
 
 Iúna: **"Dr. Kauffmann, I must admit that I'm adamantly opposed to body mods and SynTh implants...but I *am* very grateful that you've taken the time to travel all this way from DC."**
 
@@ -483,7 +474,7 @@ Dr. Kauffmann: **"They're prepping for a huge wave of refugees."**
 
 Iúna: **"Really? From where?"** 
 
-Dr. Kauffmann: **"Los Angelos. A police raid last night turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
+Dr. Kauffmann: **"Los Angeles. A police raid last night turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
 
 Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
@@ -552,7 +543,7 @@ The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_ne
 
 ### Major Glial Cell Types
 
-A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these non-neuronal cells of the nervous system have **four main functions**: 
+A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these cells of the nervous system have **four main functions**: 
 * surround neurons and hold them in place
 * supply nutrients and oxygen to neurons 
 * electrically insulate neurons from each other
@@ -566,11 +557,11 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 -- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system) -- 
 
-[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte) coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
-
 [**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)), [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid), and [adenosine tri-phosphate (ATP, a molecule used for energy by all living cells)](https://en.wikipedia.org/wiki/Adenosine_triphosphate). 
 
 [**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma) (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system) of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma), a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier). They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid). 
+
+[**Oligodendrocytes**](https://en.wikipedia.org/wiki/Oligodendrocyte) coat the axons of neurons in the CNS with their cell membranes to form myelin sheaths; a single oligodendrocyte can serve up to 50 axons. 
 
 -- Microglia -- 
 
@@ -910,7 +901,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Beginner's Guide to SynTh: SynTh Stitching'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
+**"Finished loading...'A Beginner's Guide to SynTh: Growing Thread Worms'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
 **"Using a process derived from [artificial cell-fibre engineering techniques](https://www.researchgate.net/profile/Shintaroh_Iwanaga2/publication/236094208_Metre-long_cell-laden_microfibres_exhibit_tissue_morphologies_and_functions/links/555ee6d808ae9963a1143381.pdf), SynTh hyphae can be [molecularly "stitched"](https://en.wikipedia.org/wiki/Tissue_engineering#Long_fiber_generation) with various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate), such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with SynTh."**
 
