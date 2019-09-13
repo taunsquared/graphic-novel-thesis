@@ -398,7 +398,7 @@ Nova: **"I'm *convinced* they're lurking in the OSE forums."**
 
 *OSE = Open SynTh Exchange*
 
-Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan..."**
+Kai: **"Well, outrunning Space Co to *every* application of SynTh was never a long-term sustainable plan, Nova..."**
 
 Nova: **"So what do we do?"**
 
@@ -771,7 +771,7 @@ Majhee places a hand on Vec's shoulder to calm him.
 
 Majhee: **"How big is the leak? Can we patch it?"**
 
-Vec: **"It's thin but *long*. Nova wants to try, but Kai and Beatriz think it's a waste of time."**
+Vec: **"It's thin but *long*. Nova wants to try...but Kai and Bea think...it's a waste of time..."**
 
 Vec looks emotionally wrecked. 
 
@@ -813,7 +813,7 @@ Majhee: **"Amana, do you remember our last lab retreat, when we went SCUBA divin
 
 ### Page 10
 
-**"On October 12, 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes, heavy with silicon tetraflouride, into the southern ocean currents. The disaster also belched a huge cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas with an already damaged atmosphere, and lowering the pH of an already acidic ocean."**
+**"On October 12, 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes into the southern ocean currents. The disaster belched a cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas with an already damaged atmosphere, and lowering the pH of an already acidic ocean."**
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
@@ -839,7 +839,7 @@ The last Space Barge begins to close its doors. People totally lose their shit.
 
 PA: **"Please step *away* from the safety barrier! Please *STEP AWAY* from the safety barrier!!"**
 
-**"Afraid to take on more refugees, the Space Consortium shut down the Shuttle Ferry service, 'until further notice'."**
+**"Afraid to take on more refugees, Space Consortium shut down the Space Ferry service, 'until further notice'."**
 
 ### Page 12
 
