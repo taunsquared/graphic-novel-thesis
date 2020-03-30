@@ -569,53 +569,6 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
-## Interlude 1
-
-*Jackets in June  
-just ain't my kind o' tune  
-for a plump summer.  
-Voraciously take  
-the heat that it make,  
-decimate, glutton's pace,  
-bake and eat our cake  
-today,  
-don't wanna wait,  
-today,  
-won't be long 'til we're gone,  
-so be merry with the fates.* 
-
-*They itch for your blood,  
-they will make it flood  
-into cold coffers.  
-Procedural twine  
-ensnares our minds,  
-you're inclined to be blind,  
-turn the other cheek  
-today,  
-can't handle the weight  
-of today,  
-won't be long 'til it's gone,  
-now we're wedded to our fate.* 
-
-*Too dazed  
-to look beyond the haze  
-of money-makin' plays,  
-they eat the atmosphere,  
-don't know how to yield.* 
-
-*Too wasted  
-by the race to be a  
-money-makin' face,  
-they only keep us to bleed us  
-and feed their machine of  
-lust.*
-
-*-- ["Jackets in June"](https://soundcloud.com/taunsquared/03-jackets-demo-20170921), by T. Sorriso, 2245 --*  
-*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
-2nd edition.*
-
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
-
 ## Chapter 2: Where Thunder Goes When It Dies
 
 ### Chapter Title Page
@@ -763,23 +716,23 @@ Vec: **"Majhee, what do we with Nimh??"**
 
 Majhee: **"What's her condition?"**
 
-Vec: **"Her esophogus and trachea didn't join properly. I don't think [Sonic Hedgehog](https://en.wikipedia.org/wiki/Sonic_hedgehog) is a viable vector!"**
+Vec: **"No grand mal today. She's got a light fever, and she hasn't moved much at all, but her heart is racing..."**
 
 ### Page 7
 
-Majhee places a hand on Vec's shoulder to calm him. 
+Majhee places a hand on Vec's shoulder. 
 
-Majhee: **"How big is the leak? Can we patch it?"**
+Majhee: **"Shit...just like the others..."**
 
-Vec: **"It's thin but *long*. Nova wants to try...but Kai and Bea think...it's a waste of time..."**
+Vec: **"The Synth is still too aggressive, it's *obliterating* their gut flora..."**
 
 Vec looks emotionally wrecked. 
 
-Vec: **"I will help Nova, if *you* think it's a good idea."**
+Vec: **"I'm sorry...but I don't think I can keep her alive much longer."**
 
 Majhee stares at the pouring rain outside, the streets below awash with sea water, lost belongings, and garbage. People with insufficient protection from the nitric acid heavy rain are screaming and bleeding. After a long silence, Majhee speaks softly.
 
-Majhee: **"Even if it works... how do we transport a *post-op transgenic rat* through [*acid rain and flood*](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
+Majhee: **"Even if you could... how do we transport a *epileptic transgenic rat* through [*acid rain and flood*](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)?"**
 
 Majhee: **"Give her 3 milliliters of [Sodium Pentobarbital](https://en.wikipedia.org/wiki/Pentobarbital#Euthanasia), and send all of our data to Sweden. Felix will have more time."**
 
@@ -867,9 +820,57 @@ Both graded and action potentials can trigger the reseale of chemicals at the **
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
+## Interlude 1
+
+*Jackets in June  
+just ain't my kind o' tune  
+for a plump summer.  
+Voraciously take  
+the heat that it make,  
+decimate, glutton's pace,  
+bake and eat our cake  
+today,  
+don't wanna wait,  
+today,  
+won't be long 'til we're gone,  
+so be merry with the fates.* 
+
+*They itch for your blood,  
+they will make it flood  
+into cold coffers.  
+Procedural twine  
+ensnares our minds,  
+you're inclined to be blind,  
+turn the other cheek  
+today,  
+can't handle the weight  
+of today,  
+won't be long 'til it's gone,  
+now we're wedded to our fate.* 
+
+*Too dazed  
+to look beyond the haze  
+of money-makin' plays,  
+they eat the atmosphere,  
+don't know how to yield.* 
+
+*Too wasted  
+by the race to be a  
+money-makin' face,  
+they only keep us to bleed us  
+and feed their machine of  
+lust.*
+
+*-- ["Jackets in June"](https://soundcloud.com/taunsquared/03-jackets-demo-20170921), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+
+
 # The Story, Part 2
 
-## Interlude 1
+## Interlude 2
 
 *We don't need  
 the robots to feel for us,  
