@@ -698,11 +698,11 @@ Dr. Fischmann: **"We need to stop the sea turbines *immediately*. Our [original 
 
 The orderly protest crowds in front of the Laboratório Nacional de Biociências e Saúde Pública are gone, replaced by utter chaos. Everyone on the street is now wearing industrial filter respirators and knee-length rubber water boots - the streets are ankle-deep in polluted, acidic ocean water. Rain, highly dosed with nitric acid, pours from the sky. We see Majhee, fully dressed in protective gear and a breathing mask, weave her way through a crowd and rush into the front door of the research institute. 
 
-**"3 months ago, when [NO2 poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	landed half of the city in hospitals, Felix's father died..."**
+**"6 months ago, when [NO2 poisoning](https://en.wikipedia.org/wiki/Nitrogen_dioxide_poisoning)	landed half of the city in hospitals, Felix's father died..."**
 
-**"...1 month ago, when the shops began to open only once a week, Breno moved with his mother back to her hometown, just north of Brasilia..."**
+**"...3 months ago, when the shops began to open only once a week, Breno moved with his mother back to her hometown, just north of Brasilia..."**
 
-**"...and 11 days ago, hours after the birth our first mouse spliced with raw SynTh, Iara's body was found on a rooftop in Centro..."**
+**"...and 53 days ago, hours after the birth our first mouse spliced with raw SynTh, Iara's body was found on a rooftop in Centro..."**
 
 ### Page 6
 
@@ -782,13 +782,13 @@ Over a backdrop of the "Earth as a marble in space" image, showing intense cyclo
 
 **"Amid the chaos, nearly 60,000 planetside humans fled into orbit."**
 
-A huge crowd of desperate people try to shove themselves onto four enormous Space Ferries attached to the same [elevator cable](https://en.wikipedia.org/wiki/Space_elevator#Climbers), but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Barge launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Ferries have already closed their doors, their energy cells glowing as they prepare to climb up the SynTh-spun elevator cable. 
+A huge crowd of desperate people try to shove themselves onto four enormous Space Ferries attached to the same [elevator cable](https://en.wikipedia.org/wiki/Space_elevator#Climbers), but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Ferry launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Ferries have already closed their doors, their energy cells glowing as they prepare to climb up the SynTh-spun elevator cable. 
 
 There are nearly 10 additional empty [launch tracks](https://www.smithsonianmag.com/innovation/people-are-still-trying-build-space-elevator-180957877/) but they are all empty.   
 
 Person in the crowd: **"Why aren't the other ferries coming *back*???"**
 
-The last Space Barge begins to close its doors. People totally lose their shit. 
+The last Space Ferry begins to close its doors. People totally lose their shit. 
 
 PA: **"Please step *away* from the safety barrier! Please *STEP AWAY* from the safety barrier!!"**
 
@@ -796,7 +796,7 @@ PA: **"Please step *away* from the safety barrier! Please *STEP AWAY* from the s
 
 ### Page 12
 
-**"That 'further notice' came 33 years later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
+**"That 'further notice' came *33 years* later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Diagram 2: Chemical Synapses and Electrical Potentials
 
@@ -870,30 +870,6 @@ lust.*
 
 # The Story, Part 2
 
-## Interlude 2
-
-*We don't need  
-the robots to feel for us,  
-if someone else breathes  
-no oxygen fills my lungs,  
-remember to feed  
-the organ that believes in the spirit of being kind,  
-hands and mind are mine to give to you.*
-
-*We don't need  
-the robots to work for us,  
-if someone else sweats  
-I have not gained your trust,  
-remember we bleed  
-from underneath an armour pretending to save us time,  
-hands and mind are mind to give you.* 
-
-*-- ["We don't need the robots but it's okay to love them"](https://soundcloud.com/taunsquared/04-robots-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
-*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
-2nd edition.*
-
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
-
 ## Chapter 3: A Fearful Trill of Things Unknown but Longed for Still
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
@@ -906,9 +882,9 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Using a process derived from [artificial cell-fibre engineering techniques](https://www.researchgate.net/profile/Shintaroh_Iwanaga2/publication/236094208_Metre-long_cell-laden_microfibres_exhibit_tissue_morphologies_and_functions/links/555ee6d808ae9963a1143381.pdf), SynTh hyphae can be [molecularly "stitched"](https://en.wikipedia.org/wiki/Tissue_engineering#Long_fiber_generation) with various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate), such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with SynTh."**
 
-**"Thanks to the enormous range of SynTh grades, substrates stitched with SynTh (called "hybrid materials") can display a wide range of environmental reactivity. Hybrid materials stitched with low grade SynTh, once configured, act as "set" hardware that cannot modify their own physical structure but can run a variety of software programs, similar to the [computing hardware](https://en.wikipedia.org/wiki/Computer_hardware) from the late 20th and early 21st centuries. These hybrid materials must be "un-stitched", a process derived from [depolymerization](https://en.wikipedia.org/wiki/Depolymerization), and then re-stitched in order to change their physical structure. Hybrid materials stitched with higher grade SynTh can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAA)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to adjust their physical structures based on external conditions and context-dependent needs."** 
+**"Thanks to the enormous range of SynTh grades, substrates stitched with SynTh (called "hybrid materials") can display a wide range of environmental reactivity. Hybrid materials stitched with low grade SynTh, once configured, act as "set" hardware that cannot modify their own physical structure but can run a variety of software programs, similar to the [computing hardware](https://en.wikipedia.org/wiki/Computer_hardware) from the late 20th and early 21st centuries. These hybrid materials must be "un-stitched" and then "re-stitched" in order to change their physical structure. Hybrid materials stitched with higher grade SynTh can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGAs)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAAs)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to adjust their physical structures based on external conditions and context-dependent needs."** 
 
-**"The "hardware flexibility index", or HFI, of hybrid materials can, in theory, be extended even further, where substrates are stitched with SynTh so flexible that the hybrid material is able to modify its *own* structure in response to external conditions and context-dependent needs. The choice of substrate and the initial shape of the hybrid material structure would constrain the space of possible modifications, but the hybrid material structure would react to the environment in a fully autonomous way, leading to what some scientists are willing to label "autonomous behaviour"..."**
+**"The "hardware flexibility index", or HFI, of hybrid materials can, in theory, be extended even further, where substrates are stitched with SynTh so flexible that the hybrid material is able to self-modify in response to external conditions and context-dependent needs. The choice of substrate and the initial shape of the hybrid material structure would constrain the space of possible modifications, but the hybrid material structure could react to the environment in a fully autonomous way, leading to what some scientists are willing to label "artificial autonomous behaviour"..."**
 
 *note: THIS LEADS TO THE ETHICAL CONUNDRUM, which the Orbiters are approaching with their bots as tools, keeping the Beasts not intelligent enough to be autonomous; the Biononymous are creating symbiotes with the mechapets, but need to hold very strictly to a moral code that always associates mechapets to a human. BUT, if the Orbiters get a hold of the Biononymous tech, will they have the same scruples?*
 
@@ -918,11 +894,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 Asoka trips, falling face veil down in the dirt. Their mechapet, a synthetic creature made to look like a cuttlefish and brought alive using SynTh technology, chitters frantically from where it is wrapped around Asoka's neck, sheet-white with fear. Asoka's clothes are drenched in fear sweat, gloves muddy, face veil reflecting a face of terror and horror. Everything is covered in dust and dirt. 
 
-Asoka: *"Dad...Mom...Pippa!!"*
-
-We see Asoka clench their fist, then throw up their head, struggle to stand, eyes streaming with tears. 
-
-Asoka: *"Must...reach...the next...Haven!"*
+We see Asoka clench their fist, then throw up their head, struggle to stand, eyes wide with shock and fear. 
 
 ### Page 2
 
@@ -1275,11 +1247,11 @@ Eireena: **"Eat your raspberries, and come with me please. Bring the oatcakes an
 
 Eireena leads the way, flanked by Serena and Asoka. Iri, feeling bolder, is now balanced on top of Asoka's head, who dutifully eats oatcakes and drinks juice. Asoka and Iri take comfort in the embroidered tapestry lining the hallways, depicting familiar shapes and patterns from the Biononymous textile lexicon. 
 
-They reach a large tapestry mural depicting The Burning, and the procession slows down to admire it. The mural shows the Space Barges fleeing into orbit on their super strong and finer-than-hair space elevator cables, SynTh-stitched [carbon nanotubes](https://en.wikipedia.org/wiki/Carbon_nanotube) sparkling as underneath, Earth collapses into chaos thanks to violent cyclones, intensely pouring acid rain, blistering heat and drought, and toxic atmospheric chemicals. The mural shows everyone planetside, including the Biononymous, fleeing underground and crowding themselves into caves. The mural then shows the years spent suffering in this underground existence, unable to grow much, without any of the basics of civilization, crowded underground with too many people. So many people die during those years, from hunger, from restless violence, and from environmental poisoning. 
+They reach a large tapestry mural depicting The Burning, and the procession slows down to admire it. The mural shows the Space Ferries fleeing into orbit on their super strong and finer-than-hair space elevator cables, SynTh-stitched [carbon nanotubes](https://en.wikipedia.org/wiki/Carbon_nanotube) sparkling as underneath, Earth collapses into chaos thanks to violent cyclones, intensely pouring acid rain, blistering heat and drought, and toxic atmospheric chemicals. The mural shows everyone planetside, including the Biononymous, fleeing underground and crowding themselves into caves. The mural then shows the years spent suffering in this underground existence, unable to grow much, without any of the basics of civilization, crowded underground with too many people. So many people die during those years, from hunger, from restless violence, and from environmental poisoning. 
 
 Next, the mural moves on to when the Biononymous, led by Mother Bird, the First Weaver, are able to make their way back to Mother Bird's textile factories, and recover not only miles upon miles of top quality air-and-water-filtering organzas, but also the means to make more. This allows the Biononymous to create living and farming structures above ground. 
 
-The final scene of the mural shows the Space Barges coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
+The final scene of the mural shows the Space Ferries coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
 Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 7 years later. To think that Howes Cave City abandoned you after *26 years* of farming service..."**
 
@@ -1396,6 +1368,30 @@ This barrier consists of the **arachnoid mater** (a.k.a. "arachnoid membrane") a
 ### CSF-Brain barrier 
 
 This barrier is composed of a type of glial cell called **ependymocytes**, which line the CSF-filled ventricles of the brain and spinal cord, and are involved in the production of CSF. Ependymocytes are covered in **cilia** (slender, hair-like protuberances) that help circulate CSF. There is also growing evidence that ependymocytes can serve as "**resevoir cells**", which, once activated, can help grow new neurons. However, the ependymocytes do not self-renew and can only grow new neurons aa limited number of times, meaning they do not meet the requirements to be considered stem cells. 
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+
+## Interlude 2
+
+*We don't need  
+the robots to feel for us,  
+if someone else breathes  
+no oxygen fills my lungs,  
+remember to feed  
+the organ that believes in the spirit of being kind,  
+hands and mind are mine to give to you.*
+
+*We don't need  
+the robots to work for us,  
+if someone else sweats  
+I have not gained your trust,  
+remember we bleed  
+from underneath an armour pretending to save us time,  
+hands and mind are mind to give you.* 
+
+*-- ["We don't need the robots but it's okay to love them"](https://soundcloud.com/taunsquared/04-robots-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
