@@ -7,11 +7,11 @@ wind will sting and water burns,
 everybody takes a turn!
 
 Spin the needle, spin the thread,
-keep the sunlight off your bed, 
-grass for people, sand for worms,
+catch the sunlight, make it bread,
+plant the seed and sand the worms,
 everybody takes a turn!
 
 Spin the needle, spin the thread,
-catch the sunlight, make it bread,
-Mecca, mecca, live and learn,
+home is where I make my bed,
+Mecca, mecha, live and learn,
 everybody takes a turn!
