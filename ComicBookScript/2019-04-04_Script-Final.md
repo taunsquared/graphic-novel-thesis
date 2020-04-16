@@ -502,19 +502,19 @@ Under this dialogue, we see Iúna, who is now outside, and her baby is no longer
 
 Iúna ponders for a moment, her face furrowed with grief and concentration.
 
-Iúna: **"*Tahoe, I've changed my mind. I vote for registering as a religion.*"**
+Iúna: **"*Tahoe, I change my mind. I vote for registering as a religion.*"**
 
 Tahoe: **"*...seriously?*"**
 
-Iúna: **"*Yes. Portzy was right - once schools require head mods for every student, once every job requires body mods in order to be qualified...our children won't have any choice. They'll need body mods just to* survive."**
+Iúna: **"*Portzy was right - once schools require head mods for every student, once jobs require body mods in order to apply...people won't have any choice. They'll need body mods just to* survive."**
 
-Tahoe: **"*But...doesn't that feel too much like a* cult??"**
+Tahoe: **"*But then how are we any different from the* cults??"**
 
-Iúna: **"*That's why I intially voted against it. But Tahoe, do you know what that group in Brazil published last week??*"**
+Iúna: **"*We* make *ourselves different...besides, guess what that group in Brazil published last week??*"**
 
 Tahoe: **"*What?*"**
 
-Iúna: **"*The first successful splice of SynTh with living cells - SynTh *biofilm*!*"**
+Iúna: **"*SynTh *biofilm*!!*"**
 
 Tahoe: **"*...Sorry Mama Bird, I don't follow. Why should I care about biofilm?*"**
 
@@ -878,13 +878,14 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Loading Universal Record..."**
 
-**"Finished loading...'A Beginner's Guide to SynTh: Growing Thread Worms'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
+**"Finished loading...'A Beginner's Guide to SynTh: Stitching with Synaptic Thread'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"Using a process derived from [artificial cell-fibre engineering techniques](https://www.researchgate.net/profile/Shintaroh_Iwanaga2/publication/236094208_Metre-long_cell-laden_microfibres_exhibit_tissue_morphologies_and_functions/links/555ee6d808ae9963a1143381.pdf), SynTh hyphae can be [molecularly "stitched"](https://en.wikipedia.org/wiki/Tissue_engineering#Long_fiber_generation) with various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate), such as metals, ceramics, glass, and plastic, in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (wool, cotton, hemp, flax) and paper, can also be "sitched" with SynTh."**
+**"Using processes derived from [artificial cell-fibre engineering techniques](https://www.researchgate.net/profile/Shintaroh_Iwanaga2/publication/236094208_Metre-long_cell-laden_microfibres_exhibit_tissue_morphologies_and_functions/links/555ee6d808ae9963a1143381.pdf), SynTh can be [molecularly 'stitched'](https://en.wikipedia.org/wiki/Tissue_engineering#Long_fiber_generation) to various inorganic [substrates](https://en.wikipedia.org/wiki/Substrate) (such as metals, ceramics, glass, and plastic) in order to give them flexible electro-chemical properties. Organic substrates, such as textiles (woven from wool, cotton, hemp, flax) and paper, can also be stitched with SynTh."**
 
-**"Thanks to the enormous range of SynTh grades, substrates stitched with SynTh (called "hybrid materials") can display a wide range of environmental reactivity. Hybrid materials stitched with low grade SynTh, once configured, act as "set" hardware that cannot modify their own physical structure but can run a variety of software programs, similar to the [computing hardware](https://en.wikipedia.org/wiki/Computer_hardware) from the late 20th and early 21st centuries. These hybrid materials must be "un-stitched" and then "re-stitched" in order to change their physical structure. Hybrid materials stitched with higher grade SynTh can be "voltage-treated", via methods similar to those used for field programmable gate arrays [(FPGAs)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAAs)](https://en.wikipedia.org/wiki/Field-programmable_analog_array), to adjust their physical structures based on external conditions and context-dependent needs."** 
+**"Thanks to the variety of SynTh grades, substrates stitched with SynTh (called 'hybrid materials') can display a range of environmental reactivity. Hybrid materials stitched with low grade SynTh act as 'set' hardware after initial configuration, able to run multiple software programson a fixed physical structure. These hybrid materials must be 'un-stitched' and then 're-stitched' in order to change their hardware configuration. Hybrid materials stitched with higher grade SynTh can be 'voltage-treated' (similar to field programmable gate arrays [(FPGAs)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) or field programmable analog arrays [(FPAAs)](https://en.wikipedia.org/wiki/Field-programmable_analog_array)) in order to adjust their 'flexible' hardware based on external conditions and context-dependent needs."** 
 
-**"The "hardware flexibility index", or HFI, of hybrid materials can, in theory, be extended even further, where substrates are stitched with SynTh so flexible that the hybrid material is able to self-modify in response to external conditions and context-dependent needs. The choice of substrate and the initial shape of the hybrid material structure would constrain the space of possible modifications, but the hybrid material structure could react to the environment in a fully autonomous way, leading to what some scientists are willing to label "artificial autonomous behaviour"..."**
+**"In theory, the 'hardware flexibility index' (HFI) of hybrid materials can be extended even further. Substrates 
+could be stitched with grades of SynTh flexible enough to allow the hybrid material to dynamically self-modify hardware configurations in response to external conditions and context-dependent needs. The exact choice of substrate and initial configuration constrain the space of possible modifications, but within those constraints, the hybrid material structure could react to the environment in a fully autonomous way, leading to what some might call 'autonomous morphing behaviour'..."**
 
 *note: THIS LEADS TO THE ETHICAL CONUNDRUM, which the Orbiters are approaching with their bots as tools, keeping the Beasts not intelligent enough to be autonomous; the Biononymous are creating symbiotes with the mechapets, but need to hold very strictly to a moral code that always associates mechapets to a human. BUT, if the Orbiters get a hold of the Biononymous tech, will they have the same scruples?*
 
@@ -902,83 +903,108 @@ We see Asoka clench their fist, then throw up their head, struggle to stand, eye
 
 **"June 7, 2116: Green Haven Howes, North America"**
 
-We see a fist holding a bunch of wheat straws, and another hand reaching for a straw. 
+We see a fist holding a bunch of wheat straws, and another hand reaching for a straw. Children chant a game song:
 
-Pippa, off-panel: **"*Aw, *seriously*?*"**
+*"Spin the needle, spin the thread, keep the sunlight off your head,*  
+*wind will sting and water burns, everybody takes a turn!"*
 
-We see a crowd of Biononymous children gathered in a outdoor pavilion with a dirt floor, all wearing the compulsory clothing of their cult: a simple sleeveless shirt tucked into baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez); a light long sleeve jacket, loose and fastening up the front, covered in a variety of simple geometric embroidery patterns, sleeves cinched at the wrists; gloves tucked into the sleeves; head veil with identical cartoon schematics of a face embroidered onto each with synaptic thread; boots, with the trousers tucked in. Each child also has an SynTh mechapet curled around their arms, legs, necks; sitting on heads, shoulders; or eagerly following their heels. Some of the children have straws of varying lengths in their hands. One child, smaller than the rest of the other children, a mechapet shaped like an American Crow sitting on their shoulder, is holding a very short straw, and the face on their head veil is a definite pout. 
+We see a group of children, covered head to toe is protective cloth, playing in the shadows of a small grove of trees, all wearing the compulsory clothing of their cult: a simple sleeveless shirt tucked into baggy trousers in the style of [shalwar kameez](https://en.wikipedia.org/wiki/Shalwar_kameez); a light long sleeve jacket, loose and fastening up the front, covered in a variety of simple geometric embroidery patterns, sleeves cinched at the wrists; gloves tucked into the sleeves; head veil with identical cartoon schematics of a face embroidered onto each with synaptic thread; boots, with the trousers tucked in. Each child also has an SynTh mechapet curled around their arms, legs, necks; sitting on heads, shoulders; or eagerly following their heels. Some of the children have straws of varying lengths in their hands. One child, smaller than the rest of the other children, a mechapet shaped like an American Crow sitting on their shoulder, is holding a very short straw, and the face on their head veil is a definite pout. In the valley below, we see the hive-like bio-domes of the Haven. 
 
-Pippa: **"*I did the far hill field *yesterday*!*"**
+Pippa, the smallest child in the group: **"*Aw, *seriously*?* But I already did the orchards this week!"**
 
-Biononymous child holding the fist of straws: **"*Think of it this way, Pippa...you get to spend the most time above ground today!*"**
+Biononymous child holding the fist of straws: **"*Werewolves take you, how can you complain about being outside?*"**
 
-Pippa: **"*But it's not fair, Io! I'm the smallest, and it's so far away!*"**
+Pippa: **"*But it's not fair, Io!*"**
+
+Io: **"*Pippa, who told you life's fair??*"**
 
 We see tiny gloved hands try to shove the short straw back into an only slightly larger fist of straws. 
 
 Pippa: **"*Take it back, let me pick again!*"**
 
-Io: **"*No, that's cheating!*"**
-
 A taller, lankier Biononymous child, a cuttlefish mechapet curled around their neck, steps in between them and calmly separates them. 
 
-Asoka: **"*Come on, Pippa, I'll help you.*"**
+Asoka: **"*Come on Pippa...if you help me with the orchards, I'll tell you how 'Majhee's Exodus' ends!*"**
+
+Io, exasperated: **"*You're gonna spoil their brain with fairy tales, Soka...*"**
 
 ### Page 3
 
-Asoka and Pippa roll two large plastic barrels on a grassy path up a steep, terraced hill, towards a long row of tall greenhouses. The barrels are heavy with water and the two children lean their whole bodies into the endeavor. The cuttlefish mechapet holds two large woven shade-fans over the children's heads, while the crow mechapet moves sticks and other obstacles out of their path. 
+Asoka and Pippa roll two large plastic barrels on a grassy path up a steep, terraced hill, towards a long row of tall greenhouses. The barrels are heavy with water and the two children lean their whole bodies into the endeavor. The mechapets hold large woven shade-fans over the children's heads. 
 
-Pippa: **"*No Sokaaa,* Io *was cheating, I know it! They haven't had to work further away than the apple trees ever since we started trying out all of their 'work assignment algorithms'...*"**
+Asoka: **"*...and after almost a year of searching, they finally found it...the Rio Hamza, the legendary underground sister of the Rio Amazonas! The water was salty, but it was clean, and it didn’t burn--*"**
 
-Asoka: **"*But don't you like being above ground? This is my favorite part of being a Biononymous!*"**
+Pippa: **"*How could they tell?*"**
 
-Pippa: **"*Stop being so happy when I'm telling you about my bad luck!*"**
+Asoka: **"*You know the special thread that goes into our outdoor clothes, the kind made by thread worms?*"**
 
-At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka is carefully placing their barrel against a rusted metal barrel holder. Pippa, whose barrel is already placed in a barrel holder, is crouched in front of their barrel, and struggles with the hose attachments. 
+Pippa: **"*You mean SynTh? I thought we're the only ones allowed to make SynTh...*"**
 
-Pippa: **"*These are always so hard to do with gloves...*"**
+Asoka: **"Only because the World Government forced us to make it a secret, because otherwise they would have taken the Havens away from the Biononymous. Back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
 
-Asoka gives Pippa a wink and a thumbs up before tending to their own hose attachment.
+At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka carefully places their barrel against a rusted metal barrel holder. 
 
-Asoka: **"*You got this!*"**
+Asoka: **"*Pippa, can you attach the hose to this one? I'll get your barrel in the holder.*"**
+
+Pippa crouches in front of the barrel and struggles with the hose attachments. 
+
+Pippa: **"*But why would she give away SynTh recipes for free? She should've traded them for something nice, like coffee, or a whole year of rides on the Space Ferries.*"**
+
+Asoka gives Pippa a wink.
+
+Asoka: **"*But would that be *fair?* If she did that, who would get all the filters and sensors?*"**
+
+Pippa: **"*I guess...not a lot of people...*"**
 
 ### Page 4
 
+Pippa: **"Anyways, what happened after they found the Rio Hamza?"**
+
+Asoka: **"*Hmm? Oh, they did what we did...*"**
+
 The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse.
 
-Asoka: **"*Wanna know a secret to making your luck better?*"**
+Asoka: **"*...first they stayed in caves, took care of their thread worms, and learned to grow food underground. Eventually, they figured out ways to weave materials that could protect them on the surface, and make them invisible to Orbiters...*"**
 
-Pippa: **"*Yes!*"**
+Asoka turns to a skeptical Pippa.
 
-Asoka: **"*Before picking a straw, or rolling dice, think of the worst possible outcome.*"**
+Asoka: **"*...and now they live on the surface, re-growing the Amazon rainforest and hiding from the World Government in* plain sight*.*"**
 
-Pippa: **"*The worst?!*"**
+Pippa: **"*But how?? They're in the Red Zone, and when *we* tried to hide, the World Government found us anyway...*"**
 
-Asoka: **"*Then think about how you would get what you want even if you had the worst luck, and shout in your head, 'I don't care if the worst happens! I can handle it!!'*"**
-
-Asoka: **"*Then the bad luck gets scared, and knows it can't have fun with you.*"**
+Asoka: **"*I dunno, maybe the Red Zone is so hot that it's easier to hide your heat signature?*"**
 
 ### Page 5
 
+Asoka: **"*Maybe when I make Journeyhume, I'll go ask them myself!*"**
+
 Iri and Manut play, as Asoka turns towards a delicious smell floating up the valley towards them. 
 
-Asoka: **"*Smells like Jeshua's making butter buns today...*"**
+Asoka: **"*Mmm, smell that? I forgot it's bread day...*"**
 
-Pippa looks miserable. 
+Pippa ignores Asoka, a serious look on their small face. 
 
-Pippa: **"*We're so far away, they'll be cold by the time we get back. Why do we have a grove all the way up here anyway?*"**
+Pippa: **"*Soka...why do the Orbiters hate us?*"**
 
-Asoka smiles kindly via their face veil. 
+Asoka: **"*Aw, Pippa, I'm sure not every Orbiter hates Earthers...*"**
 
-Asoka: **"*These are the plants that evolved the fastest, so they can handle more sun...the others still need the protection of the valley...*"**
+Pippa: **"*They have so many nice things, like space farms with nicer water and cleaner air...why do they have to take our food, and make Earthers work for them?*"**
 
-Asoka crouches to be face level with Pippa.
+Pippa looks glum as the mechapets come over to comfort them. 
 
-Asoka: **"*If I take care of the weeding, will you run back now and bring me a hot bun?*"**
+Pippa: **"*I hate Orbiters...*"**
+
+Asoka smiles kindly and crouches to be face level with Pippa.
+
+Asoka: **"*They might have nicer things, but we're more free...our water and air are free, and we get a big sky and trees to climb, hills to run all over...I think I would hate living in an Orbiter pod...*"**
+
+Pippa: **"*Yeah, I guess so...*"**
+
+Asoka: **"*Tell ya what. I'll finish the weeding if you go save me a hot bun for later.*"**
 
 Pippa beams with joy and gratitude. 
 
-Pippa: **"*Really? Yes!*"**
+Pippa: **"*Really? Okay!*"**
 
 ### Page 6
 
@@ -986,27 +1012,27 @@ Pippa runs off, crow mechapet flying overhead.
 
 Pippa: **"*Thanks Soka! Come on Manut!*"**
 
-Asoka looks at their cuttlefish mechapet, hands resolutely on their hips. 
+Asoka takes a deep breath, hands resolutely on their hips. 
 
-Asoka: **"*Alright, Iri, let's do this!*"**
-
-Iri chirps with happy determination, holding up weeding trowels in its arms in a celebratory gesture. 
-
-Iri: **"Yeah!"**
+Asoka: **"*Alright...*"**
 
 Panels show Asoka and Iri weeding the plants in the greenhouse. Have some nice botany spreads of future plants that have been genetically engineered to deal with a heavy NO2, CO2, and CH4 (Methane) content. The plants need to have ways of reducing their overgrowth thanks to the abundance of CO2 and they need to still sequester enough nutrients for them to be worth growing and eating. What do the 3 sisters (beans, corn, squash) need to change in order to still be a great trio?
 
+As they work, Asoka mutters the next verse of the song from earlier.
+
+Asoka: **"*Spin the needle, spin the thread, catch the sunlight, make it bread...plant the seed and sand the worms, everybody takes a turn!*"**
+
 ### Page 7
 
-Asoka: **"*All done!*"**
+Asoka: **"*Whew, all done!*"**
 
-Asoka wipes their brow. 
+Asoka wipes their brow. Suddenly, they sniff suspiciously.
 
-Asoka: **"*Hope Pippa didn't get too distracted in the Market Cave--*"**
+Asoka: **"*Huh, does something smell funny to you...?*"**
 
 Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
-Iri: **"*This is an emergency broadcast from Green Haven Howes, we are under attack!*"**
+Iri: **"*THIS IS AN EMERGENCY BROADCAST FROM GREEN HAVEN HOWES, WE ARE UNDER ATTACK!*"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
@@ -1014,17 +1040,17 @@ Asoka: **"*Attack?!*"**
 
 Asoka scoops up Iri and begins running down the valley.
 
-Iri: **"Repeat, *WE ARE UNDER ATTA--*"**
+Iri: **"REPEAT, *WE ARE UNDER ATTA--*"**
 
 Iri suddenly re-animates and broadcasts another voice not its own. 
 
-Iri: **"Soka, stay away, don't come back!!"**
+Iri: **"Soka, can you hear me?? Are you at the orchards??"**
 
-Asoka clutches Iri to their chest, looking down the mountainside with terrified eyes at the sight of enormous beasts, moving impossibly fast, tearing through their village, aghast to hear...
+Asoka clutches Iri to their chest, aghast as they look down the mountainside with terrified eyes at the sight of enormous furred beasts, moving impossibly fast, tearing through their village...
 
 Asoka: **"*Dad??!!*"**
 
-Iri/João (Asoka's Dad): **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
+Iri/João (Asoka's Dad): **"Soka! Run to the next Haven, don't look back! Do you hear me?? *RUN!!*"**
 
 ### Page 8
 
@@ -1032,7 +1058,7 @@ Iri/João (Asoka's Dad): **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
 
 It's night. A village with a central housing structure identical to Asoka's home village, also surrounded by greenhouses, sleeps tranquilly amongst rolling hills and a soft, nearly full moon. A faint orange glow is visible in one corner of the central housing structure. 
 
-Eireena, off-panel: **"I'm so sorry for your loss, Asoka."**
+Serena, off-panel: **"I'm sorry, did you say...*werewolves??*"**
 
 Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleeveless shirt, but their feet, hands, and head are bare. Asoka's long reddish hair is tied back in a loose ponytail, and Asoka hugs Iri, who is cuddled up to Asoka in their lap. Before Asoka is a large steaming mug of hot tea, but Asoka hasn't touched it. Tears run down their face, past an upper lip that shows just the tiniest hints of fuzzy hair. 
 
@@ -1040,33 +1066,43 @@ We see Eireena McLeland, High Priestess of the Biononymous and leader of this Gr
 
 They are all sitting inside a warmly lit room with a shrine centered along one wall. All of the walls are covered in tapestries, made with the finest of the Biononymous' textile and embroidery. The shrine is a figure dressed in the religious clothing of the Biononymous, legs folded into a lotus and one hand raised, akin to the Buddha, but instead of holding the palm forward, the wrist is bent and the palm is cupped, just enough to hold a bit of soil and a tiny seedling, just beginning to sprout. In front of the seated figure is a large black bird, carved out of wood and delicately painted, with long legs and a horn-like feather sticking out of its forehead -- a [horned screamer, *Anhima cornuta*](https://duckduckgo.com/?q=horned+screamer+anhima+cornuta&t=opera&iar=images&iax=images&ia=images). The figurine is surrounded by non-combusting SynTh candles and scent-only SynTh incense, and mid-summer blossoms. 
 
-Eireena: **"I didn't think our ecosystem had recovered enough to support large carnivores, not after we [lost so many insects](https://www.theguardian.com/environment/2019/feb/10/plummeting-insect-numbers-threaten-collapse-of-nature) during the Burning...it's quite strange, actually...but we will need to consider how to protect the Green Havens from these '**BEASTS**'."**
+Asoka: **"I *knew* you wouldn't believe me..."**
+
+The woman with dark curling hair, still lost in deep thought: **"Oh, we believe you. Myself and other Guardians have also seen large wolf-like things, brief glimpses of one or two creatures, sulking in the woods...Fili's been collecting the reports."**
+
+The man: **"But Serena, this is the first time I've heard of them attacking a Haven, or moving in such large groups..."**
+
+Eireena, to Asoka: **"You've been very brave, my dear. Thank you for coming here, and sharing your story."**
 
 ### Page 9
 
-The fabric flap to this room opens, and another Biononymous adult enters. He addresses Eireena.
+The fabric flap to this room opens, and another Biononymous adult enters, breathless.
 
-Biononymous man: **"Apologies, High Priestess! World Government Peacekeepers have just arrived. They request an audience with you immediately."**
+Biononymous man: **"High Priestess!"**
 
-The other woman, sitting beside Eireena, raises an eyebrow. Her eye has a hard glint.  
+Eireena: **"Charlie? What's wrong?"** 
 
-Biononymous woman: **"Immediately? At this indecent hour?"** 
+Charlie: **"Apologies for the interruption, but World Government Peacekeepers have just arrived. They request an audience with the High Priestess immediately."**
 
-Eireena: **"It's alright, Serena. Charlie, please let the Peacekeepers know I'll be with them shortly."**
+Serena, raises an eyebrow. Her eye has a hard glint.  
+
+Serena: **"Immediately? At this indecent hour?"** 
+
+Eireena: **"Interesting timing. Charlie, please let the Peacekeepers know Serena and I will be with them shortly."**
 
 Charlie bows and exits. Eireena stands and looks down at Asoka, who is still kneeling with their head down, unable to look up or stand, tears streaming down their face. 
 
-Eireena: **"It seems these days are full of the strange and the indecent. Asoka has sanctuary with us, but perhaps it would be best to keep their presence here...discreet."**
+Eireena: **"It could be a coincidence...until we know more, Asoka is under our protection, and has sanctuary with us."**
 
 Eireena puts on her face veil. 
 
-Eireena: **"*Fili, please escort Asoka to the infirmary and see to their needs. Serena, please come with me.*"**
+Eireena: **"*Fili, please set up a bed for Asoka in the infirmary. I would also appreciate a review of your notes on these wolf-creatures in the morning.*"**
 
-Fili and Serena both bow: **"Yes, High Priestess."**
+Fili bows: **"Yes, High Priestess."**
 
 ### Page 10
 
-It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy mattress in the style of Japanese futons, on a [tatami](https://en.wikipedia.org/wiki/Tatami)-style floor. Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms as it cuddles in the space between Asoka's knees and chest. Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
+It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy floor mattress in the style of Japanese shikibutons, on top of a floor made of tiled [tatamis](https://en.wikipedia.org/wiki/Tatami). Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms as it cuddles in the space between Asoka's knees and chest. Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
 
 Fili: **"Good morning. Did you sleep at all?"**
 
@@ -1078,49 +1114,63 @@ Fili: **"Fresh raspberries? Just picked them this morning."**
 
 Asoka doesn't react. Fili tries again. 
 
-Fili: **"Does your mechapet eat? What's its name again, Iri?"**
+Fili: **"You said your mechapet's name is Iri? Is that short for iridescent?"**
 
 Asoka still shows no reaction. Fili's smile drops and he looks down. 
 
-Fili: **"It's ok to feel pain, but please, you must eat. It would dishonour your entire Haven if you were to starve yourself to death."**
+Fili: **"It's ok to feel pain, but please...eat something. It's even harder to process difficult emotions when you're hungry."**
 
 Asoka finally looks at Fili. After a moment, Asoka reaches for a raspberry. Fili smiles encouragingly. 
 
 ### Page 11
 
-A scratch at the door. Eireena enters with Serena. Fili stands and bows. Asoka also stands, abruptly remembering their manners as Iri darts to their shoulder and hides behind their hair. While standing, Asoka knocks over the raspberries. Asoka looks mortified. 
+A scratch at the door. Eireena enters with Serena. Fili stands and bows. 
 
-Asoka: **"Oh no! I'm so sorry!"**
+Fili: **"Ah, High Priestess! Good morning."**
 
-Asoka rushes to pick up the scattered raspberries. Eireena holds up a hand to stop Asoka and smiles wryly as Serena calmly gathers the rest of the raspberries, which mostly scattered in her direction anyway. 
+Asoka also stands, abruptly remembering their manners as Iri darts to their shoulder and hides behind their hair. While standing, Asoka knocks over the raspberries. Asoka looks mortified. Asoka rushes to pick up the scattered raspberries. Eireena holds up a hand to stop Asoka and smiles wryly as Serena calmly gathers the rest of the raspberries, which mostly scattered in her direction anyway. 
 
-Eireena: **"Please, eat those, and sit."**
+Eireena: **"Those should all be in your mouth already."**
 
 Serena returns the raspberries to their bowl, and Fili exits. Asoka sits on their bed futon, obediently shoving a raspberry into their mouth, while Serena and Eireena sit on floor cushions. 
 
-Eireena: **"Asoka, I want to tell you why the Peacekeepers visited us last night. Is this something you think you can hear right now?"**
+Asoka: **"Sorry, I'm still a little jumpy..."**
 
-Asoka looks at Eireena, suddenly scared. The raspberries in Asoka's hand have been crushed by their sudden tension.
+Eireena: **"Of course. Yesterday was a tragedy, and you will need time to process and heal."**
 
-Eireena: **"If you hear what I have to say, and all you want is to hide some place safe for the rest of your life, I guarantee that you will have that place with us. Do you understand?"**
+Asoka: **"Thanks...um, High Priestess?"**
 
-Asoka nods: **"Yes"**
+Eireena: **"Yes?"**
+
+Asoka: **"Why did the Peacekeepers come last night? Was it...was it about the werewolves?"**
+
+Eireena: **"...Are you sure you want to hear this now?"**
+
+Asoka hesitates, momentarily scared and pained. Then they meet Eireena's gaze.
+
+Asoka: **"Yes."**
 
 ### Page 12
 
-Eireena: **"Good. Last night, Lieutenant Colonel Santiago Garcia of the World Government Peacekeepers told the Green Haven Clarksville Council that he has received multiple reports of the Green Havens being attacked by large wolf-like creatures. We also learned that Demario Jones has convinced the Underground Cities to refuse sanctuary for the Biononymous, saying that there is already massive overcrowding. I don't know how he thinks he can feed [800 thousand people](https://en.wikipedia.org/wiki/Demography_of_the_United_States) without the Green Havens..."**
+Eireena: **"Very well. Last night, Lieutenant Colonel Santiago Garcia of the World Government Peacekeepers informed me that due to overcrowding in the Underground Cities, all Biononymous must now be permanently housed above ground. Given what happened to your Haven last night, you can imagine why this concerns us..."**
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
-Eireena: **"Anyway, the Colonel claims that although they can track these creatures, the creatures move too quickly for the Peacekeepers to hunt them down. Nonetheless, he offered to station a platoon of 40 Peacekeepers at our Green Haven as protection, in case the creatures try to attack us."**
+Serena: **"When I shared our reports of the wolf-creatures and our concerns about the safety of the Havens, the Colonel insisted on leaving 10 Peacekeepers here for our protection, even after we reminded him that Biononymous law forbids any military presence in the Havens. We couldn't refuse, given the circumstances."**
 
-Eireena lets her cynicism creep onto her face. 
+Asoka: **"But...if they really want to protect us, 10 Peacekeepers won't be enough! The werewolves are huge, and the pack yesterday was at least 4 strong..."**
 
-Eireena: **"We have no choice but to accept...our ties with the Underground Cities are cut, and soon, I fear that no Green Haven will be without World Government military presence. I don't need to say how much this will compromise our dedication to anonymity and a life free from surveillance."**
+Serena: **"For the record, the colonel didn't look surprised at *all* when we mentioned the wolf creatures."**
+
+Asoka: **"I don't understand...don't they need us to grow food for them? If they're gonna break our laws, why don't they give us some real protection?"** 
 
 Eireena now looks hard at Asoka. 
 
-Eireena: **"If you take your sanctuary with us, this is the life we forsee having to accept. However...if you feel able to travel a more dangerous path...there is another option."**
+Eireena: **"...Asoka, when did you make apprentice?"**
+
+Asoka: **"Two years ago, on my 14th birthday. Why?"**
+
+Eireena: **"I see. I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
 
 ## Diagram 3: Major Neurotransmitters
 
@@ -1203,9 +1253,9 @@ Suddenly Asoka hears a "ZIIIIP!" noise above their heads.
 
 A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
-Iri: *"Happy mealtime!"*
+Iri: *"This one's still hot!"*
 
-Asoka: *"I'll never eat another potato again."*
+Asoka: *"Thanks..."*
 
 Iri: *"I'm sure we're almost there!"*
 
