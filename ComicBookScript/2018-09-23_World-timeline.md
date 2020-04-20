@@ -50,7 +50,7 @@ Majhee and her colleagues present a proposal to the United Nations to develop af
 
 ### 2053
 
-First Space Barge makes its virgin flight to **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. The Space Consortium begins distributing their first excess yield of orbit-grown crops to planetside countries in need.
+First Space Ferry makes its virgin flight to **THE PEGGY WHITSON MEMORIAL SPACE ARBORETUM**. The Space Consortium begins distributing their first excess yield of orbit-grown crops to planetside countries in need.
 
 Majhee and her collaborators have set up several thousand "thread-worm nursuries" in communities around the world where air and water pollution levels have been deemed above critical levels. 
 
@@ -74,7 +74,7 @@ Space Consortium's second Orbital arboretum, **ANNIE EASELY MEMORIAL ARBORETUM**
 
 The Space Consortium begins to mass-manufacture commercial SynTh products, using bactoFET chips to create tiny implantable organic electronics that can replace all of the functionality of "smart mobile phones" that were commonplace during the early 21st century. 
 
-The Space Barge fleet, comprising of 34 vessels, now makes daily trips from the Earth's surface to the Space Consortium's two Orbital arboretums.
+The Space Ferries fleet, comprising of 34 vessels, now makes daily trips from the Earth's surface to the Space Consortium's two Orbital arboretums.
 
 In collaboration with Iúna and her collaborators, Majhee's lab begins experimenting with splicing SynTh directly into other organic cell cultures. A growing worldwide network of citizen scientists and open science activists coalesce into an online DIY SynTh enthusiasts forum, called the Open SynTh Exchange. Through these networks of collaborators, Majhee and colleagues are able to continuously publish their advances as open source and freely-accessible academic work. 
 
@@ -126,50 +126,56 @@ Iúna flees with her son João into caves in Vermont to escape the huge clouds o
 
 Massive fluctuations of electromagnetic radiation from sun flares completely disrupt planetside digital computing technology infrastructures. The vast majority of servers worldwide are wiped clean. 
 
-Amid the chaos, nearly 60,000 planetside humans swarm onto Space Barges to flee into orbit. The Space Barges are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Barges would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
+Amid the chaos, nearly 60,000 planetside humans swarm onto Space Ferries to flee into orbit. The Space Ferries are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Ferries would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
-### 2069
+### 2068, or Year 1 "After Burning" (A.B.)
 
-The Earth's surface environment continues to spiral into drought, extreme weather, and hyper-salination of surface fresh water sources. Those still surviving on the planet, numbering around 4 billion, have taken refuge in caves all over the world, seeking respite from the sun and searching for aquafirs of clean water deep underground. Humans become nocturnal, coming above ground only at night, if at all. 
+The Earth's surface environment continues to spiral into drought, extreme weather, and hyper-salination of surface fresh water sources. Those still surviving on the planet, numbering around 4 billion, have taken refuge in caves all over the world, seeking respite from the sun and searching for aquafirs of clean water deep underground. Humans become nocturnal, coming above ground only at night, if at all, and learn to survive underground. 
 
 Majhee and her collective of 67 humans establish a secret fortified community in the caves underneath the Amazon Rainforest. They build a crude research facility and continue developing their understanding of thread-worms. They establish underground farms to grow food for their community. 
 
-Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of nearly 60,000 refugees plus just over 12,000 "Original Orbiters".  
+Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of nearly 60,000 refugees plus just over 12,000 "Original Orbiters". The UN and Space Consortium have collaboratively set up a provisional government in orbit, and rush to install crowded, barely adequate housing for the refugees in the larger stations and industrial structures in orbit. 
 
-### 2074
+### 2078, or Year 10 A.B.
 
-As planetside atmospheric conditions stabilize, Space Consortium begins to send Space Barges staffed with military personnel and drafted refugee "volunteers" down to the surface in order to harvest raw inorganic materials for the Orbiter needs. The refugee workers are forced to act as "canaries", testing out newly developed environmental hazmat suits and being the first onto any mining site. Over 2,000 refugees die on these mining missions. 
+In the 11 years since the Burning, the refugees from Earth have become the working class of the Orbiters. The hastily built housing from 10 years ago, meant to be improved or replaced, has become refugee slums. Some refugees now call themselves "the Exiled", and dream of returning to Earth to reclaim it as their own. Some seek to assimilate into proper Orbiter society, to change their status from "podless" (equivalent to homeless) and gain the dignity and luxury of the "Originals". 
 
-### 2078
+As the chaos of the Burning slowly subsides and planetside atmospheric conditions stabilize, provisional Orbiter government begins to send Space Ferries staffed with military personnel and drafted refugee "volunteers" down to the surface in order to harvest raw inorganic materials for the Orbiter needs. They limit their activities to latitudes close to the poles, as conditions in the equatorial regions of the planet (referred to as the Red Zone) are still overwhelmingly hot, acidic, and chaotic. The refugee workers are forced to act as "canaries", testing out newly developed environmental hazmat suits and being the first onto any mining site. Over 2,000 refugees die on these mining missions. In the wake of these tragic missions, the refugee population in orbit begins to organize, protest, and riot. The provisional Orbiter government responds with brutal force, and these events become known as the Riots of Year 10. 
 
-The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and fully employs the refugee population in orbit, completely easing the strain on the existing space arboretums. 
+### 2079, or Year 11 A.B.
 
-### 2079
-
-Living conditions on the **SPACE UNIVERSITY STATION** construction site are not great, and lack of hygiene and medical facilities alone kills over 5,000 workers in the first year. The work environment is also dangerous, and numerous accidents happen while maneuvering in space - another 1,000 workers die in the first year from accidents in space. 
-
-### 2081
-
-The Space Barge fleet increases to 114 vessels. The fleet's primary function continues to be the mining missions that go planetside in order to harvest raw construction material. 
-
-### 2084
-
-The Space Consortium establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the space barges that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the well-educated Orbiter elite.
-
-### 2089
-
-One year of work as service staff with the **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
-
-### 2094
-
-The UN declares itself as the World Government. With military support from the Space Consortium, the World Government commandeers the former UN Green Havens that have survived The Global Water Crisis, which are now the only source of planetside agriculture. They force the people who have either remained in the Green Havens or have sought refuge in the Green Havens to farm for the World Government's agenda of meeting humanity's food needs, both planetside and in orbit. 
-
-The Space Barge fleet resumes its daily trips between planetside launch stations and the space arboretums. 
+A planetside harvesting mission discovers the fledging surface farm of a cave city in the upper latitudes of North America, and the provisional Orbiter government realise that there are surviving Earthers -- not just a few, but networks of underground cities. At first the provisional Orbiter government tries to suppress this information, but the news spreads like wildfire amongst the Podless, and the refugee Orbiters become even more difficult to control. The provisional Orbiter government declares itself to be the "World Government", harshly suppresses the refugees in orbit, and send military delegations to seize control of the surviving Earthers and their underground cities, which they assume are limited to areas outside the Red Zone. However, the Earthers are more organized and advanced in their recovery than expected, largely thanks to the religious cult the Biononymous. The World Government is forced to sign a treaty of shared planetside governance with the leaders of the Biononymous in exchange for the science, tech, and insights of the Biononymous which allow them to grow food and emerge safely onto the planet's surface. 
 
 Upon hearing the news of the World Government, several members of Majhee's collective, including Majhee, co-write The Manifesto of the Automata. They pledge to remain free from oppressive rule by the World Government and to keep their thread-worm research a secret from the World Government. 
 
-### 2095
+### 2081, or Year 13 A.B. 
 
-Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs. Some of these protests escalate into violence. However, with the orbit-based strategic advantage and military-grade firepower of the Space Consortium backing them, the World Government establishes absolute political power over the remaining planetside humans. 
+The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and employs the vast majority of the refugee population in orbit, massively easing the strain on the existing space arboretums. However, living conditions on the **SPACE UNIVERSITY STATION** construction site are not great, and lack of hygiene and medical facilities alone kills over 5,000 workers in the first year. The work environment is also dangerous, and numerous accidents happen while maneuvering in space - another 1,000 workers die in the first year from accidents in space. 
 
-Historians later come to call the years between 2067 and 2095 "The Global Water Crisis" and **THE GREAT SEPARATION**. Those left on Earth later came to call these years **THE BURNING** and **"THE SEVERING"**. 
+The Space Ferries fleet increases to 114 vessels. The fleet's primary function continues to be the mining missions that go planetside in order to harvest raw construction material, now with the begrudging collaboration of the Biononymous and the Underground Cities. 
+
+The Exiled are now more organised, taking on a religious flavour, emboldened by the news that Earthers have survived the Burning. Most Exiles want to sneak back to planetside and disappear into the Underground Cities; a few harbour grand delusions of overthrowing the Biononymous, whom they regard as their planetside rivals, in order to rule the new Earther society. 
+
+### 2083, or Year 15 A.B.
+
+Exiles from orbit have now established ways of joining the planetside mining missions, then smuggling themselves out of planetside military complexes and into the safety of the Underground Cities. A small, secret faction of the Biononymous and citizens from the Underground Cities have created a network of safe houses and agents who help orbiter refugees escape, and in many cases, reunite with family from whom they were separated during the Burning. This network becomes known as the Underground Railroad. The escaped refugees are officially recorded as dead or missing. 
+
+### 2084, or Year 16 A.B. (beginning of The Confinement)
+
+The official Orbiter refugee population has now been reduced to 42,000. Suspicions about the high rate of dead or missing refugee miners leads to the World Government discovering the Underground Railroad, which has now branched out into a secret network of smugglers both to and from orbit. The World Government responds with a furious assertion of its power, rounding up several leaders of the Underground Railroad and publicly executing them, and shutting down or taking over most of the black market activity going on between planetside and orbit. The World Government also imposes a strict curfew on all Underground Cities and establishes a strong military presence in each Underground City. Thus begins what the Earthers later call the Years of Confinement. 
+
+### 2090, or Year 22 A.B. (6th year of The Confinement)
+
+The Space Consortium establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the well-educated Orbiter Originals.
+
+### 2094, or Year 26 A.B. (10th year of The Confinement)
+
+One year of work as service staff with the **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
+
+### 2096, or Year 28 A.B. (12th year of The Confinement)
+
+The Space Ferries fleet resumes its daily trips between planetside launch stations and the space arboretums. 
+
+### 2103, or Year 35 A.B. (19th and Final year of The Confinement)
+
+Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The Biononymous lobby for greater autonomy. Comfortable with its perceived absolute power over both Earther and Orbiter spheres of influence, the World Government declares the end of Confinement and grants Earthers the "freedom to surface" -- practically, however, the unequal distribution of resources and education means that only the Biononymous have the means to safely leave the Underground Cities as they choose. 
