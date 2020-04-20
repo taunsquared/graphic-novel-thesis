@@ -924,45 +924,49 @@ Pippa: **"*Take it back, let me pick again!*"**
 
 A taller, lankier Biononymous child, a cuttlefish mechapet curled around their neck, steps in between them and calmly separates them. 
 
-Asoka: **"*Come on Pippa...if you help me with the orchards, I'll tell you how 'Majhee's Exodus' ends!*"**
+Asoka: **"*Wait! Hey Pippa...if you help me with the orchards, I'll tell you how 'Majhee's Exodus' ends!*"**
 
-Io, exasperated: **"*You're gonna spoil their brain with fairy tales, Soka...*"**
+Io, exasperated: **"*Ugh, kids these days are *so* ungrateful--"**
+
+Asoka: **"*Oh hush, Io...as if *you* were alive during the Confinement...*"**
 
 ### Page 3
 
-Asoka and Pippa roll two large plastic barrels on a grassy path up a steep, terraced hill, towards a long row of tall greenhouses. The barrels are heavy with water and the two children lean their whole bodies into the endeavor. The mechapets hold large woven shade-fans over the children's heads. 
+Asoka and Pippa effortfully roll two large plastic barrels on a grassy path up a steep, terraced hill, towards a long row of tall greenhouses. The barrels are heavy with water and the two children lean their whole bodies into the endeavor. The mechapets hold large woven shade-fans over the children's heads. 
 
-Asoka: **"*...and after almost a year of searching, they finally found it...the Rio Hamza, the legendary underground sister of the Rio Amazonas! The water was salty, but it was clean, and it didn’t burn--*"**
+Asoka: **"*...and after almost a year of searching (watch out, rock), they finally found it...the Rio Hamza, the legendary (uff!) underground sister of the Rio Amazonas! The water was salty, (almost there!) but it was clean, and it didn’t burn--*"**
 
-Pippa: **"*How could they tell?*"**
+Pippa: **"*But (wheeze!) Soka (ungh!), how could they tell?*"**
 
-Asoka: **"*You know the special thread that goes into our outdoor clothes, the kind made by thread worms?*"**
+Asoka: **"*You know the special thread (huff!) that makes our outside clothes, the kind made by (breathe!) thread worms?*"**
 
-Pippa: **"*You mean SynTh? I thought we're the only ones allowed to make SynTh...*"**
-
-Asoka: **"Only because the World Government forced us to make it a secret, because otherwise they would have taken the Havens away from the Biononymous. Back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
+Pippa: **"*You mean SynTh? I thought (gasp!) we're the only ones (whew!) allowed to make SynTh...*"**
 
 At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka carefully places their barrel against a rusted metal barrel holder. 
 
-Asoka: **"*Pippa, can you attach the hose to this one? I'll get your barrel in the holder.*"**
+Asoka: **"*Mama Bird was *forced* to make SynTh a Biononymous secret, otherwise the World Government would have taken the Havens away from us. But back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
 
 Pippa crouches in front of the barrel and struggles with the hose attachments. 
 
-Pippa: **"*But why would she give away SynTh recipes for free? She should've traded them for something nice, like coffee, or a whole year of rides on the Space Ferries.*"**
+Pippa: **"*But Soka, why would she give away SynTh recipes for free, instead of trading them for something nice, like coffee, or a whole year of rides on the Space Ferries?*"**
 
 Asoka gives Pippa a wink.
 
-Asoka: **"*But would that be *fair?* If she did that, who would get all the filters and sensors?*"**
+Asoka: **"*Maybe she traded them for never having to push water barrels uphill to the orchards.*"**
 
-Pippa: **"*I guess...not a lot of people...*"**
+Pippa: **"*Aw Soka, I was being serious...besides, I've heard that before the Burning, people got water pumped directly into their houses!*"**
 
 ### Page 4
 
-Pippa: **"Anyways, what happened after they found the Rio Hamza?"**
+Asoka: **"*It's true! They had so much clean water that they pooped into special chairs full of water, and when they pressed a button, all their poo was washed away, quick as anything!*"**
 
-Asoka: **"*Hmm? Oh, they did what we did...*"**
+Pippa: **"*Whoa, no way!*"**
 
 The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse.
+
+Pippa: **"*Soka...were *you* alive during Confinement?*"**
+
+Asoka: **"*Not that old...
 
 Asoka: **"*...first they stayed in caves, took care of their thread worms, and learned to grow food underground. Eventually, they figured out ways to weave materials that could protect them on the surface, and make them invisible to Orbiters...*"**
 
