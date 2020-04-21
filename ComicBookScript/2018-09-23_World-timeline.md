@@ -136,46 +136,56 @@ Majhee and her collective of 67 humans establish a secret fortified community in
 
 Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of nearly 60,000 refugees plus just over 12,000 "Original Orbiters". The UN and Space Consortium have collaboratively set up a provisional government in orbit, and rush to install crowded, barely adequate housing for the refugees in the larger stations and industrial structures in orbit. 
 
-### 2078, or Year 10 A.B.
+### 2072, or Year 4 A.B.
 
-In the 11 years since the Burning, the refugees from Earth have become the working class of the Orbiters. The hastily built housing from 10 years ago, meant to be improved or replaced, has become refugee slums. Some refugees now call themselves "the Exiled", and dream of returning to Earth to reclaim it as their own. Some seek to assimilate into proper Orbiter society, to change their status from "podless" (equivalent to homeless) and gain the dignity and luxury of the "Originals". 
+A terrible and mysterious illness spreads throughout the orbiting population, killing over 10,000 orbiters in the first year. The illness becomes known as the Space Plague of Year 4. 
 
-As the chaos of the Burning slowly subsides and planetside atmospheric conditions stabilize, provisional Orbiter government begins to send Space Ferries staffed with military personnel and drafted refugee "volunteers" down to the surface in order to harvest raw inorganic materials for the Orbiter needs. They limit their activities to latitudes close to the poles, as conditions in the equatorial regions of the planet (referred to as the Red Zone) are still overwhelmingly hot, acidic, and chaotic. The refugee workers are forced to act as "canaries", testing out newly developed environmental hazmat suits and being the first onto any mining site. Over 2,000 refugees die on these mining missions. In the wake of these tragic missions, the refugee population in orbit begins to organize, protest, and riot. The provisional Orbiter government responds with brutal force, and these events become known as the Riots of Year 10. 
+### 2075, or Year 7 A.B.
 
-### 2079, or Year 11 A.B.
+A vaccine for the terrible and mysterious illness is finally developed and deployed. In the end, the space plague kills 19,842 refugees and 4,507 original orbiters, leaving behind a total orbiter population of just over 47,500. 
+
+### 2080, or Year 12 A.B.
+
+In the 12 years since the Burning, the refugees from Earth have become the working class of the Orbiters. The hastily built housing structures from over a decade ago, meant to be improved or replaced, have become overgrown slums. Some refugees now call themselves "the Exiled", and dream of returning to Earth to reclaim it as their own. Some seek to assimilate into proper Orbiter society, to change their status from "podless" (equivalent to homeless) and gain the dignity and luxury of the "Originals". 
+
+As the chaos of the Burning slowly subsides and planetside atmospheric conditions stabilize, the provisional Orbiter government begins to send Space Ferries staffed with military personnel and drafted refugee "volunteers" down to the surface in order to harvest raw inorganic materials for the Orbiter needs. They limit their activities to latitudes close to the poles, as conditions in the equatorial regions of the planet (referred to as the Red Zone) are still overwhelmingly hot, acidic, and chaotic. The refugee workers are forced to act as "canaries", testing out newly developed environmental hazmat suits and being the first onto any mining site. Over 2,000 refugees die on these mining missions in just the first year. In the wake of these tragic missions, the refugee population in orbit begins to organize, protest, and riot. The provisional Orbiter government responds with brutal force, and these events become known as the Riots of Year 12. 
+
+### 2086, or Year 18 A.B.
 
 A planetside harvesting mission discovers the fledging surface farm of a cave city in the upper latitudes of North America, and the provisional Orbiter government realise that there are surviving Earthers -- not just a few, but networks of underground cities. At first the provisional Orbiter government tries to suppress this information, but the news spreads like wildfire amongst the Podless, and the refugee Orbiters become even more difficult to control. The provisional Orbiter government declares itself to be the "World Government", harshly suppresses the refugees in orbit, and send military delegations to seize control of the surviving Earthers and their underground cities, which they assume are limited to areas outside the Red Zone. However, the Earthers are more organized and advanced in their recovery than expected, largely thanks to the religious cult the Biononymous. The World Government is forced to sign a treaty of shared planetside governance with the leaders of the Biononymous in exchange for the science, tech, and insights of the Biononymous which allow them to grow food and emerge safely onto the planet's surface. 
 
 Upon hearing the news of the World Government, several members of Majhee's collective, including Majhee, co-write The Manifesto of the Automata. They pledge to remain free from oppressive rule by the World Government and to keep their thread-worm research a secret from the World Government. 
 
-### 2081, or Year 13 A.B. 
+### 2088, or Year 20 A.B. 
 
-The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and employs the vast majority of the refugee population in orbit, massively easing the strain on the existing space arboretums. However, living conditions on the **SPACE UNIVERSITY STATION** construction site are not great, and lack of hygiene and medical facilities alone kills over 5,000 workers in the first year. The work environment is also dangerous, and numerous accidents happen while maneuvering in space - another 1,000 workers die in the first year from accidents in space. 
+The Space Consortium begins construction on the **SPACE UNIVERSITY STATION** and accompanying **GEMINI ARBORETUM** (which would serve as **SPACE UNIVERSITY STATION**'s farm) to host the re-establishment of Space University. The construction project is huge and employs the vast majority of the refugee population in orbit, massively easing the strain on the existing space arboretums. However, living conditions on the **SPACE UNIVERSITY STATION** construction site are not great, and lack of hygiene and medical facilities alone kills over 1,000 workers in the first year. The work environment is also dangerous, and numerous accidents happen while maneuvering in space - another 1,000 workers die in the first year from accidents in space. 
 
 The Space Ferries fleet increases to 114 vessels. The fleet's primary function continues to be the mining missions that go planetside in order to harvest raw construction material, now with the begrudging collaboration of the Biononymous and the Underground Cities. 
 
 The Exiled are now more organised, taking on a religious flavour, emboldened by the news that Earthers have survived the Burning. Most Exiles want to sneak back to planetside and disappear into the Underground Cities; a few harbour grand delusions of overthrowing the Biononymous, whom they regard as their planetside rivals, in order to rule the new Earther society. 
 
-### 2083, or Year 15 A.B.
+### 2091, or Year 23 A.B.
 
 Exiles from orbit have now established ways of joining the planetside mining missions, then smuggling themselves out of planetside military complexes and into the safety of the Underground Cities. A small, secret faction of the Biononymous and citizens from the Underground Cities have created a network of safe houses and agents who help orbiter refugees escape, and in many cases, reunite with family from whom they were separated during the Burning. This network becomes known as the Underground Railroad. The escaped refugees are officially recorded as dead or missing. 
 
-### 2084, or Year 16 A.B. (beginning of The Confinement)
+Construction on **SPACE UNIVERSITY STATION** is completed. 
 
-The official Orbiter refugee population has now been reduced to 42,000. Suspicions about the high rate of dead or missing refugee miners leads to the World Government discovering the Underground Railroad, which has now branched out into a secret network of smugglers both to and from orbit. The World Government responds with a furious assertion of its power, rounding up several leaders of the Underground Railroad and publicly executing them, and shutting down or taking over most of the black market activity going on between planetside and orbit. The World Government also imposes a strict curfew on all Underground Cities and establishes a strong military presence in each Underground City. Thus begins what the Earthers later call the Years of Confinement. 
+### 2093, or Year 25 A.B. (beginning of The Confinement)
 
-### 2090, or Year 22 A.B. (6th year of The Confinement)
+Space University holds welcomes its first cohort of students, ranging in age from 18 to 55. Most are original orbiters, a tiny fraction are refugees or descended from refugees; however, by now this distinction is starting to lose relevance.  
 
-The Space Consortium establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the well-educated Orbiter Originals.
+The official Orbiter population (both refugee and original) is now just over 39,000. Suspicions about the high rate of dead or missing refugee miners leads to the World Government discovering the Underground Railroad, which has now branched out into a secret network of smugglers both to and from orbit. The World Government responds with a furious assertion of its power, rounding up several leaders of the Underground Railroad and publicly executing them, and shutting down or taking over most of the black market activity going on between planetside and orbit. The World Government also imposes a strict curfew on all Underground Cities and establishes a strong military presence in each Underground City to hunt down runaway orbiters. Thus begins what the Earthers later call the Years of Confinement, and what the Orbiters call The Occupation. 
 
-### 2094, or Year 26 A.B. (10th year of The Confinement)
+### 2096, or Year 28 A.B. (3rd year of The Confinement)
+
+Space University establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the socio-economic elite of the orbiters.
+
+### 2100, or Year 32 A.B. (7th year of The Confinement)
 
 One year of work as service staff with the **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
 
-### 2096, or Year 28 A.B. (12th year of The Confinement)
-
 The Space Ferries fleet resumes its daily trips between planetside launch stations and the space arboretums. 
 
-### 2103, or Year 35 A.B. (19th and Final year of The Confinement)
+### 2105, or Year 37 A.B. (12th and Final year of The Confinement)
 
-Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The Biononymous lobby for greater autonomy. Comfortable with its perceived absolute power over both Earther and Orbiter spheres of influence, the World Government declares the end of Confinement and grants Earthers the "freedom to surface" -- practically, however, the unequal distribution of resources and education means that only the Biononymous have the means to safely leave the Underground Cities as they choose. 
+Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The Biononymous lobby for greater autonomy. Comfortable with its perceived absolute power over both Earther and Orbiter spheres of influence, the World Government declares the end of Confinement and grants Earthers the "freedom to surface" as a gesture of good will -- practically, however, the unequal distribution of resources and education means that only the Biononymous have the means to safely leave the Underground Cities as they choose. The World Government, the Biononymous, and the Underground Cities sign a new treaty, which grants the Underground Cities greater self-governance and bans World Government military presence from the Biononymous Green Havens, while establishing a system of tithes from the Underground Cities and the Biononymous to the World Government and the Orbiters. 
