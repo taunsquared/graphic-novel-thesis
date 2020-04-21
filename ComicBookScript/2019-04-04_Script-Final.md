@@ -944,51 +944,71 @@ Pippa: **"*You mean SynTh? I thought (gasp!) we're the only ones (whew!) allowed
 
 At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka carefully places their barrel against a rusted metal barrel holder. 
 
-Asoka: **"*Mama Bird was *forced* to make SynTh a Biononymous secret, otherwise the World Government would have taken the Havens away from us. But back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
+Asoka: **"*Vovó Iúna was *forced* to make SynTh a Biononymous secret, otherwise the World Government would have taken the Havens away from us. But back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
 
 Pippa crouches in front of the barrel and struggles with the hose attachments. 
 
-Pippa: **"*But Soka, why would she give away SynTh recipes for free, instead of trading them for something nice, like coffee, or a whole year of rides on the Space Ferries?*"**
+Pippa: **"*But Soka, why would Majhee give away SynTh recipes for free, instead of trading them for something nice, like coffee, or a whole year of rides on the Space Ferries?*"**
 
 Asoka gives Pippa a wink.
 
 Asoka: **"*Maybe she traded them for never having to push water barrels uphill to the orchards.*"**
 
-Pippa: **"*Aw Soka, I was being serious...besides, I've heard that before the Burning, people got water pumped directly into their houses!*"**
+Pippa: **"*Didn't you tell me that before the Burning, people got water pumped directly into their houses?*"**
 
 ### Page 4
 
-Asoka: **"*It's true! They had so much clean water that they pooped into special chairs full of water, and when they pressed a button, all their poo was washed away, quick as anything!*"**
+Asoka: **"*That's what Vovó tells me...*"**
 
-Pippa: **"*Whoa, no way!*"**
+Pippa: **"*And is it true that the water pumps were also connected to huge bowls of water full of fish, and people would poo into the bowls in order to feed the fish??*"**
+
+Asoka: **"*Ha, what?? Where did you hear that?*"**
+
+Pippa: **"*Oh, you know...around...*"**
 
 The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse.
 
 Pippa: **"*Soka...were *you* alive during Confinement?*"**
 
-Asoka: **"*Not that old...
+Asoka: **"*Technically yes? I was five when it ended.*"**
 
-Asoka: **"*...first they stayed in caves, took care of their thread worms, and learned to grow food underground. Eventually, they figured out ways to weave materials that could protect them on the surface, and make them invisible to Orbiters...*"**
+Pippa: **"*What was it like?*"**
 
-Asoka turns to a skeptical Pippa.
+Asoka: **"*I guess it wasn't super different from now, except not even Biononymous could leave the caves. I remember when Confinement ended because that was the first time I wore outside clothes and headgear, and then we all went outside to celebrate. Some people kept falling over, and Vovó said it was because they'd become afraid of the sky.*"**
 
-Asoka: **"*...and now they live on the surface, re-growing the Amazon rainforest and hiding from the World Government in* plain sight*.*"**
+Pippa: **"*Why were they afraid of the sky?*"**
 
-Pippa: **"*But how?? They're in the Red Zone, and when *we* tried to hide, the World Government found us anyway...*"**
+Asoka: **"*I guess because they'd been underground for so long, they weren't used to being out in the open?*"**
 
-Asoka: **"*I dunno, maybe the Red Zone is so hot that it's easier to hide your heat signature?*"**
+Pippa: **"*Did you feel afraid?*"**
+
+Asoka smiles nostalgically. 
+
+Asoka: **"*No...Vovó told us to get in a line, me at the front, then my mom, then my dad, and her in the back, and we all held each other while we looked at the stars so none of us would fall down.*"**
+
+Pippa: **"*You were out at night?? Weren't you afraid of werewolves??*"**
+
+Asoka: **"*Oh, don't believe everything Io tells you, werewolves aren't real.*"**
+
+Pippa, unconvinced: **"*How do you know they're not real? Io says the Confinement started because there were too many werewolves, coming out at night and killing people, and now the World Government has killed most of them but not all of them. The only place that werewolves can't go is the Red Zone, but that doesn't matter because we can't go into the Red Zone either...*"**
 
 ### Page 5
 
-Asoka: **"*Maybe when I make Journeyhume, I'll go ask them myself!*"**
+Asoka: **"*Ha! When I make Journeyhume, I'll go to the Red Zone, *and* I'll prove that werewolves aren't real!*"**
+
+Pippa: **"*No way! You'd have to invent a new SynTh cloth to do that!*"**
 
 Iri and Manut play, as Asoka turns towards a delicious smell floating up the valley towards them. 
 
-Asoka: **"*Mmm, smell that? I forgot it's bread day...*"**
+Asoka: **"*Ooo, smell that? I forgot it's bread day today!*"**
 
 Pippa ignores Asoka, a serious look on their small face. 
 
-Pippa: **"*Soka...why do the Orbiters hate us?*"**
+Pippa: **"*Soka...what if you *do* find werewolves? What if they're real?*"**
+
+
+
+
 
 Asoka: **"*Aw, Pippa, I'm sure not every Orbiter hates Earthers...*"**
 
