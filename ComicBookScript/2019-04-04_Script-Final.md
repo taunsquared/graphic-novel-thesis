@@ -964,9 +964,9 @@ Pippa: **"*And is it true that the pipes were also connected to chairs full of f
 
 Asoka: **"*Ha, what?? Who told you that?*"**
 
-Pippa: **"*Io.*"**
+Pippa: **"*...Io...*"**
 
-Asoka: **"*Oh, Pippa, don't believe everything Io tells you...*"**
+Asoka: **"*Pippaaaa, I'm serious, don't listen to Io...*"**
 
 The two children watch the water flow through the gravity-powered aquaduct system, gently scattering moisture onto the plants inside the greenhouse.
 
@@ -992,41 +992,35 @@ Pippa, unconvinced: **"*How do you know? Io says werewolves were killing people 
 
 ### Page 5
 
-Asoka: **"*Ha! When I become a Journeyhume, I'll go to the Red Zone and prove Io wrong!*"**
+Asoka: **"*Ha! When I become a Journeyhume, I'll go to the Red Zone and prove that there are no werewolves!*"**
 
-Pippa: **"*But how? Not even Vovó Iúna's best surface clothes can't protect you in the Red Zone!*"**
+Pippa: **"*But how? No one has surface clothes that can protect you in the Red Zone.*"**
 
-Asoka: **"*I'll just have to make better surface clothes!*"**
+Asoka: **"*Then I'll make better surface clothes!*"**
 
 Iri and Manut play, as Asoka turns towards a delicious smell floating up the valley towards them. 
 
-Asoka: **"*Ooo, smell that? I forgot it's bread day today!*"**
+Asoka: **"*Ooo, smell that? They're making cinnamon rolls today...*"**
 
 Pippa ignores Asoka, a serious look on their small face. 
 
-Pippa: **"*Soka...what if werewolves are real? If you find them, how will you kill them?*"**
+Pippa: **"*But if werewolves aren't real, then why did the World Government keep Earthers underground for so long? Do orbiters really hate us that much?*"**
 
-Asoka: **"*Well, maybe I don't have to kill them...they might be nice, like Iri and Manut.*"**
+Asoka: **"*Well, I'm sure not all Orbiters hate Earthers...*"**
 
-Pippa: **"*No way! Iri and Manut would never hurt anyone, no one's scared of our mechapets...but everyone's scared of werewolves!*"**
-
-
-
-Asoka: **"*Aw, Pippa, I'm sure not every Orbiter hates Earthers...*"**
-
-Pippa: **"*They have so many nice things, like space farms with nicer water and cleaner air...why do they have to take our food, and make Earthers work for them?*"**
-
-Pippa looks glum as the mechapets come over to comfort them. 
+Pippa: **"*Then why do they make life so difficult? It's not fair. Orbiters are selfish and mean.*"**
 
 Pippa: **"*I hate Orbiters...*"**
 
-Asoka smiles kindly and crouches to be face level with Pippa.
+Asoka: **"*Aw, they don't have it *that* much better than we do. We have free water and air, and we have a big sky and trees to climb, hills to run all over...personally, I would hate living in an Orbiter pod...*"**
 
-Asoka: **"*They might have nicer things, but we're more free...our water and air are free, and we get a big sky and trees to climb, hills to run all over...I think I would hate living in an Orbiter pod...*"**
+Pippa looks glum as the mechapets come over to comfort them. 
 
 Pippa: **"*Yeah, I guess so...*"**
 
-Asoka: **"*Tell ya what. I'll finish the weeding if you go save me a hot bun for later.*"**
+Asoka smiles kindly and crouches to be face level with Pippa.
+
+Asoka: **"*Tell ya what. I'll finish up here if you go save me a cinnamon roll for later.*"**
 
 Pippa beams with joy and gratitude. 
 
@@ -1036,11 +1030,9 @@ Pippa: **"*Really? Okay!*"**
 
 Pippa runs off, crow mechapet flying overhead. 
 
-Pippa: **"*Thanks Soka! Come on Manut!*"**
-
 Asoka takes a deep breath, hands resolutely on their hips. 
 
-Asoka: **"*Alright...*"**
+Asoka: **"*Alright. Iri, my love...let's see what our plants need today...*"**
 
 Panels show Asoka and Iri weeding the plants in the greenhouse. Have some nice botany spreads of future plants that have been genetically engineered to deal with a heavy NO2, CO2, and CH4 (Methane) content. The plants need to have ways of reducing their overgrowth thanks to the abundance of CO2 and they need to still sequester enough nutrients for them to be worth growing and eating. What do the 3 sisters (beans, corn, squash) need to change in order to still be a great trio?
 
@@ -1050,33 +1042,37 @@ Asoka: **"*Spin the needle, spin the thread, catch the sunlight, make it bread..
 
 ### Page 7
 
-Asoka: **"*Whew, all done!*"**
+Asoka: **"*Well, that should do it for today!*"**
 
 Asoka wipes their brow. Suddenly, they sniff suspiciously.
 
 Asoka: **"*Huh, does something smell funny to you...?*"**
 
-Suddenly Iri shrieks and goes completely white. Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
+Suddenly Iri shrieks and goes completely white. 
+
+Asoka: **"*Iri!!*"**
+
+Iri begins loudly broadcasting in the generic synthetic voices used by the Biononymous outside the privacy of their home structures. 
 
 Iri: **"*THIS IS AN EMERGENCY BROADCAST FROM GREEN HAVEN HOWES, WE ARE UNDER ATTACK!*"**
 
 Iri collapses into a grey puddle as Asoka rushes over, face veil revealing their terror. 
 
-Asoka: **"*Attack?!*"**
+Asoka: **"*What?!*"**
 
 Asoka scoops up Iri and begins running down the valley.
 
-Iri: **"REPEAT, *WE ARE UNDER ATTA--*"**
+Iri: **"*GREEN HAVEN HOWES IS UNDER ATTA--*"**
 
 Iri suddenly re-animates and broadcasts another voice not its own. 
 
-Iri: **"Soka, can you hear me?? Are you at the orchards??"**
+Iri: **"Soka?? can you hear me?? Are you at the orchards??"**
 
 Asoka clutches Iri to their chest, aghast as they look down the mountainside with terrified eyes at the sight of enormous furred beasts, moving impossibly fast, tearing through their village...
 
-Asoka: **"*Dad??!!*"**
+Asoka: **"*Dad?! What's happening?? You're clear-casting??*"**
 
-Iri/João (Asoka's Dad): **"Soka! Run to the next Haven, don't look back! Do you hear me?? *RUN!!*"**
+Iri/João (Asoka's Dad): **"Run to the next Haven, don't come back! Can you hear me Soka?? *RUN TO THE NEXT HAVEN!! RUN!!*"**
 
 ### Page 8
 
@@ -1084,7 +1080,7 @@ Iri/João (Asoka's Dad): **"Soka! Run to the next Haven, don't look back! Do you
 
 It's night. A village with a central housing structure identical to Asoka's home village, also surrounded by greenhouses, sleeps tranquilly amongst rolling hills and a soft, nearly full moon. A faint orange glow is visible in one corner of the central housing structure. 
 
-Serena, off-panel: **"I'm sorry, did you say...*werewolves??*"**
+Serena, off-panel: **"I'm sorry Asoka, did you say...*werewolves??*"**
 
 Inside, Asoka is kneeling, head bowed. They are wearing clean trousers and sleeveless shirt, but their feet, hands, and head are bare. Asoka's long reddish hair is tied back in a loose ponytail, and Asoka hugs Iri, who is cuddled up to Asoka in their lap. Before Asoka is a large steaming mug of hot tea, but Asoka hasn't touched it. Tears run down their face, past an upper lip that shows just the tiniest hints of fuzzy hair. 
 
