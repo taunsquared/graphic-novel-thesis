@@ -1,8 +1,6 @@
 # The First V.I.R.S.("verse") [CURRENTLY IN PROGRESS]
 
-Oh good! You've arrived. 
-
-This annotated script will be published as a "companion booklet" to the graphic novel, for those interested in taking a deeper dive into the science that inspired various aspects of the story. 
+References from this annotated script will be published in the graphic novel, for those interested in taking a deeper dive into the science that inspired various aspects of the story. 
 
 *"Dialogue in italics are thoughts of characters."*
 
@@ -1295,7 +1293,19 @@ Asoka begins to carefully peel a potato, face veil twisted into a resigned grima
 
 **"18 days ago..."**
 
-We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
+We are back at Green Haven Clarksville, the morning after Asoka arrived and received sanctuary. 
+
+Asoka: **"How could I do anything to help? I'm still just an apprentice..."**
+
+Eireena: **"Asoka, do you know why we were kept in Confinement all those years?"**
+
+Asoka: **"...my Vovó says it was to punish us for helping runaway Orbiters sent to the World Government mines, and so that they could enforce the Tithe..."**
+
+Eireena: **"That's right. Do you also remember how Confinement ended?"**
+
+Asoka: 
+
+
 
 Eireena: **"Apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission..."** 
 

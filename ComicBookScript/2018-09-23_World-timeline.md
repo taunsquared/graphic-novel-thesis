@@ -180,13 +180,17 @@ The official Orbiter population (both refugee and original) is now just over 39,
 
 Space University establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the socio-economic elite of the orbiters.
 
+The World Government imposes a food and minerals tithe from Earthers, requiring all Underground Cities and Green Havens to deliver 10 percent of their yearly yield of crops and mineral resources to their resident Peacekeepers. The Space Ferries fleet resumes regular trips between planetside launch stations and the space arboretums, operating at an average of one trip every 3 months. 
+
 ### 2100, or Year 32 A.B. (7th year of The Confinement)
 
 One year of work as service staff with the **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
 
-The Space Ferries fleet resumes its daily trips between planetside launch stations and the space arboretums. 
+Thanks to the increased resources available to the World Government, the Space Ferries begin operating once a month. 
 
 ### 2105, or Year 37 A.B. (12th and Final year of The Confinement)
+
+The Space Ferries now operate once every week. 
 
 Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The Biononymous lobby for greater autonomy. Comfortable with its perceived absolute power over both Earther and Orbiter spheres of influence, the World Government declares the end of Confinement and grants Earthers the "freedom to surface" as a gesture of good will -- practically, however, the unequal distribution of resources and education means that only the Biononymous have the means to safely leave the Underground Cities as they choose. The World Government, the Biononymous, and the Underground Cities sign a new treaty, which grants the Underground Cities greater self-governance and bans World Government military presence from the Biononymous Green Havens, while establishing a system of tithes from the Underground Cities and the Biononymous to the World Government and the Orbiters. 
 
