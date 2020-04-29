@@ -172,17 +172,19 @@ Construction on **SPACE UNIVERSITY STATION** is completed.
 
 ### 2093, or Year 25 A.B. (beginning of The Confinement)
 
-Space University holds welcomes its first cohort of students, ranging in age from 18 to 55. Most are original orbiters, a tiny fraction are refugees or descended from refugees; by now this distinction is starting to lose credibility in most contexts.  
+Space University holds welcomes its first cohort of students, ranging in age from 18 to 55. Most are original orbiters, a tiny fraction are refugees or descended from refugees; by now this distinction is starting to lose relevance in most contexts.  
 
-The official Orbiter population (both refugee and original) is now just over 39,000. Suspicions about the high rate of dead or missing refugee miners leads to the World Government discovering the Underground Railroad, which has now branched out into a secret network of smugglers both to and from orbit. The World Government responds with a furious assertion of its power, rounding up several leaders of the Underground Railroad and publicly executing them, and shutting down or taking over most of the black market activity going on between planetside and orbit. The World Government also imposes a strict curfew on all Underground Cities and establishes a strong military presence in each Underground City to hunt down runaway orbiters. Thus begins what the Earthers later call the Years of Confinement, and what the Orbiters call The Occupation. 
+The official Orbiter population (both refugee and original) is now just over 39,000. Suspicions about the high rate of dead or missing refugee miners leads to the World Government launching an aggressive military-backed investigation that discovers an enormous, thriving black market of not just humans but also goods and services both to and from orbit. The World Government also imposes a strict curfew on all Underground Cities and establishes a strong military presence in each Underground City to hunt down runaway orbiters and to attempt to control the other black market activity. Thus begins what the Earthers later call the Years of Confinement, and what the Orbiters call The Occupation. 
 
 ### 2096, or Year 28 A.B. (3rd year of The Confinement)
 
-Space University establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the socio-economic elite of the orbiters.
-
-The World Government imposes a food and minerals tithe from Earthers, requiring all Underground Cities and Green Havens to deliver 10 percent of their yearly yield of crops and mineral resources to their resident Peacekeepers. The Space Ferries fleet resumes regular trips between planetside launch stations and the space arboretums, operating at an average of one trip every 3 months. 
+The World Government violently imposes a food and minerals tithe from Earthers, requiring all Underground Cities and Green Havens to deliver 10 percent of their yearly yield of crops and mineral resources to their resident Peacekeepers. The Space Ferries fleet resumes regular trips between planetside launch stations and the space arboretums, operating at an average of one trip every 3 months. 
 
 ### 2100, or Year 32 A.B. (7th year of The Confinement)
+
+Space University establishes the **International Space Exploration Corps** in order to develop and maintain the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University, and it quickly becomes popular amongst the socio-economic elite of the orbiters.
+
+### 2103, or Year 35 A.B. (10th year of The Confinement)
 
 One year of work as service staff with the **International Space Exploration Corps** becomes a required "civil service" for all humans, but many Orbiters find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. 
 
@@ -192,7 +194,9 @@ Thanks to the increased resources available to the World Government, the Space F
 
 The Space Ferries now operate once every week. 
 
-Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The Biononymous lobby for greater autonomy. Comfortable with its perceived absolute power over both Earther and Orbiter spheres of influence, the World Government declares the end of Confinement and grants Earthers the "freedom to surface" as a gesture of good will -- practically, however, the unequal distribution of resources and education means that only the Biononymous have the means to safely leave the Underground Cities as they choose. The World Government, the Biononymous, and the Underground Cities sign a new treaty, which grants the Underground Cities greater self-governance and bans World Government military presence from the Biononymous Green Havens, while establishing a system of tithes from the Underground Cities and the Biononymous to the World Government and the Orbiters. 
+Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The World Government captures several major smugglers and the self-declared "pirate lords" of the black market and publicly executes them. Simultaneously, the World Gov shuts down or takes over most of the black market activity going on between planetside and orbit. 
+
+The recently newly elected Secretary-General of the WG decides that it's time to declare the end of Confinement and grants Earthers the "freedom to surface" as a gesture of good will -- practically, however, the unequal distribution of resources and education means that in the vast majority of cases only the Biononymous have the means to safely leave the Underground Cities as they choose. The World Government, the Biononymous, and the Underground Cities sign a new treaty, which grants the Underground Cities greater self-governance and bans World Government military presence from the Biononymous Green Havens, in exchange for a tithe of 30 percent from the Underground Cities and the Biononymous to the World Government and the Orbiters. 
 
 ### 2116, or Year 48 A.B.
 
