@@ -1090,7 +1090,7 @@ They are all sitting inside a warmly lit room with a shrine centered along one w
 
 Asoka: **"I *knew* you wouldn't believe me..."**
 
-The woman with dark curling hair, still lost in deep thought: **"Oh, we believe you. Myself and other Guardians have also seen large wolf-like things, brief glimpses of one or two creatures, sulking in the woods...Fili's been collecting the reports."**
+The woman with dark curling hair, still lost in deep thought: **"Oh, we believe you. Myself and other Guardians have also seen large wolf-like things...but only brief glimpses of creatures sulking in the woods...Fili's been collecting the reports."**
 
 The man: **"But Serena, this is the first time I've heard of them attacking a Haven, or moving in such large groups..."**
 
@@ -1104,21 +1104,19 @@ Biononymous man: **"High Priestess!"**
 
 Eireena: **"Charlie? What's wrong?"** 
 
-Charlie: **"Apologies for the interruption, but World Government Peacekeepers have just arrived. They request an audience with the High Priestess immediately."**
+Charlie: **"Apologies for the interruption, but World Government Peacekeepers have just arrived. They request an audience with you and the Captain of the Guardians immediately."**
 
 Serena, raises an eyebrow. Her eye has a hard glint.  
 
-Serena: **"Immediately? At this indecent hour?"** 
+Serena: **"Immediately? This late at night? Interesting timing."** 
 
-Eireena: **"Interesting timing. Charlie, please let the Peacekeepers know Serena and I will be with them shortly."**
+Eireena: **"Charlie, please let the Peacekeepers know Serena and I will be with them shortly."**
 
 Charlie bows and exits. Eireena stands and looks down at Asoka, who is still kneeling with their head down, unable to look up or stand, tears streaming down their face. 
 
-Eireena: **"It could be a coincidence...until we know more, Asoka is under our protection, and has sanctuary with us."**
-
 Eireena puts on her face veil. 
 
-Eireena: **"*Fili, please set up a bed for Asoka in the infirmary. I would also appreciate a review of your notes on these wolf-creatures in the morning.*"**
+Eireena: **"*Fili, please set up a bed for Asoka in the infirmary. They are under our protection, and have sanctuary with us. I would also appreciate a review of your notes on these wolf-creatures in the morning.*"**
 
 Fili bows: **"Yes, High Priestess."**
 
@@ -1126,73 +1124,71 @@ Fili bows: **"Yes, High Priestess."**
 
 It is the next morning. Asoka sits on the edge of their bed in the infirmary, a thick, sturdy floor mattress in the style of Japanese shikibutons, on top of a floor made of tiled [tatamis](https://en.wikipedia.org/wiki/Tatami). Asoka's bare feet are on the tatami, knees bent up under their folded arms, in which they rest their head. Their eyes are tired and puffy. Iri tenderly combs Asoka's hair with its arms as it cuddles in the space between Asoka's knees and chest. Fili pushes back the door tapestry to Asoka's room, carrying a tray of food. Fili is also barefoot and without his face veil or jacket. 
 
-Fili: **"Good morning. Did you sleep at all?"**
+Fili: **"Hello. Did you sleep at all?"**
 
 Asoka, without looking up, straightens their back and lowers their knees into a cross-legged sitting position. They look too dejected to talk. Iri timidly peers at Fili from around Asoka's arms, which still hold Iri close. 
 
 Fili sets down the tray and sits across from Asoka, whose eyes have started to leak tears again. Fili looks at Asoka sadly, then gives a little smile. 
 
-Fili: **"Fresh raspberries? Just picked them this morning."**
+Fili: **"Raspberries? I picked them just this morning."**
 
 Asoka doesn't react. Fili tries again. 
 
-Fili: **"You said your mechapet's name is Iri? Is that short for iridescent?"**
+Fili: **"I was told to feed you plenty of protein...we're pretty far from your Haven, and you must have run the whole way..."**
 
 Asoka still shows no reaction. Fili's smile drops and he looks down. 
 
-Fili: **"It's ok to feel pain, but please...eat something. It's even harder to process difficult emotions when you're hungry."**
+Fili: **"...even if you don't feel hungry, you should eat something..."**
 
-Asoka finally looks at Fili. After a moment, Asoka reaches for a raspberry. Fili smiles encouragingly. 
+Asoka: **"Fili?"**
+
+Fili: **"Yes?"**
+
+Asoka finally looks at Fili. 
+
+Asoka: **"If you all already knew about the werewolves...why didn't you *warn* us?"**
+
+Still staring at Fili, now almost accusingly, Asoka reaches for a raspberry. 
+
+Fili: **"I...I'm sorry...we didn't--"**
 
 ### Page 11
 
-A scratch at the door. Eireena enters with Serena. Fili stands and bows. 
+Eireena enters with Serena. 
 
-Fili: **"Ah, High Priestess! Good morning."**
+Eireena: **"Until you came to us last night, we weren't sure ourselves whether these creatures were real."**
 
-Asoka also stands, abruptly remembering their manners as Iri darts to their shoulder and hides behind their hair. While standing, Asoka knocks over the raspberries. Asoka looks mortified. Asoka rushes to pick up the scattered raspberries. Eireena holds up a hand to stop Asoka and smiles wryly as Serena calmly gathers the rest of the raspberries, which mostly scattered in her direction anyway. 
+Fili hurriedly stands and bows. 
 
-Eireena: **"Those should all be in your mouth already."**
+Fili: **"High Priestess!"**
 
-Serena returns the raspberries to their bowl, and Fili exits. Asoka sits on their bed futon, obediently shoving a raspberry into their mouth, while Serena and Eireena sit on floor cushions. 
+Asoka: **"But you said you had reports--!"**
 
-Asoka: **"Sorry, I'm still a little jumpy..."**
+Distressed, Asoka tries to also stand, but in the process knocks over the raspberries. At the same time, Asoka's stomach lets out an enormous growling noise. Asoka looks mortified. Asoka rushes to pick up the scattered raspberries. Eireena holds up a hand to stop Asoka and smiles wryly as Serena calmly gathers the rest of the raspberries, which mostly scattered in her direction anyway. 
 
-Eireena: **"Of course. Yesterday was a tragedy, and you will need time to process and heal."**
+Eireena: **"Once you've filled your belly with some food, I'll explain."**
 
-Asoka: **"Thanks...um, High Priestess?"**
+Serena returns the raspberries to their bowl. Asoka sits on their bed futon, obediently shoving a raspberry into their mouth, while Serena and Eireena settle onto floor cushions. 
 
-Eireena: **"Yes?"**
+Asoka: **"Sorry..."**
 
-Asoka: **"Why did the Peacekeepers come last night? Was it...was it about the werewolves?"**
+Eireena: **"It's alright. Yesterday was a tragedy, and we owe you some explanations. It's true that we've seen the creatures you call werewolves, but never clearly, never in large groups, and certainly never within a Haven. What happened to Green Haven Howes is both terrible and new."**
 
-Eireena: **"...Are you sure you want to hear this now?"**
-
-Asoka hesitates, momentarily scared and pained. Then they meet Eireena's gaze.
-
-Asoka: **"Yes."**
+Asoka: **"But then...how come we have so many stories about werewolves?"**
 
 ### Page 12
 
-Eireena: **"Very well. Last night, Lieutenant Colonel Santiago Garcia of the World Government Peacekeepers informed me that due to overcrowding in the Underground Cities, all Biononymous must now be permanently housed above ground. Given what happened to your Haven last night, you can imagine why this concerns us..."**
+Eireena: **"Stories have a funny way of carrying truth in a basket full of convenient distractions...even though many Biononymous are convinced that stories of werewolves were rumours meant to scare Earthers into staying underground during Confinement...now we dress up those rumours and tell them to our children to keep them from wandering too far..."**
+
+Asoka: **"So it's all just stories? Then why are you collecting reports on them?"**
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
-Serena: **"When I shared our reports of the wolf-creatures and our concerns about the safety of the Havens, the Colonel insisted on leaving 10 Peacekeepers here for our protection, even after we reminded him that Biononymous law forbids any military presence in the Havens. We couldn't refuse, given the circumstances."**
+Serena: **"At first we didn't. Even Guardians joked about it, made fun of anyone who claimed to see one...how could there be huge carnivores roaming a land with nothing for them to hunt, where there are barely enough insects and birds to pollinate the plants? But about 6 years ago, we had a strange visitor, who claimed she'd been living on the surface...she was terrified, and begged for sanctuary...when we asked her why she was so afraid, she told us she was being hunted by werewolves controlled by the World Government. It sounded completely ridiculous, but the next morning, Peacekeepers showed up and tried to force their way into the Haven to search for 'a dangerous criminal'. By the time we got rid of them, the strange woman was also gone..."**
 
-Asoka: **"But...if they really want to protect us, 10 Peacekeepers won't be enough! The werewolves are huge, and the pack yesterday was at least 4 strong..."**
+Asoka: **"Wait...are you saying that werewolves are controlled by the World Government??"**
 
-Serena: **"For the record, the colonel didn't look surprised at *all* when we mentioned the wolf creatures."**
-
-Asoka: **"I don't understand...don't they need us to grow food for them? If they're gonna break our laws, why don't they give us some real protection?"** 
-
-Eireena now looks hard at Asoka. 
-
-Eireena: **"...Asoka, when did you make apprentice?"**
-
-Asoka: **"Two years ago, on my 14th birthday. Why?"**
-
-Eireena: **"I see. I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
+Serena: **"We're not sure yet. Would you like to help us find out?"**
 
 ## Diagram 3: Major Neurotransmitters
 
@@ -1241,11 +1237,11 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"Finished loading...'A Beginner's Guide to SynTh: SynTh Splicing'; [Classification: *Clearance*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In theory, SynTh can be genetically modified to integrate with living cells, using a process derived from the [CRISPR/Cas gene editing system](https://en.wikipedia.org/wiki/CRISPR#Use_for_gene_editing). The SynTh-spliced host cells would have modified organelles and cell parts, such as [membrane proteins](https://en.wikipedia.org/wiki/Membrane_protein) that can hold or transport a much higher concentration of [ions](https://en.wikipedia.org/wiki/Ion) at once, allowing them to generate very powerful electromagnetic events within biological tissue while safely dealing with any undesired thermal effects. To date, both flexible and fixed SynTh-splicing has only been successful in tissue cultures [in vitro](https://en.wikipedia.org/wiki/In_vitro). However, reconfiguring spliced SynTh has proven easier than reconfiguring stitched SynTh. SynTh was spliced with living cells [in vivo](https://en.wikipedia.org/wiki/In_vivo) for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw SynTh and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also discovered a method for splicing SynTh with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
+**"In theory, SynTh can be genetically modified to integrate with living cells, using a process derived from the [CRISPR/Cas gene editing system](https://en.wikipedia.org/wiki/CRISPR#Use_for_gene_editing). The SynTh-spliced host cells would have modified organelles and cell parts, such as [membrane proteins](https://en.wikipedia.org/wiki/Membrane_protein) that can hold or transport a much higher concentration of [ions](https://en.wikipedia.org/wiki/Ion) at once, allowing them to generate very powerful electromagnetic events within biological tissue while safely dealing with any undesired thermal effects. To date, both flexible and fixed SynTh-splicing has only been successful in tissue cultures [in vitro](https://en.wikipedia.org/wiki/In_vitro). However, reconfiguring spliced SynTh has proven easier than reconfiguring stitched SynTh. SynTh was spliced with living cells [in vivo](https://en.wikipedia.org/wiki/In_vivo) for the first time just before the Global Water Crisis. In 2076, a research group led by Dr. Majhee Suh published a protocol for growing biofilms using raw SynTh and [*Anabaena*](https://en.wikipedia.org/wiki/Anabaena), a genus of cyanobacteria. It is rumoured that this same team also developed a method for splicing SynTh with eukaryotic cells, but all records of this research were lost during the Global Water Crisis..."**
 
 ### Page 1
 
-**"Somewhere off the eastern edge of the [Caribbean Sea](https://en.wikipedia.org/wiki/Caribbean_Sea)..."**
+**"June 28, 2116: Somewhere off the eastern edge of the [Caribbean Sea](https://en.wikipedia.org/wiki/Caribbean_Sea)..."**
 
 We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water, shadowed by a [thick, dark blanket of plastic waste floating up above on the surface](https://en.wikipedia.org/wiki/North_Atlantic_garbage_patch). A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV, surrounded by [additional human industrial waste that has sunk to the sea floor](https://www.nature.com/articles/s41559-016-0051), has just cut the cable. We see an exhilerated Iri taking its first swim in a real ocean, sending bubbles and ripples through the [microplastics floating in the water](https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006/pdf). 
 
@@ -1271,15 +1267,23 @@ Next panel, we see 2 fewer potatoes.
 
 For one surreal moment (panel), we're back on a hillside near Asoka's Home Haven. A gleeful Pippa runs with their arms outstretched, imitating a flying beast as Pippa's mechapet Manut flies overhead. Iri blissfully wallows in a huge pile of fallen leaves. The colours are an autumn riot. This daydream/flashback should take up the largest panel on the page. 
 
+Asoka: *"Pippa, come jump in the leaves!"*
+
+Pippa: *"One sec, I wanna get a cinnamon roll!"*
+
+Asoka: *"No, wait, Pippa, don't go! **Pippa!!**"*
+
 Suddenly Asoka hears a "ZIIIIP!" noise above their heads.
 
 A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
-Iri: *"This one's still hot!"*
+Iri: *"Chirrrp?"*
 
-Asoka: *"Thanks..."*
+Asoka, annoyed: *"Use your words, Iri, we need to practice."*
 
-Iri: *"I'm sure we're almost there!"*
+Iri: *"Potato!"*
+
+Asoka: *"Great, another potato...don't Peacekeepers eat anything else??"*
 
 Iri disappears, and Asoka pushes the cutout of metal back into the ceiling. They take out what look like fabric tape from their utility belt and seal the cutout. After a moment, the fabric tape seemingly melts into the surrounding metal, and it was as if there had never been a hole in the ceiling. 
 
@@ -1289,7 +1293,7 @@ Asoka begins to carefully peel a potato, face veil twisted into a resigned grima
 
 *--flashback--*
 
-**"8 days ago..."**
+**"18 days ago..."**
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and begged for sanctuary. 
 
@@ -1382,6 +1386,12 @@ Asoka: **"Did...the Beasts...attack my haven...because of *this*?"**
 Asoka looks pained, eyes closed with guilt -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Eireena places a hand on Asoka's shoulder, gentle but grim. 
 
 Eireena: **"It's a heavy gift to bear. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of finding these people in the Amazon."**
+
+Eireena: **"...Asoka, when did you make apprentice?"**
+
+Asoka: **"Two years ago, on my 14th birthday. Why?"**
+
+Eireena: **"I see. I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
 
 *--end flashback--*
 

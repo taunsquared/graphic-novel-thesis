@@ -124,7 +124,7 @@ Meanwhile, in São Paulo, Majhee and her colleagues have just successfully splic
 
 Iúna flees with her son João into caves in Vermont to escape the huge clouds of hydrogen flouride.
 
-Massive fluctuations of electromagnetic radiation from sun flares completely disrupt planetside digital computing technology infrastructures. The vast majority of servers worldwide are wiped clean. 
+Massive fluctuations of electromagnetic radiation from sun flares completely disrupt planetside digital computing technology infrastructures. The vast majority of servers worldwide are wiped clean, and power grids go down. 
 
 Amid the chaos, nearly 60,000 planetside humans swarm onto Space Ferries to flee into orbit. The Space Ferries are overcrowded and the Space Consortium fears that too many people will try to come up into orbit and overload their resources, so they decide that, after one last trip, the Space Ferries would remain docked at the Orbital stations and not return to planetside until planetside has stabilized. 
 
@@ -172,7 +172,7 @@ Construction on **SPACE UNIVERSITY STATION** is completed.
 
 ### 2093, or Year 25 A.B. (beginning of The Confinement)
 
-Space University holds welcomes its first cohort of students, ranging in age from 18 to 55. Most are original orbiters, a tiny fraction are refugees or descended from refugees; however, by now this distinction is starting to lose relevance.  
+Space University holds welcomes its first cohort of students, ranging in age from 18 to 55. Most are original orbiters, a tiny fraction are refugees or descended from refugees; by now this distinction is starting to lose credibility in most contexts.  
 
 The official Orbiter population (both refugee and original) is now just over 39,000. Suspicions about the high rate of dead or missing refugee miners leads to the World Government discovering the Underground Railroad, which has now branched out into a secret network of smugglers both to and from orbit. The World Government responds with a furious assertion of its power, rounding up several leaders of the Underground Railroad and publicly executing them, and shutting down or taking over most of the black market activity going on between planetside and orbit. The World Government also imposes a strict curfew on all Underground Cities and establishes a strong military presence in each Underground City to hunt down runaway orbiters. Thus begins what the Earthers later call the Years of Confinement, and what the Orbiters call The Occupation. 
 
@@ -189,3 +189,12 @@ The Space Ferries fleet resumes its daily trips between planetside launch statio
 ### 2105, or Year 37 A.B. (12th and Final year of The Confinement)
 
 Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, and the harsh austerity of The Confinement. The Biononymous lobby for greater autonomy. Comfortable with its perceived absolute power over both Earther and Orbiter spheres of influence, the World Government declares the end of Confinement and grants Earthers the "freedom to surface" as a gesture of good will -- practically, however, the unequal distribution of resources and education means that only the Biononymous have the means to safely leave the Underground Cities as they choose. The World Government, the Biononymous, and the Underground Cities sign a new treaty, which grants the Underground Cities greater self-governance and bans World Government military presence from the Biononymous Green Havens, while establishing a system of tithes from the Underground Cities and the Biononymous to the World Government and the Orbiters. 
+
+### 2116, or Year 48 A.B.
+
+June 7: Green Haven Clarksville is attacked by a pack of enormous, mysterious beast creatures. Late that night, Asoka arrives at Green Haven Howes and is granted sanctuary. 
+
+June 8: Asoka is promoted to the rank of Journeyhume and accepts the mission to infiltrate the World Government Peacekeepers. Asoka is gifted a set of 'cuttlefish cloth' surface clothes, developed in secret by their grandmother Iúna. 
+
+June 19: 
+
