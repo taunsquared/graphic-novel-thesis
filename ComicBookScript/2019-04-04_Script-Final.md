@@ -1301,9 +1301,9 @@ Eireena: **"Asoka, do you know why we were kept in Confinement all those years?"
 
 Asoka: **"...my Vovó says it was to punish us for helping runaway Orbiters sent to the World Government mines, and so that they could enforce the Tithe..."**
 
-Eireena: **"That's right. Do you also remember how Confinement ended?"**
+Eireena: **"That's right. So why did Confinement end?"**
 
-Asoka: 
+Asoka: **"
 
 
 
