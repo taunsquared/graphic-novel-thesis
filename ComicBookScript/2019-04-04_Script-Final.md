@@ -942,7 +942,7 @@ Pippa: **"*You mean SynTh? I thought (mmff!) we're the only ones (hhu! hhu!) all
 
 At the top of the path, slightly above the row of greenhouses, is a row of spigots with hose attachments. Asoka carefully places their barrel against a rusted metal barrel holder. 
 
-Asoka: **"*Vovó Iúna was *forced* to make SynTh a Biononymous secret, because if she didn't, the World Government would've taken the Havens away from us. But back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
+Asoka: **"*Vovó Iúna was* forced *to make SynTh a Biononymous secret, because if she didn't, the World Government would've taken the Havens away from us. But back before the Burning, Majhee was the first person to figure out how to grow thread worms, and she shared her recipes with everyone, for free!*"**
 
 Pippa crouches in front of the barrel and struggles with the hose attachments. 
 
@@ -1275,13 +1275,13 @@ Suddenly Asoka hears a "ZIIIIP!" noise above their heads.
 
 A circlular cutout of the metal wall panel above Asoka gets pushed down into the bilge space as Iri appears with two aluminum foil wrapped potatoes and hands them to Asoka. Iri is trying very hard to look cheerful, and Asoka looks desperately hungry yet completely unenthused by yet another meal of potatoes. 
 
-Iri: *"Chirrrp?"*
+Iri: **"Chirrrp?"**
 
-Asoka, annoyed: *"Use your words, Iri, we need to practice."*
+Asoka, annoyed: **"Use your words, Iri, we need to practice."**
 
-Iri: *"Potato!"*
+Iri: **"Potato!"**
 
-Asoka: *"Great, another potato...don't Peacekeepers eat anything else??"*
+Asoka: **"Great, another potato...don't Peacekeepers eat anything else??"**
 
 Iri disappears, and Asoka pushes the cutout of metal back into the ceiling. They take out what look like fabric tape from their utility belt and seal the cutout. After a moment, the fabric tape seemingly melts into the surrounding metal, and it was as if there had never been a hole in the ceiling. 
 
@@ -1291,43 +1291,41 @@ Asoka begins to carefully peel a potato, face veil twisted into a resigned grima
 
 *--flashback--*
 
-**"18 days ago..."**
+**"20 days ago..."**
 
 We are back at Green Haven Clarksville, the morning after Asoka arrived and received sanctuary. 
 
-Asoka: **"How could I do anything to help? I'm still just an apprentice..."**
+Asoka: **"What do you mean, help you find out?"**
 
-Eireena: **"Asoka, do you know why we were kept in Confinement all those years?"**
+Eireena: **"It's a bit of a long story...Asoka, what do you know about the Confinement?"**
 
-Asoka: **"...my Vovó says it was to punish us for helping runaway Orbiters sent to the World Government mines, and so that they could enforce the Tithe..."**
+Asoka: **"Confinement? Um...it started because the Pirate Lords kidnapped a Space University professor who killed a bunch of Exiles with unethical SynTh-splicing experiments...right?"**
 
-Eireena: **"That's right. So why did Confinement end?"**
-
-Asoka: **"
-
-
-
-Eireena: **"Apparently, stationing troops at the Green Havens wasn't Lieutenant Colonel Garcia's original mission..."** 
-
-Serena: **"The Orbiters are all going nuts right now over some satellite footage...they think they've found humans *re-growing the Amazon rainforest*. If an entire nuclear submarine wasn't on its way over there, I'd say it's a joke...*no one* can live in the Red Zone..."**
-
-Serena rolls her eyes with huge disappointment and disbelief. 
-
-Serena: **"Also, I can't believe some of these Peacekeepers -- they were talking about *'magical tree people'*, and going on about how to *'civilize'* an *'un-contacted tribe'*. Idiots. If these people made it back to the surface, in the *Red Zone*, they are much more likely to be *highly advanced*."**
+Serena: **"Not just that. The Originals were doing all sorts of nasty things to the Exiles, like forcing them to work in mines or on construction without proper gear or compensation...basically, space-age slavery. And the World Government was looking the other way even while sending more and more Peacekeepers to the Underground Cities, and bribing Earther politicians to increase the Tithe and make it difficult for Exiles to come back to Earth legally. So when the Pirate Lords made their move, everyone and everything was already super tense. That's why it exploded into such a crazy authoritarian occupation."**
 
 ### Page 5
 
-Eireena: **"This morning, we convened an emergency High Council of all the North America and Europe Havens, to discuss whether we should try to make contact before the Peacekeepers do. There are...*conflicting*...opinions...in the end, we decided to leave the choice up to *you*."**
+Serena: **"So many folks were in terrible situations. We gave sanctuary to as many as we could, but we were running out of room, and we knew if Confinement went on for much longer, Peacekeepers might also invade the Havens."**
 
-Asoka and Iri realise that everyone is looking at them. They exchange a glance. 
+Eireena: **"To be honest, it's still a possibility...Confinement may be over, but things are still tense..."**
 
-Asoka: **"Me? Why would you do that?"**
+Eireena turns to Asoka and Iri.
 
-Serena: **"Your generation is the first to grow up with mechapets...and you need a mechapet if you're going to wear it."**
+Eireena: **"Which brings us to Iúna."**
 
-Asoka: **"Wear what?"**
+Asoka and Iri exchange a glance, surprised. 
 
-Eireena: **"Eat your raspberries, and come with me please. Bring the oatcakes and juice."**
+Asoka: **"Iúna...you mean my Vovó??"**
+
+Serena: **"Yes. Did she ever tell you about how she used to work with Majhee, before the Burning?"**
+
+Asoka: **"Majhee...you mean, from 'Majhee's Exodus'??"**
+
+Eireena: **"Exactly. Just after the World Government executed the Pirate Lords, Iúna managed to get in touch with her again."**
+
+Asoka: **"But...aren't they in the *Red Zone*??"**
+
+Eireena: **"Yes, well...I think it's time to show you something. Come with us please."**
 
 ### Page 6
 
@@ -1338,6 +1336,12 @@ They reach a large tapestry mural depicting The Burning, and the procession slow
 Next, the mural moves on to when the Biononymous, led by Mother Bird, the First Weaver, are able to make their way back to Mother Bird's textile factories, and recover not only miles upon miles of top quality air-and-water-filtering organzas, but also the means to make more. This allows the Biononymous to create living and farming structures above ground. 
 
 The final scene of the mural shows the Space Ferries coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
+
+Eireena: **"The Burning...officially known as The Global Water Crisis...but it was much more than a crisis of water. "**
+
+
+
+
 
 Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 7 years later. To think that Howes Cave City abandoned you after *26 years* of farming service..."**
 
