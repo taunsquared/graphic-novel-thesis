@@ -1301,17 +1301,17 @@ Eireena: **"It's a bit of a long story...Asoka, what do you know about the Confi
 
 Asoka: **"Confinement? Um...it started because the Pirate Lords kidnapped a Space University professor who killed a bunch of Exiles with unethical SynTh-splicing experiments...right?"**
 
-Serena: **"Not just that. The Originals were doing all sorts of nasty things to the Exiles, like forcing them to work in mines or on construction without proper gear or compensation...basically, space-age slavery. And the World Government was looking the other way even while sending more and more Peacekeepers to the Underground Cities, and bribing Earther politicians to increase the Tithe and make it difficult for Exiles to come back to Earth legally. So when the Pirate Lords made their move, everyone and everything was already super tense. That's why it exploded into such a crazy authoritarian occupation."**
+Serena: **"Not just that. The Originals were doing all sorts of nasty things to the Exiles, like forcing them to work without proper gear or compensation...basically, space-age slavery. And the World Government was looking the other way even while sending more and more Peacekeepers to the Underground Cities, and bribing Earther politicians to increase the Tithe and make it difficult for Exiles to come back to Earth legally. So when the Pirate Lords made their move, everyone and everything was already super tense. That's why it exploded into such a crazy authoritarian occupation."**
 
 ### Page 5
 
 Serena: **"So many folks were in terrible situations. We gave sanctuary to as many as we could, but we were running out of room, and we knew if Confinement went on for much longer, Peacekeepers might also invade the Havens."**
 
-Eireena: **"To be honest, it's still a possibility...Confinement may be over, but things are still tense..."**
+Eireena: **"It's still a possibility...there may be a treaty, but Peacekeepers are everywhere..."**
 
 Eireena turns to Asoka and Iri.
 
-Eireena: **"Which brings us to Iúna."**
+Eireena: **"Which brings us to High Pristess Iúna."**
 
 Asoka and Iri exchange a glance, surprised. 
 
@@ -1337,17 +1337,19 @@ Next, the mural moves on to when the Biononymous, led by Mother Bird, the First 
 
 The final scene of the mural shows the Space Ferries coming back to Earth, as the Orbiters return to plant the flag of the World Government on the planet. Eireen runs her hand along the World Government flag embroidered into the mural. 
 
-Eireena: **"The Burning...officially known as The Global Water Crisis...but it was much more than a crisis of water. "**
+Eireena: **"A quick stop here. You know this story, don't you?"**
 
+Asoka: **"*'Mama Bird'*...Vovó..."**
 
+Eireena: **"Her determination to continue her thread-worm research, even while stuck underground with no tools and no hope...she's the reason why we made it back to the surface in less than 10 years."** 
 
+Asoka: **"Vovó told me people aren't meant to stay in the dark their whole lives...our hearts belong to the sun and sky and trees...she said, no matter what, people would always find their way back..."**
 
+Serena: **"She said the same about Majhee and thank goodness she was right! We needed a safe place for the Exiles, somewhere no Peacekeeper would dare to go..."**
 
-Eireena: **"The Global Water Crisis...what you know as 'The Burning'...it's incredible that Iúna got the Biononymous back above ground just 7 years later. To think that Howes Cave City abandoned you after *26 years* of farming service..."**
+Asoka: **"You mean, you sent Exiles to the Red Zone? But...how??"**
 
-Serena: **"Everyone was so grateful when the Biononymous first got above ground and put fresh food back into people's diets, but now they treat us like we're a bunch of Orbiter bots! Ever since the Orbiters came back 16 years ago and declared themselves the 'World Government', the Underground Cities have gotten more and more hostile towards the Biononymous..."**
-
-Eireena: **"...this might sound ridiculous, but I wouldn't be shocked if the Beasts were created by the Orbiters as an excuse to interfere with the Havens...why else would their first target be Green Haven Howes? Space Consortium has been after Iúna's SynTh splicing techniques for decades..."**
+Eireena: **"Come."**
 
 ### Page 7
 
@@ -1355,11 +1357,15 @@ Further along in the hallway, Eireena pulls back a part of the tapestry wall, wh
 
 Eireena: **"Please, step inside."**
 
-Serena opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Neatly folded in the bottom of the dresser is a utility belt on top of a large cloth satchel. Asoka looks closer and gasps -- there are tiny beaver and sugar maple motifs, the style of their home Haven! Asoka reaches with their hand, then hesitates. 
+Serena opens the tall wooden dresser. Inside is an exquisite outfit of the Biononymous, embroidered in elaborate tiny patterns and dressed on a flat mannequin. Neatly folded in the bottom of the dresser is a utility belt on top of a large cloth satchel. Asoka looks closer and gasps -- there are tiny beaver and sugar maple motifs, the style of their home Haven! 
 
-Asoka: **"May I?"**
+Asoka: **"Those are the markings of Green Haven Howes!"**
 
-Serena: **"It's yours."**
+Asoka reaches with their hand, then hesitates. 
+
+Asoka: **"...may I?"**
+
+Eireena: **"It's yours."**
 
 ### Page 8
 
@@ -1367,9 +1373,9 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*. Where did it come from?"**
 
-Serena: **"Many years ago, your Green Haven Council visited us with this wooden dresser and a beautiful child's outfit made of the finest SynTh cloth we've ever seen. They asked us to safeguard the outfit, and never show it to anyone, until a child with a mechapet begs us for sanctuary."**
+Serena: **"Unsurprisingly, Majhee had also continued her thread worm research. After the Confinement ended, she and High Priestess Iúna began work on a new kind of SynTh material, one that combined Iúna's weaving skills with Majhee's experiences with the much harsher conditions in the Red Zone."**
 
-Eireena: **"It's called *'cuttlefish cloth'* - this outfit can be 'voltage-treated' by your mechapet, but it will take some time for Iri to learn how to do it smoothly and reliably. The outfit will help you survive extreme temperatures, filter and purify the dirtiest water or air, and withstand an enormous amount of radiation. With practice, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
+Eireena: **"It's called *'cuttlefish cloth'*, woven with flexible SynTh designed to be 'voltage-treated' by a mechapet. It will take some time for Iri to learn how to do it smoothly and reliably, but eventually, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
 
 Serena's eyes twinkle. 
 
@@ -1383,13 +1389,13 @@ Serena's eyes never waver, face inscrutable. We see an image of an enormous netw
 
 Serena: **"Why do you think we're so careful about what we eat? Your gut directly influences [*500 million* neurons](https://en.wikipedia.org/wiki/Enteric_nervous_system)...and now, they also power your protective outfit."**
 
-Serena grins now. 
+Asoka looks disgusted. Eireena hides her smile. 
 
-Serena: **"Besides, the first outfit was for a little one just barely able to walk -- it needed to be a diaper too! It's basically a poop-powered safety bubble..."**
+Asoka: **"But wait, I thought I was the first person to pair-bond with a mechapet?"**
 
-Asoka looks horrified. Eireena hides her smile. 
+Serena: **"You are indeed! Their surface gear wasn't quite this advanced, just good enough to get them safely to Majhee and her people in the Red Zone."**
 
-Eireena: **"*Anyways*, every year since then, your Council has visited us with a bigger outfit, taking back the old one each time to keep the cuttlefish cloth a well-guarded secret."**
+Eireena: **"
 
 ### Page 10
 
