@@ -1371,13 +1371,13 @@ Asoka lifts the jacket off the mannequin, reverently running their hands over th
 
 Asoka: **"This is *beautiful*! Where did it come from?"**
 
-Serena: **"Majhee had also continued her thread worm research after the Burning. Once Confinement ended, she and High Priestess Iúna began work on a new kind of SynTh material, one that combined Iúna's weaving skills and Majhee's experience with the much harsher conditions in the Red Zone."**
+Serena: **"Majhee had also continued her thread worm research after the Burning. Once Confinement ended, she and High Priestess Iúna began work on a new kind of SynTh material...one that combined Iúna's weaving skills and Majhee's experience against the much harsher conditions in the Red Zone."**
 
-Eireena: **"It's called *'cuttlefish cloth'*, woven with flexible SynTh, designed to be 'voltage-treated' by a mechapet. It will take some time for Iri to learn how to do it smoothly and reliably, but eventually, you'll be able to filter or blend into just about anything, as quick as you can think it!"**
+Eireena: **"It's called *'cuttlefish cloth'*, woven with flexible SynTh, designed to be voltage-treated by a mechapet. It will take some time for Iri to learn how to do it smoothly and reliably, but eventually, you'll be able to filter or blend into just about anything, as quick as you can think it!"**
 
 Serena's eyes twinkle. 
 
-Serena: **"And you can wear it for days on end...it's powered by your waste products."**
+Serena: **"And you can wear it for days on end...it's powered by your waste products, gas, liquid, and solid."**
 
 Asoka: **"Wait, what??"**
 
@@ -1391,23 +1391,23 @@ Asoka looks disgusted. Eireena hides her smile.
 
 Asoka: **"But wait, did Exiles get cuttlefish cloth? I thought only Haven Howes has people pair-bonded with mechapets..."**
 
-Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet companion...they were just good enough to get safely through the Red Zone to Majhee and her people. But now it's not so safe, even in the Red Zone..."**
+Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet...it was just good enough to get safely through the Red Zone to Majhee and her people. But now even the Red Zone may not be safe..."**
 
 ### Page 10
 
-Eireena: **"The Peacekeepers this morning ordered us to deliver supplies of fresh food and silica to Boston Harbor by next week, all that we can spare..."**
+Serena: **"The Peacekeepers this morning ordered us to deliver supplies of fresh food and silica to Boston Harbor by next week, all that we can spare..."**
 
-Serena: **"...and much that we can't. Their captain knew about the mechapets, and alluded to hunting in places they thought humans would never go again..."**
+Serena: **"...and much that we can't. Their captain knew about the mechapets, and made a bad joke about 'hunting' in places they thought humans would never go again..."**
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"No...you think...werewolves are their *mechapets??* And they're using them to hunt Earthers??"**
+Asoka: **"No...you think...werewolves are their *mechapets??* And they're using them to kill Earthers??"**
 
 Asoka looks pained, eyes closed with terror, disgust, guilt, grief -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Serena places a hand on Asoka's shoulder, gentle but grim. 
 
 Serena: **"That is our suspicion."**
 
-Eireena: **"It's your decision. If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us, then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
+Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us...then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
 
 *--end flashback--*
 
