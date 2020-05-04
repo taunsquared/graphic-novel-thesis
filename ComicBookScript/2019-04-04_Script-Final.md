@@ -1391,7 +1391,7 @@ Asoka looks disgusted. Eireena hides her smile.
 
 Asoka: **"But wait, did Exiles get cuttlefish cloth? I thought only Haven Howes has people pair-bonded with mechapets..."**
 
-Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet companion...they were just good enough to get safely through the Red Zone to Majhee and her people. But now it's not so safe, even with Majhee..."**
+Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet companion...they were just good enough to get safely through the Red Zone to Majhee and her people. But now it's not so safe, even in the Red Zone..."**
 
 ### Page 10
 
@@ -1401,9 +1401,9 @@ Serena: **"...and much that we can't. Their captain knew about the mechapets, an
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"No...you think...werewolves are their mechapets? And they're...hunting Earthers?"**
+Asoka: **"No...you think...werewolves are their *mechapets??* And they're using them to hunt Earthers??"**
 
-Asoka looks pained, eyes closed with terror, guilt, grief -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Serena places a hand on Asoka's shoulder, gentle but grim. 
+Asoka looks pained, eyes closed with terror, disgust, guilt, grief -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Serena places a hand on Asoka's shoulder, gentle but grim. 
 
 Serena: **"That is our suspicion."**
 
