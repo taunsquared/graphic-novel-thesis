@@ -1349,8 +1349,6 @@ Serena: **"She said the same about Majhee and thank goodness she was right! We n
 
 Asoka: **"You mean, you sent Exiles to the Red Zone? But...how??"**
 
-Eireena: **"Come."**
-
 ### Page 7
 
 Further along in the hallway, Eireena pulls back a part of the tapestry wall, which, to a naive eye looks no different from any of the other wall tapestries in terms of its function. But behind this tapestry is another small room. Inside is a tall wooden dresser. Eireena holds the tapestry open and gestures Asoka inside before her. 
@@ -1371,15 +1369,15 @@ Eireena: **"It's yours."**
 
 Asoka lifts the jacket off the mannequin, reverently running their hands over the stitches, the weave, the hem. As Asoka does this, the cloth responds to their touch. 
 
-Asoka: **"This is *beautiful*. Where did it come from?"**
+Asoka: **"This is *beautiful*! Where did it come from?"**
 
-Serena: **"Unsurprisingly, Majhee had also continued her thread worm research. After the Confinement ended, she and High Priestess Iúna began work on a new kind of SynTh material, one that combined Iúna's weaving skills with Majhee's experiences with the much harsher conditions in the Red Zone."**
+Serena: **"Majhee had also continued her thread worm research after the Burning. Once Confinement ended, she and High Priestess Iúna began work on a new kind of SynTh material, one that combined Iúna's weaving skills and Majhee's experience with the much harsher conditions in the Red Zone."**
 
-Eireena: **"It's called *'cuttlefish cloth'*, woven with flexible SynTh designed to be 'voltage-treated' by a mechapet. It will take some time for Iri to learn how to do it smoothly and reliably, but eventually, it can even camouflage its wearer *completely*, making you, more or less, *invisible*."**
+Eireena: **"It's called *'cuttlefish cloth'*, woven with flexible SynTh, designed to be 'voltage-treated' by a mechapet. It will take some time for Iri to learn how to do it smoothly and reliably, but eventually, you'll be able to filter or blend into just about anything, as quick as you can think it!"**
 
 Serena's eyes twinkle. 
 
-Serena: **"And it's powered by your waste products."**
+Serena: **"And you can wear it for days on end...it's powered by your waste products."**
 
 Asoka: **"Wait, what??"**
 
@@ -1387,31 +1385,29 @@ Asoka: **"Wait, what??"**
 
 Serena's eyes never waver, face inscrutable. We see an image of an enormous network of neurons clinging to a decidedly less sexy set of intestines.
 
-Serena: **"Why do you think we're so careful about what we eat? Your gut directly influences [*500 million* neurons](https://en.wikipedia.org/wiki/Enteric_nervous_system)...and now, they also power your protective outfit."**
+Serena: **"Why do you think we're so careful about what we eat? Your gut directly influences [*500 million* neurons](https://en.wikipedia.org/wiki/Enteric_nervous_system)...and now, it also powers your surface gear."**
 
 Asoka looks disgusted. Eireena hides her smile. 
 
-Asoka: **"But wait, I thought I was the first person to pair-bond with a mechapet?"**
+Asoka: **"But wait, did Exiles get cuttlefish cloth? I thought only Haven Howes has people pair-bonded with mechapets..."**
 
-Serena: **"You are indeed! Their surface gear wasn't quite this advanced, just good enough to get them safely to Majhee and her people in the Red Zone."**
-
-Eireena: **"
+Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet companion...they were just good enough to get safely through the Red Zone to Majhee and her people. But now it's not so safe, even with Majhee..."**
 
 ### Page 10
 
+Eireena: **"The Peacekeepers this morning ordered us to deliver supplies of fresh food and silica to Boston Harbor by next week, all that we can spare..."**
+
+Serena: **"...and much that we can't. Their captain knew about the mechapets, and alluded to hunting in places they thought humans would never go again..."**
+
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"Did...the Beasts...attack my haven...because of *this*?"**
+Asoka: **"No...you think...werewolves are their mechapets? And they're...hunting Earthers?"**
 
-Asoka looks pained, eyes closed with guilt -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Eireena places a hand on Asoka's shoulder, gentle but grim. 
+Asoka looks pained, eyes closed with terror, guilt, grief -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Serena places a hand on Asoka's shoulder, gentle but grim. 
 
-Eireena: **"It's a heavy gift to bear. The one who wears this outfit will be the most anonymous, the most *free*, and the only one who has *any* chance of finding these people in the Amazon."**
+Serena: **"That is our suspicion."**
 
-Eireena: **"...Asoka, when did you make apprentice?"**
-
-Asoka: **"Two years ago, on my 14th birthday. Why?"**
-
-Eireena: **"I see. I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
+Eireena: **"It's your decision. If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us, then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
 
 *--end flashback--*
 
