@@ -885,7 +885,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 **"In theory, the 'hardware flexibility index' (HFI) of hybrid materials can be extended even further. Substrates 
 could be stitched with grades of SynTh flexible enough to allow the hybrid material to dynamically self-modify hardware configurations in response to external conditions and context-dependent needs. The exact choice of substrate and initial configuration constrain the space of possible modifications, but within those constraints, the hybrid material structure could react to the environment in a fully autonomous way, leading to what some might call 'autonomous morphing behaviour'..."**
 
-*note: THIS LEADS TO THE ETHICAL CONUNDRUM, which the Orbiters are approaching with their bots as tools, keeping the Beasts not intelligent enough to be autonomous; the Biononymous are creating symbiotes with the mechapets, but need to hold very strictly to a moral code that always associates mechapets to a human. BUT, if the Orbiters get a hold of the Biononymous tech, will they have the same scruples?*
+*note: THIS LEADS TO THE ETHICAL CONUNDRUM, which the Orbiters are approaching with their bots as tools, keeping the Werewolves not intelligent enough to be autonomous; the Biononymous are creating symbiotes with the mechapets, but need to hold very strictly to a moral code that always associates mechapets to a human. BUT, if the Orbiters get a hold of the Biononymous tech, will they have the same scruples?*
 
 ### Page 1
 
@@ -1417,55 +1417,55 @@ The flashback is interrupted by a loud **"CLANK"** from off-panel.
 
 We're back in the bilge, where Asoka, who had been crying with pain and anger as their clenched fists crumple the last mouthful of the second potato, looks towards the source of the very loud clank with curiosity.
 
-Asoka: *"Iri, was that you?"*
+Asoka: *"Iri?"*
 
 We see Iri, a flat blob with eyes, clinging invisibly to the ceiling of the command deck. Below Iri, Peacekeepers stand at workstations that look like wide, shallow metal dishes. Immediately underneath Iri, a white-haired woman wearing the insignia of the [Navigation Officer](http://navyformoms.ning.com/group/submoms/page/meet-the-crew-of-a-submarine) and a younger man wearing the insignia of an [Operations Specialist](https://en.wikipedia.org/wiki/Operations_specialist_(United_States_Navy)) consult numerous hardcopy charts and plots, which to an untrained eye, look like nothing more than large pages covered a mess of lines and numbers. They hunch over the charts and plots in a most conspiratorial manner. 
 
-Iri: *"Hmm? I've got an update on our location!"*
+Iri: *"Map, map! Found map! Share my sight?"*
 
 Asoka pulls the fabric of their face veil back across their face and pockets the crumpled balls of aluminum foil that once encased the throttle spuds. They then start to move across various pipes, staying out of the dirty water below, moving towards the sound of the loud clank. 
 
 On Asoka's face veil, overlaid on top of Iri's view of the command deck, is the map that Asoka and Iri have been piecing together by stalking the navigation team throughout the trip. It shows the Americas, and a glowing blue line approximates the submarine's path down the eastern coast of North America. At the latitude of Gainesville, Florida, the line swings far out east into the ocean, to avoid the flooded remains of the Bahamas, the Turks and Caicos Islands, Haiti, the Dominican Republic, Puerto Rico, and the western most curve of the Caribbean Islands. Then the blue line hugs the coasts of Venezuela, Guyana, Suriname, French Guiana, and finally, the Amapá state of Brazil, bordered to the southeast by a great river delta -- there the blue line becomes a tiny submarine made of light. That was their current location. 
 
+Asoka: *"The Rio Amazonas...Majhee..."*
+
+Another loud **"CLANK"** interrupts Asoka's thoughts. 
+
+Iri: *"New sound? Soka safe?? Share your sight!"*
+
+Asoka: *"It's coming from over there..."*
+
 ### Page 12
 
 Asoka carefully places their feet to turn a corner. They look up and gasp. 
 
-Iri, off-panel: *"What? Did you find something?"*
-
 We see Asoka's eyes, full of horror and terror. 
 
-Asoka: *"Iri, look..."*
+Asoka: *"No..."*
 
-We zoom out to see before Asoka an enormous open space, lined with pipes and floor flooded with bilge water. On several large metal platforms, safely above the water level, is a pack of enormous, sleeping Beasts. 
+We zoom out to see before Asoka an enormous open space, lined with pipes and floor flooded with bilge water. On several large metal platforms, safely above the water level, is a pack of enormous, sleeping Werewolves, no longer furred. Their gleaming metal parts makes it very clear that they are not biological creatures. 
 
 ## Diagram 4: The 4 Blood/Brain/CSF Barriers
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2098-010..."**
 
-The **Ventricular System** of the brain consists of 4 interconnected tunnels (called "cavities" or "ventricles") where **cerebro-spinal fluid (CSF)** is produced and circulated. The ventricular system of the brain is connected to the central canal of the spinal cord, and creates 4 barriers between brain tissue, blood vessels, and CSF ventricles: the **Blood-Brain barrier**, the **Blood-CSF barrier**, the **Brain-CSF barrier**, and the **CSF-Brain barrier**. 
-
-### Blood-Brain barrier
-
-This barrier is created by tight junctions between **endothelial cells** (which make up the inner lining of blood vessels and lymphatic vessels) of capillaries in the central nervous system (CNS). The blood-brain barrier **separates circulating blood from the extracellular fluid surrounding CNS cells**, restricting the diffusion of bacteria and large or hydrophillic molecules while allowing the diffusion of hydrophobic molecules (like O2, CO2, and hormones) and small polar molecules. 
-
-Additional cells involved in this barrier include:  
-* **astrocyte cell projections** called "astrocytic feet" or glia limitans
-* **pericytes**, contractile cells that regulate capillary blood flow and the permeability of the blood-brain barrier.
-
-### Blood-CSF barrier
-
-This barrier is composed of a pair of membranes that separate blood from CSF and CSF from brain tissue. Like the blood-brain barrier, it **restricts the passage of blood-borne substances into the brain**; different substances can enter the brain at each barrier. The Blood-CSF barrier also **modulates the entry of leukocytes and other immune system cells into the brain.**
-
-A major component of this barrier is the **choroid plexus**, a branching network of capillaries, ventricles, and **ependymal cells**. The choroid plexus produces CSF and secretes **transferrin**, a blood protein that binds to iron. 
+The **Ventricular System** of the brain consists of four interconnected tunnels (called "cavities" or "ventricles") where **cerebro-spinal fluid (CSF)** is produced and circulated. The ventricular system of the brain is connected to the central canal of the spinal cord, and creates 4 barriers between brain tissue, blood vessels, and CSF ventricles: the **Brain-CSF barrier**, the **Blood-Brain barrier**, the **CSF-Brain barrier**, and the **Blood-CSF barrier**. 
 
 ### Brain-CSF barrier
 
-This barrier consists of the **arachnoid mater** (a.k.a. "arachnoid membrane") and the **pia mater**, two of the three protective membranes that cover the brain and spinal cord. The **dura mater**, the outermost membrane, is attached to the skull; the **pia mater** is attached to brain tissue; and the arachnoid mater sits between them. Between the arachnoid mater and pia mater is the **subarachnoid space**, filled with CSF. **Arachnoid villi** (small protrusions of the arachnoid membrane into the blood vessels in the dura mater) allow CSF to exit the subarachnoid space and enter the blood stream, but make sure that blood cannot enter the subarachnoid space. 
+This barrier consists of the arachnoid mater and the pia mater, two of the three membranes that cover the outside of the brain and spinal cord. The dura mater is attached to the skull, the pia mater is attached to brain tissue, and the arachnoid mater sits in the middle. Between the arachnoid and pia membranes is the subarachnoid space, filled with CSF. Bits of the arachnoid membrane poke into the blood vessels of the dura mater (Arachnoid villi) to allow CSF to exit the subarachnoid space and enter the blood stream, while making sure that blood cannot enter the subarachnoid space. 
+
+### Blood-Brain barrier
+
+This barrier is created by tight junctions between endothelial cells of capillaries in the central nervous system. Pericytes wrapped around endothelial cells regulate blood flow and the permeability of this barrier. astrocyte cell projections ("astrocytic feet" or glia limitans) also wrap around and support the endothelial cells. This barrier separates circulating blood from the extra-cellular fluid surrounding CNS cells. It allows hydrophobic and small molecules to diffuse out of the capillaries and into brain tissue, while keeping out bacteria and large or hydrophillic (”water loving”) molecules. 
 
 ### CSF-Brain barrier 
 
-This barrier is composed of a type of glial cell called **ependymocytes**, which line the CSF-filled ventricles of the brain and spinal cord, and are involved in the production of CSF. Ependymocytes are covered in **cilia** (slender, hair-like protuberances) that help circulate CSF. There is also growing evidence that ependymocytes can serve as "**resevoir cells**", which, once activated, can help grow new neurons. However, the ependymocytes do not self-renew and can only grow new neurons aa limited number of times, meaning they do not meet the requirements to be considered stem cells. 
+This barrier is created by ependymocytes. There is growing evidence that ependymocytes can serve as “resevoir cells”, which can help grow new neurons. However, these cells are not considered stem cells, because they do not self-renew and can only grow new neurons a limited number of times. 
+
+### Blood-CSF barrier
+
+This barrier is a pair of membranes that separate blood from CSF and CSF from brain tissue. It restricts the passage of blood-borne substances into the brain. This barrier modulates the entry of leukocytes and other immune system cells into the brain. A major component of this barrier is the choroid plexus, a branching network of capillaries, ventricles, and ependymal cells, which produces CSF and secretes transferrin, a blood protein that controls the level of free iron in biological fluids.  
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
@@ -1935,7 +1935,7 @@ Asoka: **"*I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of
 
 Asoka clutches Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
-Iri/João: **"It's the **BEASTS**!! Run Soka! *RUN!!*"**
+Iri/João: **"Can you hear me Soka?? Run to the next Haven!! *RUN!!*"**
 
 Iri tries to get Asoka to look at it, to stop, as Asoka, eyes wide with terror and shock, slowly steps down the mountain.
 
@@ -1959,7 +1959,7 @@ Asoka is running down the mountainside, dodging trees and bushes while carrying 
 
 Suddenly someone crashes into Asoka. Asoka manages to roll while holding onto Iri protectively. Asoka looks up and sees a Biononymous adult in full outfit. Asoka opens their mouth to ask what's going on, and the Biononymous adult covers Asoka's mouth through Asoka's face veil. The Biononymous adult, looking distraught, touches forheads with Asoka and grimaces. Then the adult gets close to Asoka's ear and whispers intently. 
 
-Biononymous adult: **"*Run to the next Haven! Don't let the Beasts see you!!*"**
+Biononymous adult: **"*Run away! Don't let the Werewolves see you!!*"**
 
 The Biononymous adult quickly turns Asoka around and shoves them back into the thicket, then runs off in the opposite direction, yelling and loudly crashing through the forest. 
 
