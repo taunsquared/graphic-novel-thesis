@@ -1541,11 +1541,11 @@ Asoka stretches, trying to get rid of the stiffness of hiding in a bilge for ove
 
 Asoka: *"Uff, time to work off two weeks of sitting and eating potatoes..."
 
-Iri: *"Chirrrp!"*
+Iri: *"Warm up jog?"*
 
 Asoka takes off running, Iri clinging to their neck for dear life. 
 
-Asoka: *"Alright...let's go!"*
+Asoka: *"Nope! Gotta run!"*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. This part of the forest is putrid and disgusting, everything rotten, dead, and sludgy. 
 
@@ -1571,13 +1571,13 @@ Iri: *"Small rest?"*
 
 Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. They place their hand on their belly, and a view of their intestines shows up on their face veil. 
 
-Asoka: *"Not empty yet..."*
+Asoka: *"Still got potato fuel..."*
 
-Iri: *"But..."*
+Iri: *"Careful..."*
 
 Zoom in on Asoka's eyes, fiercely determined. 
 
-Asoka: *"We have to get there **first**, Iri!"*
+Asoka: *"Can't...we gotta get there **first**, Iri!"*
 
 ### Page 4
 
