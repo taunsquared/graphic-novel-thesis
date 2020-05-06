@@ -484,7 +484,7 @@ Under this dialogue we see close-up views of the baby strapped to Iúna's front.
 
 ### Page 12
 
-Iúna: **"*[Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
+Iúna: **"*Haven [Tahoe](https://en.wikipedia.org/wiki/Tahoe_National_Forest), have you been able to contact Haven [Joshua Tree](https://en.wikipedia.org/wiki/Joshua_Tree_National_Park)?*"**
 
 Iúna's Biononymous contact at Green Haven Tahoe: **"*Negative, Mama Bird.*"**
 
@@ -1170,7 +1170,7 @@ Serena returns the raspberries to their bowl. Asoka sits on their bed futon, obe
 
 Asoka: **"Sorry..."**
 
-Eireena: **"It's alright. Yesterday was a tragedy, and we owe you some explanations. It's true that we've seen the creatures you call werewolves, but never clearly, never in large groups, and certainly never within a Haven. What happened to Green Haven Howes is both terrible and new."**
+Eireena: **"It's alright. Yesterday was a tragedy, and we owe you some explanations. It's true that we've seen the creatures you call werewolves, but never clearly, never in large groups, and certainly never within a Haven. What happened to Haven Howes is both terrible and new."**
 
 Asoka: **"But then...how come we have so many stories about werewolves?"**
 
@@ -1525,7 +1525,7 @@ Asoka: *"Normally about once a week, but more often during this trip."*
 
 Iri: *"When we underwater, ate ocean sand every day! It tastes funny..."*
 
-Serena: *"Makes sense...alright, you better get going. You're well south and east of where we normally send Exiles, but just north of you is a cave system called Gruta de Judeia - that's where the World Government satellites saw human activity. The Peacekeepers will almost certainly head there, but they won't start until they finish unloading the sub. Iri should have the map by now...once you're in the rainforest, even this relay through Green Haven Gainesville won't be strong enough to get a clear signal through...so you'll be on your own from here on out."*
+Serena: *"Makes sense...alright, you better get going. You're well south and east of where we normally send Exiles, but just north of you is a cave system called Gruta de Judeia - that's where the World Government satellites saw human activity. The Peacekeepers will almost certainly head there, but they won't start until they finish unloading the sub. Iri should have the map by now...once you're in the rainforest, even this relay through Haven Gainesville won't be strong enough to get a clear signal through...so you'll be on your own from here on out."*
 
 Asoka: *"Ah. Ok."*
 
