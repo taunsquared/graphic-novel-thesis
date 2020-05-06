@@ -1517,11 +1517,11 @@ We see Asoka and Iri, shimmering with invisibility, looking back over a rocky ou
 
 Serena: *"...so it's as we thought. The beastly creatures that attacked Haven Howes are definitely **not** biological."*
 
-Asoka: *"Yeah, maybe those were voltage-treated to look furry? And no one ever fed the ones we found in the cargo bay, at least not for the last three days."*
+Asoka: *"Yeah...maybe those were voltage-treated to look furry? No one ever fed the ones in the cargo bay, at least not for the last three days."*
 
 Serena: *"Interesting. How often does Iri eat?"*
 
-Asoka: *"Normally about once a week, but more often during this trip."*
+Asoka: *"Normally about once a week? More often during this trip."*
 
 Iri: *"When we underwater, ate ocean sand every day! It tastes funny..."*
 
@@ -1539,7 +1539,7 @@ Serena: *"Then find a tall tree or cliff with a clear view to the north, and voi
 
 Asoka stretches, trying to get rid of the stiffness of hiding in a bilge for over a week.
 
-Asoka: *"Uff, time to work off a week of sitting and eating potatoes..."
+Asoka: *"Uff, time to work off two weeks of sitting and eating potatoes..."
 
 Iri: *"Chirrrp!"*
 
