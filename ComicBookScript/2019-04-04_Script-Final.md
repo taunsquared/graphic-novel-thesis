@@ -1225,6 +1225,30 @@ Examples: G protein-coupled receptors, metabotrophic glutamate receptors, muscar
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
+## Interlude 2
+
+*We don't need  
+the robots to feel for us,  
+if someone else breathes  
+no oxygen fills my lungs,  
+remember to feed  
+the organ that believes in the spirit of being kind,  
+hands and mind are mine to give to you.*
+
+*We don't need  
+the robots to work for us,  
+if someone else sweats  
+I have not gained your trust,  
+remember we bleed  
+from underneath an armour pretending to save us time,  
+hands and mind are mind to give you.* 
+
+*-- ["We don't need the robots but it's okay to love them"](https://soundcloud.com/taunsquared/04-robots-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
+*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
+2nd edition.*
+
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
 Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
@@ -1407,7 +1431,7 @@ Asoka looks pained, eyes closed with terror, disgust, guilt, grief -- they are r
 
 Serena: **"That is our suspicion."**
 
-Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us...then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Anita, to the rank of Journeyhume. Do you accept?"**
+Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us...then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Eithne, to the rank of Journeyhume. Do you accept?"**
 
 *--end flashback--*
 
@@ -1469,30 +1493,6 @@ This barrier is a pair of membranes that separate blood from CSF and CSF from br
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
-## Interlude 2
-
-*We don't need  
-the robots to feel for us,  
-if someone else breathes  
-no oxygen fills my lungs,  
-remember to feed  
-the organ that believes in the spirit of being kind,  
-hands and mind are mine to give to you.*
-
-*We don't need  
-the robots to work for us,  
-if someone else sweats  
-I have not gained your trust,  
-remember we bleed  
-from underneath an armour pretending to save us time,  
-hands and mind are mind to give you.* 
-
-*-- ["We don't need the robots but it's okay to love them"](https://soundcloud.com/taunsquared/04-robots-demo-20170921?in=taunsquared/sets/pilot-data-an-aronauts-ep), by T. Sorriso, 2245 --*  
-*From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
-2nd edition.*
-
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
-
 ## Chapter 5: Lilacs Out Of The Dead Land
 
 Character designs: Asoka Morei, Iri, Minka Traoré
@@ -1511,23 +1511,41 @@ Character designs: Asoka Morei, Iri, Minka Traoré
 
 ### Page 1 
 
-**"June 19, 2116: the watery ruins of [Manaus, Brazil](https://en.wikipedia.org/wiki/Manaus)"**
+**"July 1, 2116: the watery ruins of [Manaus, Brazil](https://en.wikipedia.org/wiki/Manaus)"**
 
 We see Asoka and Iri, shimmering with invisibility, looking back over a rocky outcrop to the north of the flooded, abandoned ruins of Manaus, full moon big in the night sky, as they head into the forest, quick and nimble, carrying only Asoka's cuttlefish-cloth satchel. Below, Peacekeepers dressed securely in full-body protective gear, breathing masks, goggles, and helmets, unload vehicles, supplies, and equipment from the amphibious vehicles shuttling everything from the submarine and set up a large, noisy, destructive camp on another outcropping along the north edge of the ruins. 
 
-Asoka: *"Alright, 4 hours until sunrise..."*
+Serena: *"...so it's as we thought. The beastly creatures that attacked Haven Howes are definitely **not** biological."*
+
+Asoka: *"Yeah, maybe those were voltage-treated to look furry? And no one ever fed the ones we found in the cargo bay, at least not for the last three days."*
+
+Serena: *"Interesting. How often does Iri eat?"*
+
+Asoka: *"Normally about once a week, but more often during this trip."*
+
+Iri: *"When we underwater, ate ocean sand every day! It tastes funny..."*
+
+Serena: *"Makes sense...alright, you better get going. You're well south and east of where we normally send Exiles, but just north of you is a cave system called Gruta de Judeia - that's where the World Government satellites saw human activity. The Peacekeepers will almost certainly head there, but they won't start until they finish unloading the sub. Iri should have the map by now...once you're in the rainforest, even this relay through Green Haven Gainesville won't be strong enough to get a clear signal through...so you'll be on your own from here on out."*
+
+Asoka: *"Ah. Ok."*
+
+Serena: *"How're you feeling?"*
+
+Asoka: *"Umm...kinda nervous. What if I can't find anyone?"*
+
+Serena: *"Then find a tall tree or cliff with a clear view to the north, and voice-cast as loud as you can without going into the clear. I'll be listening for you."*
 
 ### Page 2
 
 Asoka stretches, trying to get rid of the stiffness of hiding in a bilge for over a week.
 
-Iri: *"Yeah, warm up a bit first--"*
+Asoka: *"Uff, time to work off a week of sitting and eating potatoes..."
+
+Iri: *"Chirrrp!"*
 
 Asoka takes off running, Iri clinging to their neck for dear life. 
 
-Asoka: *"No time for that, Iri!"*
-
-Iri: *"You're gonna be sore as hell..."*
+Asoka: *"Alright...let's go!"*
 
 As Asoka runs, their face veil shows them overlays of annotations about the environment around them. This part of the forest is putrid and disgusting, everything rotten, dead, and sludgy. 
 
