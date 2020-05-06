@@ -1567,7 +1567,7 @@ A bright blue ball appears, barely an eighth of the way to the blinking 'X'. Aso
 
 Asoka: *"Seriously?? That's it??"*
 
-Iri: *"Sokaaa, don't push yourself too much..."*
+Iri: *"Small rest?"*
 
 Asoka takes off their pack and pulls out a canteen of water. They guzzle the water through their face veil. They place their hand on their belly, and a view of their intestines shows up on their face veil. 
 
@@ -1593,7 +1593,7 @@ The bright blue ball has moved further north, a little past a quarter of the way
 
 Iri gives Asoka a look. 
 
-Iri: *"Maybe...you should eat soon?"*
+Iri: *"Maybe...eat soon?"*
 
 Asoka: *"Do **you** see anywhere I could take off my face veil right now? Should just keep walking..."*
 
@@ -1603,7 +1603,7 @@ The sun is at its zenith. The air sizzles with heat, but Asoka and Iri are about
 
 Asoka quickly trudges into a dense grove, clearly uncomfortable and at the end of their strength. 
 
-Iri: *"Wow, it is **hot!!!**"*
+Iri: *"Hot, hot, **hot!!!**"*
 
 On Asoka's face veil, outside temperature reads 52.8 deg celsius, and the temperature inside their outfit now reads 27.7 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Methane, CO2, and NO2 levels have dropped beneath 'fatally toxic', but the suit is unable to update the local atmospheric content in the grove due to its low power status. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
@@ -1611,7 +1611,7 @@ Asoka: *"Where are we now?"*
 
 The bright blue ball is now just about at the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
-Iri: *"You **have** to stay in the shade!"*
+Iri: *"Soka stay in the shade!"*
 
 Asoka: *"Yeah? Ok...in that case..."*
 
@@ -1635,7 +1635,7 @@ Asoka: *"You let me sleep more than a few hours."*
 
 Iri hands Asoka their canteen. 
 
-Iri: *"Drink. I found a stream nearby, and I already filtered and [UV-zapped](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation) the water...I don't feel totally confident about my ability to reconfigure your face veil yet."*
+Iri: *"Found water! [Zapped it with UV](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation)...just in case..."*
 
 Asoka: *"Thanks..."*
 
@@ -1643,7 +1643,7 @@ Asoka carefully opens the now completely full canteen and takes a long, grateful
 
 ### Page 7
 
-Iri: *"Also, Soka...look around you..."*
+Iri: *"Also...look up!"*
 
 Asoka: *"Hmm?"*
 
@@ -1655,7 +1655,7 @@ Asoka: *"[Papaya](https://www.instagram.com/p/BWs7J_xBYvP/)!"*
 
 Asoka runs to the base of a papaya tree as Iri shimmies up the trunk. Iri brings down a large, bulbous fruit, and Asoka holds it reverently as their outfit scans the fruit to check its radiation content and ripeness. Simultaneously, Asoka's outfit checks the atmospheric content of the grove in which Asoka and Iri currently sit. Iri also takes in a huge breath of the air and does an independent analysis. 
 
-Iri: *"Ok, I think the air in here is actually **breathable**!"*
+Iri: *"Air good! Can eat!"*
 
 Asoka tears off their face veil in order to ravenously tear into the papaya. Iri joyfully runs up the tree for more of the ripe fruits. 
 
@@ -1665,7 +1665,7 @@ Asoka: **"Mmmmmm!!!"**
 
 Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness. Iri cuddles their leg and looks up at Asoka. 
 
-Iri: *"Reminds me of the orchards at home..."*
+Iri: *"Like the orchards...at home..."*
 
 We see Asoka's fists clench for a moment. Then they resolutely wipe their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. Methane, CO2, and NO2 levels are safely within 'short-term breathable' levels. Asoka's face is grim, angry.
 
@@ -1693,13 +1693,13 @@ Figure: **"Espírito maligno, fique longe de meus mamões!!"**
 
 *translation: "Evil spirit, stay away from my papayas!!"*
 
-Iri: *"They think we're an evil spirit?!"*
+Iri: *"Who evil spirit?!"*
 
 Asoka: **"No, I'm a human!"** 
 
 Asoka holds up their invisible hands in surrender, completely forgetting their camouflage.
 
-Iri: *"Not English, Portuguese!"*
+Iri: *"Not English! "*
 
 The small dark figure rushes at Iri with a blood-curdling yell.
 
@@ -1715,7 +1715,7 @@ Figure: **"Aaaaaaaahhhh!!"**
 
 Iri is dazed but alright. They shakily climb up Asoka's arm onto their shoulders and places two arms over Asoka's ears. 
 
-Iri: *"You need...Portugues!"*
+Iri: *"Not English...Portugues!"*
 
 Asoka turns off their camou and now, finally fully visible, turns to the dark figure and puts both hands up in a gesture pleading for mercy. 
 
