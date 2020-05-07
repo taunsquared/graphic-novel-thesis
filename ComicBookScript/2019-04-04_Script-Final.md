@@ -1431,7 +1431,7 @@ Asoka looks pained, eyes closed with terror, disgust, guilt, grief -- they are r
 
 Serena: **"That is our suspicion."**
 
-Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us...then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei, child of João and Eithne, to the rank of Journeyhume. Do you accept?"**
+Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us...then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei of Green Haven Howes to the rank of Journeyhume. Do you accept?"**
 
 *--end flashback--*
 
@@ -1525,7 +1525,7 @@ Asoka: *"Normally about once a week? More often during this trip."*
 
 Iri: *"When we underwater, ate ocean sand every day! It tastes funny..."*
 
-Serena: *"Makes sense...alright, you better get going. You're well south and east of where we normally send Exiles, but just north of you is a cave system called Gruta de Judeia - that's where the World Government satellites saw human activity. The Peacekeepers will almost certainly head there, but they won't start until they finish unloading the sub. Iri should have the map by now...once you're in the rainforest, even this relay through Haven Gainesville won't be strong enough to get a clear signal through...so you'll be on your own from here on out."*
+Serena: *"Makes sense...alright, you better get going. You're well south and east of where we normally send Exiles, but just north of you is a cave system called Gruta de Judeia - that's where the World Government satellites saw human activity. The Peacekeepers will almost certainly head there, but they won't start until they finish unloading the sub. Iri should have the location by now...once you're in the rainforest, even this relay through Haven Gainesville won't be strong enough to get a clear signal through...so you'll be on your own from here on out."*
 
 Asoka: *"Ah. Ok."*
 
@@ -1607,11 +1607,11 @@ Iri: *"Hot, hot, **hot!!!**"*
 
 On Asoka's face veil, outside temperature reads 52.8 deg celsius, and the temperature inside their outfit now reads 27.7 deg celsius. A power guage icon flashes a gentle warning -- the outfit's power is low. Methane, CO2, and NO2 levels have dropped beneath 'fatally toxic', but the suit is unable to update the local atmospheric content in the grove due to its low power status. Asoka's eyes are heavy-lidded, and underneath, dark circles are quite visible.
 
-Asoka: *"Where are we now?"*
+Asoka: *"Where are we now??"*
 
 The bright blue ball is now just about at the halfway point. Asoka collapses at the foot a tree, sitting in the largest patch of shade they can find, and pulls out their almost empty water canteen. They carefully pour water into their mouth through their face veil. 
 
-Iri: *"Soka stay in the shade!"*
+Iri: *"Soka rest, stay in shade!!"*
 
 Asoka: *"Yeah? Ok...in that case..."*
 
@@ -1631,11 +1631,11 @@ Asoka: **"Pippa!"**
 
 Asoka relaxes upon seeing Iri calmly standing watch. Asoka sits up, yawns, and streches, then gives Iri a gently accusing look through a face veil that shows the outside temperature to have dropped to 38.2 deg celsius, and Asoka's suit temperature is 23.0. Methane, CO2, and NO2 levels are characterised to be 'short-term breathable'. 
 
-Asoka: *"You let me sleep more than a few hours."*
+Asoka: *"Why'd you let me sleep so long?"*
 
 Iri hands Asoka their canteen. 
 
-Iri: *"Found water! [Zapped it with UV](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation)...just in case..."*
+Iri: *"If Soka sleep, Soka need rest. Found water! [Zapped it, with UV](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation)...just in case..."*
 
 Asoka: *"Thanks..."*
 
@@ -1643,7 +1643,7 @@ Asoka carefully opens the now completely full canteen and takes a long, grateful
 
 ### Page 7
 
-Iri: *"Also...look up!"*
+Iri: *"Also also! Soka...look up!"*
 
 Asoka: *"Hmm?"*
 
@@ -1655,7 +1655,7 @@ Asoka: *"[Papaya](https://www.instagram.com/p/BWs7J_xBYvP/)!"*
 
 Asoka runs to the base of a papaya tree as Iri shimmies up the trunk. Iri brings down a large, bulbous fruit, and Asoka holds it reverently as their outfit scans the fruit to check its radiation content and ripeness. Simultaneously, Asoka's outfit checks the atmospheric content of the grove in which Asoka and Iri currently sit. Iri also takes in a huge breath of the air and does an independent analysis. 
 
-Iri: *"Air good! Can eat!"*
+Iri: *"Air good, yes? Can eat, yes?"*
 
 Asoka tears off their face veil in order to ravenously tear into the papaya. Iri joyfully runs up the tree for more of the ripe fruits. 
 
@@ -1665,11 +1665,13 @@ Asoka: **"Mmmmmm!!!"**
 
 Asoka has eaten their fill of papaya and now looks euphoric. They sprawl at the base of the papaya tree as nautical twilight descends on the forest. Fireflies blink in and out of the blue darkness. Iri cuddles their leg and looks up at Asoka. 
 
-Iri: *"Like the orchards...at home..."*
+Asoka: **"That was soooooo good..."**
+
+Iri: *"Orchards...like home..."*
 
 We see Asoka's fists clench for a moment. Then they resolutely wipe their mouth, abruptly focusing on the cooling night. They put on their face veil and see a view of the world showing the chemical exhalations and radiation signatures of the plants around them, enhancing their vision in the rapidly fading blue light. The outside temperature has now dropped to 35.1 deg celsius, and the temperature inside Asoka's suit is down to 22.5 deg C. Methane, CO2, and NO2 levels are safely within 'short-term breathable' levels. Asoka's face is grim, angry.
 
-Asoka: *"Let's do this."*
+Asoka: *"Enough rest. Let's do this."*
 
 Asoka crouches, ready to run. They are caught completely unawares by a blurry figure kicking them in the back of the head with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs).  
 
@@ -1693,13 +1695,13 @@ Figure: **"Espírito maligno, fique longe de meus mamões!!"**
 
 *translation: "Evil spirit, stay away from my papayas!!"*
 
-Iri: *"Who evil spirit?!"*
+Iri: *"Where evil spirit?!"*
 
-Asoka: **"No, I'm a human!"** 
+Asoka: **"No, wait! I'm human!"** 
 
 Asoka holds up their invisible hands in surrender, completely forgetting their camouflage.
 
-Iri: *"Not English! "*
+Iri: *"Soka, not English!"*
 
 The small dark figure rushes at Iri with a blood-curdling yell.
 
@@ -1711,7 +1713,7 @@ Asoka: **"Iri!!!"**
 
 The dark figure now has an unobstructed view of Asoka's head, seemingly floating without any body attached to it. They *freak* out. 
 
-Figure: **"Aaaaaaaahhhh!!"**
+Figure: **"Aaaaahh!!"**
 
 Iri is dazed but alright. They shakily climb up Asoka's arm onto their shoulders and places two arms over Asoka's ears. 
 
@@ -1719,15 +1721,11 @@ Iri: *"Not English...Portugues!"*
 
 Asoka turns off their camou and now, finally fully visible, turns to the dark figure and puts both hands up in a gesture pleading for mercy. 
 
-Asoka: **"Please! Eu sou humano!"**
-
-*translation: "I'm human!"*
+Asoka (in Portuguese): **"Please stop! I'm human!"**
 
 The dark figure, eyes now wide open with shock and fear, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
 
-Figure: **"O que você quer??"**
-
-*translation: "What do you want??"*
+Figure: **"Who are you?? What do you want??"**
 
 ### Page 11
 
