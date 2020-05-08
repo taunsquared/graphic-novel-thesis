@@ -1757,9 +1757,9 @@ Asoka, Iri, and the dark figure scream with terror and frantically get out of th
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-001..."**
 
-The **common cuttlefish** (*Sepia officinalis*) is an invertebrate marine creature of the molluscan class **Cephalopoda**, which also includes octopus, squid, and nautilus. All cuttlefish have elongated bodies (called their "**mantle**") which get their shape from the **cuttlebone**, a hard brittle internal shell that also helps cuttlefish control their buoyancy. With the exception of their cuttlebone, cuttlefish bodies are entirely soft and flexible. The sides and tail of the mantle is edged with a skirt fin that helps them maneuver. At the front of their mantle is a siphon, which can eject water for fast backwards movement, and above the siphon, their head, where **eight arms** surround a beaked mouth. Tucked up by the mouth, just below sophisticated, **light-polarization-sensitive** eyes with **w-shaped pupils**, are **two tentacles** whose ends are covered in suckers. 
+The **common cuttlefish** (*Sepia officinalis*) is an invertebrate marine creature of the molluscan class **Cephalopoda**, which also includes octopus, squid, and nautilus. All cuttlefish have elongated bodies (called their "**mantle**") which get their shape from the **cuttlebone**, a hard brittle internal shell that also helps cuttlefish control their buoyancy. With the exception of their cuttlebone, cuttlefish bodies are entirely soft and flexible. The sides and tail of the mantle are edged with a skirt fin that helps them maneuver. At the front of their mantle is a siphon, which can eject water for fast backwards movement, and above the siphon, their head, where **eight arms** surround a beaked mouth. Tucked up by the mouth, just below sophisticated, **light-polarization-sensitive** eyes with **w-shaped pupils**, are **two tentacles** whose ends are covered in suckers. 
 
-Cuttlefish are stealth hunters, who spend much of their time hiding while waiting for **shrimp, crab, worms, fish, octopus, or even other cuttlefish** to wander within reach. Cuttlefish are particularly good at hiding thanks to structures in their skin that can quickly and actively change their **colour, texture, and pattern** (including the polarization of the reflected light) in response to neuro-muscular action, an ability called "**active camouflage**". Cuttlefish hunting behaviour can be described in four phases: 
+Cuttlefish are stealth hunters, who spend much of their time hiding while waiting for **shrimp, crab, worms, fish, octopus, or even other cuttlefish** to wander within reach. Cuttlefish are particularly good at hiding thanks to structures in their skin that can quickly and actively change their **colour, texture, and pattern** (including the polarization of the light they reflect) in response to neuro-muscular action, an ability called "**active camouflage**". Cuttlefish hunting behaviour can be described in four phases: 
 * Phase 1: **At rest**
 * Phase 2: **Attention**
 * Phase 3: **Positioning**
@@ -1767,19 +1767,19 @@ Cuttlefish are stealth hunters, who spend much of their time hiding while waitin
 
 ### Phase 1: At rest
 
-When a cuttlefish is "at rest", or just hanging out, all of its arms lie flat over its mouth. Its eyes are usually on the sides of its head, in a position optimal for having a 360 degree view all around them. The body pattern on the top of the cuttlefish's mantle, or back, is optimised to camouflage the cuttlefish and blend into its surroundings. 
+When a cuttlefish is just hanging out, its arms lie flat over its mouth. Its eyes normally sit at the sides of its head, optimal for a 360 degree view all around them. The body pattern on the its mantle, or back, is optimised to camouflage the cuttlefish and blend into its surroundings.
 
 ### Phase 2: Attention
 
-When a cuttlefish first notices food or prey, it will turn to face the food or prey, and often it will raise its two middle arms. As the cuttlefish visually tracks its prey, its eyes can converge, or squish towards the front, in order to gain better motion and depth perception. 
+When a cuttlefish first notices something that might be food, it turns to face the food or prey, and raises its two middle arms. As the cuttlefish visually tracks its prey, its eyes converge, or squish towards the front, in order to gain better motion and depth perception.  
 
 ### Phase 3: Positioning
 
-The cuttlefish now sneaks closer to its prey, or lets its prey come closer if it has hidden by camouflaging itself or by burrowing into the sand on the ocean floor. The two middle arms often remain raised in front of its face. When the cuttlefish is about one body length away from its food or prey, the next four arms create a barrel to guide and aim their tentacles, the tips of which can become visible during this phase. 
+The cuttlefish then sneaks closer to its prey, or lets its prey come closer if it is camouflaged or buried in the sand. When the cuttlefish is about one body length away from its food or prey, the next four arms create a barrel to aim their tentacles, the tips of which can become visible during this phase. 
 
 ### Phase 4: Seizure 
 
-When the cuttlefish is ready, it will throw its tentacles towards the food or prey, a moment that we call "**tentacles go ballistic**" (TGB). The middle two arms are usually still raised, and the next four arms are still formed into a "barrel" to aim the tentacles. During this phase, the bottom two arms spread out, as if to create a stabilizing base for the moment when the tentacles go ballistic. The TGB moment also marks the appearance of the "**tentacle shot pattern**", a unique, highly fractalated body pattern that appears only in this moment and not in any other part of the cuttlefish's behavioural repetoire. 
+When the cuttlefish throws its tentacles at the food or prey (when **"tentacles go ballistic"**), a unique, high contrast body pattern appears (the **"tentacle shot pattern"**). This pattern has not been observed during any other cuttlefish behaviour.
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
 
