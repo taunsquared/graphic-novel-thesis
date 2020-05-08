@@ -1721,7 +1721,7 @@ Iri: *"Not English...Portugues!"*
 
 Asoka turns off their camou and now, finally fully visible, turns to the dark figure and puts both hands up in a gesture pleading for mercy. 
 
-Asoka (in Portuguese): **"Please stop! I'm human!"**
+Asoka (in Portuguese): **"Please stop! I mean no harm!"**
 
 The dark figure, eyes now wide open with shock and fear, circles Asoka and Iri. They are clearly still terrified, but the hand holding the metal spike is steady. 
 
@@ -1729,23 +1729,17 @@ Figure: **"Who are you?? What do you want??"**
 
 ### Page 11
 
-Asoka: **"Um exército está vindo para te matar!"**
+Asoka: **"I'm looking for Majhee -- the Red Zone isn't safe anymore!"**
 
-*translation: "An army is coming to kill you!"*
+Figure: **"Liar!!"**
 
-Figure: **"Mentiroso!!"**
-
-*translation: "Liar!!"*
-
-Asoka: **"No! Por favor--"**
+Asoka: **"It's true! Peacekeepers are at the river--"**
 
 Suddenly Asoka notices the ground rumbling gently. 
 
 The rumbling gets louder, heavier, ominously closer. The figure has also noticed, and now looks in the direction of the rumbling, having seemingly lost all interest in Asoka and Iri. 
 
-Figure: **"O que é *esso*?"**
-
-*translation: "What is **that**?"*
+Figure: **"What is *that*??"**
 
 ### Page 12
 
