@@ -87,56 +87,57 @@ DREAM SEQUENCES ILLUSTRATOR AND COLOURIST
 
 # Table of Contents
 
-* [The Story, Part 1](
-https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#the-story-part-1)
+* [The Story, Part 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#the-story-part-1)
 
-  * [Prologue](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#prologue)
+  * [Prologue](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#prologue)
 
-  * [Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-1-nostalgia)
+  * [Dream 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#dream-1-nostalgia)
 
-  * [Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-1-calm-before-the-storm)
+  * [Chapter 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-1-calm-before-the-storm)
   
-  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-1-major-neural-and-glial-cell-types)
+  * [Diagram 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-1-major-neural-and-glial-cell-types)
 
-  * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-2-where-thunder-goes-when-it-dies)
+  * [Chapter 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-2-where-thunder-goes-when-it-dies)
   
-  * [Diagram 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-2-chemical-synapses-and-electrical-potentials)
-  
-* [The Story, Part 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#the-story-part-2)
+  * [Diagram 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-2-chemical-synapses-and-electrical-potentials)
 
-  * [Interlude 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude-1)
-
-  * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
+  * [Interlude 1](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#interlude-1)
   
-  * [Diagram 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-3-major-neurotransmitters)
+* [The Story, Part 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#the-story-part-2)
 
-  * [Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
+  * [Chapter 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-3-a-fearful-trill-of-things-unknown-but-longed-for-still)
   
-  * [Diagram 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-4-the-4-bloodbraincsf-barriers)
+  * [Diagram 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-3-major-neurotransmitters)
 
-  * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-5-lilacs-out-of-the-dead-land)
+  * [Chapter 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-4-the-sky-is-the-daily-bread-of-the-eyes)
   
-  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-5-hunting-behaviour-of-the-common-cuttlefish)
+  * [Diagram 4](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-4-the-4-bloodbraincsf-barriers)
 
-  * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-2-rites-of-passage)
-  
-  * [Interlude 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#interlude-2)
+  * [Interlude 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#interlude-2)
 
-  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-6-if-youre-not-scared-youre-not-in-love)
+  * [Chapter 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-5-lilacs-out-of-the-dead-land)
   
-  * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-6-knowns-and-unknowns)
+  * [Diagram 5](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-5-hunting-behaviour-of-the-common-cuttlefish)
 
-  * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#chapter-7-mistakes-are-how-we-evolve)
+  * [Dream 2](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#dream-2-rites-of-passage)
   
-  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#diagram-7-closing-the-loop-between-studying-the-brain-and-living-with-one)
+  * [Interlude 3](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#interlude-2)
 
-  * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#dream-the-last-comma-not-a-period)
+  * [Chapter 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-6-if-youre-not-scared-youre-not-in-love)
   
-  * [Epilogue](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#epilogue)
-  
-* [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#map-of-locations-important-to-the-story)
+  * [Diagram 6](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-6-knowns-and-unknowns)
 
-* [License](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#license)
+  * [Chapter 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#chapter-7-mistakes-are-how-we-evolve)
+  
+  * [Diagram 7](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#diagram-7-closing-the-loop-between-studying-the-brain-and-living-with-one)
+
+  * [Dream, the last](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#dream-the-last-comma-not-a-period)
+  
+  * [Epilogue](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#epilogue)
+  
+* [Map of locations important to the Story](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#map-of-locations-important-to-the-story)
+
+* [License](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#license)
 
 # Prologue
 
@@ -176,7 +177,7 @@ Gentle Farmer and First VIRS.*
 
 **"FREE."**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Chapter 1: Calm Before the Storm
 
@@ -565,7 +566,7 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 [**Microglia**](https://en.wikipedia.org/wiki/Microglia) are much smaller than macroglia and can change shape in order to move around the entire nervous system. They multiply when the brain is damaged, and constantly sample their environment in order to direct [immune system](https://en.wikipedia.org/wiki/Immune_system) responses to damage or danger in the nervous system. 
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Chapter 2: Where Thunder Goes When It Dies
 
@@ -816,7 +817,7 @@ Unlike graded potentials, action potentials are only triggered once the inside o
 
 Both graded and action potentials can trigger the reseale of chemicals at the **synapse** by opening [**voltage-gated calcium channels**](https://en.wikipedia.org/wiki/Voltage-gated_calcium_channel) in the pre-synaptic membrane, letting a ton of calcium ions (Ca2+) into the cell. The increased Ca2+ levels activate [**vesicles**](https://en.wikipedia.org/wiki/Synaptic_vesicle) (tiny bags containing neurotransmitters**), which can transfer their chemical insides to the next cell in two ways. Some vesicles **travel intact across the synaptic cleft, fuse to the post-synaptic membrane, and release their chemicals directly inside the next cell**. Alternatively, vesicles can [**fuse to the pre-synaptic membrane and release chemicals into the synaptic cleft ("exocytosis")**](https://en.wikipedia.org/wiki/Exocytosis), which then bind to the post-synaptic membrane and trigger actions by that cell. The pre-synaptic membrane then [**collects the chemicals back into a vesicle ("endocytosis")**](https://en.wikipedia.org/wiki/Endocytosis); or, [**astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) collect chemicals from the synaptic cleft and eventually feed them back to neurons.  
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Interlude 1
 
@@ -863,7 +864,7 @@ lust.*
 *From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
 2nd edition.*
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 
 # The Story, Part 2
@@ -1223,7 +1224,7 @@ Metabotrophic receptors take much longer to open that ionotropic receptors, and 
 
 Examples: G protein-coupled receptors, metabotrophic glutamate receptors, muscarinic acetylcholine receptors, GABA-B receptors, most seratonin receptors, norepinephrine receptors, epinephrine receptors, histamine receptors, dopamine receptors, neuropeptide receptors, endocannabinoid receptors
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Interlude 2
 
@@ -1247,7 +1248,7 @@ hands and mind are mind to give you.*
 *From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
 2nd edition.*
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Chapter 4: The Sky is the Daily Bread of the Eyes 
 
@@ -1491,7 +1492,7 @@ This barrier is created by ependymocytes. There is growing evidence that ependym
 
 This barrier is a pair of membranes that separate blood from CSF and CSF from brain tissue. It restricts the passage of blood-borne substances into the brain. This barrier modulates the entry of leukocytes and other immune system cells into the brain. A major component of this barrier is the choroid plexus, a branching network of capillaries, ventricles, and ependymal cells, which produces CSF and secretes transferrin, a blood protein that controls the level of free iron in biological fluids.  
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Chapter 5: Lilacs Out Of The Dead Land
 
@@ -1781,13 +1782,13 @@ The cuttlefish then sneaks closer to its prey, or lets its prey come closer if i
 
 When the cuttlefish throws its tentacles at the food or prey (when **"tentacles go ballistic"**), a unique, high contrast body pattern appears (the **"tentacle shot pattern"**). This pattern has not been observed during any other cuttlefish behaviour.
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Dream 2: Rites of Passage
 
 ### Page 1
 
-**"April 20, 2116"**
+**"Minka Traoré Barbosa Suh was Reborn on the 20th day of the 4th month of the 48th year After Burning..."**
 
 Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth in which the embroidery moves fluidly, in response to the lighting, the sounds, the wearers moods...
 
@@ -1799,7 +1800,7 @@ Over this backdrop, small ghostly close-up panels are scattered, showing differe
 * an eye, nose, and ear. The eye is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with SynTh metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
 * a strong and straight back, dominated by an SynTh tatoo depicting the night sky above the Amazon, with stars, planets, and Orbiter vessels.  
 * shoulder and neck from the front, collar bone straight in a relaxed line that is perfectly parallel to the bottom edge of the panel. Neck is a bit clenched, and tendrils of Min's back tatoo curl around from her back in comforting, fractal patterns.  
-* legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a Journeyhume Arborist to the status of Expert Crafter: Tree Surfer. 
+* legs, covered in line art encoding her family lineage, are folded in an easy lotus, covered in the soft folds of ritual clothing appropriate for the ascent of a young Arborist to the status of Expert Crafter: Tree Surfer. 
 
 ### Page 2
 
@@ -1810,7 +1811,7 @@ We see the people in the inner most circle, just on the outside of the metal hoo
 * Majhee, matriarch leader of their clan, intradermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
 * Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's intradermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw SynTh, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
-**"To be reborn, each Journeyhume must first retreat to one of the sacred caves and refrain from both food and speech for 7 days. The Clan joins them on the seventh day, when the Journeyhume must accept an injection of *raw SynTh*."**
+**"Seven days alone in the sacred caves of Jumandi. And now, the Clan is here...there’s Jina, Amadou, Majhee, Maraba...and there’s the Mother...the first thing to enter Min's body since she began her Rebirth..."**
 
 ### Page 3
 
@@ -1824,7 +1825,7 @@ Min is drenched and Maraba has positioned the needle of the syringe full of raw 
 
 We see raw SynTh spreading throughout Min's body, moving up her torso, across her arms and legs, over her face, and into her eyelids. Min's has cousin pulled out the syringe and placed it back on the basket. 
 
-**"The raw synaptic thread is engineered to look for radioactive proteins that mark the cells of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outermost layer the human embryo. Every Automata born in the Red Zone has lifelong tags on the cells of their skin, hair, nails, eyes, teeth, sinuses, and nervous system."**
+**"The Mother...raw synaptic thread...it seeks the children of the [ectoderm](https://en.wikipedia.org/wiki/Ectoderm), the outermost layer the human embryo. Live in the Red Zone long enough, or better yet, be conceived and gestated in the Red Zone, and radioactive tags mark every generation of cells of your skin, hair, nails, eyes, teeth, sinuses, and nervous system..."**
 
 ### Page 4
 
@@ -1834,9 +1835,9 @@ As the intradermal shield continues into her mouth, nose, and sinuses, Min begin
 
 After a tense moment, Min focuses her intradermal awareness to sprout razor sharp spikes at her wrists and ankles, cutting her bonds. The crowd roars with triumph. 
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
-## Interlude 2
+## Interlude 3
 
 *W-eyes, looking side to side  
 squish to the front when the shrimp's on the run.  
@@ -2134,7 +2135,7 @@ Lastly, we know that there are **things we don’t even know we don’t know**, 
 
 **A good story.**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Chapter 7: Mistakes Are How We Evolve
 
@@ -2464,7 +2465,7 @@ Luckily, other research disciplines (such as ethology and anthropology) have bee
 
 **A great first step** is to develop more ways of **conducting rigorous, replicable neuroscience research outside of the traditional neuroscience lab**. Why? Very few people have access to traditional neuroscience labs, so it's hard to involve either researchers from other fields or "unwitting neuroscientists". Luckily, **spaces where everyone is invited to participate in building and organizing knowledge already exist**, such as museums, libraries, zoos, and aquariums! With [just a few tweaks](http://www.everymind.online/SurprisingMinds/), these spaces can **easily host high-quality neuroscience research**, and become places where **professional, unwitting, and aspiring neuroscientists can more effectively collaborate**.
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Dream, the last: Comma, not a Period
 
@@ -2492,7 +2493,7 @@ Min throws back her head in a full-throated laugh.
 
 Min: **"Deal! See you in orbit!"**
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Epilogue
 
@@ -2515,7 +2516,7 @@ sing along, harmonies of all the same song.*
 *From "Heartsongs of the [Vigilante Intergalactic Roustabout Scholars](http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/)",  
 2nd edition.*
 
-#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-02-09_Script-Milestone2.md#table-of-contents)
+#### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 # Map of locations important to the Story
 
