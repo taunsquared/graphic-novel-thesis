@@ -1886,7 +1886,7 @@ Min peers after the rampaging military tanks, standing confidently at the tippy 
 
 Min's skin has a distinctive metallic and shiny quality right now - her full intradermal shield is activated. Her mouth is set in an unhappy grimace the intradermal shield at her ears and temple glow. 
 
-Min: *"Nicola! It worked! They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
+Min: *"Nicola! Are you seeing this? They're headed straight for [Gruta de Judeia](https://goo.gl/maps/v8ocpUS8njq)!"*
 
 ### Page 2
 
@@ -1894,55 +1894,63 @@ Min: *"Nicola! It worked! They're headed straight for [Gruta de Judeia](https://
 
 Nicola Cavalcanti is sitting on a tree platform in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
 
-Nicola Cavalcanti: *"Lovely...50 years, and they really **haven't** changed their satellite sensors..."*
+Nicola Cavalcanti: *"Minka! Where have you been?? Do you have any idea-- ...are those World Government Peacekeepers??"* 
 
-Min: *"We were right!"*
+Min: *"Manuto must have set up a decoy at Gruta de Judeia. The Peacekeepers are plowing straight towards it, and no one else is crazy enough to expose themselves to World Government satellites."*
 
-Nicola: *"Minkinha, does this mean you'll come home now?"*
+Nicola: *"In that case, come back to the Central Hearth **immediately.** If they catch you--"*
 
-Min: *"Not until I get an **apology**! Why am I the only one who has to **prove** that my First Quest is **necessary**?"*
+Min: *"I can't, Nicki, I picked up a stray..."*
 
-Nicola: *"Do you really think anyone's going to give you an apology?"*
-
-Min: *"Since when is 'The First Quest shall be of the Reborn's choosing' a confusing statement??"*
+Nicola: *"An Exile? That far south and east?"*
 
 ### Page 3
 
 Nicola stands and stretches on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from her feet to the edge. 
 
-Nicola: *"The Elders weren't wrong. It's a big risk to take, and there's no 'undo' button. What's the damage to our groves out there?"*
-
-Min: *"Don't change the subject! Why didn't you say anything to defend me?"*
+Min: *"I don't think this one's an Exile...they have surface gear that makes them invisible! And a pet squid that can breathe out of water!"*
 
 Nicola stretches in a deep downward dog, reveling in the pose and wiggling with pleasure. 
 
-Nicola: *"Why did you run away instead of fighting for what you believe in?"*
+Nicola: *"Minkinha, I don't have the energy today for your stories--"*
+
+Min: *"I'm not making this up! Share my sight, they're right-- shit, where'd they go?"*
+
+Nicola: *"Fine, move as quickly as you can, but come home. Do **not** get involved with Manuto."*
+
+Min: *"Why would I ever join that idiot--"*
+
+Nicola: *"**Minka**. Just come home."*
 
 Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked handstand](https://youtu.be/XTEfIPjUuLo) on the tree platform, eyes still tightly closed. 
 
 ### Page 4
 
-Min, ears and temple also no longer glowing, climbs down from the canopy, grumbling to herself.
+Min: *"Nicki? Did you just hang up on me??"*
 
-Min: **"Hmph! I didn't run away, I just came here to check the groves..."**
+In frustration, Min yells out loud.
 
-Below her, Asoka clings to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
+Min: **"I wouldn't even be out here if the Elders would just accept my First Quest, like they're supposed to!"**
 
-Asoka: **"*We have to hurry! They'll get to your village by morning!!*"**
+Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka huffs and puffs as they cling to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
-Min tilts her head to the side, looking down at Asoka with curiosity. 
+Asoka: **"Um...what?"**
 
-Min: **"So you're *not* an evil spirit...but you don't look like an Orbiter either..."**
+Min: **"Nothing. Who are you, where did you surface gear that makes you invisible, and why do you have a pet squid?"**
+
+Asoka: **"Iri's not a squid, they're a cuttlefish!"**
+
+Min: **"Whatever. How come you showed up with the Peacekeepers? Are you a spy?"**
 
 A dark rage suddenly flares up on Asoka's face. 
 
-Asoka: **"*I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of Green Haven Howes!*"**
+Asoka: **"I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of Green Haven Howes!"**
 
 ### Page 5
 
 *--flashback--*
 
-**"12 days ago..."**
+**"24 days ago..."**
 
 Asoka clutches Iri, frozen on the steep path as they stare down the mountainside at a huge swarm of enormous, blurry, bloody, furry, four-legged creatures, distant screams floating up the mountainside like smoke...
 
@@ -1952,17 +1960,17 @@ Iri tries to get Asoka to look at it, to stop, as Asoka, eyes wide with terror a
 
 Asoka: **"*Dad*..."**
 
-Iri/João: **"Asoka! Pay attention!"**
+Iri/João: **"Soka! Pay attention!"**
 
 Asoka: **"Where are you? Where's mom?"**
 
 Iri grabs Asoka's face and forces them to look straight into the cuttlefish's eyes. 
 
-Iri/João: **"Asoka! They've already sealed the cave entrance! *Get to the next Hav*--aauucchhh!"**
+Iri/João: **"They've sealed off the city, you won't be able to get in! *Run to the next Hav*--aauucchhh!"**
 
 Suddenly Iri spins away from Asoka, as if slashed by invisible claws. Asoka screams, arms reaching for Iri. 
 
-Asoka: **"*Noooo!*"***
+Asoka: **"*Noooo!*"**
 
 ### Page 6
 
@@ -1970,7 +1978,7 @@ Asoka is running down the mountainside, dodging trees and bushes while carrying 
 
 Suddenly someone crashes into Asoka. Asoka manages to roll while holding onto Iri protectively. Asoka looks up and sees a Biononymous adult in full outfit. Asoka opens their mouth to ask what's going on, and the Biononymous adult covers Asoka's mouth through Asoka's face veil. The Biononymous adult, looking distraught, touches forheads with Asoka and grimaces. Then the adult gets close to Asoka's ear and whispers intently. 
 
-Biononymous adult: **"*Run away! Don't let the Werewolves see you!!*"**
+Biononymous adult: **"*Run away! They're not leting anyone in...Run away!*"**
 
 The Biononymous adult quickly turns Asoka around and shoves them back into the thicket, then runs off in the opposite direction, yelling and loudly crashing through the forest. 
 
@@ -1986,15 +1994,23 @@ Asoka is running and can't help looking back over their shoulder. We see the Bea
 
 ### Page 8
 
-Back in the Amazon, up in the tree with Min. Min is no longer grinning. Asoka is looking up at Min, tears streaming down their face. 
+Back in the Amazon, up in the tree with Min. Min is no longer grinning. 
 
-Asoka: **"*That's why we have to hurry!!*"**
+Asoka: **"So Captain Serena smuggled us onto the Peacekeeper sub and turns out, the werewolves are mechapets, kind of like Iri. The World Government's planning to hunt down the runaway Exiles that my Vovó sent to Majhee here in the Red Zone--"**
+
+Min: **"Wait, Iúna's your Vovó?"**
+
+Asoka: **"Yes...but my point is, the Exiles at Gruta de Judeia are in big danger, we have to go warn them right now!"**
 
 Min squats and stares down the approximately 5 meters of tree trunk down at Asoka's face veil, her eyes sad, her mouth angry. 
 
-Min: **"There is no village. 'The Clan is fluid upon the land'...it's just a decoy."**
+Min: **"Oh don't worry, they know...Manuto and his cult of idiots think that if they steal a few tanks and drones they'll be able to fight for the Exiles from planetside...They *want* the Peacekeepers to come to them..."**
 
-Asoka: **"*Wait, what??*"**
+Asoka: **"Wait, what??"**
+
+
+
+
 
 Min: **"The Peacekeepers will find the remains of a beautiful waterfall, which they'll totally fail to appreciate..."**
 
@@ -2012,11 +2028,9 @@ Asoka: **"*Then the Biononymous need your help!*"**
 
 The scene has transitioned to the Central Hearth of the Automata campsite, an tree-house-like structure made from a single, giant SynTh-bubble. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka holds their head scarf and face veil nervously in front of them, anxiously glancing at Min for cues, not used to being bare-faced in front of so many strangers, but wanting to make a good first impression. Iri sits on Asoka's shoulders, arms wrapped protectively around Asoka's head and neck. Elders look troubled or curious, or a torn mixture of both. Children openly stare at Iri, and at Asoka's unfamiliar clothing. Many of the Automata carry small monkeys, birds, or lizards on their person, docile animals perched on shoulders, curled around necks, or clinging to heads. 
 
-Min addresses Nova Jatobá, currently serving as Head Councilor of Elders, around whom the curious crowd has gathered. 
+Min addresses Nova Jatobá, currently serving as Head Councilor of the Elders, around whom the curious crowd has gathered. 
 
-Min: **"Eu solicito um conselho pelos Anciãos, para considerar esta aliança com os Biononymous, e reconsiderar minha primeira missão!"**
-
-*translation: "I request a Council of the Elders, to consider this alliance with the Biononymous, and reconsider my First Quest!"*
+Min: **"I request a Council of the Reborn!"**
 
 Nova raises an eyebrow. 
 
