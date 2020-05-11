@@ -212,5 +212,7 @@ June 7: Green Haven Clarksville is attacked by a pack of enormous, mysterious be
 
 June 8: Asoka is promoted to the rank of Journeyhume and accepts the mission to infiltrate the World Government Peacekeepers. Asoka is gifted a set of 'cuttlefish cloth' surface clothes, developed in secret by their grandmother Iúna. 
 
-June 19: 
+June 15: Asoka is smuggled onto a Peacekeeper nuclear submarine headed for the Red Zone.
+
+July 1: Asoka and the Peacekeepers surface and come ashore at the ruins of Manaus, Brazil. 
 
