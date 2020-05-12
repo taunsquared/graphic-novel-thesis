@@ -1827,7 +1827,7 @@ Character designs: Asoka Morei, Iri, Minka Barbosa Traoré, Majhee Suh, Nova Jat
 
 ### Page 1
 
-**"Approximately 32 miles north of the ruins of Manaus..."**
+**"July 2, 2116: About 32 miles north of the ruins of Manaus..."**
 
 Min peers after the rampaging military tanks, standing confidently at the tippy top of one of the few tall trees in the area, giving her a bird's eye view across the scant and scraggly canopy. Min's eyelids are shut, the thin skin full of SynTh-infected cells that enhance her night and distance vision. A brisk wind ruffles her mohawk. 
 
@@ -1837,35 +1837,35 @@ Min: *"Nicola! Are you seeing this? They're headed straight for [Gruta de Judeia
 
 ### Page 2
 
-**"Approximately 400 miles west of the ruins of Manaus..."**
+**"About 400 miles west of the ruins of Manaus..."**
 
 Nicola Cavalcanti is sitting on a tree platform in a much quieter and relatively healthy-looking part of the forest. She seems to be stargazing, staring adoringly at the sky...with eyes tightly shut. Her ears and temple are also glowing, and her skin is also metallic and shiny all over.  
 
 Nicola Cavalcanti: *"Minka! Where have you been?? Do you have any idea-- ...are those World Government Peacekeepers??"* 
 
-Min: *"Manuto must have set up a decoy at Gruta de Judeia. The Peacekeepers are plowing straight towards it, and no one else is crazy enough to expose themselves to World Government satellites."*
+Min: *"Manuto was right, the Orbiters **have** figured out how to deal with the Red Zone! He must have set up his bait at Gruta de Judeia. These Peacekeepers aren't stopping to look around, and no one else would broadcast their location to World Government satellites."*
 
-Nicola: *"In that case, come back to the Central Hearth **immediately.** If they catch you--"*
+Nicola: *"Of all the places! That man is infuriating."*
 
-Min: *"I can't, Nicki, I picked up a stray..."*
+Min: *"Also, Nicki, I picked up a stray..."*
 
-Nicola: *"An Exile? That far south and east?"*
+Nicola: *"An Exile? That far south and east? Are you sure they're not one with Manuto?"*
 
 ### Page 3
 
 Nicola stands and stretches on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from her feet to the edge. 
 
-Min: *"I don't think this one's an Exile...they have surface gear that makes them invisible! And a pet squid that can breathe out of water!"*
+Min: *"No, definitely not one of Manuto's...they have surface gear that makes them invisible, and a pet squid that can breathe out of water!"*
 
 Nicola stretches in a deep downward dog, reveling in the pose and wiggling with pleasure. 
 
 Nicola: *"Minkinha, I don't have the energy today for your stories--"*
 
-Min: *"I'm not making this up! Share my sight, they're right-- shit, where'd they go?"*
+Min: *"I'm not making this up! They're at the bottom of this tree--"*
 
-Nicola: *"Fine, move as quickly as you can, but come home. Do **not** get involved with Manuto."*
+Nicola: *"In that case, bring them back to the Central Hearth **immediately.** Do **not** get involved with Manuto's idiotic plan."*
 
-Min: *"Why would I ever join that idiot--"*
+Min: *"Why would I ever--"*
 
 Nicola: *"**Minka**. Just come home."*
 
@@ -1873,7 +1873,7 @@ Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked h
 
 ### Page 4
 
-Min: *"Nicki? Did you just hang up on me??"*
+Min: *"Will you stop interrupting me?? Nicki? Did you just hang up on me??"*
 
 In frustration, Min yells out loud.
 
@@ -1883,11 +1883,11 @@ Min, ears and temple also no longer glowing, climbs down from the canopy. Below 
 
 Asoka: **"Um...what?"**
 
-Min: **"Nothing. Are you an Exile? Where'd you get surface gear that makes you invisible? And why do you have a pet squid?"**
+Min: **"Nothing. Are you an Exile? How come you can go invisible? And why do you have a pet squid?"**
 
 Asoka: **"Iri's not a squid, they're a cuttlefish!"**
 
-Min: **"Whatever. How come you showed up with the Peacekeepers? Are you a spy?"**
+Min: **"Whatever. Are you a spy? Why'd you show up with the Peacekeepers?"**
 
 A dark rage suddenly flares up on Asoka's face. 
 
