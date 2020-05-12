@@ -216,3 +216,7 @@ June 15: Asoka is smuggled onto a Peacekeeper nuclear submarine headed for the R
 
 July 1: Asoka and the Peacekeepers surface and come ashore at the ruins of Manaus, Brazil. 
 
+July 2: Asoka and Iri meet Min.
+
+July 9: Asoka, Iri, and Min arrive at the Central Hearth of the Automata. 
+
