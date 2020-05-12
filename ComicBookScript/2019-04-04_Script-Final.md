@@ -1855,7 +1855,7 @@ Nicola: *"An Exile? That far south? Are you sure they're not one with Manuto?"*
 
 Nicola stands and stretches on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from her feet to the edge. 
 
-Min: *"No, definitely not one of Manuto's...they have surface gear that makes them invisible, and a pet squid that can breathe out of water!"*
+Min: *"Pretty sure...they have surface gear that makes them invisible, and a pet squid that can breathe out of water!"*
 
 Nicola stretches in a deep downward dog, reveling in the pose and wiggling with pleasure. 
 
@@ -1873,11 +1873,11 @@ Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked h
 
 ### Page 4
 
-Min: *"Will you stop interrupting me?? Nicki? Did you just hang up on me??"*
+Min: *"Wha--Nicki? Did you just hang up on me??"*
 
 In frustration, Min yells out loud.
 
-Min: **"I wouldn't even be out here if the Elders would just accept my First Quest, like they're supposed to!"**
+Min: **"I wouldn't be out here if the Elders had accepted my First Quest like they're supposed to!"**
 
 Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka huffs and puffs as they cling to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
