@@ -1845,11 +1845,11 @@ Nicola Cavalcanti: *"Minka! Where have you been?? Do you have any idea-- ...are 
 
 Min: *"Manuto was right, the Orbiters **have** figured out how to deal with the Red Zone! He must have set up his bait at Gruta de Judeia. These Peacekeepers aren't stopping to look around, and no one else would broadcast their location to World Government satellites."*
 
-Nicola: *"Of all the places! That man is infuriating."*
+Nicola: *"Of all the places! That man is **infuriating**."*
 
 Min: *"Also, Nicki, I picked up a stray..."*
 
-Nicola: *"An Exile? That far south and east? Are you sure they're not one with Manuto?"*
+Nicola: *"An Exile? That far south? Are you sure they're not one with Manuto?"*
 
 ### Page 3
 
