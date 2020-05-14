@@ -1943,25 +1943,23 @@ Asoka is running and can't help looking back over their shoulder. We see the Bea
 
 Back in the Amazon, up in the tree with Min. Min is no longer grinning. 
 
-Asoka: **"So Captain Serena smuggled us onto the Peacekeeper sub, and turns out, the werewolves are some sort of World Government robots! And now they're here, with those tanks and drones, heading straight for Gruta de Judeia! They even have satelite images of you!!"**
+Min: **"Asoka...Asoka?"**
 
-Min: **"Ha! That's because some of the Exiles you're trying so hard to save have *deliberately* broadcast those images as bait."**
+Asoka: **"Uh...sorry...yeah, so then...then Haven Clarksville smuggled us onto the Peacekeeper sub...and the werewolves were there! They're all World Government robots! And the World Government has satelite images of you...they're going to kill you too!!"**
 
-Asoka: **"Wait, what??"**
+Min: **"Satellite images...you know, those images were *deliberately* broadcast as bait."**
 
-Min: **"Turns out, some Exiles would prefer to go back to their shiny jail cells up in orbit rather than roam free on Earth."** 
+Asoka: **"Wait...what??"**
 
-Asoka: **"But...I thought the Orbiters were treating the Exiles really badly?"**
+Min: **"I'm sorry your family was killed. Don't worry, that's not going to happen here."** 
 
-Min: **"Well, they apparently got free food and stim drugs and fancy body mods up there, even while being treated like space trash."**
+Asoka: **"But...how? You can't hide from their satellites--"**
 
-Asoka: **"But then, aren't you still worried? If the Peacekeepers are here, they could end up finding Majhee, and all her people in the Red Zone--"**
-
-Min: **"The Automata."**
+Min: **"The Automata can."**
 
 Asoka: **"The what?"**
 
-Min: **"Majhee's people. We call ourselves the Automata. And no Orbiter or werewolf robot can hunt us, not here or anywhere else!"**
+Min: **"We call ourselves the Automata. I'm Minka. And...thanks for the warning...but no Orbiter robots will be hunting *us!*"**
 
 ### Page 9
 
