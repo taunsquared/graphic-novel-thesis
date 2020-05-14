@@ -1965,41 +1965,35 @@ Min: **"We call ourselves the Automata. I'm Minka. And...thanks for the warning.
 
 **"7 days later, approximately 220 miles northwest of Manaus..."**
 
-The scene has transitioned to the Central Hearth of the Automata campsite, an tree-house-like structure made from a single, giant SynTh-bubble. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka holds their head scarf and face veil nervously in front of them, anxiously glancing at Min for cues, not used to being bare-faced in front of so many strangers, but wanting to make a good first impression. Iri sits on Asoka's shoulders, arms wrapped protectively around Asoka's head and neck. Elders look troubled or curious, or a torn mixture of both. Children openly stare at Iri, and at Asoka's unfamiliar clothing. Many of the Automata carry small monkeys, birds, or lizards on their person, docile animals perched on shoulders, curled around necks, or clinging to heads. 
+Min: **"There it is...the Central Hearth!"**
 
-Min addresses Nova Jatobá, currently serving as Head Councilor of the Elders, around whom the curious crowd has gathered. 
+Min: **"And look, there's Head Councilor Nova! She's exactly who we need to talk to!"**
 
-Min: **"I request a Council of the Reborn!"**
+The scene has transitioned to the Central Hearth of the Automata campsite, an tree-house-like structure made from a single, giant SynTh-bubble. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka holds their head scarf and face veil nervously in front of them, anxiously glancing at Min for cues, not used to being bare-faced in front of so many strangers, but wanting to make a good first impression. Iri sits on Asoka's shoulders, arms wrapped protectively around Asoka's head and neck. Elders look troubled or curious, or a torn mixture of both. Children openly stare at Iri. Many of the Automata carry small monkeys, birds, or lizards on their person, docile animals perched on shoulders, curled around necks, or clinging to heads. 
 
-Nova raises an eyebrow. 
+Nova Jatobá: **"Good to see you too, Minka...especially when you're about to make my life chaotic again..."** 
 
-Nova: **"Está tão ansioso por violência em nome de um povo muito longe para ver, ouvir ou tocar?"**
+Min: **"Nova, this is Asoka! They're from North America, and they have important news about the Orbiters!"**
 
-*translation: "Are you so eager for violence in the name of a people too far away to see, hear, or touch?"*
+Off-panel: **"Minka!"**
 
-Min, furious, gets right in Nova's stony face, and throws her arm towards Asoka. 
+Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. 
 
-Min: **"Não entende?? Outros também conseguiram voltar à superfície!"**
+Majhee: **"What kind of Tree Surfer of the Automata...let's Peacekeepers destroy an entire papaya grove?"**
 
-*translation: "Don't you understand?? Others have also made it back to the surface!"*
+Min turns to her grandmother with a grin.
 
-Murmurs of surprise, shock, and wonder ripple through the crowd. Nova, unmoved, folds her arms.
-
-Off-panel: **"Aiii, Minkinha, quando você vai aprender *um pouco de paciência*?"**
-
-*translation: "Aiii, little Minka, when will you learn **a little bit of patience**?"*
-
-Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. Min turns to her grandmother in desperation.
-
-Min: **"Avó Majhee, este é o neto de Iúna Morei, Mama Bird!!"**
-
-*translation: "Grandma Majhee, this is the grandchild of Iúna Morei, the legendary Mama Bird!!"*
+Min: **"Vovó!"**
 
 Majhee turns to Asoka and lets her stern look soften into a delighted grin below twinkling eyes. 
 
-Majhee: **"Oh meu...! Entou, primeiro nós comemos. Ninguém pode pensar com o estômago vazio!"**
+Majhee: **"I see my wicked granddaughter forgets her duties to the forest *and* to guests."**
 
-*translation: "Oh my...! So, first we eat. No one can think with an empty stomach!"*
+Min: **"Vovó Majhee, this is Asoka Morei of Green Haven Howes."**
+
+Asoka: **"So pleased to finally meet you, Majhee. I heard that you know...that you knew...my Vovó..."**
+
+Majhee: **"I see you have a long story to tell. But first, we eat! No one can think on an empty stomach."**
 
 ### Page 10
 
@@ -2011,9 +2005,7 @@ At one end of the Central Hearth is a large stone basin. On either side of the s
 
 As the last serving bowl is placed on the tables, a hush falls over the Central Hearth. Asoka, eager to start eating, looks around in confusion, then hesitantly starts to reach for a bowl of rice. Min slaps down Asoka's hand. 
 
-Min: **"Ainda não!"**
-
-*translation: "Not yet!"*
+Min: **"Not yet!"**
 
 ### Page 11
 
@@ -2023,27 +2015,17 @@ Asoka's face veil annotates the temperature of the aquifer's enormous rock wall 
 
 Over the above is the following dialogue: 
 
-Asoka: **"*Quem são eles?*"**
-
-*translation: "Who are they?"*
+Asoka: **"Who are they?"**
 
 Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly dramatic in physique out of the Automata -- with proud reverence.
 
-Min: **"Eles são os *cicladores de água*."**
+Min: **"They're the water cyclers -- that's my birth mother."**
 
-*translation: "They are the **water cyclers**."*
+Min: **"Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the coastal rains, from the [underground rivers](https://en.wikipedia.org/wiki/Hamza_River), and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."**
 
-Min: **"Todos os dias eles [tratam a água](https://en.wikipedia.org/wiki/Water_purification#Treatment) coletamos da chuva, do rio e de [nosso esgoto](https://en.wikipedia.org/wiki/Reclaimed_water)."**
+Asoka: **"Your sewage?"**
 
-*translation: "Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the coastal rains, from the [underground rivers](https://en.wikipedia.org/wiki/Hamza_River), and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."*
-
-Asoka: **"*Espere, o que??*"**
-
-*translation: "Wait, what??"*
-
-Min: **"Você não ouviu? Nós tivemos uma crise da água. Cada gota é preciosa."**
-
-*translation: "Didn't you hear? We had a Water Crisis. Every drop is precious."*
+Min: **"Yes...it's like your surface gear...nothing is wasted."**
 
 ### Page 12
 
@@ -2051,17 +2033,13 @@ The Water Cyclers have all poured their bowls of water into the enormous pitcher
 
 The Water Cyclers have each brought their pitcher to a table and poured themselves a glass. They all raise their glasses together.
 
-Water Cyclers: **"Beber sem sangrar!"**
-
-*translation: "To drink without bleeding!"*
+Water Cyclers: **"To the worms who spin our Mother!"**
 
 The Water Cyclers then all down their glass of water. The gathered Automata start to clap and cheer and eat and drink. Min grins and reaches for the escabeche. 
 
-Min: **"Certo, *agora* podemos comer."**
+Min: **"Ok, *now* we can eat."**
 
-*translation: "Ok, **now** we can eat."*
-
-Asoka looks at the happy people, warm food, families and children laughing in the sunlight, and they burst into tears, burying their face in their hands. Iri wraps its arms around Asoka tenderly as Majhee gently rubs Asoka's back. 
+Asoka looks at the happy people, warm food, families and children laughing in the sunlight, and they burst into tears, burying their face in their hands. Iri wraps its arms around Asoka tenderly as Min gently rubs Asoka's back. 
 
 ## Diagram 6: Brain Architecture
 
