@@ -1877,21 +1877,21 @@ Min: *"Wha--Nicki? Did you just hang up on me??"*
 
 In frustration, Min yells out loud.
 
-Min: **"I wouldn't be out here if the Elders had accepted my First Quest like they're supposed to!"**
+Min: **"I wouldn't even *be* here if the Elders would just accept my First Quest like they're *supposed* to!"**
 
 Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka huffs and puffs as they cling to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
 Asoka: **"Um...what?"**
 
-Min: **"Nothing. Are you an Exile? How come you can go invisible? And why do you have a pet squid?"**
+Min: **"Nothing. How come you can go invisible? And why do you have a pet squid?"**
 
 Asoka: **"Iri's not a squid, they're a cuttlefish!"**
 
-Min: **"Whatever. Are you a spy? Why'd you show up with the Peacekeepers?"**
+Min: **"Fine. Then are you a spy? Why'd you show up with the Peacekeepers?"**
 
 A dark rage suddenly flares up on Asoka's face. 
 
-Asoka: **"I'm not one of them! My name is Asoka Morei, and I'm a Biononymous of Green Haven Howes!"**
+Asoka: **"I'm not one of *them!* I'm Asoka Morei, a Biononymous of Green Haven Howes!"**
 
 ### Page 5
 
@@ -1909,15 +1909,15 @@ Asoka: **"*Dad*..."**
 
 Iri/João: **"Soka! Pay attention!"**
 
-Asoka: **"Where are you? Where's mom?"**
+Asoka: **"Dad...where's mom..."**
 
 Iri grabs Asoka's face and forces them to look straight into the cuttlefish's eyes. 
 
-Iri/João: **"They've sealed off the city, you won't be able to get in! *Run to the next Hav*--aauucchhh!"**
+Iri/João: **"The gates are sealed, no one's getting in! *Run to the next Hav--*aauucchhh!"**
 
 Suddenly Iri spins away from Asoka, as if slashed by invisible claws. Asoka screams, arms reaching for Iri. 
 
-Asoka: **"*Noooo!*"**
+Asoka: **"*DAD!!*"**
 
 ### Page 6
 
@@ -1925,7 +1925,7 @@ Asoka is running down the mountainside, dodging trees and bushes while carrying 
 
 Suddenly someone crashes into Asoka. Asoka manages to roll while holding onto Iri protectively. Asoka looks up and sees a Biononymous adult in full outfit. Asoka opens their mouth to ask what's going on, and the Biononymous adult covers Asoka's mouth through Asoka's face veil. The Biononymous adult, looking distraught, touches forheads with Asoka and grimaces. Then the adult gets close to Asoka's ear and whispers intently. 
 
-Biononymous adult: **"*Run away! They're not leting anyone in...Run away!*"**
+Biononymous adult: **"*Shhhh! To the next Haven...Run away!*"**
 
 The Biononymous adult quickly turns Asoka around and shoves them back into the thicket, then runs off in the opposite direction, yelling and loudly crashing through the forest. 
 
@@ -1943,23 +1943,25 @@ Asoka is running and can't help looking back over their shoulder. We see the Bea
 
 Back in the Amazon, up in the tree with Min. Min is no longer grinning. 
 
-Asoka: **"So Captain Serena smuggled us onto the Peacekeeper sub, and turns out, the werewolves are some sort of World Government robots! And now they're here to hunt down the Exiles, and Majhee, and all her people in the Red Zone--"**
-
-Min: **"The Automata."**
-
-Asoka: **"The what?"**
-
-Min: **"Majhee's people. We call ourselves the Automata. And no Orbiter or werewolf robot can hunt us, not here or anywhere else."**
-
-Asoka: **"But...you saw! The tanks, and the drones, heading straight for Gruta de Judeia! They even have sattelite images of you!!"**
+Asoka: **"So Captain Serena smuggled us onto the Peacekeeper sub, and turns out, the werewolves are some sort of World Government robots! And now they're here, with those tanks and drones, heading straight for Gruta de Judeia! They even have satelite images of you!!"**
 
 Min: **"Ha! That's because some of the Exiles you're trying so hard to save have *deliberately* broadcast those images as bait."**
 
 Asoka: **"Wait, what??"**
 
+Min: **"Turns out, some Exiles would prefer to go back to their shiny jail cells up in orbit rather than roam free on Earth."** 
 
+Asoka: **"But...I thought the Orbiters were treating the Exiles really badly?"**
 
+Min: **"Well, they apparently got free food and stim drugs and fancy body mods up there, even while being treated like space trash."**
 
+Asoka: **"But then, aren't you still worried? If the Peacekeepers are here, they could end up finding Majhee, and all her people in the Red Zone--"**
+
+Min: **"The Automata."**
+
+Asoka: **"The what?"**
+
+Min: **"Majhee's people. We call ourselves the Automata. And no Orbiter or werewolf robot can hunt us, not here or anywhere else!"**
 
 ### Page 9
 
