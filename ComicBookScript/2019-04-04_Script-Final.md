@@ -1963,7 +1963,7 @@ Min: **"We call ourselves the Automata. I'm Minka. And...thanks for the warning.
 
 ### Page 9
 
-**"7 days later, approximately 220 miles northwest of Manaus..."**
+**"7 days later, about 220 miles northwest of Manaus..."**
 
 Min: **"There it is...the Central Hearth!"**
 
@@ -1971,15 +1971,15 @@ Min: **"And look, there's Head Councilor Nova! She's exactly who we need to talk
 
 The scene has transitioned to the Central Hearth of the Automata campsite, an tree-house-like structure made from a single, giant SynTh-bubble. The sun above is not quite at its zenith. Min and Asoka stand before a crowd of Automata, both children and Elders, members of the Automata clan who have all received their intradermal shield and successfully returned to the Amazon forest after spending at least a year living in the Underground Cities to the south of the Red Zone. Asoka holds their head scarf and face veil nervously in front of them, anxiously glancing at Min for cues, not used to being bare-faced in front of so many strangers, but wanting to make a good first impression. Iri sits on Asoka's shoulders, arms wrapped protectively around Asoka's head and neck. Elders look troubled or curious, or a torn mixture of both. Children openly stare at Iri. Many of the Automata carry small monkeys, birds, or lizards on their person, docile animals perched on shoulders, curled around necks, or clinging to heads. 
 
-Nova Jatobá: **"Good to see you too, Minka...especially when you're about to make my life chaotic again..."** 
+Nova Jatobá, dryly, not unkindly: **"Oh look, it's my favorite source of chaotic good..."** 
 
-Min: **"Nova, this is Asoka! They're from North America, and they have important news about the Orbiters!"**
+Min, pointing towards Asoka and Iri: **"Nova, this is urgent! They have *big news* about the Orbiters!"**
 
 Off-panel: **"Minka!"**
 
 Majhee Suh, soon to be in her 90s, pushes her way through the crowd to the front. She is tiny, wrinkled, and no longer able to climb trees, but her back is still straight, and she eyes her granddaughter with laser-beam eyes. 
 
-Majhee: **"What kind of Tree Surfer of the Automata...let's Peacekeepers destroy an entire papaya grove?"**
+Majhee: **"First you let Peacekeepers destroy an entire papaya grove..."**
 
 Min turns to her grandmother with a grin.
 
@@ -1987,21 +1987,37 @@ Min: **"Vovó!"**
 
 Majhee turns to Asoka and lets her stern look soften into a delighted grin below twinkling eyes. 
 
-Majhee: **"I see my wicked granddaughter forgets her duties to the forest *and* to guests."**
+Majhee: **"...and now you forget to introduce your guest?"**
 
-Min: **"Vovó Majhee, this is Asoka Morei of Green Haven Howes."**
+Min: **"Ah...Vovó, this is Asoka Morei and Iridescence, of Green Haven Howes."**
 
-Asoka: **"So pleased to finally meet you, Majhee. I heard that you know...that you knew...my Vovó..."**
+Asoka: **"So pleased to finally meet you, Majhee."**
 
-Majhee: **"I see you have a long story to tell. But first, we eat! No one can think on an empty stomach."**
+Majhee: **"I see you have a long story to tell. But first, let's eat! No one can think on an empty stomach."**
 
 ### Page 10
 
 Asoka, Iri still tucked into their neck, has been seated next to Min on floor mats in front of a low table piled high with more food than Asoka has seen in weeks. On Asoka's other side, Majhee looks over the Central Hearth with a look of deep contentment. It's midday, and bright natural light floods the Central Hearth, but the temperature is comfortable. Overhead, an enormous SynTh bubble protects the Central Hearth from the harsh sun and poisonous air, like a giant cell membrane. The day's cooking crew has just brought out the last of the serving plates, piled high with steaming hot food that makes Asoka's salivation response go wild. Asoka's face veil annotates the many strange fishes, vegetables, fruit, and grain laid out in lavish display. 
 
-We see Nicola Cavalcanti carrying out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). Nicola throws Min a wink as she passes. 
+Asoka: **"Wow..."**
+
+We see Nicola Cavalcanti carrying out the last trays of [escabeche](https://en.wikipedia.org/wiki/Escabeche) made with [tambaqui](https://en.wikipedia.org/wiki/Tambaqui), and behind her, another elder, [one of the few men with white hair and wrinkles](https://www.theguardian.com/society/2013/jan/29/men-cancer-deaths-greater-women), carries out large bowls full of [kkakdugi](https://en.wikipedia.org/wiki/Kkakdugi). 
+
+Min: **"Nicki! The tambaqui are so big!"**
+
+Nicola throws Min a wink as she passes.
+
+Nicola: **"Been saving these chonkers for you!"**
 
 At one end of the Central Hearth is a large stone basin. On either side of the spigot coming out of the stone basin, 2 lines of Automata Elders wait their turn to fill large metal bowls with the rapidly flowing and high pressure water from the spigot. Each of these Elders have a long, folded piece of beautiful pale blue cloth folded over one shoulder. 
+
+Asoka: **"You have enough good water to grow *fish?*"**
+
+Min: **"Yeah...it comes from a secret underground river--"**
+
+Asoka: **"The Rio Hamza!"**
+
+Min: **"Exactly! Except now we call it the Rio Axé...because it gave us the life-force we needed to survive the Burning..."**
 
 As the last serving bowl is placed on the tables, a hush falls over the Central Hearth. Asoka, eager to start eating, looks around in confusion, then hesitantly starts to reach for a bowl of rice. Min slaps down Asoka's hand. 
 
