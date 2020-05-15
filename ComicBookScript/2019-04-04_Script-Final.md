@@ -2013,7 +2013,7 @@ At one end of the Central Hearth is a large stone basin. On either side of the s
 
 Asoka: **"You have enough good water to grow *fish?*"**
 
-Min: **"Yeah...it comes from a secret underground river--"**
+Min: **"Yeah...it comes from a secret [underground river](https://en.wikipedia.org/wiki/Hamza_River)--"**
 
 Asoka: **"The Rio Hamza!"**
 
@@ -2025,23 +2025,23 @@ Min: **"Not yet!"**
 
 ### Page 11
 
-A large gong rings. Asoka looks up towards one end of the Central Hearth to see that each Elder has folded their blue cloth into an [origami flower bowl](http://www.origami-instructions.com/origami-rose-bowl.html), which is secured to the top of a large pitcher. They then stand and pour their bowl of water carefully into the SynTh cloth flower bowl, which filters and cleans the water as it passes through the bottom layer of cloth and into the pitcher. 
+Asoka looks up towards one end of the Central Hearth to see that each Elder has folded their blue cloth into an [origami flower bowl](http://www.origami-instructions.com/origami-rose-bowl.html), which is secured to the top of a large pitcher. They then stand and pour their bowl of water carefully into the SynTh cloth flower bowl, which filters and cleans the water as it passes through the bottom layer of cloth and into the pitcher. 
+
+Min: **"No one eats until the water cyclers make the toast!"**
+
+Asoka: **"Oops..."**
+
+Min: **"It's ok, you don't have to hide!"**
 
 Asoka's face veil annotates the temperature of the aquifer's enormous rock wall to be 7.2 deg celsius. 
 
-Over the above is the following dialogue: 
-
-Asoka: **"Who are they?"**
-
 Min watches one Water Cycler in particular -- her gene mother Jina, daughter of Majhee Suh and Vec Barbosa, easily one of the most strikingly dramatic in physique out of the Automata -- with proud reverence.
 
-Min: **"They're the water cyclers -- that's my birth mother."**
+Asoka: **"Who's that woman? You keep watching her..."**
 
-Min: **"Every day, they [treat the water](https://en.wikipedia.org/wiki/Water_purification#Treatment) we collect from the coastal rains, from the [underground rivers](https://en.wikipedia.org/wiki/Hamza_River), and from [our sewage](https://en.wikipedia.org/wiki/Reclaimed_water)."**
+Min: **"Oh...that's my birth mother, Jina...we had a fight before I left...she doesn't look angry, right?"**
 
-Asoka: **"Your sewage?"**
-
-Min: **"Yes...it's like your surface gear...nothing is wasted."**
+Asoka: **"Uh...I don't think so?"**
 
 ### Page 12
 
@@ -2049,9 +2049,11 @@ The Water Cyclers have all poured their bowls of water into the enormous pitcher
 
 The Water Cyclers have each brought their pitcher to a table and poured themselves a glass. They all raise their glasses together.
 
-Water Cyclers: **"To the worms who spin our Mother!"**
+Water Cyclers: **"Today's toast...is to the worms who spin our Mother!"**
 
 The Water Cyclers then all down their glass of water. The gathered Automata start to clap and cheer and eat and drink. Min grins and reaches for the escabeche. 
+
+The Automata: **"To the worms!"**
 
 Min: **"Ok, *now* we can eat."**
 
