@@ -477,7 +477,7 @@ Dr. Kauffmann: **"Los Angeles. A police raid last night turned into a fire that'
 
 Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
-Iúna: **"Yes, I...I'm sorry, I need to make a call..."**
+Iúna: **"Yes, I...I'm sorry, I need to make a call...thanks again for bringing over the new protocols."**
 
 Dr. Kauffmann: **"Of course. We'll see ourselves out."**
 
@@ -526,19 +526,19 @@ Iúna: **"*Remember the mechapet idea?* It's possible now!!"**
 ### Neuron Classification by Structure
 
 -- Unipolar --  
-[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Many primary sensory neurons, which are the first step in translating chemicals, light, or vibrations from the outside world into neural signals, are unipolar cells. In addition, [unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) have been found in the cerebellar cortex and cochlear nucleus (part of the brainstem).
+[**Unipolar neurons**](https://en.wikipedia.org/wiki/Unipolar_neuron) have only one "neuronal process" (extension, branch, appendage) extending out of their cell body. Many primary sensory neurons, which are the first step in translating chemicals, light, or vibrations from the outside world into neural signals, are unipolar cells. In addition, [unipolar brush cells](https://en.wikipedia.org/wiki/Unipolar_brush_cell) have been found in the brain and brainstem.
 
 -- Bipolar --  
-[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron) have two long processes that extend from the soma (cell body). One process carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon)), and the other carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite)). Many non-primary sensory neurons,which filter or amplify signals from primary sensory neurons, are bipolar neurons. Bipolar neurons are found in the [retina](https://en.wikipedia.org/wiki/Retina), [olfactory epithelium](https://en.wikipedia.org/wiki/Olfactory_epithelium), [vestibular nerve](https://en.wikipedia.org/wiki/Vestibular_nerve), and [spinal ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion).
+[**Bipolar neurons**](https://en.wikipedia.org/wiki/Bipolar_neuron) have two long processes that extend from the soma (cell body). One process carries info towards the soma (called ["dendrite"](https://en.wikipedia.org/wiki/Dendrite)), and the other carries info away from the soma (called ["axon"](https://en.wikipedia.org/wiki/Axon)). Many non-primary sensory neurons, which filter or amplify signals from primary sensory neurons, are bipolar neurons. Bipolar neurons are found in the [eye](https://en.wikipedia.org/wiki/Retina), [nose](https://en.wikipedia.org/wiki/Olfactory_epithelium), [ear](https://en.wikipedia.org/wiki/Vestibular_nerve), and [spine](https://en.wikipedia.org/wiki/Dorsal_root_ganglion).
 
 -- Pseudounipolar --  
 Pseudounipolar neurons are a type of sensory neuron in the peripheral nervous system, whose somas are located within the [dorsal root ganglia](https://en.wikipedia.org/wiki/Dorsal_root_ganglion) of the spinal cord. These neurons have a single, long axon that splits into two branches: a "peripheral branch" which goes to the skin, joints, and muscles; and a "central branch" which goes to the spinal cord. Pseudounipolar neurons develop from bipolar neurons.
 
 -- Multipolar --  
-The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surrounded by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and [autonomic ganglia](https://en.wikipedia.org/wiki/Autonomic_ganglion).
+The soma of [**multipolar neurons**](https://en.wikipedia.org/wiki/Multipolar_neuron) is surrounded by many small, branching dendrites, and one long axon. Multipolar neurons function as [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron) and [interneurons](https://en.wikipedia.org/wiki/Interneuron), and they are found mostly in the [cortex of the brain](https://en.wikipedia.org/wiki/Cerebral_cortex), in the [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord), and in [clusters of neurons (called "ganglia") controlling and sensing the internal organs](https://en.wikipedia.org/wiki/Autonomic_ganglion).
 
 -- Anaxonic --  
-[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons act as ["non-spiking" neurons](https://en.wikipedia.org/wiki/Non-spiking_neuron), which use [graded potentials](https://en.wikipedia.org/wiki/Graded_potential) (as opposed to "spiking neurons", which use [action potentials](https://en.wikipedia.org/wiki/Action_potential)) to effect the fidelity, strength, and lifetime of a neuronal signal. Anaxonic neurons can influence the electrical excitability of spiking neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23); however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732) of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf).
+[**Anaxonic neurons**](https://en.wikipedia.org/wiki/Anaxonic_neuron) have many processes extending out from their somas, but no axon can be differentiated from the dendrites purely based on structure. These neurons effect the fidelity, strength, and lifetime of signals from other cells. Anaxonic neurons can influence the electrical excitability of other neurons, and [almost all central nervous system neurons born in adulthood seem to be anaxonic](https://cdn.elifesciences.org/articles/32373/elife-32373-v2.pdf#page=23); however, these neurons are still very poorly understood. Anaxonic neurons have been found in the brain and [special sense organs](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ar.22732) of vertebrates, and in the [central nervous system of invertebrates](https://www.jstage.jst.go.jp/article/aohc1988/52/Supplement/52_Supplement_139/_pdf).
 
 ### Major Glial Cell Types
 
@@ -550,13 +550,13 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 -- [Macroglia](https://en.wikipedia.org/wiki/Glia#Macroglia) of the [Peripheral Nervous System (PNS)](https://en.wikipedia.org/wiki/Peripheral_nervous_system) --
 
-[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell) provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin) (which make action potentials go faster and farther) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
+[**Schwann cells**](https://en.wikipedia.org/wiki/Schwann_cell) provide [myelin sheaths](https://en.wikipedia.org/wiki/Myelin) (which help neurons communicate faster and farther) to neurons in the PNS, eat germs, and clear cellular debris to help PNS neurons regrow. 
 
 [**Satellite cells**](https://en.wikipedia.org/wiki/Satellite_glial_cell) surround neurons in [sensory](https://en.wikipedia.org/wiki/Dorsal_root_ganglion), [sympathetic](https://en.wikipedia.org/wiki/Sympathetic_ganglion), and [parasympathetic ganglia](https://en.wikipedia.org/wiki/Parasympathetic_ganglion); are interconnected by [gap junctions](https://en.wikipedia.org/wiki/Gap_junction); and are highly sensitive to [inflammation](https://en.wikipedia.org/wiki/Inflammation) and pain. 
 
 -- Macroglia of the [Central Nervous System (CNS)](https://en.wikipedia.org/wiki/Central_nervous_system) -- 
 
-[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle neurotransmitters released during synaptic transmission; and signal to each other using [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)), [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid), and [adenosine tri-phosphate (ATP, a molecule used for energy by all living cells)](https://en.wikipedia.org/wiki/Adenosine_triphosphate). 
+[**Astrocytes**](https://en.wikipedia.org/wiki/Astrocyte) (or astroglia) are the most abundant macroglia in the CNS. They remove excess potassium ions (K+) from around neurons; link neurons to a blood supply while helping form the blood-brain barrier; recycle chemicals used for communication between cells; and talk to each other using [glutamate](https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)), [GABA](https://en.wikipedia.org/wiki/Gamma-Aminobutyric_acid), and [adenosine tri-phosphate (ATP, a molecule used for energy by all living cells)](https://en.wikipedia.org/wiki/Adenosine_triphosphate). 
 
 [**Ependymal cells**](https://en.wikipedia.org/wiki/Ependyma) (or ependymocytes) line the spinal cord and the [ventricular system](https://en.wikipedia.org/wiki/Ventricular_system) of the brain to create the [ependyma](https://en.wikipedia.org/wiki/Ependyma), a part of the [blood-CSF barrier](https://en.wikipedia.org/wiki/Choroid_plexus#Blood%E2%80%93cerebrospinal_fluid_barrier). They are involved in creating, secreting, and circulating [cerebro-spinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid). 
 
@@ -576,32 +576,30 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 **"Finished loading...'A Beginner's Guide to SynTh: Introduction'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"Synaptic Thread, commonly called 'SynTh', is spun by the bacterial superorganism [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast), commonly called 'thread-worms'.  When cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria), thread worms can decompose the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand to produce thread-like mycelium structures called 'Raw SynTh'. As it is being spun, raw SynTh generates [spontaneous bursts of electrical activity](https://en.wikipedia.org/wiki/Retinal_waves), inducing its atoms to self-assemble into [hyphae](https://en.wikipedia.org/wiki/Hypha)-like sections. These sections can then flexibly mimic the behaviours of a classical [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)."**
-
-**"The exact nature of this flexibility is described by the SynTh's 'grade', determined by the characteristics of the [septum](https://en.wikipedia.org/wiki/Septum) separating its hyphae cells. In 'higher' grades of SynTh, the septum are composed of very small [hexagons](https://www.quora.com/Geometry-Why-do-we-see-hexagons-in-nature-so-often) and have a greater density of pores, increasing the flow rate of [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions throughout the hyphae. These grades of 'flexible SynTh' or 'flexi-SynTh' can be reconfigured almost indefinitely; however, they require frequent feedings to maintain. In cheaper grades of SynTh, called 'static Synth', the septum are composed of larger hexagons and have fewer pores, which limits static SynTh's [reconfigurability](https://en.wikipedia.org/wiki/Reconfigurability) but also reduces its sand consumption..."**
+**"Synaptic Thread, commonly called ‘SynTh’, is spun by the bacterial superorganism [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast), commonly called ‘thread worms’. When cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria), thread worms decompose the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand to produce thread-like mycelium structures (’raw SynTh’). As it is being spun, raw SynTh generates [bursts of electrical activity](https://en.wikipedia.org/wiki/Retinal_waves), inducing the fibres of the SynTh to self-assemble into sections that mimic the properties of classical [electronic components](https://en.wikipedia.org/wiki/Electronic_circuit) (resistor, transistor, capacitor, etc). Later, externally generated electrical activity can change the properties of these sections. Thread worms can also spin SynTh of varying ‘grades’, defined by the density of pores in the SynTh’s cell walls. In higher grades, the cell walls have many pores, allowing [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions to flow freely throughout the fibres. These grades of ‘flex-SynTh’ can be reconfigured almost indefinitely; however, they require frequent feedings to maintain. In cheaper grades of SynTh (‘static Synth’), the cell walls have fewer pores, limiting [reconfigurability](https://en.wikipedia.org/wiki/Reconfigurability) but also reducing sand consumption..."**
 
 ### Chapter 1 Cast
 
 **Majhee Suh**  
-Born in [Seoul, Korea](https://en.wikipedia.org/wiki/Seoul) on May 20, 2029  
+Born in [Seoul, Korea](https://en.wikipedia.org/wiki/Seoul)
 
 **Vec Barbosa**  
-Born in [Fortaleza, Brazil](https://en.wikipedia.org/wiki/Fortaleza) on March 16, 2024  
+Born in [Fortaleza, Brazil](https://en.wikipedia.org/wiki/Fortaleza)
 
 **Kai Oliviera**  
-Born in [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) on May 21, 2020  
+Born in [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) 
 
 **Nova Jatobá**  
-Born in [Nova Mutum, Brazil](https://en.wikipedia.org/wiki/Nova_Mutum) on July 26, 2042  
+Born in [Nova Mutum, Brazil](https://en.wikipedia.org/wiki/Nova_Mutum)
 
 **Beatriz Cavalcanti**  
-Born in [Florianópolis, Brazil](https://en.wikipedia.org/wiki/Florian%C3%B3polis) on April 14, 2031
+Born in [Florianópolis, Brazil](https://en.wikipedia.org/wiki/Florian%C3%B3polis)
 
 **Nicola Cavalcanti**  
-Born in [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) on November 20, 2064
+Born in [São Paulo, Brazil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
 
 **Iúna Serrano Morei**  
-Born in [Watertown, USA](https://en.wikipedia.org/wiki/Watertown,_Massachusetts) on July 5, 2036
+Born in [Watertown, USA](https://en.wikipedia.org/wiki/Watertown,_Massachusetts)
 
 **Geraldine Fischman**  
 Head of the Environmental Monitoring Team for the [Thermohaline Circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation) Observation Collective
@@ -795,7 +793,7 @@ PA: **"Please step *away* from the safety barrier! Please *STEP AWAY* from the s
 
 ### Page 12
 
-**"That 'further notice' came *33 years* later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
+**"That 'further notice' came *18 years* later, when the Orbiters returned to Earth to declare themselves, *'The World Government'*."**
 
 ## Diagram 2: Chemical Synapses and Electrical Potentials
 
@@ -1183,7 +1181,7 @@ Asoka: **"So it's all just stories? Then why are you collecting reports on them?
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
-Serena: **"At first we didn't. Even Guardians joked about it, made fun of anyone who claimed to see one...how could there be huge carnivores roaming a land with nothing for them to hunt, where there are barely enough insects and birds to pollinate the plants? But about 6 years ago, we had a strange visitor, who claimed she'd been living on the surface...she was terrified, and begged for sanctuary...when we asked her why she was so afraid, she told us she was being hunted by werewolves controlled by the World Government. It sounded completely ridiculous, but the next morning, Peacekeepers showed up and tried to force their way into the Haven to search for 'a dangerous criminal'. By the time we got rid of them, the strange woman was also gone..."**
+Serena: **"At first we didn't. Even Guardians joked about it, made fun of anyone who claimed to see one...how could there be huge carnivores roaming a land with nothing for them to hunt, where there are barely enough insects and birds to pollinate the plants? But about 6 years ago, an Exile came to us talking about werewolves...she said she ran away from a World Government labor camp excavating some kind of ancient technology from before the Burning...but she was so terrified she could barely tell her story...when we asked her why she was so afraid, she claimed the Peacekeepers were using werewolves to control Exiles at the excavation site. It sounded completely ridiculous, but the next morning, Peacekeepers showed up and tried to force their way into the Haven to search for 'a dangerous criminal'. By the time we got rid of them, the strange woman was also gone..."**
 
 Asoka: **"Wait...are you saying that werewolves are controlled by the World Government??"**
 

@@ -285,7 +285,7 @@ Birthday: February 20, 2039
 
 Serena is Eireena's right-hand and body guard. She has studied and trained as a Guardian of the Biononymous, the subpopulation within the Biononymous cult that specializes in combat, security, and information technology. 
 
-Birthday: November 9, 2088
+Birthday: November 9, 2078
 
 ### Visual checklist for character designs
 
