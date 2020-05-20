@@ -1416,27 +1416,29 @@ Asoka looks disgusted. Eireena hides her smile.
 
 Asoka: **"But wait, did Exiles get cuttlefish cloth? I thought only Haven Howes has people pair-bonded with mechapets..."**
 
-Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet...it was just good enough to get through the Red Zone to Majhee and her people..."**
+Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet...it was just good enough to get safely through the Red Zone to Majhee and her people..."**
 
-Asoka: **"So then...does this mean I'm also going to the Red Zone?"**
+Asoka: **"So then...does this mean...are *we* also going to the Red Zone?"**
+
+Eireena: **"You may have to...your father's last message was in the clear...and the Peacekeepers this morning told us to report anyone seen with a mechapet *immediately*..."**
 
 ### Page 10
 
-Serena: **"If you choose...your father's last message...it was in the clear...the Peacekeepers this morning told us some ridiculous story about how Haven Howes was running illegal SynTh experiments with children, and that we should report anyone seen with a mechapet immediately..."**
+Eireena: **"Also...High Priestess Iúna sent a last broadcast to the High Council...she said, 'Send mecha to the red tape'...If you decide to go...the cuttlefish cloth can hide you well enough that you could hitchhike practically the whole way."**
 
-Eireena: **"High Priestess Iúna also made one last broadcast to the encrypted channel reserved for the High Council of Havens...she said, 'Bring mecha to the red tape'...we believe 'mecha' refers to the mechapets, and the magnetic storage tapes from Haven Laurel were sent to Majhee in the Red Zone..."**
+Asoka: **"I could?"**
 
-Serena: **"What's more, the Peacekeepers this morning ordered us to deliver supplies of fresh food and silica to Boston Harbor by next week, all that we can spare...and much that we can't. Their captain also knew about the mechapets, and made a bad joke about 'hunting' in places they thought humans would never go again..."**
+Serena: **"The Peacekeepers want food and silica from the Havens in Boston Harbor by next week. And their captain made a bad joke about going 'hunting' in places they thought humans would never go again..."**
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"No...you think...werewolves are their *mechapets??* And they're taking them to the Red Zone to hunt people??"**
+Asoka: **"So then...werewolves are their *mechapets??* And they're using them to hunt people??"**
 
 Asoka looks pained, eyes closed with terror, disgust, guilt, grief -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Serena places a hand on Asoka's shoulder, gentle but grim. 
 
-Serena: **"Maybe. I know this is a lot of information to take in, so no need to rush to a decision."**
+Serena: **"We think so. If you want to stay here, we'll keep you safe and hidden as best we can. But you might be safer in the Red Zone..."**
 
-Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to go to the Red Zone...then we will train you and Iri to use the cuttlefish cloth to keep yourselves as safe and as hidden as possible. The choice is yours...Journeyhume Asoka of Green Haven Howes."**
+Eireena: **"It's the last place any Peacekeeper would look for an apprentice-- no, you're a Journeyhume now, and they'll never expect you to be hiding in the belly of their nuclear sub---"**
 
 *--end flashback--*
 
