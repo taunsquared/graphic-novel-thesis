@@ -1181,9 +1181,9 @@ Asoka: **"So it's all just stories? Then why are you collecting reports on them?
 
 A panel of flashback: the salivating fangs, the terribly cold eyes, a sense of impossibly fast movement for something so large. 
 
-Serena: **"At first we didn't. Even Guardians joked about it, made fun of anyone who claimed to see one...how could there be huge carnivores roaming a land with nothing for them to hunt, where there are barely enough insects and birds to pollinate the plants? But about 6 years ago, an Exile came to us talking about werewolves...she said she ran away from a World Government labor camp excavating some kind of ancient technology from before the Burning...but she was so terrified she could barely tell her story...when we asked her why she was so afraid, she claimed the Peacekeepers were using werewolves to control Exiles at the excavation site. It sounded completely ridiculous, but the next morning, Peacekeepers showed up and tried to force their way into the Haven to search for 'a dangerous criminal'. By the time we got rid of them, the strange woman was also gone..."**
+Serena: **"At first we didn't. Even Guardians joked about it, made fun of anyone who claimed to see one...how could there be huge carnivores roaming a land with nothing for them to hunt, where there are barely enough insects and birds to pollinate the plants? But around year five of Confinement, we had a strange visitor, who claimed she'd been living on the surface...she was terrified, and begged for sanctuary...when we asked her why she was so afraid, she told us she was being hunted by werewolves controlled by the World Government. It sounded completely ridiculous, but the next morning, Peacekeepers showed up and tried to force their way into the Haven to search for 'a dangerous criminal'. By the time we got rid of them, the woman was also gone..."**
 
-Asoka: **"Wait...are you saying that werewolves are controlled by the World Government??"**
+Asoka: **"Wait...are you saying...werewolves are controlled by the World Government??"**
 
 Serena: **"We're not sure yet. Would you like to help us find out?"**
 
@@ -1212,15 +1212,11 @@ A single neuron can release multiple neurotransmitters. Once released, neurotran
 
 Ionotropic receptors are involved in signals between cells that require **quick responses**, as they open and shut quickly (**on the order of milliseconds**). 
 
-Examples: Ionotropic glutamate receptors (NMDAR, AMPAR), GABA receptors, ATP-gated channels, cys-loop receptors, and PIP2-gated channels. 
-
 ### Metabotrophic 
 
 Instead of creating an ion channel in the cell membrane, **metabotrophic receptors**, when activated, trigger the cell to generate intracellular signalling molecules called "**second messengers**" (the chemicals that activate the receptors from outside the cell are called the "**first messengers**"). 
 
 Metabotrophic receptors take much longer to open that ionotropic receptors, and they also stay open much longer, **on the order of seconds to minutes**. 
-
-Examples: G protein-coupled receptors, metabotrophic glutamate receptors, muscarinic acetylcholine receptors, GABA-B receptors, most seratonin receptors, norepinephrine receptors, epinephrine receptors, histamine receptors, dopamine receptors, neuropeptide receptors, endocannabinoid receptors
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
@@ -1320,17 +1316,23 @@ We are back at Green Haven Clarksville, the morning after Asoka arrived and rece
 
 Asoka: **"What do you mean, help you find out?"**
 
-Eireena: **"It's a bit of a long story...Asoka, what do you know about the Confinement?"**
+Eireena: **"Asoka...what do you know about the Confinement?"**
 
 Asoka: **"Confinement? Um...it started because the Pirate Lords kidnapped a Space University professor who killed a bunch of Exiles with unethical SynTh-splicing experiments...right?"**
 
-Serena: **"Not just that. The Originals were doing all sorts of nasty things to the Exiles, like forcing them to work without proper gear or compensation...basically, space-age slavery. And the World Government was looking the other way even while sending more and more Peacekeepers to the Underground Cities, and bribing Earther politicians to increase the Tithe and make it difficult for Exiles to come back to Earth legally. So when the Pirate Lords made their move, everyone and everything was already super tense. That's why it exploded into such a crazy authoritarian occupation."**
+Serena: **"Not just that. The Originals were using Exiles for risky work both in orbit and planetside, and forcing them to do it without proper gear or compensation...basically, space-age slavery. And the World Government was looking the other way while sending more Peacekeepers to the Underground Cities, and bribing Earther politicians to increase the Tithe and make it difficult for Exiles to come back to Earth legally. So when the Pirate Lords made their move, everyone and everything was already super tense. That's why it exploded into such a crazy authoritarian occupation."**
+
+Eireena: **"That's how it started, but after that woman showed up claiming that werewolves are real and controlled by Peacekeepers, more and more Exiles arrived at Havens in the same state of complete terror, and we realised something else was going on...Some had run away from mining camps, but most were coming from these...archeological labor camps, where Peacekeepers were excavating some ancient, pre-Burning tech called 'magnetic storage tapes'."**
 
 ### Page 5
 
-Serena: **"So many folks were in terrible situations. We gave sanctuary to as many as we could, but we were running out of room, and we knew if Confinement went on for much longer, Peacekeepers might also invade the Havens."**
+Serena: **"Then, just before the Truce, six runaways begged for sanctuary at Haven Laurel--"**
 
-Eireena: **"It's still a possibility...there may be a treaty, but Peacekeepers are everywhere..."**
+Asoka: **"That's the Haven that got invaded by rogue Peacekeepers!"**
+
+Serena: **"Exactly. Those runaways had actually smuggled out a few of these 'magnetic storage tapes', and gave them to Haven Laurel's High Priestess..."**
+
+Eireena: **"No one could figure out what's stored on them, but it's clearly important to the World Government...after Haven Laurel, we knew we needed a different solution for helping the Exiles, and protecting the Havens."**
 
 Eireena turns to Asoka and Iri.
 
@@ -1344,7 +1346,7 @@ Serena: **"Yes. Did she ever tell you about how she used to work with Majhee, be
 
 Asoka: **"Majhee...you mean, from 'Majhee's Exodus'??"**
 
-Eireena: **"Exactly. Just after the World Government executed the Pirate Lords, Iúna managed to get in touch with her again."**
+Eireena: **"Exactly. Just before Haven Laurel, Iúna managed to get in touch with her again."**
 
 Asoka: **"But...aren't they in the *Red Zone*??"**
 
@@ -1414,23 +1416,27 @@ Asoka looks disgusted. Eireena hides her smile.
 
 Asoka: **"But wait, did Exiles get cuttlefish cloth? I thought only Haven Howes has people pair-bonded with mechapets..."**
 
-Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet...it was just good enough to get safely through the Red Zone to Majhee and her people. But now even the Red Zone may not be safe..."**
+Eireena: **"It's true. The surface gear we gave to runaway Exiles didn't require a mechapet...it was just good enough to get through the Red Zone to Majhee and her people..."**
+
+Asoka: **"So then...does this mean I'm also going to the Red Zone?"**
 
 ### Page 10
 
-Serena: **"The Peacekeepers this morning ordered us to deliver supplies of fresh food and silica to Boston Harbor by next week, all that we can spare..."**
+Serena: **"If you choose...your father's last message...it was in the clear...the Peacekeepers this morning told us some ridiculous story about how Haven Howes was running illegal SynTh experiments with children, and that we should report anyone seen with a mechapet immediately..."**
 
-Serena: **"...and much that we can't. Their captain knew about the mechapets, and made a bad joke about 'hunting' in places they thought humans would never go again..."**
+Eireena: **"High Priestess Iúna also made one last broadcast to the encrypted channel reserved for the High Council of Havens...she said, 'Bring mecha to the red tape'...we believe 'mecha' refers to the mechapets, and the magnetic storage tapes from Haven Laurel were sent to Majhee in the Red Zone..."**
+
+Serena: **"What's more, the Peacekeepers this morning ordered us to deliver supplies of fresh food and silica to Boston Harbor by next week, all that we can spare...and much that we can't. Their captain also knew about the mechapets, and made a bad joke about 'hunting' in places they thought humans would never go again..."**
 
 Asoka stares down at the cuttlefish cloth. 
 
-Asoka: **"No...you think...werewolves are their *mechapets??* And they're using them to hunt people??"**
+Asoka: **"No...you think...werewolves are their *mechapets??* And they're taking them to the Red Zone to hunt people??"**
 
 Asoka looks pained, eyes closed with terror, disgust, guilt, grief -- they are remembering the fangs, the impossibly fast movement, the sight of a delighted Pippa running down the mountainside towards death...Serena places a hand on Asoka's shoulder, gentle but grim. 
 
-Serena: **"That is our suspicion."**
+Serena: **"Maybe. I know this is a lot of information to take in, so no need to rush to a decision."**
 
-Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to help us...then I, Eireena McLeland, High Priestess of Green Haven Clarksville, promote Asoka Morei of Green Haven Howes to the rank of Journeyhume. Do you accept?"**
+Eireena: **"If you choose to stay here, we will keep you safe and hidden from the World Government. If you choose to go to the Red Zone...then we will train you and Iri to use the cuttlefish cloth to keep yourselves as safe and as hidden as possible. The choice is yours...Journeyhume Asoka of Green Haven Howes."**
 
 *--end flashback--*
 
