@@ -989,7 +989,7 @@ Pippa, unconvinced: **"*How do you know? Io says werewolves were killing people 
 
 ### Page 5
 
-Asoka: **"*Ha! When I become a Journeyhume, I'll go to the Red Zone and prove that there are no werewolves!*"**
+Asoka: **"*Ha! After I make Journeyhume next week, I'll go to the Red Zone and prove that there are no werewolves!*"**
 
 Pippa: **"*But how? No one has surface clothes that can protect you in the Red Zone.*"**
 
@@ -2063,32 +2063,54 @@ The Automata: **"To the worms!"**
 
 Min: **"Ok, *now* we can eat."**
 
-Asoka looks at the happy people, warm food, families and children laughing in the sunlight, and they burst into tears, burying their face in their hands. Iri wraps its arms around Asoka tenderly as Min gently rubs Asoka's back. 
+Asoka looks at the happy people, warm food, families and children laughing in the sunlight, and they burst into tears, burying their face in their hands. Iri wraps its arms around Asoka tenderly as Min gently hugs Asoka. 
 
 ## Diagram 6: Brain Architecture
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-097..."**
 
-**-- “Why do we need minds?” --**  
-Or, a hypothesis for a general principle governing nervous systems.
+Your brain is not one thing. It is made of many different parts, each with a different role. 
 
-The world is full of both **knowns** (things we know) and **unknowns** (things we don’t know).
+Vertebrate brains can be simplified into three lumps sitting on top of the spine, and one lump sitting in front of the spine. Let's focus on the top three lumps for now. The hindbrain is the lump closest to the spinal cord, and together they are in charge of movement. The midbrain sits on top of the hindbrain, gets input from your sense organs, and decides whether you like it or not, whether you should respond or not. The forebrain sits on top of the midbrain, and its job is so important that, from fish to mammals, it grew so large that it folded backwards over the rest of the brain and curled into itself while hugging the other brain lumps. It's as if the nervous system wanted to squeeze as much forebrain into the skull as possible. Evolution clearly thought forebrain was important. 
 
-When we know something so well that we can sufficiently **transfer** that knowledge via a recipe, computer script, or step-by-step instructions, I would call this a **“known known”**.
+The forebrain doesn't get sensory input directly, nor does it have complete control of movement. Many animals seem to behave normally after forebrain is removed, so what's it good for? Neuroscientists eventually realised that the forebrain is a simulator, something that builds a "model" of the world and of itself. So how does it build this model?
 
-When we know something well enough to **predict** it very reliably, using tools such as probability and statistics, and when large sets of examples can sufficiently transfer this ability to “guess well”, I would call this a **“known unknown”**.
+Forebrain has three major systems. At the frontmost tip, now curled in and tucked into the heart of the brain, is *hippocampus*. At the base of the forebrain, right next to the midbrain, is *basal ganglia*. In between, and by far the largest portion of human forebrain, is *cortex*. Each area plays a different role in constructing a model of the world and of itself. 
 
-I would argue that these two categories of knowns - the “known knowns” and the “known unknowns” - make up your **“model of the world”**, or **how you think things “should” work**. We use our “model of the world” every day in order to **plan** and **predict** our daily lives.
+**Hippocampus**
 
-Of course, sometimes we have to **update** and **improve** our model of the world, and sometimes, we even need to **break it completely and re-build it**. This is a possibility anytime we **enter a new situation** or **face a new challenge** we’ve never experienced before. The **very first time** we encounter these conditions is when we enter **the realm of the unknowns**.
+Each cell in hippocampus is only active when the body is in a very specific location in space. These "place cells" work together to provide the brain with a unique map for every space it's ever encountered.
 
-Sometimes, we encounter something **so improbable** that we couldn’t have predicted it, and yet, in that moment, we are able to **harness everything we know about ourselves and our environment** to come up with a solution. I would call this situation the discovery of an **“unknown known”**, or **knowledge that you didn’t realise you had until the very instant it was needed**.
+In the 1950s, when a few patients with severe epilepsy had surgery to remove their hippocampus, they never formed a new memory for the rest of their lives. Their memories from before the surgery remained, but all new experiences drifted away. Hippocampus, which contains a representation of space, is required to create memories. 
 
-An example of this sort of unknown knowledge a **“rapid psychomotor response” (RPR)**, which is a **rapidly deployed action or set of actions that one has never done before**, and which **takes into account everything one knows about one’s context and about one’s abilities**. RPRs **don’t have a standard trigger** and can **look completely different each time they manifest** (this is in contrast to a reflex, which is the same action or set of actions triggered by a known event). Examples of RPR include musical or theatrical improvisation, flinging yourself out of harm’s way when a car unexpectedly veers onto the sidewalk, or pulling your child back to safety as they’re slipping off a cliff and while you’re wearing flip-flops and carrying another child on your shoulders. Later, we often describe our actions in these moments as **something we did “without thinking”**, because things “happened too quickly”. (But then again, what does it mean to think?)
+We now believe that hippocampus uses the environments around us, including the ones we build, as a scaffold for encapsulating, or storing and organizing, experiences as memory. 
 
-Lastly, we know that there are **things we don’t even know we don’t know**, and we know that we will have to deal with them at some point or another. So how do we prepare for these **“unknown unknowns”**? I would argue that our **imaginations** and our **ability to tell stories**, especially about **possible futures** and **alternate realities**, developed as adaptations for facing unknown unknowns that may **arise from our external environment**. Similarly, practices such as **meditation** and **self-reflection** may have developed as adaptations for facing unknown unknowns that may **arise from within ourselves**. And what might be our most powerful tool for communicating the **complex, multi-faceted, context-dependent insights** we gain from these adaptive behaviours?
+So what kind of spaces does hippocampus want? Let’s consider a modern office campus, where people work on different projects with a variety of teams, timelines, and goals. The "open plan" offers the hippocampus only one space for all of the different tasks that must be performed. The "cubical plan" is not much better, with every space the same, but with at least some opportunity to customize and compartmentalize. 
 
-**A good story.**
+What about a "Hippo Campus", an irregular space where no meeting room, office, or common area is the same? Here hippocampus has a variety of scaffolds for organizing the tasks of a modern workflow. It includes non-rectilinear rooms, since the organized spatial map in hippocampus is disrupted in spaces with trapezoidal dimensions. In other words, perhaps "thinking outside the box" is actually easier in a room that is not a box. 
+
+**Basal Ganglia**
+
+You'll never be happy, at least not consistently, and this is basal ganglia's fault. That's where our likes and dislikes are combined with our model of the world, in order to evaluate our model. Will this decision get me more food, more sex, less pain? The results of each good decision reinforce similar decisions in the future. 
+
+Basal ganglia really only cares when something *unexpectedly* good happens. A surprising reward produces a burst of chemicals in basal ganglia that makes us feel great. But if that good thing becomes predictable, basal ganglia gets bored, so we continue to seek new, surprising rewards.
+
+Let's imagine a skyscraper for basal ganglia, or the "BG tower". It begins as a single story building, and most workers trudge down many stairs to their sub-sub-sub-basement offices. Each year, the building slowly rises, and each year everyone gets a slightly better workspace, a slightly better view, or a slightly shorter descent. This building keeps basal ganglia happy, but it's clearly cruel and unethical. It's a trick, similar to many dopamine-exploiting hacks used in marketing, or in organizations that depend on complete, unquestioning loyalty. Can we do better than hacking the basal ganglia? 
+
+Rather than chase transient happiness, what if we aim for persistent satisfaction? That's where cortex comes in. 
+
+**Cortex**
+
+Cortex is where your simulation is actually simulated. It uses basal ganglia's evaluation to pick actions to simulate. It uses hippocampus's encapsulation to check predictions against prior experiences. But to know whether your simulation is any good, it needs to be validated by reality. 
+
+And it's not just about being correct. If you sit in a room and do nothing, you'll be great at guessing what happens next (not much) but you won't get any better at handling the natural world. Like basal ganglia, cortex is not satisfied by the predictable. In fact, cortex wants to be both accurate and able to adapt quickly to the unpredictable. 
+
+This state is often called "flow". We all experience flow in different ways. Some feel it while using custom hotkeys and shortcuts to rapidly create a digital version of their mental images in computer software. Others might feel it while running quickly downhill over uneven terrain. Whenever the world and your body respond to your decisions in perfect coordination with your mental simulation, you are feeling cortical satisfaction. 
+
+Cortex loves to challenge its simulation to handle more complexity and instability in small doses. We call this play. Remember playing "don't touch the floor, it's lava"? It's unlikely that we'll ever be stranded on a couch in a volcano, but this game helps us learn the limits of our bodies and our environment, which might come in handy one day. 
+
+Cortex wants to play in situations of *signficant yet manageable complexity*, where the world is safe enough and the consequences of failing aren't too severe. And cortex cares about more than just physical safety -- it also needs social and emotional safety. So how do we create worlds and build bodies in which cortex can play?
+
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
@@ -2119,7 +2141,7 @@ We see the people in the inner most circle, just on the outside of the metal hoo
 * Majhee, matriarch leader of their clan, intradermal shield barely visible beneath the many clan tatoos. She is proud, stern, and exhuberant on this day of achievement by her granddaughter.  
 * Maraba, Min's cousin and dearest childhood companion, now an Expert Inker and chosen for the honour of injecting Min's intradermal shield. Next to Maraba, in a shallow curving woven basket, is an enormous syringe full of swirling, bubbling, raw SynTh, freshly harvested from one of their original, surviving cultures, called "Mothers". 
 
-**"Seven days alone in the sacred caves of Jumandi. And now, the Clan is here...there’s Jina, Amadou, Majhee, Maraba...and there’s the Mother...the first thing to enter Min's body since she began her Rebirth..."**
+**"Seven days alone in the sacred caves of Jumandi...And now, the Clan is here...there’s Jina, Amadou, Majhee, Maraba...and there’s the Mother...the first thing to enter Min's body since she began her Rebirth..."**
 
 ### Page 3
 
@@ -2155,9 +2177,9 @@ Character designs: Asoka Morei, Iri, Minka Traoré, Majhee Suh, Nova Jatobá, Ji
 
 **"Finished loading...'On the Resurrection of the Legged Squad Support System'; [Classification: *Top Secret*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"The [Legged Squad Support System](https://en.wikipedia.org/wiki/Legged_Squad_Support_System), or LS3, was a military project by the former United States of America during the early 21st century, with the goal of creating legged robots that could function as autonomous packhorses for land-based military operations. Inital work on this concept between 2009 and 2015 resulted in important insights about autonomous robotic technology, but the robots created at the time were deemed too noisy, too challenging to repair in the field, and unsuitable for integration into traditional military operational structures."**
+**"The [Legged Squad Support System](https://en.wikipedia.org/wiki/Legged_Squad_Support_System), or LS3, was a military project by the former United States of America during the early 21st century, to develop legged robots that could function as autonomous packhorses for land-based military operations. Inital work on this concept between 2009 and 2015 resulted in important insights for autonomous robotics, but units created at that time were too noisy, too challenging to repair in the field, and difficult to integrate into traditional military operational structures."**
 
-**"On March 16, 2096, Lt. Gen. Janine [Diamandis](https://en.wikipedia.org/wiki/Peter_Diamandis), Surgeon General of the World Government Military, presented to the World Government Security Council a proposal to resurrect the LS3 concept, in order to reduce the health risk to planetside human military personnel. Thanks to the many advancements in SynTh technology since the Global Water Crisis, Lt. Gen. Diamandis reported high confidence in currently available methods to create intelligent, self-repairing, and silent biomemetic robots that could function as part of scouting and re-supplying teams for planetside operations. Based on the Surgeon General's report, the World Government Security Council passed Resolution 222, authorizing a top secret research collaboration with [Space University](https://en.wikipedia.org/wiki/International_Space_University) to build SynTh-based robotic pack animals..."**
+**"On March 16, 2096, Lt. Gen. Janine [Diamandis](https://en.wikipedia.org/wiki/Peter_Diamandis), Surgeon General of the Peacekeepers, proposed to resurrect the LS3 concept. The Lt. Gen. reported high confidence in the feasibility of using SynTh tech to create intelligent, self-repairing, and silent biomemetic robots, which could support scouting and re-supplying teams on planetside operations. Based on the Lt. Gen.'s report, the World Government Security Council passed Resolution 222, authorizing a top secret research collaboration with [Space University](https://en.wikipedia.org/wiki/International_Space_University) to build SynTh-based robotic pack animals..."**
 
 ### Page 1
 
@@ -2165,31 +2187,21 @@ Character designs: Asoka Morei, Iri, Minka Traoré, Majhee Suh, Nova Jatobá, Ji
 
 It is the night of Min's Rite of the Mothers. Min has just used her intradermal shield for the first time to cut her bonds and is lying on the ground, curled in a fetal position inside the giant metal hoop and nursing bleeding wrists and ankles. She is surrounded by Majhee, Jina, Amadou, and Maraba; beyond the inner circle, the rest of the Clan waits to hear Min's first words as a Reborn. 
 
-Majhee: **"Minka Traoré, filha de Jina e Amadou, surfista de árvore para os Autômatos!"**
-
-*translation: "Minka Traoré, daughter of Jina and Amadou, Tree Surfer of the Automata!"*
+Majhee: **"Suh Minka Barbosa Traoré, Tree Surfer of the Automata!"**
 
 View of Min from the front, gasping, blinking away large beads of sweat from her eyes as she looks up at her grandmother.  
 
-Majhee's eyes, proud, confident, expectant: **"*O que significa ser livre?*"**
-
-*translation: "What does it mean to be free?"*
+Majhee's eyes, proud, confident, expectant: **"*What does it mean to be free?*"**
 
 Min closes her eyes, tries to calm her breathing, and struggles to stand. 
 
-Min: **"Beber sem sangrar, respirar sem engasgar, ver o céu e saudar o dia em minha própria pele..."**
+Min: **"To drink without bleeding, breathe without choking..."**
 
-*translation: "To drink without bleeding, to breathe without choking, to see the sky and greet the day in my own skin..."*
-
-Min: **"...e MOVER em qualquer direção com curiosidade e graça..."**
-
-*translation: "...and to MOVE in any direction with curiosity and grace..."*
+Min: **"...and *move* in any direction with curiosity and grace..."**
 
 Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
 
-Min: **"...mesmo FORA DO PLANETA!"**
-
-*translation: "...even OFF THE PLANET!"*
+Min: **"...even *off the planet*!"**
 
 ### Page 2
 
