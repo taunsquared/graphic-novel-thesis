@@ -191,7 +191,7 @@ Gentle Farmer and First VIRS.*
 
 ### Chapter 1 Cast
 
-**Majhee Suh**:  
+**Suh Majhee**:  
 [Organometallic Chemist](https://en.wikipedia.org/wiki/Organometallic_chemistry)  
 PhD thesis: "Cultivating [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast) to fabricate living organic semiconductors"
 
@@ -280,7 +280,7 @@ Inside the research institute, we see a receptionist sitting behind a sealed gla
 
 *LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
 
-**"...including Dr. Majhee Suh, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
+**"...including Dr. Suh Majhee, who was the first to cultivate stable thread-worms capable of spinning SynTh..."**
 
 Majhee: **"Mornin', Paulo!"**
 
@@ -1861,19 +1861,19 @@ Nicola: *"An Exile? That far south? Are you sure they're not one with Manuto?"*
 
 Nicola stands and stretches on the tree platform, which is just big enough for her to stand shoulder width apart and still have about 10cm from her feet to the edge. 
 
-Min: *"Pretty sure...they have surface gear that makes them invisible, and a pet squid that can breathe out of water!"*
+Min: *"Pretty sure...they have surface gear that makes them invisible, and a pet squid! Think it's a mechapet??"*
 
 Nicola stretches in a deep downward dog, reveling in the pose and wiggling with pleasure. 
 
-Nicola: *"Minkinha, I don't have the energy today for your stories--"*
+Nicola: *"Maybe...but why would Mama Bird send them so far south? Can you scan them?"* 
 
-Min: *"I'm not making this up! They're at the bottom of this tree--"*
+Min: *"No. The human's surface gear is completely different from the other Exiles', and the squid...it just scans like pink noise..."*
 
-Nicola: *"In that case, bring them back to the Central Hearth **immediately.** Do **not** get involved with Manuto's idiotic plan."*
+Nicola: *"In that case, take your time. Bring your strays back to the Central Hearth after you learn their story...the old fashioned way. Do **not** get involved with Manuto's idiotic plan."*
 
-Min: *"Why would I ever--"*
+Min: *"But what about the Peacekeepers?? If Manuto gets back into orbit--"*
 
-Nicola: *"**Minka**. Just come home."*
+Nicola: *"**Minka**. Trust me. You will get off-planet. Now let me finish my exercises."*
 
 Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked handstand](https://youtu.be/XTEfIPjUuLo) on the tree platform, eyes still tightly closed. 
 
@@ -1883,7 +1883,7 @@ Min: *"Wha--Nicki? Did you just hang up on me??"*
 
 In frustration, Min yells out loud.
 
-Min: **"I wouldn't even *be* here if the Elders would just accept my First Quest like they're *supposed* to!"**
+Min: **"How come I'm the only Automata who has to *prove* my First Quest before even *starting* it!"**
 
 Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka huffs and puffs as they cling to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
@@ -2195,9 +2195,9 @@ Majhee's eyes, proud, confident, expectant: **"*What does it mean to be free?*"*
 
 Min closes her eyes, tries to calm her breathing, and struggles to stand. 
 
-Min: **"To drink without bleeding, breathe without choking..."**
+Min: **"To drink without bleeding...breathe without choking..."**
 
-Min: **"...and *move* in any direction with curiosity and grace..."**
+Min: **"...and to flow wherever curiosity takes you..."**
 
 Zoom in on Min's mouth, exhausted yet serene, confident, and defiant.
 
@@ -2205,13 +2205,11 @@ Min: **"...even *off the planet*!"**
 
 ### Page 2
 
-**"On the day Minka Traoré brought Asoka Morei to the Central Hearth..."**
-
 We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but most of the Elders are clustered towards the center. Asoka, face still streaked with tear-marks but composure regained, is sitting at the edge of the crowd and letting Mahjee comb their hair. A small crowd of Automata children have gathered around Iri and are watching the mechapet morph shape and colour with gleeful awe. 
 
 The sun is just past midday. Min is standing with her hand on a waist-high pedestal, made of an enormous [amythest quartz geode](https://en.wikipedia.org/wiki/Amethyst), blue-purple crystals exposed at the top section under Min's hand. The SynTh bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the delicate re-growing forest last night. Jina and a heavily-muscled dark man sit close to Min. The man is Min's gene father Amadou, and his back, like Min, is covered in a star field tattoo. Many of the Elders wince at the show of thoughtless destruction being shown above. Nicola sits near Min and the pedestal, and addresses the Central Hearth. 
 
-Nicola: **"Based on the Council's recommendation, I helped Min set up a modified Bubble at Gruta de Judeia, one that would show Orbiter satellite surveillance systems a false glimpse of human activity in that area. Given our lack of current information on the Orbiters, this seemed a fair test of their intentions."**
+Nicola: **"Manuto and the Exiles who followed him must have set up a modified Bubble at Gruta de Judeia. Peacekeepers are believe that their satellite surveillance systems a false glimpse of human activity in that area. Given our lack of current information on the Orbiters, this seemed a fair test of their intentions."**
 
 Nicola looks up at the video playing on the SynTh bubble overhead. 
 
