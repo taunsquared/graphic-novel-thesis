@@ -1873,7 +1873,7 @@ Nicola: *"In that case, take your time. Bring your strays back to the Central He
 
 Min: *"But what about the Peacekeepers?? If Manuto gets back into orbit--"*
 
-Nicola: *"**Minka**. Trust me. You will get off-planet. Now let me finish my exercises."*
+Nicola: *"**Minka**. Trust me. You *will* get off-planet. Now let me finish my exercises."*
 
 Nicola's ears and temple abruptly stop glowing. She calmly goes into a [tucked handstand](https://youtu.be/XTEfIPjUuLo) on the tree platform, eyes still tightly closed. 
 
@@ -1883,7 +1883,7 @@ Min: *"Wha--Nicki? Did you just hang up on me??"*
 
 In frustration, Min yells out loud.
 
-Min: **"How come I'm the only Automata who has to *prove* my First Quest before even *starting* it!"**
+Min: **"How come I'm the only one who has to *prove* my First Quest before even *starting* it!"**
 
 Min, ears and temple also no longer glowing, climbs down from the canopy. Below her, Asoka huffs and puffs as they cling to the trunk of the tree and Iri clings to Asoka. Two of Iri's arm tips are over Asoka's ears. Asoka calls up to Min. 
 
@@ -2205,33 +2205,37 @@ Min: **"...even *off the planet*!"**
 
 ### Page 2
 
-We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but most of the Elders are clustered towards the center. Asoka, face still streaked with tear-marks but composure regained, is sitting at the edge of the crowd and letting Mahjee comb their hair. A small crowd of Automata children have gathered around Iri and are watching the mechapet morph shape and colour with gleeful awe. 
+We're back to the day when Asoka meets the Automata Clan. The feast is over, and the tables have been cleared. The sun is just past midday. Min is standing with her hand on a waist-high pedestal, made of an enormous [amythest quartz geode](https://en.wikipedia.org/wiki/Amethyst), blue-purple crystals exposed at the top section under Min's hand. The SynTh bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the delicate re-growing forest last night. Many of the Elders wince at the show of thoughtless destruction being shown above. Nicola sits near Min and the pedestal, and addresses the Central Hearth. 
 
-The sun is just past midday. Min is standing with her hand on a waist-high pedestal, made of an enormous [amythest quartz geode](https://en.wikipedia.org/wiki/Amethyst), blue-purple crystals exposed at the top section under Min's hand. The SynTh bubble overhead shows Min's canopy-top POV of the Peacekeepers destructive rampage through the delicate re-growing forest last night. Jina and a heavily-muscled dark man sit close to Min. The man is Min's gene father Amadou, and his back, like Min, is covered in a star field tattoo. Many of the Elders wince at the show of thoughtless destruction being shown above. Nicola sits near Min and the pedestal, and addresses the Central Hearth. 
+Nicola: **"As you can see from Tree Surfer Minka's visual feed, the Orbiters either don't care or are oblivious to the delicate nature of the ecosystem in the Red Zone. Hasn't even been 50 years since the Burning and they've already forgotten the lessons of that disaster."**
 
-Nicola: **"Manuto and the Exiles who followed him must have set up a modified Bubble at Gruta de Judeia. Peacekeepers are believe that their satellite surveillance systems a false glimpse of human activity in that area. Given our lack of current information on the Orbiters, this seemed a fair test of their intentions."**
+Min: **"We're also guessing that Manuto and his followers set up a modified Bubble at Gruta de Judeia...according to Journeyhume Asoka, Peacekeepers believe that their satellite surveillance systems have record of human activity in that area."**
+
+The crowd in the Central Hearth ranges from babes-in-arms to silver haired grandmothers, but most of the Elders are clustered towards the center. Asoka, face still streaked with tear-marks but composure regained, is sitting at the edge of the crowd and letting Mahjee comb their hair. A small crowd of Automata children have gathered around Iri and are watching the mechapet morph shape and colour with gleeful awe. 
+
+Nicola: **"While we estimate that Peacekeepers must have arrived at Gruta de Judeia by the next day at the latest...we've not intercepted any outgoing communications on Orbiter channels."** 
 
 Nicola looks up at the video playing on the SynTh bubble overhead. 
 
-Nicola: **"I think it's safe to say, their intentions are not harmless, nor are they thoughtful."**
+Nicola: **"Based on the Orbiters' exploitation of the Green Havens, their completely careless attitude towards the environment, and their decision to build mindless mechapets and use them as weapons...I agree with Min that we need an advocate up there...someone to build personal relationships with Orbiters, learn their ways, and spark their empathy."**
 
 ### Page 3
 
 An older man, watching the video on the SynTh bubble with arms crossed and a deep frown on his face, snorts derisively and crosses his arms. 
 
-Older man: **"Hard to dispute that. But according to Asoka, the Orbiters *are* clever, and willing to be brutal. If they're willing to deploy an entire regiment of military idiots in less than a month, based on some blurry satellite images...what might they do if they realise that one of the 'magical tree people' from the Red Zone..."**
+Older man: **"Your optimism fascinates me. What makes you think Orbiters will *listen* to an Earther...much less make *friends* and let us influence government policy?"**
 
 He turns hard eyes to Min. 
 
-Older man: **"...has conveniently brought herself into orbit, where they can easily capture her?"**
+Older man: **"This is not a game. You go up there, you'll just make it easier for Peacekeepers to kidnap you. You're as bad as Manuto."**
 
 Min opens her mouth indignantly, but Jina cuts in first. 
 
-Jina: **"Osiel, you should know that no child of mine would be so easy to catch!"**
+Jina: **"Osiel, you should know that no child of *mine* would be so easy to catch!"**
 
 A ripple of laughter runs through the Central Hearth, lightening the mood. Jina winks at Min, who gives Jina a look of fierce adoration. Osiel smiles grimly. 
 
-Osiel: **"I'm more worried about how Min will infiltrate a society that surveils and documents literally *everything*. While I can think of a dozen ways to stay off the Orbiters' radar, none of them include 'apply to their most prestigious school for space exploration, where even apprentices have access to cutting-edge Orbiter tech'."**
+Osiel: **"How can you joke about this?? I'm more worried about how Min will infiltrate a society that surveils and documents literally *everything*. While I can think of a dozen ways to stay off the Orbiters' radar, none of them include 'apply to their most prestigious school for space exploration, where even students have access to cutting-edge Orbiter tech'."**
 
 ### Page 4 
 
@@ -2241,7 +2245,7 @@ Min: **"That's why I'll first build up a fake Universal Record! Amadou's old con
 
 Osiel loses his temper and throws up a hand towards the bubble ceiling. 
 
-Osiel: **"How can you be so naive, even after seeing that? If you're caught, you won't just get thrown out of school -- the World Government will dissect you to learn the secrets of your intradermal shield!"**
+Osiel: **"How can you still be so naive?? If you're caught, you won't just get thrown out of school. The Orbiters will dissect you to learn the secrets of your dermal shield!"**
 
 Concerned murmurs run through the Central Hearth. Min takes a step towards Osiel, full of indignation. 
 
@@ -2253,7 +2257,7 @@ Terena: **"So how will you avoid it?"**
 
 Amadou raises a finger and smiles. 
 
-Amadou: **"It's called a 'liquid [MOSFET](https://en.wikipedia.org/wiki/MOSFET) [sievert](https://en.wikipedia.org/wiki/Sievert) shield'."**
+Amadou: **"By upgrading Min's dermal shield! Majhee's been calling it a 'liquid [MOSFET](https://en.wikipedia.org/wiki/MOSFET) [sievert](https://en.wikipedia.org/wiki/Sievert) shield', and Journeyhume Asoka's cuttlefish cloth and mechapet Iridescence are proof that this technique works in SynTh hybrid materials. Their success as stowaways also supports our hope that this upgrade will get Min into Orbiter society without giving away any of our secrets. All we have left to do is test it in one of us...and I've already volunteered."**
 
 ### Page 5
 
@@ -2261,27 +2265,35 @@ Amadou: **"It's called a 'liquid [MOSFET](https://en.wikipedia.org/wiki/MOSFET) 
 
 The sun is setting in the sky, and everyone looks exhausted.
 
-Nova: **"It seems our consensus is building towards moving our re-forestation efforts away from Manaus and Gruta de Judeia for at least a year, and keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)). I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+Nova: **"It seems our consensus is building towards keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)) while monitoring both Manaus and Gruta de Judeia...I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
 The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. 
 
-Nova: **"Concerning the fate of our visitor, Asoka Morei, our consensus seems to be building towards letting them stay with us for as long as they wish, under the condition that they will remain a child in the eyes of the Automata -- Asoka will never be eligible to receive an intradermal shield, nor to block a consensus of the Elders. Are there any Elders whose feelings remain incompatible with this decision?"**
+Nova: **"Concerning our visitor, Journeyhume Asoka Morei...they may stay with us for as long as they wish...Are there any Elders whose feelings remain incompatible with this decision?"**
 
 The gathered Elders are again all silent, many turning to look at Asoka, who is still sitting at the edge of the Central Hearth. Asoka, hair now braided into a neat, pretty crown, with Iri in their lap, looks a little embarrased by the attention but relieved.  Min is watching Amadou, who looks a bit sad and distant. Jina gives Asoka a smile, but there is the tiniest hint of pity in her smile. Asoka glances at Majhee, who gives them a huge, warm smile of encouragement. 
 
 Nova now sighs. 
 
-Nova: **"Concerning the alliance with the Biononymous, our consensus seems to be building towards rejecting the alliance for now, until we learn more about the Orbiters. Towards this end, in one moon's time Minka will present a detailed plan for her First Quest, to learn more about the Orbiters at one of their schools. I do not agree but I will stand aside. Are there any Elders whose feelings remain incompatible with this decision?"**
+Nova: **"Concerning Tree Surfer Minka's First Quest...we approve Inker Amadou's experiments on the possible upgrade to the dermal shield. The Council of Elders will re-covene when these experiments have concluded. Are there any Elders whose feelings remain incompatible with this decision?"**
 
 Osiel looks unsatisfied, but most of the Elders look relieved that the consensus has ended up the way it did. Again, everyone is silent. Nova nods, clearly eager to wrap things up. Min and Amadou exchange a look of joyful triumph, and even as Jina clutches Amadou's hand with apprehension, she also gives Min a radiantly proud smile. 
 
 Nova: **"Very well, we have reached consensus. Thank you everyone for your time. We'll be moving out in the morning."**
 
+Min turns to Jina and Amadou.
+
+Jina: **"Minkinha..."**
+
+Min: **"So...you're not mad at me?"**
+
+Jina: **"Minha queridinha, I've never been prouder!"**
+
 Asoka watches Min celebrate the Elders' final decision with Jina and Amadou. As Asoka hugs Iri, their eyes fill with tears again. 
 
 ### Page 6
 
-**"One week later: near the entrance to [Abismo Guy Collet](https://www.wondermondo.com/abismo-guy-collet/)"**
+**"One week later: near the entrance to [Abismo Guy Collet](https://www.wondermondo.com/abismo-guy-collet/)..."**
 
 The late morning sun filters into Asoka's sleeping bubble, a private SynTh structure suspended in a tree at the edge of a [tepui](https://en.wikipedia.org/wiki/Tepui) in the [Serra do Aracá](https://en.wikipedia.org/wiki/Serra_do_Aracá_State_Park), [looking out over the re-growing Amazon rainforest below](https://en.wikipedia.org/wiki/Tepui#/media/File:TepuiRio.jpg). Asoka's red hair, splayed out on the pillow in their SynTh hammock, glistens in the bright light. Iri is splayed out on top of Asoka's chest, snoring peacefully. Asoka's jacket, head scarf, and face veil hang on the tree trunk next to one of the hammock's anchor points. On the massive tree branch extending out underneath Asoka's hammock, Asoka's boots and socks are neatly placed, just underneath the jacket and head gear. Asoka's gloves are tucked into the jacket pockets, fabric fingers curling over the edge of the pocket openings. On another hook on the main trunk, on the other side of Asoka's hammock anchor, is a cloth water canteen. A spiral staircase is carved into the main trunk, leading in one direction down to the Central Hearth, and in the other, all the way to the top of the tall canopy tree. 
 
@@ -2293,7 +2305,7 @@ A brief flash of memory: Pippa and Manut, running down the mountainside.
 
 Asoka's eyes fill with tears. 
 
-Asoka: *"...why did I send you back?"*
+Asoka: *"...why did I send you back??"*
 
 ### Page 7
 
@@ -2307,37 +2319,37 @@ Min: **"Asoka, I'm coming in!"**
 
 Min steps through the bubble membrane. Iri discreetly places their arms over Asoka's ears and turns their head towards Min obligingly. 
 
-Min: **"...almoço?"**
-
-*translation: "...lunch?"*
+Min: **"Hey...lunch? My language update finished this morning, so we can talk in English...if that's easier?"**
 
 Asoka doesn't move or answer. Iri chirps worriedly at Asoka, then looks at Min apologetically. 
 
 Iri: **"Maybe...not today..."**
 
-Min: **"Don't be ridiculous. You skipped yesterday also!"**
+Min: **"Don't be ridiculous. You already skipped yesterday!"**
 
 Asoka still doesn't answer. Min attempts to be funny. 
 
-Min: **"I'm not always happy about the Elders' decision either, but don't let their farts kill your appetite."**
+Min: **"I know the Elders can be slow and stubborn...but don't let their farts kill your appetite."**
 
 No response from Asoka. After a long awkward pause, Min is unable to think of what to do. 
 
-Min: **"Ok, well...I'll come back later then..."**
+Min: **"Ok, well...I'll come back later..."**
 
 ### Page 8
 
 It's late afternoon, almost sunset. Asoka is sitting up in their hammock and drinking from the cloth water canteen that had been hanging by their hammock. Asoka is so weak that Iri must help hold up the canteen, which is getting empty. A pile of papayas have appeared next to the hammock. 
 
-Iri: *"You have to get out of bed..."*
+Iri: *"You really...should get...out of bed! It's not your fault..."*
 
 Asoka starts to cry again. Their stomach rumbles loudly, pityingly, and Iri looks exasperated. 
 
-Iri: *"Soka, eat something, please??"*
+Iri: *"Soka, eat something please??"*
 
-Off-panel: **"HEY!!!"**
+Off-panel: **"AQUIAQUIAQUI!!!"**
 
 Suddenly, the trees are full of rambunctious Automata children and many of their [animal companions](http://www.srl.caltech.edu/personnel/krubal/rainforest/Edit560s6/www/animals.html). They are chase each other through the branches as they pass a [peteca](https://en.wikipedia.org/wiki/Peteca) back and forth, reveling in the twists and jumps and turns they are able to incorporate into their movement. Amongst them is Min, who hits the peteca with a [Meia Lua de Compasso](https://youtu.be/IiLqVCyyoPs), foot making solid impact with the weighted fabric bottom, one hand on a tree trunk and body practically horizontal while mid-air. Wrapped and secured to Min's back is a large [bojagi](en.wikipedia.org/wiki/Bojagi).
+
+Child: **"Para mim, para mim!"**
 
 A very tiny Automata child, a tiny [squirrel monkey](https://en.wikipedia.org/wiki/Common_squirrel_monkey) deftly clinging to his shoulder, shrieks with excitement as the peteca comes towards him. He eyeballs the peteca like a hawk, his gaze never wavering. He winds up his arm, ready to smack the peteca back towards Min...and just as he hits the flying packet of feathers, he takes one too many steps backwards and throws himself backwards off the tree branch. 
 
@@ -2345,7 +2357,7 @@ Automata child: **"Aaaaaaaaaahaahahahahahahaha!"**
 
 The tiny Automata child lands on top of Asoka's sleeping bubble with a gelatinous bounce. 
 
-Automata child: **"UUF!!"**
+Automata child: **"UUFF!!"**
 
 The whole bubble ripples but holds its shape. The child, exhilerated from the game and his fall, falls back into the SynTh bubble stomach first, gasping with laughter and exertion as he looks happily down at Asoka and waves. The monkey on his shoulder chirps and turns its head in a hilarious caricature of curiosity. Asoka stares back, hunger and crushing depression momentarily forgotten. 
 
@@ -2353,11 +2365,15 @@ Automata child: **"You're Min's evil spirit! We brought you food!"**
 
 Asoka and Iri exchange a glance, then Asoka sighs and ties back their hair. 
 
-Asoka: *"Fine, I'll get up."*
+Asoka: *"Alright, I'm coming."*
 
 ### Page 9
 
-We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is bare-headed and wearing only their sleeveless undershirt and trousers. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the bojagi that Min had used to bring it up to Asoka's bubble. Asoka unenergetically picks at the food as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into several wooden cups. The tiny Automata child that fell onto Asoka's sleeping bubble, monkey companion now perched on his head, holds out a cup of the fruit juice to Iri.  
+We see a view from above, of Asoka and Min sitting across from each other on the large tree trunk beneath Asoka's hammock. Asoka is bare-headed and wearing only their sleeveless undershirt and trousers. Between the two teens is a large, mouth-watering [dosirak](https://en.wikipedia.org/wiki/Dosirak) of leftovers from the Central Hearth, sitting on top of the bojagi that Min had used to bring it up to Asoka's bubble. Asoka unenergetically picks at the food as Min pours from a tall thermos of sweet juice made from [Ungurahua](https://youtu.be/baWFekERwsw) fruit into several wooden cups. 
+
+Min: **"Mawé's been so excited to meet you, he's been learning English from me during his free time!"**
+
+The tiny Automata child that fell onto Asoka's sleeping bubble, monkey companion now perched on his head, holds out a cup of the fruit juice to Iri.  
 
 Automata child: **"Wanna try?"**
 
@@ -2373,7 +2389,7 @@ Asoka: *"Just like Pippa..."*
 
 Through their tears, Asoka sees a cup of patua juice, held out by small but strong hands. Asoka looks up to see an unexpectedly solemn Mawé, monkey now calm and peering at Asoka with intensity.   
 
-Mawé: **"When I'm having a bad day, patua juice makes my luck better."**
+Mawé: **"Do you want some too? When I'm feeling bad, patua juice makes me feel better!"**
 
 Asoka stares at Mawé, still seeing a ghost of Pippa on the eager young face. After a moment, Mawé looks questioningly at Min. Min gently takes one of Asoka's hands and wraps it around the cup. 
 
@@ -2381,19 +2397,19 @@ Asoka stares at Mawé, still seeing a ghost of Pippa on the eager young face. Af
 
 Asoka blushes, embarrassed by the kind treatment. 
 
-Asoka: **"Sorry...I mean, thanks, I could use some better luck..."**
+Asoka: **"Sorry...I mean, thanks..."**
 
 Min's hand stays on Asoka's to give it a strong, warm squeeze. 
 
-Min: **"You're far from home, surrounded by strange people and things...I think you're handling it super well."** 
+Min: **"It's ok! You're far from home, surrounded by new people and strange things...I think you're handling all this super well."** 
 
 Asoka's eyes fill with tears. 
 
-Asoka: **"But I asked for it...I said I don't care if the worst happens!"**
+Asoka: **"But...I told Pippa to go back...if I hadn't, they wouldn't..."**
 
 Asoka grits their teeth and hides their face in their hands, as tears begin to spill out of their eyes. Iri crawls into Asoka's lap and gently strokes Asoka's hands with its arms, trying to calm Asoka. 
 
-Asoka: **"I said I could handle it...but I really can't!!"**
+Asoka: **"...and I ran away...I just...didn't help anyone!!"**
 
 Asoka starts to rock back and forth, feeling as if their pent-up emotions might tear them apart, cell by cell. Min crawls around the food to kneel by Asoka. Mawé also moves closer, wide-eyed. 
 
@@ -2401,7 +2417,7 @@ Min: **"Hey...do you want a hug?"**
 
 Asoka doesn't look up, but gives a tiny nod. Iri gives Min an encouraging smile and moves to Asoka's shoulder. 
 
-Asoka, barely audible: **"*Yes...*"**
+Asoka, barely audible: **"*...yes please...*"**
 
 Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest and begins to cry loudly, in heaving sobs. Min's eyes start to also fill with tears, and the two teens cry and hold each other. Mawé puts his tiny arms around both Min and Asoka, dry eyed and confused by the older children's emotions but willing to accept that both babies and grownups seem incredibly susceptible to tears, especially when compared to the stable composure and infinite wisdom that seem to bless 7 year olds. Mawé's monkey chirps gently, and Iri's arms gently cradle all three childrens' heads. 
 
@@ -2409,55 +2425,63 @@ Min embraces Asoka gently, tentatively. Asoka turns their face into Min's chest 
 
 The sun has set. A fantastic view of the nighttime forest is lit by a full moon. Above is the night sky, resplendent with stars and the un-twinkling lights of planets and Orbiter vessels. Below, in a large tree with generous branches, is an SynTh bubble. Inside, Iri sits on top of Asoka's head, and Mawé is fast asleep with his head in Min's lap. The squirell monkey is sprawled hilariously on its back, safely held in Mawé's arms. Asoka and Iri look up around them with wonder and awe on their faces. Min is entranced by the flow of soft yet brilliant colors gently pulsating across Iri and Asoka's clothing. 
 
-Min: **"So, instead of an intradermal shield, you use cuttlefish cloth and mechapets?"**
+Asoka: **"Wow...I haven't looked at the night sky since Confinement ended..."**
+
+Min: **"Yeah, isn't it beautiful? I'm so glad I have a dermal shield...although, I wouldn't mind having a mechapet either!"**
 
 Asoka fondles a corner of their outfit, face sad but also proud as they fondly scratch Iri above its eye ridges. 
 
-Asoka: **"Yeah...both Iri and I are connected to the outfit, so the cloth also connects us. We're still learning how to control the cloth, just like how it takes you a while to learn how to control your shield."**
+Asoka: **"Yeah...the Biononymous don't believe in invasive modification of our bodies, so we had to find another way. My Haven was the first to have people pair-bonded with mechapets, and this cuttlefish cloth is new too...I'm so glad our Vovós found a way to work together, even after The Burning!"**
 
 Min reverently touches the cloth near Asoka's hand. 
 
-Min: **"You were able to hide from the World Government, even while stowing away on a *submarine*..."**
+Min: **"So cool..."**
 
-Min makes a determined fist and looks up at Asoka, grinning widely. 
+Asoka: **"Hey Min...why do you wanna go up into Orbit so badly? They don't have any trees or sky up there..."**
 
-Min: **"If you could pull that off, then I know I can figure out a way to get into the ISE Corps!!"**
+Min looks eagerly back up at the sky. 
 
-Asoka: **"The ISE Corps?"**
+Min: **"I mean...it *is* the sky up there...and it's the only place you can feel zero-G, or see the Earth as a big blue ball..."**
 
-Min laughs with delight as her mohawk flutters in the gentle wind inside the bubble. She looks up with unbridled adoration at the bright, untwinkling lights of Orbiter vessels up in the night sky. 
+Min looks back at Asoka, grinning widely. 
 
-Min: **"The International Space Exploration Corps...usually only for Orbiters...but a few years ago they started a 'Space Asylum Program', a scholarship for Earthers."**
+Min: **"And I hate saying no to a challenge...if you could hide on a *military sub*, right under the Peacekeeper's noses...then for sure I can find a way to join the ISE Corps!!"**
 
-Min now locks eyes with Asoka. 
+Asoka: **"Is this the Orbiter school?"**
 
-Min: **"I'm gonna become the greatest space swimmer the ISE has ever seen. And if I graduate in the top ten, I'll get a free ride to Space University!"**
+Min: **"Yeah, but not just any school. If you graduate top ten, you get a free ride to Space Uni! And usually only Orbiters have the cred for it...but last year they announced the 'Space Asylum Program', a scholarship just for Earthers!"**
 
 ### Page 12
 
 Asoka looks down at Mawé and squirell monkey, sleeping so peacefully in Min's lap, face full of fear.  
 
-Asoka: **"But...what if you fail, or get caught? What if the World Government tries to wipe out the Automata, like they're trying to do to the Biononymous?"**
+Asoka: **"But...is it really worth it? It sounds so risky..."**
 
 Min looks down at Mawé and gently cups his little chubby face. 
 
-Min: **"Avó Majhee told me that regrowing the [Amazonia](https://en.wikipedia.org/wiki/Amazon_rainforest) will take a long, *long* time...but if we don't do it, humans will never reclaim the surface."**
+Min: **"Sure there's risk...there's risk whenever you do something challenging or new...so I guess it's a personal choice..."**
 
 Min looks up at Asoka with a determined look on her face.
 
-Min: **"The Automata *have* to survive, and what I learn from the Orbiters will help us. But we can't do it alone...the Biononymous must *also* survive!"**
+Min: **"And I choose to explore the unknown, rather than wait around for it to bite me!"**
 
-Asoka looks up at the stars and Orbiter vessels, chewing on Min's words. After a moment, they speak in fierce whisper.
+Min realises that her words might make Asoka feel bad about the attack on their Haven. 
 
-Asoka: **"The Orbiters made a mess of this planet and then ran away...and now that we've worked so hard to clean it up, they want to take it back again. Who are they to decide?"**
+Min: **"Ah...bad choice of words..."**
+
+Asoka: **"It's ok..."**
+
+Min: **"I'm sorry. You mad?"**
+
+Asoka: **"No, I just don't think I'm as brave as you..."**
 
 Asoka, a fire suddenly alight in their eyes, turns back to Min, who is still watching them. 
 
-Asoka: **"I want to help the Biononymous survive...and I *also* want to join the ISE corps!"**
+Asoka: **"But I'm tired of cleaning up Orbiter mistakes. Earthers should have a say in how things go from now on. So I'm going to join the ISE Corps too!"**
 
 Min let's out a wild and joyful whoop, nearly dislodging Mawé and the squirrel monkey, then grabs Asoka by the shoulders. 
 
-Min: **"Yes! And anyone who tries to stop us..."**
+Min: **"Yes! We'll build a better universe for *everyone*! And anyone who tries to stop us..."**
 
 Zoom in on Min and Asoka's faces, who are touching foreheads. 
 
