@@ -1979,7 +1979,7 @@ The scene has transitioned to the Central Hearth of the Automata campsite, an tr
 
 Nova Jatobá, dryly, not unkindly: **"Oh look, it's my favorite source of chaotic good..."** 
 
-Min, pointing towards Asoka and Iri: **"Nova, this is urgent! They have *big news* about the Orbiters!"**
+Min, pointing towards Asoka and Iri: **"Nova, this is urgent! A mechapet! Now we can read the tapes!"**
 
 Off-panel: **"Minka!"**
 
@@ -2265,11 +2265,11 @@ Amadou: **"By upgrading Min's dermal shield! Majhee's been calling it a 'liquid 
 
 The sun is setting in the sky, and everyone looks exhausted.
 
-Nova: **"It seems our consensus is building towards keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)) while monitoring both Manaus and Gruta de Judeia...I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
+Nova: **"It seems our consensus is building towards keeping the movements of the Central Hearth to the west of the [Rio Negro](https://en.wikipedia.org/wiki/Rio_Negro_(Amazon)) while monitoring Gruta de Judeia for an opportunity to take back the stolen magnetic tapes...I'd like to hear from any Elders whose feelings remain incompatible with this decision."**
 
 The gathered Elders are all silent. Nova looks around the Central Hearth and clucks with satisfaction. 
 
-Nova: **"Concerning our visitor, Journeyhume Asoka Morei...they may stay with us for as long as they wish...Are there any Elders whose feelings remain incompatible with this decision?"**
+Nova: **"Concerning our visitor, Journeyhume Asoka Morei...we request the aid of their mechapet to help us read the tapes we still have here...and also request that they stay with us until the stolen tapes are retrieved...Are there any Elders whose feelings remain incompatible with this decision?"**
 
 The gathered Elders are again all silent, many turning to look at Asoka, who is still sitting at the edge of the Central Hearth. Asoka, hair now braided into a neat, pretty crown, with Iri in their lap, looks a little embarrased by the attention but relieved.  Min is watching Amadou, who looks a bit sad and distant. Jina gives Asoka a smile, but there is the tiniest hint of pity in her smile. Asoka glances at Majhee, who gives them a huge, warm smile of encouragement. 
 
@@ -2431,25 +2431,25 @@ Min: **"Yeah, isn't it beautiful? I'm so glad I have a dermal shield...although,
 
 Asoka fondles a corner of their outfit, face sad but also proud as they fondly scratch Iri above its eye ridges. 
 
-Asoka: **"Yeah...the Biononymous don't believe in invasive modification of our bodies, so we had to find another way. My Haven was the first to have people pair-bonded with mechapets, and this cuttlefish cloth is new too...I'm so glad our Vovós found a way to work together, even after The Burning!"**
+Asoka: **"Yeah...the Biononymous don't believe in invasive mods of our bodies, so we had to find another way. My Haven was the first to pair-bond people with mechapets, and cuttlefish cloth is new for us too...I'm so glad our Vovós found a way to work together, before *and* after The Burning!"**
 
 Min reverently touches the cloth near Asoka's hand. 
 
-Min: **"So cool..."**
+Min: **"So cool that it's also controlled by nervous system activity..."**
 
-Asoka: **"Hey Min...why do you wanna go up into Orbit so badly? They don't have any trees or sky up there..."**
+Asoka: **"Hey Min...why do you wanna go up into Orbit so bad? They don't have any trees or sky up there..."**
 
 Min looks eagerly back up at the sky. 
 
-Min: **"I mean...it *is* the sky up there...and it's the only place you can feel zero-G, or see the Earth as a big blue ball..."**
+Min: **"I mean...it *is* the sky up there...and the only place you can feel zero-G, or see the Earth as a big blue ball..."**
 
 Min looks back at Asoka, grinning widely. 
 
 Min: **"And I hate saying no to a challenge...if you could hide on a *military sub*, right under the Peacekeeper's noses...then for sure I can find a way to join the ISE Corps!!"**
 
-Asoka: **"Is this the Orbiter school?"**
+Asoka: **"The ISE Corps is the fancy Orbiter school?"**
 
-Min: **"Yeah, but not just any school. If you graduate top ten, you get a free ride to Space Uni! And usually only Orbiters have the cred for it...but last year they announced the 'Space Asylum Program', a scholarship just for Earthers!"**
+Min: **"Yeah! If you graduate top ten, you get a free ride to Space Uni! And usually only Orbiters have the cred for it...but last year they announced the 'Space Asylum Program', a scholarship just for Earthers!"**
 
 ### Page 12
 
@@ -2459,7 +2459,7 @@ Asoka: **"But...is it really worth it? It sounds so risky..."**
 
 Min looks down at Mawé and gently cups his little chubby face. 
 
-Min: **"Sure there's risk...there's risk whenever you do something challenging or new...so I guess it's a personal choice..."**
+Min: **"Sure there's risk...there's risk whenever you do something hard or new...so I guess it's a personal choice..."**
 
 Min looks up at Asoka with a determined look on her face.
 
@@ -2469,11 +2469,7 @@ Min realises that her words might make Asoka feel bad about the attack on their 
 
 Min: **"Ah...bad choice of words..."**
 
-Asoka: **"It's ok..."**
-
-Min: **"I'm sorry. You mad?"**
-
-Asoka: **"No, I just don't think I'm as brave as you..."**
+Asoka: **"It's ok...I just don't think I'm as brave as you..."**
 
 Asoka, a fire suddenly alight in their eyes, turns back to Min, who is still watching them. 
 
@@ -2481,11 +2477,11 @@ Asoka: **"But I'm tired of cleaning up Orbiter mistakes. Earthers should have a 
 
 Min let's out a wild and joyful whoop, nearly dislodging Mawé and the squirrel monkey, then grabs Asoka by the shoulders. 
 
-Min: **"Yes! We'll build a better universe for *everyone*! And anyone who tries to stop us..."**
+Min: **"Yes! We'll build a better future for *everyone*! And if anyone tries to stop us..."**
 
 Zoom in on Min and Asoka's faces, who are touching foreheads. 
 
-Min: **"...will only make us stronger!"**
+Min: **"...they'll only make us stronger!"**
 
 ## Diagram 7: Studying the Nervous System and Living with One
 
@@ -2509,7 +2505,7 @@ Luckily, other research disciplines (such as ethology and anthropology) have bee
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
-## Dream, the last: Comma, not a Period
+## Dream 3: The next beginning
 
 ### Page 1
 
@@ -2525,7 +2521,7 @@ Min reverently places the little origami dragon her shoulder, where it circles a
 
 Min looks up at the crying Asoka, who is trying hard to smile through their tears. Min grins. 
 
-Min: **"Don't you slack on your [capoeira](https://en.wikipedia.org/wiki/Capoeira) training!"**
+Min: **"Hope you have a good journey back to Haven Clarksville. And keep up your [capoeira](https://en.wikipedia.org/wiki/Capoeira) training!"**
 
 Asoka and Min clasp hands as Asoka returns Min's grin, matching her fierceness with their own.
 
