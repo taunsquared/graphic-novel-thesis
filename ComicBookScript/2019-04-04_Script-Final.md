@@ -2483,11 +2483,22 @@ Zoom in on Min and Asoka's faces, who are touching foreheads.
 
 Min: **"...they'll only make us stronger!"**
 
-## Diagram 7: Studying the Nervous System and Living with One
+## Diagram 7: Bringing Neuroscience into the Wild
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
 
-**Every living human has a nervous system, and uses it everyday.** We use our nervous systems when we walk, talk, digest our food, make facial expressions, and decide what to wear. We use our nervous systems when we pick out gifts for lovers, debate with friends or enemies, and convince the bus driver to give us a free ride. We use our nervous systems when we plan our finances, operate machines, interpret the law, imagine alternate realities, and negotiate conflict.
+**Every living human has a nervous system, and uses it everyday.** Our nervous system comes from the same basic plan as all vertebrates, but some parts of our brains got...weirder. 
+
+Remember cortex, where your simulation is actually simulated? It is the engine for thought. It uses the summary provided by hippocampus to store experiences as memories. It uses the evaluation by basal ganglia to pick actions. But how does it know whether its simulation is any good? For most vertebrates, a good simulation is one validated by reality, by the feedback from our senses. If what you expect to happen actually happens, then cortex must be doing something right. 
+
+For humans, something changed. **Humans can simulate worlds not validated by our senses.** We can untether our cortex from the constraints of reality. We don't just simulate how a fruit falls out of a tree or what parts of our bodies may break if we fall down the stairs. We can also simulate worlds too tiny or huge to be seen by our eyes, too fast or slow to be heard by our ears, too optimistic or too cynical for other parts of our simulator to accept. 
+
+This might seem like a risky move by evolution, but it had a profound effect. By allowing cortex to simulate anything it wants, then two people, two different cortices, could begin to wonder, "How is their simulator different from mine?" We need an untethered cortex to answer that question, first to "visualize" our internal worlds well enough to speak our answer, but also simply to speak and be understood. 
+
+simulate the mental models inside each others' heads, simulate the world **inside** the other person. By gaining familiarity with each others' simulations, people can coordinate their mental models. Untethering cortex made human language possible as it allowed people to share (communicate) their model of the world, and, ideally, to coordinate them. A human brain might have just one, reasonably big cortex, but human society is collective of many cortices, working together… a collective, super intelligence. This is why only humans design buildings (and debate the merits of those designs), but as our world and technology have changed,
+
+
+We use our nervous systems when we walk, talk, digest our food, make facial expressions, and decide what to wear. We use our nervous systems when we pick out gifts for lovers, debate with friends or enemies, and convince the bus driver to give us a free ride. We use our nervous systems when we plan our finances, operate machines, interpret the law, imagine alternate realities, and negotiate conflict.
 
 In short, **we seem to use our nervous systems for everything we need or want to do every day.** And because people are often eager to get what they need or want, we all have a pretty good idea of how to navigate both the physical and social landscape of human society. This means that all living humans are, to some degree, **"unwitting neuroscientists"**, who develop a keen sense of both how our nervous systems affects our own behaviour and how to use our nervous systems to predict others' behaviour.
 
@@ -2503,13 +2514,30 @@ Luckily, other research disciplines (such as ethology and anthropology) have bee
 
 **A great first step** is to develop more ways of **conducting rigorous, replicable neuroscience research outside of the traditional neuroscience lab**. Why? Very few people have access to traditional neuroscience labs, so it's hard to involve either researchers from other fields or "unwitting neuroscientists". Luckily, **spaces where everyone is invited to participate in building and organizing knowledge already exist**, such as museums, libraries, zoos, and aquariums! With [just a few tweaks](http://www.everymind.online/SurprisingMinds/), these spaces can **easily host high-quality neuroscience research**, and become places where **professional, unwitting, and aspiring neuroscientists can more effectively collaborate**.
 
+
+
+Cortex does design
+
+
+
+
+
+Designing for a collective of human cortices requires designs that work with both the individual brains and their means of coordinating with each other. Over the past two decades, new technology for communication have appeared that allow any human to communicate with any other human.
+
+
+We can take some lessons for cortex itself. Cortex does not connect every piece of its network to every other, this would be horrible. Instead, cortex is organized into discrete modules, shaped liked columns. Each column is a self-contained processing unit that gets inputs, adjusts its computation, and sends output. These units are repeated throughout cortex, millions of times. Scientists call them the canonical cortical unit.
+
+
+We feel architects and planners can learn from how cortex managed to deal with the need to interconnect its massive network while maintaining sanity and control. Rather than creating a city in which each person is part of a large distributed, interconnected by transport and communication networks, we should arrange cities into self-sufficient modular units, a “canonical community unit”. These units would consist of housing, food, medical, exercise, education, and entertainment facilities. They would recapitulate the basic organization of human society from its inception. Units could then be arranged into larger hubs, perhaps with speciality focus on the the arts, medicine, or science, but each remaining largely self-contained. Our design for a city plan inspired by the design of mammalian cortex is presented below, alongside a diagram of cortex’s basic architecture...
+
+
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
 ## Dream 3: The next beginning
 
 ### Page 1
 
-**"September 21, 2116"**
+**"January 21, 2117"**
 
 The Automata have gathered to say goodbye to Min. Today, she leaves for her Year Underground. Min is dressed in lightweight travel gear and has a substantial pack strapped to her back. Pinned to Min's clothing and pack are flowers, leaves, tiny delicate knotwork for good fortune, and other small trinkets of affection and remembrance. Maraba adjusts a good luck knot in Min's hair and gives Min a huge, albeit teary, grin. Amadou kneels to be face to face with his rather short daughter. His eyes are full of tears, and he opens his mouth to speak, but then finds that he cannot. Instead, he pulls Min into a huge bear hug. Father and daughter embrace fiercely. Amadou kisses Min on the forehead, then stands as Min turns to hug Jina, just as fiercely. Min then tenderly hugs Majhee, who chuckles and shoos Min along the line of well-wishers.
 
@@ -2555,6 +2583,22 @@ sing along, harmonies of all the same song.*
 2nd edition.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
+
+# References
+
+## Chapter 1
+
+## Chapter 2
+
+## Chapter 3
+
+## Chapter 4
+
+## Chapter 5
+
+## Chapter 6
+
+## Chapter 7
 
 # Map of locations important to the Story
 
