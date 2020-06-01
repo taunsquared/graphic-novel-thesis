@@ -1,7 +1,5 @@
 # The First V.I.R.S.("verse") [CURRENTLY IN PROGRESS]
 
-References from this annotated script will be published in the graphic novel, for those interested in taking a deeper dive into the science that inspired various aspects of the story. 
-
 *"Dialogue in italics are thoughts of characters."*
 
 **"*Dialogue in italics and bold are spoken by the Biononymous while wearing the uniforms of their cult, which layers audio effects on their voices such that they cannot be identified by the sound of their speech.*"**
@@ -84,6 +82,56 @@ SCIENTIFIC DIAGRAM 7 ILLUSTRATOR AND COLOURIST
 
 DREAM SEQUENCES ILLUSTRATOR AND COLOURIST  
 [Emma Leavitt](https://www.soleiarts.com/)
+
+# Author's Foreword
+
+"Real science is as amenable to exciting and engrossing fiction as fake science, and I think it is important to exploit every opportunity to convey scientific ideas in a civilization based upon science but somehow unable to communicate what science is about…I think it is not an exaggeration to say that, if we survive, science fiction will have made a vital contribution to the continuation and benign evolution of our civilization."
+
+–- "Growing Up with Science Fiction", by Carl Sagan, 1978 [1].
+
+Humans have engaged in storytelling since the beginning of our history as a species, and every culture around the world has at its core a rich collection of stories. To this day, we create and share stories in countless formats.
+
+Stories help us remember and pass on complex information, gain perspective on difficult situations, and expand our capacity for empathy. The wide-spread success of stories as effective tools for good communication, powerful connection, and deep insight lead many to suspect a fundamental connection between storytelling and the evolution and development of human brains [2-24]. Humans are very social beings, and stories demonstrate enormous power when it comes to coordinating human ideas and actions.
+
+For instance, the Golden Age of Science Fiction (1930s to 1960s) [25] had an enormous influence on current research programmes and engineering goals. Many adults who currently work on space exploration, robotics, or brain-computer interfaces grew up in a culture fascinated by the fictional stories of authors like Issac Asimov and Arthur C. Clark. The science fiction genre thus expands the toolkit of storytelling to include simulations of incredible futures, as a way to grapple with the knowledge that there are things we don't even know we don't know, and to imagine how we might face it.
+
+How brains face the unknown and the unexpected has been the core motivation behind my PhD research and the research vision of my advisor, Dr. Adam Kampff. For the last 7 years, I’ve had the privilege of working with him and the amazing humans of the Intelligent Systems Lab [26]. Together we have developed a diverse range of tools and strategies to study how brains build expectations about how things "should" work (often called our "model of the world"), and how brains adapt when new information or experiences break our expectations.
+
+Studying reactions to the unexpected under traditional laboratory conditions can be quite challenging, given that laboratories were originally intended to be settings where one reduces and simplifies phenomena in order to examine them in greater detail and under tightly controlled conditions. This is not necessarily a useful strategy to apply to the study of how we deal with the unexpected. Communicating our findings can be even more challenging, as our insights often ride the boundary between science and philosophy, and our explanations tend to work best when prefaced with lengthy historical or experiential contextualization.
+
+Given these challenges, my advisor and I realised that our research needs to be communicated with a more compelling format than the conventional academic article - the current tensions and distrust between academic scientists, policy makers, and folks on the street makes that clear. Turns out, we weren’t alone in our way of thinking! Other PhD candidates have taken creative approaches to their thesis or dissertation to make their research more accessible [27], and there is a growing interest in using and understanding the potential of graphic novels, comics, and other forms of visual narrative "to engage audiences who are currently underserved by other channels of science communication." [28]
+
+So I threatened to write a graphic novel of my thesis, and Dr. Kampff called my (not quite) bluff.
+
+References:
+[1] Sagan, Carl. "Growing Up with Science Fiction." New York Times Magazine (1978): 24. https://www.nytimes.com/1978/05/28/archives/growing-up-with.html  
+[2] Heider, Fritz, and Marianne Simmel. "An experimental study of apparent behavior." The American journal of psychology 57.2 (1944): 243-259.  
+[3] Cozolino, Louis, and Susan Sprokay. "Neuroscience and adult learning." The Neuroscience of Adult Learning: New Directions for Adult and Continuing Education, Number 110 81 (2006): 11.  
+[4] Gonçalves, Óscar F., et al. "The narrative profile in Williams Syndrome: There is more to storytelling than just telling a story." The British Journal of Development Disabilities 56.111 (2010): 89-109.  
+[5] Nigam, Sanjay K. "The storytelling brain." Science and engineering ethics 18.3 (2012): 567-571.  
+[6] Brownell, Sara E., Jordan V. Price, and Lawrence Steinman. "Science communication to the general public: why we need to teach undergraduate and graduate students this skill as part of their formal scientific training." Journal of undergraduate neuroscience education 12.1 (2013): E6.  
+[7] von Stackelberg, Peter, and Ruth Eira Jones. "Tales of our tomorrows: Transmedia storytelling and communicating about the future." Journal of Futures Studies 18.3 (2014): 57-76.  
+[8] Andersen, Mark B., and Andreas Ivarsson. "A methodology of loving kindness: How interpersonal neurobiology, compassion and transference can inform researcher–participant encounters and storytelling." Qualitative Research in Sport, Exercise and Health 8.1 (2016): 1-20.  
+[9] Aldama, Frederick Luis. "The science of storytelling: Perspectives from cognitive science, neuroscience, and the humanities." (2015): 80-95.  
+[10] Zak, Paul J. "Why inspiring stories make us react: The neuroscience of narrative." Cerebrum: the Dana forum on brain science. Vol. 2015. Dana Foundation, 2015.  
+[11] Wright, Robert P., and Jacqueline M. Dziak. "Storytelling as a primary leadership tool." 2016 IEEE Aerospace Conference. IEEE, 2016.  
+[12] Curtis, K. E. L. L. Y. "The Neuroscience of Stories and Why our Brains Love Them." (2016).  
+[13] Briant, Katherine J., et al. "The power of digital storytelling as a culturally relevant health promotion tool." Health promotion practice 17.6 (2016): 793-801.  
+[14] Yuan, Ye. Pictures, Pantomimes, and a Thousand Words: The Neuroscience of Cross-Modal Narrative Communication in Humans. Diss. 2017.  
+[15] Friesen, Jan, John T. Van Stan, and Skander Elleuche. "Communicating science through comics: a method." Publications 6.3 (2018): 38.  
+[16] Olitsky, Stacy, et al. "Constructing “authentic” science: results from a university/high school collaboration integrating digital storytelling and social networking." Research in Science Education (2018): 1-24.  
+[17] Suzuki, Wendy A., et al. "Dialogues: The science and power of storytelling." Journal of Neuroscience 38.44 (2018): 9468-9470.  
+[18] Lindahl, Carl. "Dream Some More: Storytelling as Therapy." Folklore 129.3 (2018): 221-236.  
+[19] Armstrong, Paul B. "Neuroscience and the Social Powers of Narrative: How Stories Configure Our Brains." English Language and Literature 64.1 (2018): 3-24.  
+[20] Beachman, Lisa. Psychological perspectives on narrative and storytelling. Diss. Auckland University of Technology, 2018.  
+[21] Yuan, Ye, Judy Major-Girardin, and Steven Brown. "Storytelling is intrinsically mentalistic: A functional magnetic resonance imaging study of narrative production across modalities." Journal of cognitive neuroscience 30.9 (2018): 1298-1314.  
+[22] Green, Stephanie J., Kirsten Grorud-Colvert, and Heather Mannix. "Uniting science and stories: perspectives on the value of storytelling for communicating science." (2018): 164-173.  
+[23] Horváth, Gyöngyvér. "Visual imagination and the narrative image. Parallelisms between art history and neuroscience." cortex 105 (2018): 144-154.  
+[24] Terry, Sharon F., and Anne Marie Westreich. "A Role for Storytelling in Improving Consumer Understanding of Genetic Testing." Genetic testing and molecular biomarkers 23.1 (2019): 1-2.  
+[25] https://en.wikipedia.org/wiki/Golden_Age_of_Science_Fiction  
+[26] https://www.kampff-lab.org/  
+[27] https://helenkara.com/2016/07/13/getting-creative-with-your-thesis-or-dissertation/  
+[28] Farinella, Matteo. "The potential of comics in science communication." Journal of science communication 17.01 (2018): Y01-1.
 
 # Table of Contents
 
@@ -2487,15 +2535,17 @@ Min: **"...they'll only make us stronger!"**
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
 
+Neuroscientists have the strangely fractal job of studying the thing that lets us study anything and everything. Our most powerful tool is also the thing we most desire to understand. It's like trying to look at the back of our own head - alone, it's absolutely impossible to do. But if another person looks at the back of your head for you, then it's absolutely trivial. So how do we gain this external perspective in neuroscience?
+
 **Every living human has a nervous system, and uses it everyday.** Our nervous system comes from the same basic plan as all vertebrates, but some parts of our brains got...weirder. 
 
 Remember cortex, where your simulation is actually simulated? It is the engine for thought. It uses the summary provided by hippocampus to store experiences as memories. It uses the evaluation by basal ganglia to pick actions. But how does it know whether its simulation is any good? For most vertebrates, a good simulation is one validated by reality, by the feedback from our senses. If what you expect to happen actually happens, then cortex must be doing something right. 
 
-For humans, something changed. **Humans can simulate worlds not validated by our senses.** We can untether our cortex from the constraints of reality. We don't just simulate how a fruit falls out of a tree or what parts of our bodies may break if we fall down the stairs. We can also simulate worlds too tiny or huge to be seen by our eyes, too fast or slow to be heard by our ears, too optimistic or too cynical for other parts of our simulator to accept. 
+For humans, something changed. **Humans can simulate worlds not validated by our senses.** We can untether our cortex from the constraints of reality and create complex systems that only exist in our minds. We don't just simulate how a fruit falls out of a tree or what parts of our bodies may break if we fall down the stairs. We can also simulate worlds too tiny or huge to be seen by our eyes, too fast or slow to be heard by our ears, too optimistic or too cynical for other parts of our simulator to accept. 
 
-This might seem like a risky move by evolution, but it had a profound effect. By allowing cortex to simulate anything it wants, then two people, two different cortices, could begin to wonder, "How is their simulator different from mine?" We need an untethered cortex to answer that question, first to "visualize" our internal worlds well enough to speak our answer, but also simply to speak and be understood. 
+This might seem like a risky move by evolution, but it had a profound effect. By allowing cortex to simulate anything it wants, then two people, two different cortices, could begin to wonder, "How is their simulator different from mine?" We need an untethered cortex to answer that question, first to "visualize" our internal worlds well enough to speak our answer, but then to also simulate the mental model inside the other's head, to simulate the world **inside** the other person. 
 
-simulate the mental models inside each others' heads, simulate the world **inside** the other person. By gaining familiarity with each others' simulations, people can coordinate their mental models. Untethering cortex made human language possible as it allowed people to share (communicate) their model of the world, and, ideally, to coordinate them. A human brain might have just one, reasonably big cortex, but human society is collective of many cortices, working together… a collective, super intelligence. This is why only humans design buildings (and debate the merits of those designs), but as our world and technology have changed,
+By gaining familiarity with each others' simulations, people can then **coordinate** their mental models. Untethering cortex made human language possible as it allowed people to share (communicate) their model of the world, and, ideally, to coordinate them. A human brain might have just one, reasonably big cortex, but human society is collective of many cortices, working together… a collective, super intelligence. This is why only humans design buildings (and debate the merits of those designs), but as our world and technology have changed,
 
 
 We use our nervous systems when we walk, talk, digest our food, make facial expressions, and decide what to wear. We use our nervous systems when we pick out gifts for lovers, debate with friends or enemies, and convince the bus driver to give us a free ride. We use our nervous systems when we plan our finances, operate machines, interpret the law, imagine alternate realities, and negotiate conflict.
@@ -2589,6 +2639,13 @@ sing along, harmonies of all the same song.*
 ## Chapter 1
 
 ## Chapter 2
+
+https://www.nature.com/news/2010/100531/full/news.2010.270.html
+
+https://www.newyorker.com/magazine/2015/07/20/the-really-big-one
+
+
+
 
 ## Chapter 3
 
