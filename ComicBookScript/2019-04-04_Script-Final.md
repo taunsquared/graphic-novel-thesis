@@ -91,7 +91,7 @@ DREAM SEQUENCES ILLUSTRATOR AND COLOURIST
 
 Humans have engaged in storytelling since the beginning of our history as a species, and every culture around the world has at its core a rich collection of stories. To this day, we create and share stories in countless formats.
 
-Stories help us remember and pass on complex information, gain perspective on difficult situations, and expand our capacity for empathy. The wide-spread success of stories as effective tools for good communication, powerful connection, and deep insight lead many to suspect a fundamental connection between storytelling and the evolution and development of human brains [2-24]. Humans are very social beings, and stories demonstrate enormous power when it comes to coordinating human ideas and actions.
+Stories help us remember and pass on complex information, gain perspective on difficult situations, and expand our capacity for empathy. The wide-spread success of stories as effective tools for good communication, powerful connection, and deep insight lead many to suspect a fundamental connection between storytelling and the evolution and development of human brains [2-24]. Humans are very social beings, and stories demonstrate an incredible power when it comes to coordinating human ideas and actions.
 
 For instance, the Golden Age of Science Fiction (1930s to 1960s) [25] had an enormous influence on current research programmes and engineering goals. Many adults who currently work on space exploration, robotics, or brain-computer interfaces grew up in a culture fascinated by the fictional stories of authors like Issac Asimov and Arthur C. Clark. The science fiction genre thus expands the toolkit of storytelling to include simulations of incredible futures, as a way to grapple with the knowledge that there are things we don't even know we don't know, and to imagine how we might face it.
 
@@ -302,11 +302,11 @@ A lot of the news is about the new space arboretum, but most of the individual b
 
 **"...[the Colorado River has *dried up completely*](https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/) and many are migrating east to escape the *severe drought*..."**
 
-**"...aggressive *water-borne disease* has placed [most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)..."**
+**"...[aggressive *water-borne disease*](https://www.researchgate.net/profile/Manzoor_Wani7/publication/319416899_ECONOMIC_BURDEN_OF_WATER_BORNE_DISEASES_IN_NORTH_KASHMIR-A_TEHSIL_LEVEL_ANALYSIS_OF_SOPORE-JK_INDIA_ARTICLE_INFO_ABSTRACT/links/59a91c1e458515eafa8ffad0/ECONOMIC-BURDEN-OF-WATER-BORNE-DISEASES-IN-NORTH-KASHMIR-A-TEHSIL-LEVEL-ANALYSIS-OF-SOPORE-J-K-INDIA-ARTICLE-INFO-ABSTRACT.pdf) [has placed most of northeast India under *quarantine*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)..."**
 
-**"...[*total evaporation* of the River Niger](https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/) has led to *massive lootings* at yet another hydropower station..."**
+**"...massive strikes in Port Harcourt today to protest government inaction in the face of [*skyrocketing* air pollution in the Niger Delta](https://www.mdpi.com/2076-3298/5/1/2/pdf)..."**
 
-**"...[*hundred times* more likely to be diagnosed](http://www.who.int/uv/faq/skincancer/en/index1.html) with illnesses caused by *sun radiation* than even just ten years ago..."**
+**"...[*hundred times* more likely to be diagnosed](http://www.uwm.edu.pl/wne/sites/default/files/u3/oej/pliki/wydania/14_2/08_Wieteska-S_Jablonska-M.pdf) with illnesses caused by *sun radiation* than even just ten years ago..."**
 
 We see Majhee walk past a large research facility, metal and glass architecture dully gleaming in the smoggy light, labeled "Laboratório Nacional de Biociências e Saúde Pública". 
 
@@ -409,7 +409,7 @@ The circle of researchers: **Felix Grael**, a pale but handsome man in his late 
 
 Beatriz: **"So...it's back?"**
 
-Felix, defeated: **"Yes...they think it was the [liver transplant](https://skincancer.ucsf.edu/transplant-patients)..."**
+Felix, defeated: **"Yes...they think it was the [liver transplant](http://www.beaumont.ie/files/2010/docs/20101208035837_A%20population-based%20study%20of%20sk.pdf)..."**
 
 Beatriz, gently: **"Felxi, do you want to go home? We could cover your flight..."**
 
@@ -523,7 +523,7 @@ Iúna: **"Really? From where?"**
 
 Dr. Kauffmann: **"Los Angeles. A police raid last night turned into a fire that's spread halfway up the coast of California. It's so big it's blowing over the mountains into Arizona..."**
 
-Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/aDNPhq5ggoE), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
+Dr. Kauffmann: **"Apparently the targets panicked and tried to destroy the evidence...and the suburbs are just *filled* with [plastic furniture, which are basically *solid* petroleum](https://youtu.be/IEOmSN2LRq0), and it all just hit a flash point...I'm sorry...do you know anyone over there?"**
 
 Iúna: **"Yes, I...I'm sorry, I need to make a call...thanks again for bringing over the new protocols."**
 
@@ -626,7 +626,7 @@ A.k.a. ["neuroglia" or "glial cells"](https://en.wikipedia.org/wiki/Glia), these
 
 **"Synaptic Thread, commonly called ‘SynTh’, is spun by the bacterial superorganism [Electrophoretic](https://en.wikipedia.org/wiki/Electrophoresis) [Mycelium](https://en.wikipedia.org/wiki/Mycelium) [Yeast](https://en.wikipedia.org/wiki/Yeast), commonly called ‘thread worms’. When cultured with [lactic acid bacteria](https://en.wikipedia.org/wiki/Lactic_acid_bacteria), thread worms decompose the [silicon dioxide](https://en.wikipedia.org/wiki/Silicon_dioxide) found in most sand to produce thread-like mycelium structures (’raw SynTh’). As it is being spun, raw SynTh generates [bursts of electrical activity](https://en.wikipedia.org/wiki/Retinal_waves), inducing the fibres of the SynTh to self-assemble into sections that mimic the properties of classical [electronic components](https://en.wikipedia.org/wiki/Electronic_circuit) (resistor, transistor, capacitor, etc). Later, externally generated electrical activity can change the properties of these sections. Thread worms can also spin SynTh of varying ‘grades’, defined by the density of pores in the SynTh’s cell walls. In higher grades, the cell walls have many pores, allowing [organelles](https://en.wikipedia.org/wiki/Organelle), nutrients, and ions to flow freely throughout the fibres. These grades of ‘flex-SynTh’ can be reconfigured almost indefinitely; however, they require frequent feedings to maintain. In cheaper grades of SynTh (‘static Synth’), the cell walls have fewer pores, limiting [reconfigurability](https://en.wikipedia.org/wiki/Reconfigurability) but also reducing sand consumption..."**
 
-### Chapter 1 Cast
+### Chapter 2 Cast
 
 **Majhee Suh**  
 Born in [Seoul, Korea](https://en.wikipedia.org/wiki/Seoul)
@@ -673,7 +673,7 @@ We see a bustling harbour town, everything about it small and cute except for th
 
 **"Sand mining was out of the question...wouldn't do for Space Co to be seen destroying delicate coastal ecosystems or picturesque beachside communities..."**
 
-**"So they turned to the next biggest source of biogenic silica: deep-sea deposits in the [Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
+**"So they turned to the [next biggest source of biogenic silica: deep-sea deposits in the Antarctic](https://en.wikipedia.org/wiki/Biogenic_silica#Major_silica_sinks_in_the_modern_oceans)."**
 
 We see close-ups of the [wildlife at Cabo de Hornos](https://youtu.be/06LcgVQg7Yk) with tumultuous ocean and raw, mountainous landscape. Off in the distance, we see a tiny speck on the horizon - a deep-sea silica mining rig. A tiny plume of smoke, looking both innocent and foreboding, curls up from the rig. 
 
@@ -695,8 +695,7 @@ Tech: **"Look!"**
 
 Dr. Molina: **"My god...the acidity--!"**
 
-*See the articles ["The Science of Abrupt Climate Change: Should we be worried?"](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and ["Future ocean acidification will be amplified by hypoxia
-in coastal habitats"](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_cod101608/Tema_8-acidificaciÃ³n/hypoxia%20%26%20OA%20Melzner.pdf) for more information.*
+*See the articles ["The Science of Abrupt Climate Change: Should we be worried?"](https://www.scientificamerican.com/article/rising-acidity-in-the-ocean/) and ["Future ocean acidification will be amplified by hypoxia in coastal habitats"](https://imedea.uib-csic.es/master/cambioglobal/Modulo_III_cod101608/Tema_8-acidificaciÃ³n/hypoxia%20%26%20OA%20Melzner.pdf) for more information.*
 
 ### Page 3
 
@@ -727,7 +726,7 @@ Dr. Fischmann: **"This is what it looks like today. All of the glacier melt is e
 Now the meta data shows: 
 * Gulf Stream has slowed by 65% since the late 1950s
 * [Atlantic Meridional Overturning Circulation](https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation) has been [declining at an average rate of 0.9 Sverdrup (a million cubic meters per second, the standard unit for ocean circulation) per year since 2004](http://science.sciencemag.org/content/348/6241/1255575).
-  * useful image: http://science.sciencemag.org/content/sci/348/6241/1255575/F1.large.jpg?width=800&height=600&carousel=1
+* useful image: http://science.sciencemag.org/content/sci/348/6241/1255575/F1.large.jpg?width=800&height=600&carousel=1
 
 Dr. Fischmann: **"We believe this greater incidence of pack ice is *blocking* major currents that run through the Denmark Strait."**
 
@@ -815,7 +814,11 @@ Majhee: **"Amana, do you remember our last lab retreat, when we went SCUBA divin
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The catastrophe killed 32 people and sank the harvesting rig into the sea. Space Consortium did not publicly disclose the incident for a week, as highly volatile chemicals belched unchecked into the [Antarctic Convergence](https://en.wikipedia.org/wiki/Antarctic_Convergence)."**
+**"The accident killed 32 people and sank the harvesting rig into the sea. Space Consortium did not publicly disclose the incident for a week, as highly volatile chemicals belched unchecked into the [Antarctic Convergence](https://en.wikipedia.org/wiki/Antarctic_Convergence)."**
+
+**"10 days later, an [earthquake of magnitude 9.2 erupted just off the coast of Vancouver Island, Canada](https://en.wikipedia.org/wiki/Cascadia_subduction_zone). Both sides of the Pacific Ocean were devastated by the tsunamis that followed. [At least 32,000 humans died, another 60,000 were injured, and millions more around the world were left without electricity, drinking water, sewer service, or health-care facilities.](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)"**
+
+* *https://www.nature.com/news/2010/100531/full/news.2010.270.html*
 
 **"News of the disaster triggered panic. People fled underground, trying to hide from the poisonous gas and acid rain sweeping across the globe in [large and increasingly frequent cyclones](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)."**
 
@@ -2634,9 +2637,34 @@ sing along, harmonies of all the same song.*
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
 
-# References
+# References and other supplementary materials
+
+What is a Vigilante Intergalactic Roustabout Scholar? http://www.danbeekim.org/projects/2018/02/28/VIRS-principles/
+
+Typical Classification Levels: https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels
+
+What are magnetic storage tapes? 
+https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape
+https://cacm.acm.org/magazines/2019/4/235573-the-future-of-data-storage/fulltext
+https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape (paywalled)
+
+What is Iron Mountain?
+https://en.wikipedia.org/wiki/Iron_Mountain_(company)
+
 
 ## Chapter 1
+
+https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)..."**
+
+https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/
+
+http://www.who.int/uv/faq/skincancer/en/index1.html
+
+https://en.wikipedia.org/wiki/Field-effect_transistor
+
+http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC
 
 ## Chapter 2
 
@@ -2651,13 +2679,16 @@ https://www.newyorker.com/magazine/2015/07/20/the-really-big-one
 
 ## Chapter 4
 
+https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1953.sp004849
+https://www.nature.com/articles/nature24670
+
 ## Chapter 5
 
 ## Chapter 6
 
 ## Chapter 7
 
-# Map of locations important to the Story
+## Map of locations important to the Story
 
 https://www.google.com/maps/d/embed?mid=1Y8iEuFi3Qe5qZuOaLN8kwWPE7Rs1kN8E
 
