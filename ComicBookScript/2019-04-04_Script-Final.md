@@ -754,9 +754,9 @@ Kai, Beatriz, Nova, and Vec are in the same area where they were having a lab me
 
 Majhee: **"We need to finish packing *now*."**
 
-Vec pulls aside Majhee. Vec looks incredibly troubled.  
+Vec pulls aside Majhee and gestures towards a post-operation chamber with a lab rat inside. Vec looks incredibly troubled.  
 
-Vec: **"Majhee, what do we with Nimh??"**
+Vec: **"Majhee, what do we with Amelia??"**
 
 Majhee: **"What's her condition?"**
 
