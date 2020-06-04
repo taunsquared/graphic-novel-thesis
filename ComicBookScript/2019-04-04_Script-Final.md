@@ -235,7 +235,9 @@ Gentle Farmer and First VIRS.*
 
 **"Finished loading...'The Space Consortium Fights World Hunger'; [Classification: *Unclassified*](https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels)."**
 
-**"In 2054, Space Consortium began collaborating with planetside farms to advance research on space-tolerance in plants and insects. Space Consortium offered to use this research to help fight Earth's food shortage, and pledged half of the carrying capacity of its recently completed space elevator project, the Space Ferries, to guarantee reliable transport of resources between Earth and orbiting farms. Thus, Space Consortium played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
+**"In 2040, The International Space Elevator Consortium (ISEC) successfully deployed their first space elevator. Four years later, the ISEC announced successful completion of initial operations for their first “Galactic Harbour”, a transportation infrastructure that would enable a full transition from planetside to low, medium, geostationary, and high Earth orbit. Global enthusiasm for the commercial and industrial value of Galactic Harbours led to the establishment of the Space Consortium (SC), a collection of individuals, organizations, and governments dedicated to scalable, inexpensive, and reliable access to space."**
+
+**"In 2047, the United Nations awarded the SC a 10-year grant to build orbiting farms in collaboration with the U.N. Green Havens, areas of the world set aside to preserve Earth's agricultural traditions and provide biodiversity sanctuaries. Under this grant, the SC and the Green Havens conducted research into exo- hydroponics (plants useful for space travel) and permaculture in low gravity. Food grown in space was brought planetside via space elevators, now called the Space Ferries, in order to fight the global food shortage. Thus, the SC played a major role in improving the quality of life on Earth before [The Global Water Crisis](https://www.bbc.co.uk/news/uk-47620228)..."**
 
 ### Chapter 1 Cast
 
