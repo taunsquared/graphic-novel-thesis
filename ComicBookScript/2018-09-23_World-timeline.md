@@ -4,7 +4,7 @@
 
 Education is still in crisis, cities are overcrowded, and rural communities are dying. Severe drought for the last 10 years has devastated agricultural productivity around the world. Environmentally destructive industrial practices continue to push planetary ecosystems to dangerous extremes. 
 
-The International Space Elevator Consortium (ISEC) successfully deploys their first space elevator and announces initial operations for their first "Galactic Harbour".
+The International Space Elevator Consortium (ISEC) successfully deploys their first space elevator and announces initial operations for their first “Galactic Harbour”, a transportation infrastructure that enables a full transition from planetside to low, medium, geostationary, and high Earth orbit.
 
 A group of researchers working on genetically engineered yeast for monitoring female reproductive health accidentally culture a mutant strain of yeast, which eats its glass vial and turns into a slug-worm-shaped mass. After a few hours in isolation, it melts into a puddle of dead yeast cells. The researchers made note of the process that produced this yeast mutant in an open-access report on "failed" genetically engineered yeast biofactories. 
 
@@ -14,7 +14,7 @@ Majhee, a young PhD student in organometallic chemistry, discovers the report on
 
 ### 2044
 
-The ISEC announces successful completion of initial operations for their first Galactic Harbour, a transportation infrastructure that enables a full transition from planetside to low, medium, geostationary, and high Earth orbit. Global enthusiasm for the commercial and industrial value and potential of Galactic Harbours leads to the establishment of the Space Consortium (SC), a collection of individuals, organizations, and governments dedicated to scalable, inexpensive, and reliable access to space. 
+The ISEC announces successful completion of initial operations for their first Galactic Harbour. Global enthusiasm for the commercial and industrial value of Galactic Harbours leads to the establishment of the Space Consortium (SC), a collection of individuals, organizations, and governments dedicated to scalable, inexpensive, and reliable access to space. 
 
 ### 2046
 
