@@ -280,7 +280,7 @@ Developmental Physiologist, Geneticist, and capoeirista
 
 **"It was a day of hope and wonder."** 
 
-**"Space Consortium had just completed their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
+**"The Space Consortium was opening their third space farm, and the news feeds were drowning in videos of the glamorous ribbon-cutting event..."**
 
 We see beautiful, important people draped in gorgeously fashionable and unspeakably expensive formal attire, made with synapic thread fabric programmed to fluidly change colours in response to the lights, the music, and their wearers' moods.
 
@@ -316,7 +316,7 @@ We see Majhee walk past a large research facility, metal and glass architecture 
 
 The front of the research facility is teeming with protesters, who chant "Não sirva aos tiranos em órbita!" and "Educar crianças humanas, não máquinas corporativas!"
 
-**"...fifth day of *violent* demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's *collaboration* with Space Consortium..."**
+**"...fifth day of *violent* demonstrations at the Laboratório Nacional de Biociências e Saúde Pública protesting the public research institution's collaboration with the *Space Consortium*..."**
 
 Majhee sneaks into an alleyway to enter the research facility via a back door. 
 
@@ -326,7 +326,7 @@ Majhee sneaks into an alleyway to enter the research facility via a back door.
 
 Inside the research institute, we see a receptionist sitting behind a sealed glass window. Next to him is a decontamination chamber that all must pass thru in order to enter the research facility. 
 
-**"...Space Consortium's actions have been publicly condemned by many researchers affiliated with the LNBSP..."**
+**"...the SC's actions have been publicly condemned by many researchers affiliated with the LNBSP..."**
 
 *LNBSP = Laboratório Nacional de Biociências e Saúde Pública*
 
@@ -812,11 +812,11 @@ Majhee: **"Amana, do you remember our last lab retreat, when we went SCUBA divin
 
 ### Page 10
 
-**"On October 12, 2067, the safety valves on Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes into the southern ocean currents. The disaster belched a cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas with an already damaged atmosphere, and lowering the pH of an already acidic ocean."**
+**"On August 12, 2067, safety valves on the Space Consortium's deep-sea silica harvesting rig in the Antarctic failed to activate, spewing partially distilled volcanic fumes into the southern ocean currents. The disaster belched a cloud of hydrogen flouride into the [West Wind Drift](https://en.wikipedia.org/wiki/Antarctic_Circumpolar_Current), mixing the highly corrosive gas with an already damaged atmosphere, and lowering the pH of an already acidic ocean."**
 
 *In volcanic fumes, [silicon tetrafluoride](https://en.wikipedia.org/wiki/Silicon_tetrafluoride) forms [hexafluorosilicic acid](https://en.wikipedia.org/wiki/Hexafluorosilicic_acid), which can further hydrolyze to [hydroflouric acid](https://en.wikipedia.org/wiki/Hydrofluoric_acid).*
 
-**"The accident killed 32 people and sank the harvesting rig into the sea. Space Consortium did not publicly disclose the incident for a week, as highly volatile chemicals belched unchecked into the [Antarctic Convergence](https://en.wikipedia.org/wiki/Antarctic_Convergence)."**
+**"The accident killed 32 people and sank the harvesting rig into the sea. The SC hesitated to publicly disclose the incident for a whole week, as highly volatile chemicals belched unchecked into the [Antarctic Convergence](https://en.wikipedia.org/wiki/Antarctic_Convergence)."**
 
 **"10 days later, an [earthquake of magnitude 9.2 erupted just off the coast of Vancouver Island, Canada](https://en.wikipedia.org/wiki/Cascadia_subduction_zone). Both sides of the Pacific Ocean were devastated by the tsunamis that followed. [At least 32,000 humans died, another 60,000 were injured, and millions more around the world were left without electricity, drinking water, sewer service, or health-care facilities.](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)"**
 
@@ -830,7 +830,7 @@ Over a backdrop of the "Earth as a marble in space" image, showing intense cyclo
 
 ### Page 11
 
-**"Amid the chaos, nearly 60,000 planetside humans fled into orbit."**
+**"Amid the chaos, the more privileged planetside humans fled into orbit."**
 
 A huge crowd of desperate people try to shove themselves onto four enormous Space Ferries attached to the same [elevator cable](https://en.wikipedia.org/wiki/Space_elevator#Climbers), but it's clear that even these behemoth vessels will not fit everyone in the launch station. The Space Ferry launch station staff try to maintain order but everyone is in a hysterical panic. Three of the Space Ferries have already closed their doors, their energy cells glowing as they prepare to climb up the SynTh-spun elevator cable. 
 
@@ -842,7 +842,7 @@ The last Space Ferry begins to close its doors. People totally lose their shit.
 
 PA: **"Please step *away* from the safety barrier! Please *STEP AWAY* from the safety barrier!!"**
 
-**"Afraid to take on more refugees, Space Consortium shut down the Space Ferry service, 'until further notice'."**
+**"Afraid to take on more refugees, the SC shut down the Space Ferry service, 'until further notice'."**
 
 ### Page 12
 
