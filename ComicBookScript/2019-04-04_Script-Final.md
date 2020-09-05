@@ -1312,7 +1312,7 @@ Character designs: Asoka Morei, Iri, Eireena McLeland, Serena Ramirez
 
 **"June 28, 2116: Somewhere off the eastern edge of the [Caribbean Sea](https://en.wikipedia.org/wiki/Caribbean_Sea)..."**
 
-  We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water, shadowed by a [thick, dark blanket of plastic waste floating up above on the surface](https://en.wikipedia.org/wiki/North_Atlantic_garbage_patch). A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV, surrounded by [additional human industrial waste that has sunk to the sea floor](https://www.nature.com/articles/s41559-016-0051), has just cut the cable. We see an exhilerated Iri taking its first swim in a real ocean, sending bubbles and ripples through the [microplastics floating in the water](https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006/pdf). 
+We are deep underwater. An enormous [Columbia-class](https://www.defenseone.com/technology/2017/09/3-questions-americas-next-nuclear-missile-submarine/141317/) [submarine](https://en.wikipedia.org/wiki/Columbia-class_submarine) slips through the dark blue water, shadowed by a [thick, dark blanket of plastic waste floating up above on the surface](https://en.wikipedia.org/wiki/North_Atlantic_garbage_patch). A long thin cable full of [hydrophones](https://en.wikipedia.org/wiki/Hydrophone) [trails out behind the sub](https://en.wikipedia.org/wiki/Surveillance_Towed_Array_Sensor_System). On the side of the submersible are the letters ["SSBN-831"](https://en.wikipedia.org/wiki/List_of_submarines_of_the_United_States_Navy), the hull number of the [USS *Monterey*](https://en.wikipedia.org/wiki/Area_code_831), which has now been comandeered for use by the World Government Peacekeepers, the planetside branch of the World Government military. On the ocean floor below, a [remotely operated underwater vehicle(ROV)](https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle) has been [digging up](https://en.wikipedia.org/wiki/Submarine_communications_cable#Cable_repair) a [submarine cable](https://www.submarinecablemap.com/#/), [no bigger than a garden hose](https://www.pri.org/stories/2015-04-20/what-links-global-internet-wires-inside-tubes-no-bigger-garden-hose), from the ocean floor and feeding it back up towards the USS *Monterey*, where the cable disappears into the bottom of the submarine. The ROV, surrounded by [additional human industrial waste that has sunk to the sea floor](https://www.nature.com/articles/s41559-016-0051), has just cut the cable. We see an exhilerated Iri taking its first swim in a real ocean, sending bubbles and ripples through the [microplastics floating in the water](https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006/pdf). 
 
 ### Page 2
 
@@ -2166,13 +2166,11 @@ Cortex wants to play in situations of *signficant yet manageable complexity*, wh
 
 ### Page 1
 
-**"Minka Traoré Barbosa Suh was Reborn on the 20th day of the 4th month of the 48th year After Burning..."**
+**"Long, long ago, on the 20th day of the 4th month of the 48th year After Burning, Tree Surfer Minka Traoré Barbosa Suh was Reborn..."**
 
 Bonfires on a warm night. Shadows of well-choreographed ritual dancers, powerful and strong from a lifetime of training, hover warmly, protectively. The view is zoomed out so that we see Min (the dark figure from chapter 5) from above. Min is topless, sitting inside a large, fat metal hoop, a la Cyr Wheel. She is surrounded in many concentric circles of family and friends, all dressed in their most splendid clothing made of cloth in which the embroidery moves fluidly, in response to the lighting, the sounds, the wearers moods...
 
 Drums beat in the background...
-
-**"Another Tree Surfer is born tonight."**
 
 Over this backdrop, small ghostly close-up panels are scattered, showing different parts of 16 year old Min, large swaths of skin covered in proudly displayed, ecstatically dancing clan tatoos:   
 * an eye, nose, and ear. The eye is determined, steely, and dilated with adrenaline and euphoria. The nose and ear are pierced with SynTh metal, formed into plain, elegantly raw shapes with rounded edges. The brow is set and only slightly sweaty. The head is shaved and covered in tatoos of her achievements as a clan member and Arborist. 
@@ -2531,54 +2529,41 @@ Zoom in on Min and Asoka's faces, who are touching foreheads.
 
 Min: **"...they'll only make us stronger!"**
 
-## Diagram 7: Bringing Neuroscience into the Wild
+## Diagram 7: Bringing Neuroscience out of the lab and into the wild
 
 **"Information recovered from [magnetic storage tapes](https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape) at [Iron Mountain](https://en.wikipedia.org/wiki/Iron_Mountain_(company)) Archeological Site 2100-813..."**
 
-Neuroscientists have the strangely fractal job of studying the thing that lets us study anything and everything. Our most powerful tool is also the thing we most desire to understand. It's like trying to look at the back of our own head - alone, it's absolutely impossible to do. But if another person looks at the back of your head for you, then it's absolutely trivial. So how do we gain this external perspective in neuroscience?
+
+
+Neuroscientists have the strangely fractal job of studying the thing that lets us study anything and everything. Our most powerful tool is also the thing we most desire to understand. It's like trying to look at the back of our own heads, or to see what our own eyes do when we watch things - alone, it's absolutely impossible to do, even with a mirror. But with another person, they can easily look at the back of your head or watch your eyes. So how do we gain this external perspective in neuroscience?
 
 **Every living human has a nervous system, and uses it everyday.** Our nervous system comes from the same basic plan as all vertebrates, but some parts of our brains got...weirder. 
 
 Remember cortex, where your simulation is actually simulated? It is the engine for thought. It uses the summary provided by hippocampus to store experiences as memories. It uses the evaluation by basal ganglia to pick actions. But how does it know whether its simulation is any good? For most vertebrates, a good simulation is one validated by reality, by the feedback from our senses. If what you expect to happen actually happens, then cortex must be doing something right. 
 
-For humans, something changed. **Humans can simulate worlds not validated by our senses.** We can untether our cortex from the constraints of reality and create complex systems that only exist in our minds. We don't just simulate how a fruit falls out of a tree or what parts of our bodies may break if we fall down the stairs. We can also simulate worlds too tiny or huge to be seen by our eyes, too fast or slow to be heard by our ears, too optimistic or too cynical for other parts of our simulator to accept. 
+For humans, something changed. **Humans can simulate worlds not validated by our senses.** We can untether our cortex from the constraints of reality and create complex systems that only exist in our minds. We don't just simulate how a fruit falls out of a tree or what parts of our bodies may break if we fall down the stairs. We can also simulate worlds too tiny or huge to be seen by our eyes, too fast or slow to be heard by our ears, too optimistic or too cynical for other parts of our simulator to accept. We can even simulate our simulator, which is the weirdly fractal job of neuroscientists. 
 
 This might seem like a risky move by evolution, but it had a profound effect. By allowing cortex to simulate anything it wants, then two people, two different cortices, could begin to wonder, "How is their simulator different from mine?" We need an untethered cortex to answer that question, first to "visualize" our internal worlds well enough to speak our answer, but then to also simulate the mental model inside the other's head, to simulate the world **inside** the other person. 
 
-By gaining familiarity with each others' simulations, people can then **coordinate** their mental models. Untethering cortex made human language possible as it allowed people to share (communicate) their model of the world, and, ideally, to coordinate them. A human brain might have just one, reasonably big cortex, but human society is collective of many cortices, working together… a collective, super intelligence. This is why only humans design buildings (and debate the merits of those designs), but as our world and technology have changed,
+By gaining familiarity with each others' simulations, people can then **coordinate** their mental models. Untethering cortex made human language possible as it allowed people to share (communicate) their model of the world, and, ideally, to coordinate them. A human brain might have just one, reasonably big cortex, but human society is collective of many cortices, working together...a collective, super intelligence. 
 
+And just like we simulate the collective of cells and micro-organisms that make up our individual bodies, we also simulate this greater collective of many cortices. We do it when we pick out gifts for lovers, debate with friends or enemies, and convince the bus driver to give us a free ride. We do it when we plan our finances, operate machines, interpret the law, imagine alternate realities, and negotiate conflict.
 
-We use our nervous systems when we walk, talk, digest our food, make facial expressions, and decide what to wear. We use our nervous systems when we pick out gifts for lovers, debate with friends or enemies, and convince the bus driver to give us a free ride. We use our nervous systems when we plan our finances, operate machines, interpret the law, imagine alternate realities, and negotiate conflict.
+This untethered simulation could be considered the foundations of culture and civilization, and it's a form of mental gymnastics that humans have been doing for a long time. This means that all living humans are, to some degree, **"unwitting neuroscientists"**, each with a lifetime of **intimate, personal experience** with a nervous system, who develop simulations of our own behaviour, of others' behaviour, and all aspects of the world around us, in order to navigate our material and social landscapes. 
 
-In short, **we seem to use our nervous systems for everything we need or want to do every day.** And because people are often eager to get what they need or want, we all have a pretty good idea of how to navigate both the physical and social landscape of human society. This means that all living humans are, to some degree, **"unwitting neuroscientists"**, who develop a keen sense of both how our nervous systems affects our own behaviour and how to use our nervous systems to predict others' behaviour.
-
-I think this is why **everyone is fascinated by neuroscience**, the study of nervous systems. Even though professional neuroscientists have exclusive access to many tools and techniques that can describe nervous systems in extraordinary detail or measure them with painstaking precision, using these methods or interpreting the results still **require something that everyone has: a nervous system**.
-
-Everyone has a lifetime of **intimate, personal experience** with nervous systems. This makes neuroscience rather unlike many other topics of formal study, such as marine biology or particle physics. Not everyone has access to the ocean, and when's the last time you had an intimate, personal experience with the [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson)? This isn't to say that neuroscience is easy. In the **last 60 years** since neuroscience first became a distinct discipline of formal study, many people have tackled what they thought were relatively straightforward questions about nervous systems, only to realize a decade later that they still have **more questions than answers**.
+This makes neuroscience rather unlike many other topics of formal study, such as marine biology or particle physics. Not everyone has access to the ocean, and when's the last time you had an intimate, personal experience with the [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson)? This isn't to say that neuroscience is easy. In the **last 60 years** since neuroscience first became a distinct discipline of formal study, many people have tackled what they thought were relatively straightforward questions about nervous systems, only to realize a decade later that they still have **more questions than answers**.
 
 So how can we get better at studying nervous systems? I like the idea that **"two heads are better than one"** when it comes to solving really tricky problems, and a recent study called [“Optimally Interacting Minds”](https://www.scientificamerican.com/article/are-two-heads-better-than/) offers some evidence that this catchy idiom might be true. Apparently, the most important ingredients are **good communication** and **an accurate awareness of one's strengths and weaknesses**.
 
 Let's apply those ingredients to neuroscience. One of the field's greatest strengths is the **very detailed descriptions and precise measurements** made possible by lab neuroscience methods. However, currently some of the field’s greatest weaknesses is that our most powerful methods are usually used on **isolated pieces** of nervous systems or on **non-human animals** (which adds a step of translation to go between species), and these methods are **very difficult to use on whole, intact nervous systems** in their most natural and healthy states.
 
-Luckily, other research disciplines (such as ethology and anthropology) have been developing detailed and precise methods of studying whole, healthy nervous systems. In addition, the enormous wealth of insight from the "unwitting neurosciestist" within every person is currently largely untapped. If the professional neuroscience community can **communicate well with everyone** about nervous systems, we can all help each other understand nervous systems better! **So how can we nurture these relationships?**
+Luckily, other research disciplines (such as ethology and anthropology) have been developing detailed and precise methods of studying whole, healthy nervous systems. In addition, the enormous wealth of insight from the "unwitting neurosciestist" within every person is currently largely untapped. **So how can we improve communication and coordination between neuroscience and these other sources of knowledge and insight?**
 
-**A great first step** is to develop more ways of **conducting rigorous, replicable neuroscience research outside of the traditional neuroscience lab**. Why? Very few people have access to traditional neuroscience labs, so it's hard to involve either researchers from other fields or "unwitting neuroscientists". Luckily, **spaces where everyone is invited to participate in building and organizing knowledge already exist**, such as museums, libraries, zoos, and aquariums! With [just a few tweaks](http://www.everymind.online/SurprisingMinds/), these spaces can **easily host high-quality neuroscience research**, and become places where **professional, unwitting, and aspiring neuroscientists can more effectively collaborate**.
+Designing for a collective of human cortices requires designs that work with both the individual brains and their means of coordinating with each other. We can take some lessons from the organization of cortex itself. Cortex doesn't connect every piece of its network to each other -- this results in seizures. Instead, cortex is organized into discrete modules, shaped liked columns. Each column is a self-contained processing unit that gets inputs, adjusts its computation, and sends output. These units are repeated throughout cortex, millions of times. Scientists call them the canonical cortical unit.
 
+We feel architects and planners can learn from how cortex managed to deal with the need to interconnect its massive network while maintaining sanity and control. Rather than creating a city in which each person is part of a large distributed, interconnected by transport and communication networks, we should arrange cities into self-sufficient modular units, a “canonical community unit”, similar to a traditional village. Each community unit addresses the basic needs, such as housing, food, medical care, exercise, and education, locally and within the unit. The things we desire beyond those basic needs, such as cultural enrichment, social variety, or any other project that benefits from the coordination of many cortices, would require a clever way to interconnect these canonical community units. 
 
-
-Cortex does design
-
-
-
-
-
-Designing for a collective of human cortices requires designs that work with both the individual brains and their means of coordinating with each other. Over the past two decades, new technology for communication have appeared that allow any human to communicate with any other human.
-
-
-We can take some lessons for cortex itself. Cortex does not connect every piece of its network to every other, this would be horrible. Instead, cortex is organized into discrete modules, shaped liked columns. Each column is a self-contained processing unit that gets inputs, adjusts its computation, and sends output. These units are repeated throughout cortex, millions of times. Scientists call them the canonical cortical unit.
-
-
-We feel architects and planners can learn from how cortex managed to deal with the need to interconnect its massive network while maintaining sanity and control. Rather than creating a city in which each person is part of a large distributed, interconnected by transport and communication networks, we should arrange cities into self-sufficient modular units, a “canonical community unit”. These units would consist of housing, food, medical, exercise, education, and entertainment facilities. They would recapitulate the basic organization of human society from its inception. Units could then be arranged into larger hubs, perhaps with speciality focus on the the arts, medicine, or science, but each remaining largely self-contained. Our design for a city plan inspired by the design of mammalian cortex is presented below, alongside a diagram of cortex’s basic architecture...
+The next phase of neuroscience is definitely a project that would benefit greatly from the coordination of many cortices, and we need to develop more ways of **conducting rigorous, replicable neuroscience research outside of the traditional neuroscience lab**. Why? Very few people have access to traditional neuroscience labs, so it's hard to involve either researchers from other fields or "unwitting neuroscientists". Luckily, **spaces where everyone is invited to participate in building and organizing knowledge already exist**, such as museums, libraries, zoos, and aquariums! With [just a few tweaks](http://www.everymind.online/SurprisingMinds/), these spaces can **easily host high-quality neuroscience research**, and become places where **professional, unwitting, and aspiring neuroscientists can more effectively collaborate**.
 
 
 #### [Back to Table of Contents](https://github.com/taunsquared/graphic-novel-thesis/blob/master/ComicBookScript/2019-04-04_Script-Final.md#table-of-contents)
@@ -2640,50 +2625,7 @@ What is a Vigilante Intergalactic Roustabout Scholar? http://www.danbeekim.org/p
 
 Typical Classification Levels: https://en.wikipedia.org/wiki/Classified_information#Typical_classification_levels
 
-What are magnetic storage tapes? 
-https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape
-https://cacm.acm.org/magazines/2019/4/235573-the-future-of-data-storage/fulltext
-https://www.bloomberg.com/news/articles/2018-10-17/the-future-of-the-cloud-depends-on-magnetic-tape (paywalled)
-
-What is Iron Mountain?
-https://en.wikipedia.org/wiki/Iron_Mountain_(company)
-
-
-## Chapter 1
-
-https://www.smithsonianmag.com/science-nature/the-colorado-river-runs-dry-61427169/
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1151007/)..."**
-
-https://www.vanguardngr.com/2016/05/river-niger-drying-fg-raises-alarm/
-
-http://www.who.int/uv/faq/skincancer/en/index1.html
-
-https://en.wikipedia.org/wiki/Field-effect_transistor
-
-http://www.tfcbooks.com/tesla/nt_on_ac.htm#TOC
-
-## Chapter 2
-
-https://www.nature.com/news/2010/100531/full/news.2010.270.html
-
-https://www.newyorker.com/magazine/2015/07/20/the-really-big-one
-
-
-
-
-## Chapter 3
-
-## Chapter 4
-
-https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1953.sp004849
-https://www.nature.com/articles/nature24670
-
-## Chapter 5
-
-## Chapter 6
-
-## Chapter 7
+What is Iron Mountain? https://en.wikipedia.org/wiki/Iron_Mountain_(company)
 
 ## Map of locations important to the Story
 
