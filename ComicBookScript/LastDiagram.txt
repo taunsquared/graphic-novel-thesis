@@ -1,0 +1,5 @@
+This thesis is a framework for increasing the environments and contexts in which we can precisely observe nervous system activity. 
+
+1 -- increase the environments available in the lab: An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture
+2 -- take science experiments out of the lab: Museum as a lab (Surprising Minds), Field Neuroscience (Surprising Minds on YouTube)
+3 -- imagine a future where neuroscience is embedded into daily life: The First VIRS
