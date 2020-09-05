@@ -110,7 +110,7 @@ The Earth's surface environment continues to spiral into drought, extreme weathe
 
 Majhee and her collective of 67 humans establish a secret fortified community in the caves underneath the Amazon Rainforest. They build a crude research facility and continue developing their understanding of thread-worms. They establish underground farms to grow food for their community. 
 
-Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of nearly 60,000 refugees plus just over 12,000 "Original Orbiters", or "Originals". The UN and SC have collaboratively set up a provisional government in orbit, and rush to install crowded, barely adequate housing for the refugees in the larger stations and industrial structures in orbit. 
+Up in orbit, the resources of the space arboretums are stretched to their limit, as they try to sustain a population of about 6,000 refugees plus nearly 9,000 "Original Orbiters", or "Originals". The UN and SC have collaboratively set up a provisional government in orbit, and rush to install crowded, barely adequate housing for the refugees in the larger stations and industrial structures in orbit. 
 
 ### 2072, or Year 4 A.B.
 
@@ -124,7 +124,7 @@ A vaccine for the terrible and mysterious illness is finally developed and deplo
 
 In the 15 years since the Burning, the refugees from Earth have become the working class of the Orbiters. The hastily built housing structures from over a decade ago, meant to be improved or replaced, have become overgrown slums. Some refugees now call themselves "the Exiles", and dream of returning to Earth to reclaim it as their own. Some seek to assimilate into proper Orbiter society, to change their status from "Podless" (equivalent to homeless) and gain the dignity and luxury of the "Originals". 
 
-As the chaos of the Burning slowly subsides and planetside atmospheric conditions stabilize, the provisional Orbiter government begins to send Space Ferries staffed with military personnel and drafted refugee "volunteers" down to the surface in order to harvest raw inorganic materials for the Orbiter needs. They limit their activities to latitudes close to the poles, as conditions in the equatorial regions of the planet (referred to as the Red Zone) are still overwhelmingly hot, acidic, and chaotic. The refugee workers are forced to act as "canaries", testing out newly developed environmental hazmat suits and being the first onto any mining site. Over 2,000 refugees die on these mining missions in just the first year. In the wake of these tragic missions, the refugee population in orbit begins to organize, protest, and riot. The provisional Orbiter government responds with brutal force, and these events become known as the Riots of Year 12. 
+As the chaos of the Burning slowly subsides and planetside atmospheric conditions stabilize, the provisional Orbiter government begins to send Space Ferries staffed with military personnel and drafted refugee "volunteers" down to the surface in order to harvest raw inorganic materials for the Orbiter needs. They limit their activities to latitudes close to the poles, as conditions in the equatorial regions of the planet (referred to as the Red Zone) are still overwhelmingly hot, acidic, and chaotic. The refugee workers are forced to act as "canaries", testing out newly developed environmental hazmat suits and being the first onto any mining site. Over 2,000 refugees die on these mining missions in just the first year. In the wake of these tragic missions, the refugee population in orbit begins to organize, protest, and riot. The provisional Orbiter government responds with brutal force, and these events become known as the Riots of Year 15. 
 
 ### 2087, or Year 19 A.B.
 
@@ -154,25 +154,27 @@ Space University holds welcomes its first cohort of students, ranging in age fro
 
 The official Orbiter population (both refugee and original) is now just over 39,000. The success of the Underground Railroad has spawned a network of smugglers, primarily identifying as Exiles, with a variety of goals and intentions, all developing connections between Earthers and Orbiters. An ecosystem of illegal trade and travel between Earth and Orbit develops thanks to this network. 
 
-### 2098, or Year 30 A.B. (1st year of The Confinement)
+### 2098, or Year 30 A.B. 
 
 Space University establishes the **International Space Exploration Corps** in order to train younger humans in developing and maintaining the skills and knowledge necessary for space exploration. ISE Corps trainees spend an average of 3 years studying space travel and communications while helping maintain the Space Ferries that can carry humans, equipment, and other resources back and forth between the space arboretums and planetside. The ISE Corps is a year-round pre-university training institution that prepares youth for Space University. Its' first cohort of students is entirely made up of Originals. 
+
+### 2099, or Year 31 A.B. (1st year of The Confinement)
 
 A group of ambitious and powerful smugglers called the Pirate Lords kidnap a Space University professor who had been conducting unethical experiments on SynTh splicing using imprisoned Exiles caught conducting illegal smuggling activity between Earth and Orbit. The Pirate Lords post a ransom for the prof, and demand justice and reparation for the Exiles. The World Government responds with military violence, aggressively searching for the kidnapped professor and declaring martial law upon "the entirety of the Human sphere of influence, both on Earth and in orbit." The World Government imposes a food and minerals tithe from Earthers, requiring all Underground Cities and Green Havens to deliver 20 percent of their yearly yield of crops and mineral resources to their resident Peacekeepers, who are supposedly protecting the Earthers from "terrorists" (aka the Exiles). 
 
 Activist groups around the world protest the World Government's prioritisation of Orbiter food needs over planetside food needs, the aggressive punitive attitude towards the Exiles, and the harsh austerity of The Confinement. The World Government declares that anyone found to be cooperating with the Exiles would be arrested and tried for aiding and abetting terrorists. 
 
-### 2102, or Year 34 A.B. (4th year of The Confinement)
+### 2102, or Year 34 A.B. (3rd year of The Confinement)
 
 One year of work as service staff with the **International Space Exploration Corps** becomes a required "civil service" for all Orbiters, but many Originals find loopholes out of doing their required service (often via medical reasons). ISE Corps servicehumes are required to accept certain standard-issue body mods, such as a forehead info-sphere and air filter-gills. The ISE also begins a scholarship program to get more Podless into the ISE as students.  
 
 Thanks to the increased resources available to the World Government, the Space Ferries begin operating once a month. 
 
-### 2103, or Year 35 A.B. (5th year of The Confinement)
+### 2103, or Year 35 A.B. (4th year of The Confinement)
 
 The World Government captures the Pirate Lords (and the Space Uni professor), and all are tried in court. The Space Uni professor is fined but allowed to return to her post at Space Uni. The Pirate Lords are found guilty of terrorism and publicly executes them. This causes a major outcry from activists both on Earth and in Orbit, and protests escalate from more or less non-violent to very violent. 
 
-### 2105, or Year 37 A.B. (7th and Final year of The Confinement)
+### 2105, or Year 37 A.B. (6th and Final year of The Confinement)
 
 The World Government and the Exiles reach a truce after 2 years of violent conflict. The World Government grants the Underground Cities self-governance and completely removes all Peacekeeper presence from all Biononymous Havens. Exiles are granted the freedom of movement between Earth and Orbit. The yearly tithe from the Underground Cities and the Havens to Orbiters is reduced to 10 percent. The Biononymous agree to an exclusive reveal of their advances in SynTh reserach thus far to the World Government, and to contribute a yearly quota of personnel and expertise to SynTh research conducted by the World Government. 
 
@@ -186,13 +188,14 @@ The Space Ferries now operate once every week.
 
 June 7: Green Haven Clarksville is attacked by a pack of enormous, mysterious beast creatures. Late that night, Asoka arrives at Green Haven Howes and is granted sanctuary. 
 
-June 8: Asoka is promoted to the rank of Journeyhume and accepts the mission to infiltrate the World Government Peacekeepers. Asoka is gifted a set of 'cuttlefish cloth' surface clothes, developed in secret by their grandmother Iúna. 
+June 8: Asoka is gifted a set of 'cuttlefish cloth' surface clothes, developed in secret by their grandmother Iúna. 
 
-June 15: Asoka is smuggled onto a Peacekeeper nuclear submarine headed for the Red Zone.
+June 15: Asoka under goes the Journeyhume Rites of Passage and accepts the mission to deliver a formal offer of alliance to Majhee's people in the Amazon. 
 
-July 1: Asoka and the Peacekeepers surface and come ashore at the ruins of Manaus, Brazil. 
+June 22: A Peacekeeper nuclear submarine leaves Boston Harbor for the Red Zone, with Asoka stowed away in the bilge. 
 
-July 2: Asoka and Iri meet Min.
+July 6: Asoka and the Peacekeepers surface and come ashore at the ruins of Manaus, Brazil. 
 
-July 9: Asoka, Iri, and Min arrive at the Central Hearth of the Automata. 
+July 7: Asoka and Iri meet Min.
 
+July 14: Asoka, Iri, and Min arrive at the Central Hearth of the Automata. 
