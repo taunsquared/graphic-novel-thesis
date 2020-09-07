@@ -1,4 +1,20 @@
-This thesis is a framework for increasing the environments and contexts in which we can precisely observe nervous system activity. 
+This thesis is a framework for increasing the environments and contexts in which we can rigorously and carefully observe nervous system activity. 
+
+Goal of neuroscience == "understand how nervous systems control behavior" [cite annual rev of neuroscience, preface vol 1]. Neuroscience has become dominated by the controlled experimental approach which imitates the physics approach of isolating a system from external influences. Experiments in systems neuroscience often label subsystems of the nervous system as "the system", and then proceed to isolate it from "external influences". This approach faces several challenges when studying the entire nervous system as a whole and how it coordinates with other organ systems in the body to generate externally observable movements that could be labelled as behavior. 
+
+Nervous systems are a translation point for organisms, connecting what is "me" and what is "not me". Our senses and our enteric nervous system (nervous system that connects to internal organs, like lungs, heart, stomach, gut, etc) collect energy from "not me" and translate that energy into something that the rest of the nervous system turns into movements of "me" in response to that incoming energy. In other words, nervous systems exist because external influences exist, and the connection with external influences is fundamental to the nervous system's ability to control behavior. 
+
+While the controlled experimental approach has successfully built and organised much knowledge about components and subsystems of the nervous system, even modern systems neuroscience tends to marginalize other approaches in favor of the controlled experimental approach. The marginalization of ethological analysis and the ethological conceptual framework has been noted in particular as a key loss to modern neuroscientific experimental design [cite Neuroscience Needs Behavior]. 
+
+This thesis presents a framework for moving modern systems neuroscience towards an approach that balances the controlled experiment approach and the ethological approach, or the empirical method of observing freely behaving animals in their ecological niche ("natural settings") [cite https://www.scientificamerican.com/article/is-neuroscience-limited-by-tools-or-ideas/]. The framework is described in three chapters which focus on the following steps towards balance: 
+
+1 -- increase the environments available to use in the lab with the controlled experiment approach;
+2 -- modify experimental designs to conduct them in natural settings (an animal's ecological niche); and 
+3 -- engage a wider community through science fiction imaginings of futures where neuroscience is embedded into daily life. 
+
+
+
+
 
 1 -- increase the environments available in the lab: An experimental method for evoking and characterizing dynamic color patterning of cuttlefish during prey capture
 2 -- take science experiments out of the lab: Museum as a lab (Surprising Minds), Field Neuroscience (Surprising Minds on YouTube)
