@@ -34,7 +34,7 @@ Mother, Mother,
 how do you move?
 To the left and to the right,
 we can dance, don't have to fight,
-one of two, let's be free.
+make one of two and let's be free.
 
 # "Mama Bird"
 Lost the sky, lost the sea,
