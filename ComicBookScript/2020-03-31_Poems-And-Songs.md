@@ -24,11 +24,17 @@ In my nose (in my nose) and in my toes (and in my toes),
 then all the skin (all the skin) to my fingertips (fingertips),
 eyelids (eyelids), ears (ears), and both my lips.
 
+Mother, Mother,
+where are you?
+In the sand, and in the ash,
+dry the sponge, and chew the grass,
+tuck these stones into my bones.
+
 Mother, Mother, 
 how do you move?
 To the left and to the right,
-
-
+we can dance, don't have to fight,
+one of two, let's be free.
 
 # "Mama Bird"
 Lost the sky, lost the sea,
