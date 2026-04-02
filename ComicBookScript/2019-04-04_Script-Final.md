@@ -1,4 +1,4 @@
-# The First V.I.R.S.("verse") [CURRENTLY IN PROGRESS]
+# The First V.I.R.S.("verse")
 
 *"Dialogue in italics are thoughts of characters."*
 
